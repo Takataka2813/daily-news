@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>News Reader</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- ヘッダー -->
+  <header class="header">
+    <h1>News</h1>
+  </header>
+  <!-- メイン -->
+  <main id="app">
+    <div id="home" class="tab active"></div>
+    <div id="category" class="tab"></div>
+    <div id="saved" class="tab"></div>
+    <div id="settings" class="tab"></div>
+  </main>
+  <!-- 下タブ -->
+  <nav class="tabbar">
+    <button onclick="switchTab('home')">🏠</button>
+    <button onclick="switchTab('category')">🔍</button>
+    <button onclick="switchTab('saved')">⭐</button>
+    <button onclick="switchTab('settings')">⚙️</button>
+  </nav>
+  <script src="app.js"></script>
+</body>
+</html>
