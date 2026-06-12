@@ -1,9 +1,401 @@
 {
-  "updatedAt": "2026-06-11T22:49:35.973068+00:00",
+  "updatedAt": "2026-06-12T12:10:22.526090+00:00",
   "articles": [
     {
+      "title": "Gasly's Monaco third place reinstated after appeal",
+      "description": "Pierre Gasly is reinstated into third place in the Monaco Grand Prix, after the stewards rescind the two penalties he received for pit-lane speeding.",
+      "url": "https://www.bbc.com/sport/formula1/articles/cevlg742y3do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-12T12:02:18+00:00"
+    },
+    {
+      "title": "Elon Musk on track to become world’s first trillionaire today as SpaceX lists on US stock market – business live",
+      "description": "Rolling coverage of SpaceX’s record-breaking initial public offering, after Elon Musk’s company is valued at $1.77tn in share offeringSpaceX to list on US stock market at $1.77tn valuation in largest ever debutSpaceX’s shares will be supported by a number of “forced buyers”, such as tracker funds.Ri",
+      "url": "https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-06-12T11:51:58+00:00"
+    },
+    {
+      "title": "Man City sign Mead on free transfer",
+      "description": "Manchester City have confirmed the signing of England forward Beth Mead on a free transfer from Arsenal.",
+      "url": "https://www.bbc.com/sport/football/articles/czx5d7z550xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-12T11:39:33+00:00"
+    },
+    {
+      "title": "Buried for 1.7 Billion Years: These Ancient Fossils May Rewrite the Story of Complex Life",
+      "description": "Ancient Australian fossils indicate that the earliest eukaryotes depended on oxygen, providing new evidence that oxygen helped enable the evolution of complex life. Stored in an open-air warehouse in tropical Darwin, Australia, are dozens of trays containing cylindrical cores of rock. They are from ",
+      "url": "https://scitechdaily.com/buried-for-1-7-billion-years-these-ancient-fossils-may-rewrite-the-story-of-complex-life/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-12T11:36:35+00:00"
+    },
+    {
+      "title": "Ebola cases in DRC rise to 676 as Kenya protests erupt over US plans",
+      "description": "Outbreak responses are still playing catch-up as US works to isolate itself.",
+      "url": "https://arstechnica.com/health/2026/06/ebola-cases-in-drc-rise-to-676-as-kenya-protests-erupt-over-us-plans/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-12T11:30:23+00:00"
+    },
+    {
+      "title": "This portable light is great for way more than camping",
+      "description": "It's intended for camping, but BougeRV's T1 light is so versatile that it also makes for a great summer travel companion that'll continue to light the dark corners of your life long after you return. I used it for a few months during a recent road trip in my camper van, and it's the light [&#8230;]",
+      "url": "https://www.theverge.com/tech/942932/portable-light-camping-work-travel",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-12T11:30:00+00:00"
+    },
+    {
+      "title": "4 Best Floodlight Security Cameras (2026) After Thorough Testing",
+      "description": "Light up and secure your driveway, backyard, or porch with a floodlight security camera.",
+      "url": "https://www.wired.com/gallery/best-floodlight-security-cameras/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-12T11:30:00+00:00"
+    },
+    {
+      "title": "Williamson ends New Zealand career during series with England",
+      "description": "Former New Zealand captain Kane Williamson - his country's all-time leading run-scorer - retires from all international cricket with immediate effect.",
+      "url": "https://www.bbc.com/sport/cricket/articles/c5yzg5gnpevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-12T11:23:16+00:00"
+    },
+    {
+      "title": "Pokémon Go players unwittingly contributed to tech with military drone uses",
+      "description": "The repurposing of Pokémon Go data for AI training continues to draw scrutiny.",
+      "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-12T11:15:41+00:00"
+    },
+    {
+      "title": "Elon Musk's SpaceX raises $75bn ahead of world's biggest stock market launch",
+      "description": "The public sale is also expected to make Elon Musk the world's first trillionaire.",
+      "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-06-12T11:02:44+00:00"
+    },
+    {
+      "title": "Pedal Electric H/T Review: A Fast, Powerful, Stylish Ebike",
+      "description": "The pedal-assist can be jerky, but the throttle offers smooth, powerful acceleration.",
+      "url": "https://www.wired.com/review/pedal-electric-h-t/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-12T11:02:00+00:00"
+    },
+    {
+      "title": "NASA Spots Giant Ocean Swell Signaling a Potential El Niño Comeback",
+      "description": "Sentinel-6 satellite data shows strengthening warm-water waves in the Pacific, pointing to the likely arrival of El Niño and its global weather impacts later in 2026. Several months before an El Niño develops, large waves of warmer, elevated water travel eastward across the Pacific Ocean. Satellite ",
+      "url": "https://scitechdaily.com/nasa-spots-giant-ocean-swell-signaling-a-potential-el-nino-comeback/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-12T11:01:03+00:00"
+    },
+    {
+      "title": "Verizon sent man a refurbished phone with MDM, then deleted his data remotely",
+      "description": "Failure raises questions about how Verizon prepares refurbished phones for new users.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/verizon-sent-man-a-refurbished-phone-with-mdm-then-deleted-his-data-remotely/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-12T11:00:41+00:00"
+    },
+    {
+      "title": "Rocket Report: Nova moving through test campaign; SpaceX IPO launches Friday",
+      "description": "\"If I needed to fly on another vehicle, what would that look like?\"",
+      "url": "https://arstechnica.com/space/2026/06/rocket-report-nova-moving-through-test-campaign-spacex-ipo-launches-friday/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-12T11:00:13+00:00"
+    },
+    {
+      "title": "Why Real-Life Disclosure Day Will Look Nothing Like Steven Spielberg’s New Movie",
+      "description": "Previous landmark scientific discoveries like the Higgs boson provide a better template for what it will take to confirm whether aliens have made contact with Earth.",
+      "url": "https://www.wired.com/story/real-life-disclosure-day-wont-look-like-steven-spielberg-movie/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-12T11:00:00+00:00"
+    },
+    {
+      "title": "UK signals it may block payout to British Steel owner",
+      "description": "Chinese firm Jingye is seeking compensation after the government decided to nationalise the company.",
+      "url": "https://www.bbc.com/news/articles/c932gng1dglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-06-12T10:57:03+00:00"
+    },
+    {
+      "title": "Sheeran Loopers Looper X Review: Create Your One-Person Tour",
+      "description": "The musician created his own line of loopers that record and layer riffs in a loop. The pricey Looper X does what it claims, but it isn’t without quirks.",
+      "url": "https://www.wired.com/review/ed-sheeran-looper-x/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-12T10:31:00+00:00"
+    },
+    {
+      "title": "Matchmakers Are Being Paid $25K to Find Trad Wives for Rich Men",
+      "description": "Even in blue states, nonreligious tech entrepreneurs and CEOs are increasingly asking for “traditional” and “conservative” women, matchmakers tell WIRED.",
+      "url": "https://www.wired.com/story/matchmakers-are-being-paid-dollar25k-to-find-trad-wives-for-rich-men/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-12T10:30:00+00:00"
+    },
+    {
+      "title": "The “Impossible” Earthquake Beneath Utah Was Real After All",
+      "description": "Scientists have confirmed a rare “impossible” earthquake deep beneath Utah, revealing a hidden source of seismic activity inside Earth’s mantle. Nearly five decades after a puzzling earthquake struck deep beneath northern Utah, scientists have confirmed that the event was real and part of a rare cat",
+      "url": "https://scitechdaily.com/the-impossible-earthquake-beneath-utah-was-real-after-all/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-12T10:26:31+00:00"
+    },
+    {
+      "title": "UK economy contracts as Iran war impact felt",
+      "description": "The economy shrank slightly in April as the Iran war began to have an impact on businesses, official data shows.",
+      "url": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-06-12T10:01:11+00:00"
+    },
+    {
+      "title": "Watford great Jackett dies aged 64",
+      "description": "Watford legend and former Wales international Kenny Jackett dies at the age of 64.",
+      "url": "https://www.bbc.com/sport/football/articles/cqj1z2wqkw2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-12T10:00:05+00:00"
+    },
+    {
+      "title": "The US Is Requiring Foreign Influencers to Get Work Visas for the 2026 World Cup",
+      "description": "FIFA announced agreements with platforms such as TikTok and YouTube that include the participation of dozens of international influencers to generate content in the three host countries.",
+      "url": "https://www.wired.com/story/2026-world-cup-us-influencers-visa/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-12T10:00:00+00:00"
+    },
+    {
+      "title": "You Probably Won’t Get Rich Off the SpaceX IPO",
+      "description": "The company has set aside an unusually high number of shares for retail investors. Still, experts say, you’re just getting the crumbs.",
+      "url": "https://www.wired.com/story/you-probably-wont-get-rich-off-the-spacex-ipo/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-12T09:30:00+00:00"
+    },
+    {
+      "title": "A new way to experience the World Cup - only on BBC Sport",
+      "description": "Ever wanted to see a World Cup match from every angle? How about a full-pitch tactical view? Now you can on the BBC.",
+      "url": "https://www.bbc.com/sport/football/articles/ce372ep1xlgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-12T09:24:26+00:00"
+    },
+    {
+      "title": "After SpaceX’s huge IPO, Americans’ financial future will be bound to AI",
+      "description": "They’re about to get more AI rammed down their throats, stuck into their pension plans and investment portfoliosAmericans are growing worried about what artificial intelligence portends for their futures. Eight in 10 Americans report concern over AI, compared with a third who report being excited, a",
+      "url": "https://www.theguardian.com/business/2026/jun/12/ai-ipos-stock-market",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-06-12T09:00:41+00:00"
+    },
+    {
+      "title": "SpaceX IPO Puts Elon Musk’s ‘Extreme’ Ownership to the Test",
+      "description": "The rocket maker debuts on Nasdaq today under a wave of criticism about Musk’s near-absolute control. It’s how the company has worked from the start.",
+      "url": "https://www.wired.com/story/spacex-is-now-a-public-company/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-12T09:00:00+00:00"
+    },
+    {
+      "title": "Watch: Three things to know about SpaceX's stock market debut",
+      "description": "The BBC's Samira Hussain explains everything you need to know about SpaceX's historic IPO.",
+      "url": "https://www.bbc.com/news/videos/c4gyx0x1d5ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-06-12T08:39:37+00:00"
+    },
+    {
+      "title": "Near elimination, Vegas' Tortorella vows Game 7",
+      "description": "Golden Knights coach John Tortorella vowed that the Stanley Cup Final would return to Raleigh for Game 7 after Carolina pushed his team to the brink of elimination.",
+      "url": "https://www.espn.com/nhl/story/_/id/49037807/pushed-brink-hc-john-tortorella-says-vegas-not-done-yet",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-12T07:12:06+00:00"
+    },
+    {
+      "title": "Seahawks' SB LX rings salute fans, city, history",
+      "description": "At a private ceremony Thursday night, the Seahawks received their Super Bowl LX rings, which feature diamonds, sapphires, team mantras and a tribute to the team's fans, among other elements.",
+      "url": "https://www.espn.com/nfl/story/_/id/49038108/seahawks-super-bowl-lx-title-rings-salute-fans-city-history",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-12T07:12:06+00:00"
+    },
+    {
+      "title": "Dodgers' Ohtani exits early with knee inflammation...",
+      "description": "Dodgers star Shohei Ohtani exited in the seventh inning of Thursday's win at Pittsburgh with knee inflammation, but manager Dave Roberts said the move was precautionary.",
+      "url": "https://www.espn.com/mlb/story/_/id/49035982/dodgers-ohtani-exits-early-left-knee-inflammation",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-12T07:12:06+00:00"
+    },
+    {
+      "title": "Texas Tech defends integrity amid Sorsby backlash",
+      "description": "In a 20-plus-minute video released, Texas Tech officials defended their integrity and reiterated their support for Brendan Sorsby amid widespread criticism from the rest of the Big 12 Conference and other corners of college sports.",
+      "url": "https://www.espn.com/college-football/story/_/id/49037492/in-video-texas-tech-officials-defend-school-brendan-sorsby",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-12T07:12:06+00:00"
+    },
+    {
+      "title": "Hwang's magic sparks South Korea comeback win",
+      "description": "Hwang In-Beom leads South Korea to a 2-1 comeback win over Czechia in the World Cup in a game played in front of hundreds of empty seats at Mexico's Guadalajara Stadium.",
+      "url": "https://www.espn.com/soccer/story/_/id/49037668/south-korea-overcome-czechia-via-hwang-beom-brilliant-display-world-cup",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-12T07:12:06+00:00"
+    },
+    {
+      "title": "Boston, Clark get historic 30-point double-doubles...",
+      "description": "Aliyah Boston had 34 points and 12 rebounds and Caitlin Clark added 32 points and 10 assists to become the the first pair of teammates in WNBA history to have 30-point double-doubles in the same game.",
+      "url": "https://www.espn.com/wnba/story/_/id/49037773/aliyah-boston-caitlin-clark-first-wnba-teammates-30-point-double-doubles",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-12T07:12:06+00:00"
+    },
+    {
+      "title": "Bowles backs Mayfield as long-term QB amid talks",
+      "description": "Bucs coach Todd Bowles said he \"absolutely\" wants Baker Mayfield as his long-term quarterback and that he doesn't believe the lack of progress on a new deal has impacted him.",
+      "url": "https://www.espn.com/nfl/story/_/id/49037608/bucs-bowles-backs-mayfield-long-term-qb-amid-contract-talks",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-12T07:12:06+00:00"
+    },
+    {
+      "title": "Siri won’t be your AI girlfriend",
+      "description": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri won't act all sycophantic like chatbots made by OpenAI, Google, and others. \"As you may know, if you u",
+      "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-12T07:00:31+00:00"
+    },
+    {
+      "title": "Diane Keaton’s nail clippers for $960: what’s behind the new boom in celebrity estate auctions?",
+      "description": "With beloved stars’ personal items increasingly up for grabs after they die, a new generation of fans are bidding on everything from bowler hats to dog bowlsFrom Diane Keaton’s bowler hats and polka dot scarfs, to Gene Hackman’s used paint brushes, to Terence Stamp’s love letters from Jean Shrimpton",
+      "url": "https://www.theguardian.com/film/2026/jun/12/diane-keaton-dead-celebrity-auctions",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-06-12T06:00:37+00:00"
+    },
+    {
+      "title": "Scientists Uncover Why Walking Gets Slower and More Exhausting As We Age",
+      "description": "A new study reveals that aging changes the body&#8217;s walking strategy, prioritizing balance and safety over efficiency. Walking may seem automatic, but every step requires a complex balance between stability, muscle coordination, and forward propulsion. As people age, that balance begins to shift",
+      "url": "https://scitechdaily.com/scientists-uncover-why-walking-gets-slower-and-more-exhausting-as-we-age/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-12T05:46:33+00:00"
+    },
+    {
+      "title": "We need to feel love playing for England - Bellingham",
+      "description": "England midfielder Jude Bellingham stresses the importance of needing to 'feel loved' as he looks to help the Three Lions enjoy World Cup success this summer.",
+      "url": "https://www.bbc.com/sport/football/articles/cvg5mkemp1go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-12T05:24:53+00:00"
+    },
+    {
+      "title": "24 Hours Without Sleep Changes Your Saliva in Measurable Ways",
+      "description": "Researchers have identified a potential biological signature of sleep loss in saliva, bringing scientists closer to an objective test for detecting dangerous fatigue. A driver who has been awake for an entire day can be as impaired as someone who is legally intoxicated. Yet unlike alcohol, there is ",
+      "url": "https://scitechdaily.com/24-hours-without-sleep-changes-your-saliva-in-measurable-ways/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-12T05:11:32+00:00"
+    },
+    {
+      "title": "Hurricanes one win from lifting Cup: Grades, big q...",
+      "description": "null",
+      "url": "https://www.espn.com/nhl/story/_/id/49030230/2026-nhl-playoffs-stanley-cup-final-game-5-grades-questions-hurricanes-golden-knights",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-12T04:54:25+00:00"
+    },
+    {
+      "title": "A Major Update Just Hit Cholesterol Guidelines – Here’s What Every Adult Needs To Know",
+      "description": "New ACC/AHA cholesterol guidelines promote earlier detection, personalized risk assessment, and more aggressive LDL cholesterol lowering to reduce long-term cardiovascular disease risk. For decades, cholesterol management has been a cornerstone of heart disease prevention. Yet despite widespread awa",
+      "url": "https://scitechdaily.com/a-major-update-just-hit-cholesterol-guidelines-heres-what-every-adult-needs-to-know/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-12T04:36:29+00:00"
+    },
+    {
+      "title": "Trump claims US and Iran on verge of signing peace agreement, but Tehran says no final decision made",
+      "description": "Iranian leadership has not confirmed claim, after the US president announced that planned strikes on Iran had been cancelled Donald Trump claimed on Thursday that Washington and Tehran were on the verge of signing a peace agreement, and announced that he was cancelling fresh missile strikes, after t",
+      "url": "https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-06-12T00:57:39+00:00"
+    },
+    {
+      "title": "McTominay travels separately in Boston as precaution",
+      "description": "Key midfielder Scott McTominay travelled with a doctor as a precaution prior to Scotland's World Cup opener.",
+      "url": "https://www.bbc.com/sport/football/articles/c78y50pmd2go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-11T23:39:32+00:00"
+    },
+    {
+      "title": "'I've never been this good' – revolutionary immune reset puts lupus in remission",
+      "description": "Patients on the trial have not needed medication to manage their condition.",
+      "url": "https://www.bbc.com/news/articles/c4gy2d9y5z3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-06-11T23:31:13+00:00"
+    },
+    {
+      "title": "Why the economics make this the craziest World Cup ever",
+      "description": "From trade wars to soaring ticket prices, the 2026 World Cup is unlike any before it. Faisal Islam explores what this tournament reveals about our changing global economy.",
+      "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-06-11T23:07:52+00:00"
+    },
+    {
+      "title": "'I spent uni savings on getting my teeth fixed' - the real cost of NHS dentist shortage",
+      "description": "People tell BBC Your Voice the rising cost of private dentistry is putting them in a difficult position.",
+      "url": "https://www.bbc.com/news/articles/czrx7pvx57eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-06-11T23:03:30+00:00"
+    },
+    {
+      "title": "Meningitis B vaccine to be offered to a million young people",
+      "description": "The decision for the one-off vaccine programme follows the unprecedented outbreak in Kent this year.",
+      "url": "https://www.bbc.com/news/articles/c982352my98o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-06-11T23:02:20+00:00"
+    },
+    {
+      "title": "India's 'blue gold' starts a new drinks industry",
+      "description": "Agave plants grow wild in India and new distillers are using them to create a spirits industry.",
+      "url": "https://www.bbc.com/news/articles/cdrpe4vly5mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-06-11T23:01:48+00:00"
+    },
+    {
+      "title": "My friends always want to split the bill equally, how do I say no?",
+      "description": "It is never easy to speak up when a fellow diner says \"let's just divide it!\"",
+      "url": "https://www.bbc.com/news/articles/czxqdznzy7ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-06-11T23:00:29+00:00"
+    },
+    {
       "title": "Amazon&#8217;s Echo Hub gets a customizable new look and Ring&#8217;s AI features",
-      "description": "Amazon's rolling out a free software update for Echo Hub devices that gives the home screen a much-needed update to the interface it launched with in 2024. It had already added Alex Plus AI support, but the new interface has a cleaner, fully customizable layout that fits more smart home info and con",
+      "description": "Amazon's rolling out a free software update for Echo Hub devices that gives the homescreen a much-needed update to the interface it launched with in 2024. It had already added Alex Plus AI support, but the new interface has a cleaner, fully customizable layout that fits more smart home info and cont",
       "url": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
       "source": "The Verge",
       "category": "Technology",
@@ -18,68 +410,12 @@
       "publishedAt": "2026-06-11T22:01:14+00:00"
     },
     {
-      "title": "‘Hands Off Our NHS’: Anti-Palantir Protests Break Out in UK Over Deal With National Health Service",
-      "description": "Crowding the gates of a major health care conference, protesters called for Palantir to be booted out of the UK’s National Health Service over privacy concerns and political grievances.",
-      "url": "https://www.wired.com/story/palantir-protests-nhs-conference-uk/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-11T21:33:31+00:00"
-    },
-    {
-      "title": "Trump says US and Iran on verge of signing peace agreement",
-      "description": "Iranian leadership has not confirmed claim, but US president says planned strikes on Iran cancelled Middle East crisis – live updatesDonald Trump claimed on Thursday that the US and Iran are on the verge of signing a peace agreement and announced that he will cancel fresh missile strikes.His comment",
-      "url": "https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-06-11T21:26:19+00:00"
-    },
-    {
-      "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
-      "description": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
-      "url": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-11T21:21:04+00:00"
-    },
-    {
-      "title": "Elon Musk's SpaceX valued at nearly $1.8tn ahead of record share sale",
-      "description": "The public sale is also expected to make Elon Musk the world's first trillionaire.",
-      "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-11T21:10:14+00:00"
-    },
-    {
-      "title": "Quinones scores opening goal of 2026 World Cup",
-      "description": "Mexico's Julian Quinones scores the opening goal of the 2026 World Cup against South Africa at Mexico City Stadium.",
-      "url": "https://www.bbc.com/sport/football/videos/cqx184lqywwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-11T21:03:49+00:00"
-    },
-    {
       "title": "Scientists Tracked 4,500 Animals During COVID – What They Discovered Was Surprising",
       "description": "New research shows that wildlife reacts differently to human presence than to human-made landscapes. For centuries, people have transformed landscapes, forcing wildlife to adjust to a rapidly changing world. New research suggests that animals are not only responding to altered habitats, but also to ",
       "url": "https://scitechdaily.com/scientists-tracked-4500-animals-during-covid-what-they-discovered-was-surprising/",
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-06-11T20:54:36+00:00"
-    },
-    {
-      "title": "Massive Effigy of Elon Musk Raised Over Times Square to Protest Grok",
-      "description": "Activists raised a 40-foot-tall inflatable Elon Musk in Manhattan to draw attention to the risk he allegedly poses to investors.",
-      "url": "https://www.wired.com/story/massive-effigy-of-elon-musk-raised-over-times-square-to-protest-grok/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-11T20:50:13+00:00"
-    },
-    {
-      "title": "World Cup kicks off in Mexico with Shakira, performers and vibrant fans",
-      "description": "A star-studded opening ceremony featured artists from the World Cup's official soundtrack.",
-      "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-11T20:26:06+00:00"
     },
     {
       "title": "Hidden Phase of Matter Finally Captured After Decades of Predictions",
@@ -98,44 +434,12 @@
       "publishedAt": "2026-06-11T20:00:00+00:00"
     },
     {
-      "title": "The Strange “Spacetime Crystal” That Can Suddenly Turn Into a Black Hole",
-      "description": "A new mathematical breakthrough sheds light on how tiny black holes could emerge from critical states of spacetime. Black holes are often portrayed as cosmic giants, swallowing stars and shaping entire galaxies. But some of the most intriguing black holes predicted by physics could be far smaller th",
-      "url": "https://scitechdaily.com/the-strange-spacetime-crystal-that-can-suddenly-turn-into-a-black-hole/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-11T19:44:35+00:00"
-    },
-    {
-      "title": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
-      "description": "A WIRED investigation found dozens of “nudified” deepfake images and videos on Grok's website, including nonconsensual depictions of celebrities and at least one prominent US politician.",
-      "url": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-11T19:41:01+00:00"
-    },
-    {
       "title": "Ted Cruz and Ron Wyden try to fight censorship with bipartisan JAWBONE Act",
       "description": "Cruz/Wyden bill would help Americans sue federal officials over censorship.",
       "url": "https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-06-11T19:31:37+00:00"
-    },
-    {
-      "title": "Is It a Super El Niño Year? It Could Turn the World’s Weather Upside Down",
-      "description": "From a wet winter in the Southwest to fewer Atlantic hurricanes, this is what to expect as a potential super El Niño takes shape.",
-      "url": "https://www.wired.com/story/super-el-nino-turns-worlds-weather-upside-down/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-11T19:24:46+00:00"
-    },
-    {
-      "title": "Real Madrid bring back Mourinho on three-year deal",
-      "description": "Real Madrid have confirmed the re-appointment of Jose Mourinho as head coach.",
-      "url": "https://www.bbc.com/sport/football/articles/cvg4ne1pv4jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-11T19:11:19+00:00"
     },
     {
       "title": "AcuRite admits new app falls short, delays old app’s May shutdown to fix problems",
@@ -160,14 +464,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-06-11T18:18:12+00:00"
-    },
-    {
-      "title": "Villagers take fight against Lidl store plans to Welsh government",
-      "description": "Residents in the area do not want a store on land separating Llantwit Major and Llanmaes.",
-      "url": "https://www.bbc.com/news/articles/c78y55dkny3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-11T18:07:30+00:00"
     },
     {
       "title": "Blink’s six-piece outdoor camera kit is a great deal under $200",
@@ -202,52 +498,12 @@
       "publishedAt": "2026-06-11T17:23:02+00:00"
     },
     {
-      "title": "Did Iron Age Britons remove brains of the dead?",
-      "description": "Archaeologists found apparent scrape marks inside a skull; long bones may have been sharpened into tools.",
-      "url": "https://arstechnica.com/science/2026/06/did-iron-age-britons-remove-brains-of-the-dead/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-11T17:21:53+00:00"
-    },
-    {
-      "title": "Here are the price-matching policies for Best Buy, GameStop, and others",
-      "description": "Nothing is more frustrating than buying a new pair of headphones, an OLED TV, or a laptop just to find out that you could have gotten it for cheaper somewhere else just a few days or weeks later. That’s why, in order to keep customers happy and prevent them from shopping elsewhere, some retailers of",
-      "url": "https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-11T17:14:28+00:00"
-    },
-    {
       "title": "Ryanair investigated over charging parents to sit with children",
       "description": "The UK's competition regulator is investigating the airline over charges it imposes on parents to sit next to their child.",
       "url": "https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-06-11T16:58:39+00:00"
-    },
-    {
-      "title": "Drug Sites Hijacked Spotify’s Search Ranking Through Fake Podcasts",
-      "description": "A joint congressional report describes a spam operation that turned tens of thousands of fake podcasts into search-engine bait for illegal pharmacy and scam sites.",
-      "url": "https://www.wired.com/story/drug-sites-hijacked-spotifys-search-ranking-through-fake-podcasts-report-finds/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-11T16:07:30+00:00"
-    },
-    {
-      "title": "A Hidden Gut Signal May Be Driving Sleep Apnea’s Deadly Heart Risks",
-      "description": "Scientists discovered a surprising gut-heart connection that may help prevent sleep apnea from causing serious cardiovascular damage. Sleep apnea affects millions of people worldwide and is known to raise the risk of serious cardiovascular problems. Now, researchers have identified a potential new t",
-      "url": "https://scitechdaily.com/a-hidden-gut-signal-may-be-driving-sleep-apneas-deadly-heart-risks/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-11T16:07:07+00:00"
-    },
-    {
-      "title": "A warrantless wiretap law is about to expire — but surveillance networks aren’t actually ‘going dark’",
-      "description": "Congress has failed to pass a three-week extension of Section 702 of the Foreign Intelligence Surveillance Act (FISA), with the House voting 218-198 against reauthorizing the controversial warrantless wiretapping authority through July 2nd. After a short-term extension earlier this year, the spying ",
-      "url": "https://www.theverge.com/tech/948451/fisa-702-reauthorization-vote-fails-congress-wiretapping-lapse",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-11T16:03:38+00:00"
     },
     {
       "title": "SpaceX heads for record $1.78tn float amid fears it is overvalued",
@@ -258,28 +514,12 @@
       "publishedAt": "2026-06-11T15:33:49+00:00"
     },
     {
-      "title": "This AI-Designed “Universal Vaccine” Could Stop Future Pandemics Before They Start",
-      "description": "A groundbreaking AI-designed vaccine aims to protect against not only today&#8217;s coronaviruses, but tomorrow&#8217;s as well. A new type of universal coronavirus vaccine has passed its first test in humans, marking an important step toward broader protection against future viral threats. Research",
-      "url": "https://scitechdaily.com/this-ai-designed-universal-vaccine-could-stop-future-pandemics-before-they-start/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-11T15:32:09+00:00"
-    },
-    {
       "title": "Weight-loss drug Wegovy to be available in pill form in UK for first time",
       "description": "Manufacturer Novo Nordisk says a daily tablet of the drug could be more convenient for some people than weekly injections.",
       "url": "https://www.bbc.com/news/articles/c9d2pl10lqzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-06-11T15:00:13+00:00"
-    },
-    {
-      "title": "Scientists Unveil Powerful New Diabetes Pill That Cuts Weight and Lowers Blood Sugar",
-      "description": "A large international study found that an experimental oral diabetes medication produced significant improvements in both glucose control and weight loss. For millions of people with type 2 diabetes, GLP-1 drugs have transformed treatment by helping lower blood sugar while also promoting weight loss",
-      "url": "https://scitechdaily.com/scientists-unveil-powerful-new-diabetes-pill-that-cuts-weight-and-lowers-blood-sugar/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-11T14:57:11+00:00"
     },
     {
       "title": "AI wealth boom sending San Francisco home prices surging: ‘It’s ridiculous’",
@@ -290,94 +530,6 @@
       "publishedAt": "2026-06-11T14:00:17+00:00"
     },
     {
-      "title": "\"This cannot continue\": Xbox leaders lay out \"hard truths\" behind sagging brand",
-      "description": "Brutal self-assessment paints a picture of a Microsoft gaming division in crisis.",
-      "url": "https://arstechnica.com/gaming/2026/06/this-cannot-continue-xbox-leaders-lay-out-hard-truths-behind-sagging-brand/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-11T13:56:30+00:00"
-    },
-    {
-      "title": "Fatigue? The World Cup players who have had toughest seasons",
-      "description": "BBC Sport examines which World Cup teams and players have played the most minutes since last summer, when the Club World Cup was kicking off in the United States.",
-      "url": "https://www.bbc.com/sport/football/articles/c05yz1yr08mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-11T13:55:27+00:00"
-    },
-    {
-      "title": "'You're not even the best player in your house' - the rise of 'Meatball' McGinn",
-      "description": "John McGinn was a boy from Clydebank with a \"big, round head\" and bigger dreams. Scotland's World Cup opener marks a new high in a storybook career.",
-      "url": "https://www.bbc.com/sport/football/articles/czj2rpgz3eko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-11T13:48:36+00:00"
-    },
-    {
-      "title": "Alaskans will be flying blind after NSF decommissions ocean monitoring network",
-      "description": "Alaska's multibillion-dollar fishing industry and vulnerable coastal communities at risk.",
-      "url": "https://arstechnica.com/science/2026/06/alaskans-will-be-flying-blind-after-nsf-decommissions-ocean-monitoring-network/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-11T13:19:00+00:00"
-    },
-    {
-      "title": "Key considers imposing alcohol ban on England team",
-      "description": "Director of cricket Rob Key is considering imposing an alcohol ban on the England team and has given no assurances Ben Stokes will remain Test captain.",
-      "url": "https://www.bbc.com/sport/cricket/articles/c05yz53d1zgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-11T13:00:03+00:00"
-    },
-    {
-      "title": "The first complex cells had genes from a complex mix of species",
-      "description": "Our ancestors' genomes were built through successive waves of gene transfers.",
-      "url": "https://arstechnica.com/science/2026/06/the-first-complex-cells-had-genes-from-a-complex-mix-of-species/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-11T12:44:12+00:00"
-    },
-    {
-      "title": "Best Smart Chess Boards (2026): Chessnut, Millennium",
-      "description": "I played the ultimate game of strategy on a variety of smart chess boards to find the best for online and in-person matches.",
-      "url": "https://www.wired.com/story/best-smart-chess-boards/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-11T12:01:00+00:00"
-    },
-    {
-      "title": "Signal Alums Reveal ‘Encrypted Spaces,’ a System for Making Private Collaboration Apps",
-      "description": "The new open-source project could serve as the basis for a future of apps with features as complex as Slack, Discord, or Google Docs—but with added protection against surveillance.",
-      "url": "https://www.wired.com/story/signal-alums-release-encrypted-spaces-a-new-system-for-building-private-collaboration-apps/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-11T12:00:00+00:00"
-    },
-    {
-      "title": "Rising Seas Could Turn Mangroves From Climate Heroes Into Carbon Sources",
-      "description": "Rising seas could turn mangroves from carbon-storing climate allies into unexpected carbon emitters. Mangroves are among the most effective natural systems for capturing and storing carbon, but new research suggests that rising sea levels could significantly reduce that benefit and may even cause th",
-      "url": "https://scitechdaily.com/rising-seas-could-turn-mangroves-from-climate-heroes-into-carbon-sources/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-11T11:44:12+00:00"
-    },
-    {
-      "title": "Defence coach Edwards negotiating France exit",
-      "description": "Shaun Edwards' departure from France's national team is being negotiated after nearly seven years on their staff.",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/c862w944wzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-11T11:33:04+00:00"
-    },
-    {
-      "title": "The Surprising Way Asteroids May Have Helped Life Begin on Earth",
-      "description": "Ancient asteroid impacts may have done more than reshape Earth’s surface. For decades, asteroid impacts have been viewed mainly as agents of destruction. But on the young Earth, they may have done something far more surprising: helped create some of the planet’s first habitable environments. A new s",
-      "url": "https://scitechdaily.com/the-surprising-way-asteroids-may-have-helped-life-begin-on-earth/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-11T11:09:16+00:00"
-    },
-    {
       "title": "Nearly 3,000 patients a day face corridor care in NHS",
       "description": "New data reveals sheer scale of patients in England being treated in unsafe and undignified make-shift areas.",
       "url": "https://www.bbc.com/news/articles/cp3657re2epo?at_medium=RSS&at_campaign=rss",
@@ -386,68 +538,12 @@
       "publishedAt": "2026-06-11T09:08:29+00:00"
     },
     {
-      "title": "The furious dispute over what caused Air India flight 171 to crash",
-      "description": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
-      "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-10T23:10:11+00:00"
-    },
-    {
-      "title": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
-      "description": "The retail group already owns just over a quarter of the German fashion brand but wants to buy the rest of it.",
-      "url": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-10T23:04:46+00:00"
-    },
-    {
-      "title": "New candy stores are popping up across NYC. Why?",
-      "description": "While US consumer confidence is at an historic low the Big Apple's sweet shops are expanding.",
-      "url": "https://www.bbc.com/news/articles/c30ylzlygngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-10T23:01:54+00:00"
-    },
-    {
-      "title": "I'd have vetoed foreign sale of UK tech giant, says Business Secretary",
-      "description": "Peter Kyle's comments come as the government sets out how it would back British technology companies.",
-      "url": "https://www.bbc.com/news/articles/cd0mg79ggm0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-10T23:01:38+00:00"
-    },
-    {
-      "title": "SpaceX IPO: Preparing for the biggest liftoff yet?",
-      "description": "It’s not just about rockets: what SpaceX does and why its IPO matters",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8gld?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-10T20:30:00+00:00"
-    },
-    {
       "title": "Trump says ‘I love the inflation’ as rate rises to 4.2% amid Iran war pressure",
       "description": "Before the conflict began, inflation was at 2.4%, but the closure of the strait of Hormuz has affected energy pricesDonald Trump said “I love the inflation” after new data showed that inflation jumped to an annual rate of 4.2% in May, the third consecutive monthly increase since the start of the Ira",
       "url": "https://www.theguardian.com/business/2026/jun/10/inflation-report-rate",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-06-10T17:37:06+00:00"
-    },
-    {
-      "title": "China’s BYD aims to be world’s biggest car firm within five years",
-      "description": "EV maker aims to overtake Toyota, as it plans to spend £1.8bn to build five-minute flash chargers in EuropeBusiness live – latest updatesThe Chinese car company BYD has said it aims to be the world’s biggest automaker within the next five years.Targeting Toyota’s long-held top spot, BYD’s founder an",
-      "url": "https://www.theguardian.com/business/2026/jun/10/china-byd-car-firm-ev-maker-toyota",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-06-10T09:59:19+00:00"
-    },
-    {
-      "title": "Advanced radiotherapy for prostate cancer to cut sessions from 20 to five",
-      "description": "Some men in England with the disease will now be offered an advanced form of treatment on the NHS.",
-      "url": "https://www.bbc.com/news/articles/crm02mmgr3ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-06-09T23:57:30+00:00"
     }
   ]
 }
