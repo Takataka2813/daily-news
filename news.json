@@ -1,13 +1,237 @@
 {
-  "updatedAt": "2026-06-13T11:07:17.881113+00:00",
+  "updatedAt": "2026-06-13T22:02:42.871381+00:00",
   "articles": [
     {
-      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
-      "description": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of ch",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+      "title": "Switzerland stunned by late Qatar equaliser",
+      "description": "Qatar's Boualem Khoukhi scores a stoppage-time equaliser to earn his country their first ever World Cup point against Switzerland in San Francisco.",
+      "url": "https://www.bbc.com/sport/football/videos/ckg80ym83j5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-13T21:49:48+00:00"
+    },
+    {
+      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+      "description": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
       "source": "The Verge",
       "category": "Technology",
-      "publishedAt": "2026-06-13T11:00:00+00:00"
+      "publishedAt": "2026-06-13T21:39:26+00:00"
+    },
+    {
+      "title": "West Indies beat holders New Zealand in thriller",
+      "description": "Shemaine Campbelle finishes unbeaten on 90 as West Indies edge past defending champions New Zealand with a ball to spare.",
+      "url": "https://www.bbc.com/sport/cricket/articles/c932q90l4lpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-13T21:13:06+00:00"
+    },
+    {
+      "title": "Resident doctors cancel strike after new offer from government",
+      "description": "The walkout had been due to start at 07:00 BST on Monday and last until Friday.",
+      "url": "https://www.bbc.com/news/articles/cj9g1wgxng2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-06-13T20:46:11+00:00"
+    },
+    {
+      "title": "X-Men ’97 has what Master of the Universe is missing",
+      "description": "In 2026, Marvel and Mattel are both releasing projects designed to capitalize on people's love for iconic animated heroes from their childhoods. Masters of the Universe has put a live-action He-Man on the big screen, and the second season of X-Men '97 is about to fling some of Charles Xavier's mutan",
+      "url": "https://www.theverge.com/entertainment/947064/xmen-97-season-2-disney-plus-marvel-masters-of-the-universe-mattel",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-13T20:00:00+00:00"
+    },
+    {
+      "title": "Scientists Discover a Biological Clock Unlike Anything Seen Before",
+      "description": "A newly discovered genetic clock acts as the body&#8217;s developmental timekeeper, coordinating the bursts of gene activity needed for growth. Scientists found that when this clock breaks down, development comes to a halt. Think about a train sitting at a station. Passengers have boarded, conductor",
+      "url": "https://scitechdaily.com/scientists-discover-a-biological-clock-unlike-anything-seen-before/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-13T19:53:25+00:00"
+    },
+    {
+      "title": "This “Zombie” Sea Creature Keeps Growing After Being Cut Apart",
+      "description": "Detached sea cucumber tissue survived, healed, and grew for years in natural seawater, revealing a remarkable new model for regeneration and biomedical research. A chance observation has led scientists to a discovery that challenges one of biology’s most basic assumptions: that detached animal tissu",
+      "url": "https://scitechdaily.com/this-zombie-sea-creature-keeps-growing-after-being-cut-apart/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-13T19:18:42+00:00"
+    },
+    {
+      "title": "The Brain May Not Need Full Sleep To Recover, New Research Finds",
+      "description": "A new study suggests that reproducing a crucial sleep-like brain pattern in awake animals may help preserve memory and learning abilities. What if part of the brain could get some of the benefits of sleep without the rest of the brain ever going offline? A new NIH-funded study suggests that may be p",
+      "url": "https://scitechdaily.com/the-brain-may-not-need-full-sleep-to-recover-new-research-finds/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-13T18:43:26+00:00"
+    },
+    {
+      "title": "Sealed Super Mario Bros. sells for a record $3 million",
+      "description": "A copy of Super Mario Bros., still in the box and sealed with its original sticker, just sold at Heritage Auctions for $3 million. That absolutely crushes the previous record of $2 million, also for a copy of Super Mario Bros., in 2021. That sale also came hot on the heels of a controversial auction",
+      "url": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-13T18:37:21+00:00"
+    },
+    {
+      "title": "Iran win four staff visa appeals but 11 banned",
+      "description": "Four members of Iran's World Cup delegation win appeals against having their visa applications rejected but 11 staff remain banned from travelling to the United States.",
+      "url": "https://www.bbc.com/sport/football/articles/czxqkwrr1k6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-13T18:25:14+00:00"
+    },
+    {
+      "title": "New rules abound - was VAR diving decision wrong despite feeling right?",
+      "description": "Some new rules and tweaks to a few old ones have been introduced for the 2026 World Cup. But are the changes leading to confusion?",
+      "url": "https://www.bbc.com/sport/football/articles/c5yze64d362o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-13T18:22:34+00:00"
+    },
+    {
+      "title": "'Same players but different men' - Exeter's remarkable turnaround",
+      "description": "Exeter boss Rob Baxter says his side's rise from their worst season to a Prem final is one of his greatest achievements.",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/c4gywkyp988o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-13T18:19:22+00:00"
+    },
+    {
+      "title": "Ruthless Raducanu powers into Queen's final",
+      "description": "An inspired Emma Raducanu wins twice in a day to reach the Queen's final but fellow Briton Katie Boulter loses her semi-final.",
+      "url": "https://www.bbc.com/sport/tennis/articles/crlwkx2j5nyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-13T18:10:10+00:00"
+    },
+    {
+      "title": "Fight is on for Hamilton as he and Russell reset successfully",
+      "description": "Lewis Hamilton says \"the fight is on\" as he and fellow Briton George Russell prepare to start at the front in the Barcelona-Catalunya Grand Prix.",
+      "url": "https://www.bbc.com/sport/formula1/articles/c8025pdgyj1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-13T18:03:17+00:00"
+    },
+    {
+      "title": "Fulham in advanced talks to appoint Arbeloa as Silva's replacement",
+      "description": "Fulham are in advanced talks to appoint Alvaro Arbeloa as a replacement for outgoing manager Marco Silva.",
+      "url": "https://www.bbc.com/sport/football/articles/c5yzv0p2p2zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-13T17:22:50+00:00"
+    },
+    {
+      "title": "Review: Disclosure Day is big on action, light on ideas",
+      "description": "There's nothing new or surprising, but it's still an entertaining film from one of our greatest directors.",
+      "url": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-13T17:17:44+00:00"
+    },
+    {
+      "title": "Microsoft hasn’t ruled out spinning off Xbox",
+      "description": "Microsoft is preparing to lay off a significant chunk of its Xbox division and is reevaluating the plans for its next-generation Project Helix console. It's apparently also considering dramatically restructuring its relationship with Xbox, and hasn't ruled out spinning it off into a separate company",
+      "url": "https://www.theverge.com/games/949584/microsoft-spinning-off-xbox",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-13T16:29:47+00:00"
+    },
+    {
+      "title": "Bose’s latest QuietComfort Ultra are $70 off, marking a new low price",
+      "description": "If you’re planning on traveling anytime soon, Bose&#8217;s second-generation QuietComfort Ultra headphones are a great companion for long flights and train rides. Not only do they offer excellent noise cancellation, but they also retain the foldable design of their predecessor, making them easy to p",
+      "url": "https://www.theverge.com/gadgets/949190/bose-quietcomfort-ultra-headphones-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-13T16:00:00+00:00"
+    },
+    {
+      "title": "Scientists Reveal the Hidden Way Caffeine Sabotages Sleep",
+      "description": "EEG studies suggest caffeine can reduce deep, restorative sleep even when sleep duration appears normal. Its effects vary by individual, and relying on caffeine for energy may come at the cost of nighttime recovery. Evening coffee has long been debated. Some people can drink it and fall asleep with ",
+      "url": "https://scitechdaily.com/scientists-reveal-the-hidden-way-caffeine-sabotages-sleep/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-13T15:31:23+00:00"
+    },
+    {
+      "title": "My first 24 hours with Siri AI on the Mac",
+      "description": "I turned off Siri on the Mac years ago and never looked back. Similarly, I found Apple Intelligence so fruitless I never engage with it. But the new Siri AI coming to macOS 27 Golden Gate has at least got me slightly rethinking things. I'm still early in testing Siri AI, as I've only had [&#8230;]",
+      "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-13T15:00:00+00:00"
+    },
+    {
+      "title": "Your Gut Microbes May Decide How Many Calories You Really Absorb",
+      "description": "Researchers have created a model that follows food beyond traditional calorie calculations, incorporating the role of gut microbes in digestion. Food labels make calorie counts look straightforward. The number listed per serving is calculated from the food&#8217;s fat, carbohydrate, and protein cont",
+      "url": "https://scitechdaily.com/your-gut-microbes-may-decide-how-many-calories-you-really-absorb/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-13T14:56:22+00:00"
+    },
+    {
+      "title": "Millions Take This Joint Supplement but Scientists Found a Concerning Alzheimer’s Link",
+      "description": "Scientists found a concerning Alzheimer’s link involving glucosamine, a joint supplement used by millions. A widely used supplement marketed for joint pain relief may be linked to faster progression of Alzheimer’s disease, according to new research from University of Florida scientists. The study fo",
+      "url": "https://scitechdaily.com/millions-take-this-joint-supplement-but-scientists-found-a-concerning-alzheimers-link/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-13T14:21:38+00:00"
+    },
+    {
+      "title": "Never Post’s Mike Rugnetta on the creative process and the value of reliable power",
+      "description": "Mike Rugnetta is a writer, podcast host, producer, audio engineer, educator, musician, sound designer, and father. In short, the man wears a lot of hats. He's the cocreator and host of the award-winning Never Post, an absolutely must-listen podcast about the internet, as well as Fun City, a TTRPG po",
+      "url": "https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-13T14:00:00+00:00"
+    },
+    {
+      "title": "My yard is dying, so I made an app for that",
+      "description": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird [&#",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-13T13:00:00+00:00"
+    },
+    {
+      "title": "Scientists Uncover What Kept Humanity’s First Campfires Burning 780,000 Years Ago",
+      "description": "Rare charcoal fragments from an ancient lakeshore campsite are offering new clues about fire use, resource management, and the environmental knowledge of some of humanity’s earliest fire users. Long before cities, farms, or written language existed, some of humanity&#8217;s ancestors had already dis",
+      "url": "https://scitechdaily.com/scientists-uncover-what-kept-humanitys-first-campfires-burning-780000-years-ago/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-13T11:54:03+00:00"
+    },
+    {
+      "title": "Meet the New Dyson Vacuums: V16 Piston Animal, V10 Konical, V8 Cyclone (2026)",
+      "description": "The rest of Dyson’s promised 2026 vacuum lineup is here, from the new Dyson V16 Piston Animal to an updated version of the favored Dyson V8 Cyclone.",
+      "url": "https://www.wired.com/story/meet-dysons-new-cordless-vacuum-lineup/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-13T11:33:00+00:00"
+    },
+    {
+      "title": "Why Evolution Stalled for Millions of Years Before Suddenly Exploding",
+      "description": "A new study suggests evolution stayed stuck for millions of years until sexual reproduction helped unleash a burst of biodiversity. New research suggests that the earliest animals on Earth may have unintentionally slowed the pace of evolution for millions of years. Scientists have found that their r",
+      "url": "https://scitechdaily.com/why-evolution-stalled-for-millions-of-years-before-suddenly-exploding/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-13T11:19:09+00:00"
+    },
+    {
+      "title": "Threads of underground fungal networks are long enough to reach beyond the Solar System",
+      "description": "Researchers have quantified the length and mass of arbuscular mycorrhizal fungal networks globally.",
+      "url": "https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-13T11:18:42+00:00"
+    },
+    {
+      "title": "‘Open season’ on ABC as FCC moves up public comment process for renewals",
+      "description": "Order represents one of the most significant actions the Trump administration has taken against a media companyOver the next few weeks, anyone in the US can plead their case that Disney’s ABC should not be permitted to renew its broadcast licenses for the eight local television stations they own.Aft",
+      "url": "https://www.theguardian.com/media/2026/jun/13/abc-fcc-license-trump-kimmel",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-06-13T11:00:12+00:00"
     },
     {
       "title": "How Can Soccer Players Bend Their Shots in Midair?",
@@ -16,14 +240,6 @@
       "source": "Wired",
       "category": "Technology",
       "publishedAt": "2026-06-13T11:00:00+00:00"
-    },
-    {
-      "title": "New Feathered Dinosaur May Have Solved a 120-Million-Year-Old Fossil Mystery",
-      "description": "A newly discovered feathered dinosaur from China may help solve a long-standing mystery surrounding a fossil bed filled with ancient bird remains. For years, one fossil site in northwestern China has posed a mystery. The area contains hundreds of fossilized birds, many remarkably well preserved. Mix",
-      "url": "https://scitechdaily.com/new-feathered-dinosaur-may-have-solved-a-120-million-year-old-fossil-mystery/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-13T10:44:07+00:00"
     },
     {
       "title": "The FCC Wants to Kill Burner Phones",
@@ -42,14 +258,6 @@
       "publishedAt": "2026-06-13T10:30:00+00:00"
     },
     {
-      "title": "What is it like to play for Scotland at a World Cup?",
-      "description": "Former Scotland players Paul Lambert, Darren Jackson and Rachel Corsie explain what it is like to live every fan's dream by playing at a World Cup.",
-      "url": "https://www.bbc.com/sport/football/articles/cly8339w041o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-13T10:19:26+00:00"
-    },
-    {
       "title": "Rivian’s CEO on Tesla’s Cybertruck, Ferrari’s Luce, and What Happens If the R2 Fails",
       "description": "RJ Scaringe, the CEO of Rivian Automotive, joined us for a wide-ranging interview about how his company’s new electric SUV fits into the current EV industry, and what comes next.",
       "url": "https://www.wired.com/story/interview-with-rivian-ceo-rj-scaringe/",
@@ -58,20 +266,12 @@
       "publishedAt": "2026-06-13T10:00:00+00:00"
     },
     {
-      "title": "A German Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
+      "title": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
       "description": "The ruling holds that a company that designs, trains, operates, and manages an AI system must assume legal liability for any damages caused by the responses it generates.",
       "url": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
       "source": "Wired",
       "category": "Technology",
       "publishedAt": "2026-06-13T09:00:00+00:00"
-    },
-    {
-      "title": "Scotland return to centre stage at last in must-win World Cup opener",
-      "description": "BBC Scotland's chief sportswriter Tom English sets the scene from Boston as Scotland prepare for their first World Cup match in 28 years.",
-      "url": "https://www.bbc.com/sport/football/articles/c04y70z59y5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-13T07:20:31+00:00"
     },
     {
       "title": "Here’s How AI Agents Can Protect EV Chargers",
@@ -80,62 +280,6 @@
       "source": "Wired",
       "category": "Technology",
       "publishedAt": "2026-06-13T06:30:00+00:00"
-    },
-    {
-      "title": "Breakthrough Ultrasound Patch Tracks Blood Flow and Fetal Health in Real Time",
-      "description": "A new soft ultrasound patch is designed to provide long-term, hands-free monitoring of fetal health in real time. Engineers at the University of California, San Diego, have developed a soft, wearable ultrasound patch that can continuously monitor a fetus for hours at a time while maintaining reliabl",
-      "url": "https://scitechdaily.com/breakthrough-ultrasound-patch-tracks-blood-flow-and-fetal-health-in-real-time/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-13T06:08:56+00:00"
-    },
-    {
-      "title": "Who am I? Guess World Cup star No 6",
-      "description": "Will you get today's player in as few attempts as possible?",
-      "url": "https://www.bbc.com/sport/football/articles/c62rv27dp3eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-13T05:54:52+00:00"
-    },
-    {
-      "title": "New Discovery Reveals Vitamin K’s Surprising Role in Preventing Bone Loss",
-      "description": "A newly identified vitamin K-dependent signaling pathway appears to help coordinate communication between key bone cells. Bones may seem like lifeless structures, but they are constantly being torn down and rebuilt. Every day, specialized cells remove old bone while others replace it with new materi",
-      "url": "https://scitechdaily.com/new-discovery-reveals-vitamin-ks-surprising-role-in-preventing-bone-loss/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-13T05:43:55+00:00"
-    },
-    {
-      "title": "Ozempic and Similar Drugs Linked to Dramatic Drop in Addiction Rates",
-      "description": "Researchers identified a strong association between GLP-1 medications and reduced rates of multiple substance use disorders, raising new questions about how these drugs may affect the brain’s reward system. What if some of the world’s most popular weight loss drugs are affecting more than appetite? ",
-      "url": "https://scitechdaily.com/ozempic-and-similar-drugs-linked-to-dramatic-drop-in-addiction-rates/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-13T05:18:42+00:00"
-    },
-    {
-      "title": "USA start World Cup in style - but will they finally join the elite?",
-      "description": "If there were any doubts the USA were ready to live up to the pressure of being a World Cup host, they were dispelled in a 4-1 win over Paraguay.",
-      "url": "https://www.bbc.com/sport/football/articles/c621z2k51rdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-13T04:40:19+00:00"
-    },
-    {
-      "title": "Balogun stars in impressive USA win over Paraguay",
-      "description": "Folarin Balogun scores twice as the USA begin their World Cup campaign with a convincing 4-1 victory over Paraguay at the Los Angeles Stadium.",
-      "url": "https://www.bbc.com/sport/football/videos/cwydp9463wko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-13T04:21:05+00:00"
-    },
-    {
-      "title": "VAR makes 'mistaken identity' history as strange booking confuses fans",
-      "description": "The United States open their World Cup campaign with a fine win - but not before a sequence of events that left everyone scratching their heads.",
-      "url": "https://www.bbc.com/sport/football/articles/c5yze890365o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-13T03:43:46+00:00"
     },
     {
       "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
@@ -154,36 +298,12 @@
       "publishedAt": "2026-06-13T02:26:10+00:00"
     },
     {
-      "title": "England have training equipment stolen",
-      "description": "England are victims of a theft of their training equipment before their arrival in Kansas City on Saturday.",
-      "url": "https://www.bbc.com/sport/football/articles/cwyldy8w0jpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-13T02:13:55+00:00"
-    },
-    {
-      "title": "Valve just imported 13 tons of VR headsets in one day",
-      "description": "On June 10th, the German container ship Posen docked in Los Angeles after a two-week voyage from Shanghai. As Valve watcher Brad Lynch notes, it was almost certainly carrying the first mass production shipments of the Steam Frame, Valve's new gaming headset. Import records show that Valve's distribu",
-      "url": "https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-13T01:32:18+00:00"
-    },
-    {
-      "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
-      "description": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff.",
-      "url": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-12T23:45:26+00:00"
-    },
-    {
-      "title": "Club revokes Mickelson membership over allegations",
-      "description": "Phil Mickelson's membership at Farms Golf Club has been revoked amid allegations of inappropriate contact with a female employee at the Californian establishment.",
-      "url": "https://www.bbc.com/sport/golf/articles/cjrg2we25zxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-12T22:50:54+00:00"
+      "title": "US justice department approves $111bn merger of Paramount and Warner Bros Discovery",
+      "description": "Deal still under UK scrutiny with new investigation, and could face lawsuit from state attorneys generalDonald Trump’s Department of Justice has decided to approve the $111bn merger of Paramount Skydance, controlled by the Ellison family, and Warner Bros Discovery, the parent company of networks lik",
+      "url": "https://www.theguardian.com/us-news/2026/jun/12/paramount-warner-bros-merger",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-06-13T00:54:31+00:00"
     },
     {
       "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
@@ -202,6 +322,14 @@
       "publishedAt": "2026-06-12T22:00:52+00:00"
     },
     {
+      "title": "How much money did Elon Musk make in SpaceX’s stock market debut?",
+      "description": "He’s now the world’s first trillionaire, after his rocket and AI company broke IPO records on its way to a $2.1tn valuationElon Musk is now the world’s first trillionaire. SpaceX’s historic debut on the stock market on Friday launched the CEO to unprecedented levels of wealth; his personal fortune n",
+      "url": "https://www.theguardian.com/technology/2026/jun/12/elon-musk-spacex-net-worth",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-06-12T21:34:00+00:00"
+    },
+    {
       "title": "Elon Musk becomes world’s first trillionaire as SpaceX ends trading day with valuation of $2.1tn – as it happened",
       "description": "One economist says Musk’s world-first level of extreme wealth highlights massive economic disparities and could have profound effects on societySpaceX’s shares will be supported by a number of “forced buyers”, such as tracker funds.Richard Hunter, head of markets at interactive investor, explains:Th",
       "url": "https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates",
@@ -210,28 +338,12 @@
       "publishedAt": "2026-06-12T21:19:34+00:00"
     },
     {
-      "title": "Nothing CEO says phone prices are going to keep going up",
-      "description": "If you're thinking about upgrading your phone, \"the best time was yesterday,\" according to Nothing CEO and co-founder Carl Pei, echoing a message we heard during MWC. As Android Authority reports, Pei said in a post on X that the RAM shortage has already impacted Nothing's less expensive mid-range p",
-      "url": "https://www.theverge.com/gadgets/949403/nothing-carl-pei-ram-phone-prices",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-12T20:02:48+00:00"
-    },
-    {
       "title": "UK vows to phase out Russian diesel and jet fuel imports by new year",
       "description": "The ban forms part of the government's package of sanctions on Moscow due to the ongoing war with Ukraine.",
       "url": "https://www.bbc.com/news/articles/ceqdl8xre7qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-06-12T19:57:16+00:00"
-    },
-    {
-      "title": "Astronomers Find Strongest Evidence Yet for Magnetic Fields on Alien Worlds",
-      "description": "Astronomers studying the atmospheres of several intensely heated exoplanets uncovered an unexpected pattern that may reveal a hidden property of these distant worlds. Astronomers have uncovered the clearest evidence so far that some planets beyond our Solar System possess magnetic fields. By measuri",
-      "url": "https://scitechdaily.com/astronomers-find-strongest-evidence-yet-for-magnetic-fields-on-alien-worlds/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-12T19:32:56+00:00"
     },
     {
       "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
@@ -250,22 +362,6 @@
       "publishedAt": "2026-06-12T18:57:51+00:00"
     },
     {
-      "title": "Astronomers Unveil Record-Breaking Haul of 161 New Black Hole Collisions",
-      "description": "A new gravitational-wave catalogue reports 161 additional black hole mergers, bringing the total to 390 detections. Scientists at the University of Glasgow&#8217;s Institute for Gravitational Research are celebrating the release of a major new collection of gravitational wave discoveries, a mileston",
-      "url": "https://scitechdaily.com/astronomers-unveil-record-breaking-haul-of-161-new-black-hole-collisions/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-12T18:57:02+00:00"
-    },
-    {
-      "title": "The world’s first trillionaire is a killer",
-      "description": "Elon Musk's SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact in particular stands out: A year ago, Musk's actions directly led to the deaths of hundreds of thousands of people. He did",
-      "url": "https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-12T18:46:40+00:00"
-    },
-    {
       "title": "Here's what Jeff Bezos' new startup Prometheus will do",
       "description": "It isn't the only startup tackling physical AI, but it's one of the best-funded.",
       "url": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
@@ -282,76 +378,12 @@
       "publishedAt": "2026-06-12T18:31:36+00:00"
     },
     {
-      "title": "Ancient Meteorite Reveals a Forgotten Planet That Existed 4.5 Billion Years Ago",
-      "description": "A rare meteorite recovered from the Sahara Desert has revealed compelling evidence for a long-lost world that existed during the solar system’s earliest days. About 4.5 billion years ago, a large planetary body, potentially as large as the Moon or even Mars, orbited the Sun before colliding with ano",
-      "url": "https://scitechdaily.com/ancient-meteorite-reveals-a-forgotten-planet-that-existed-4-5-billion-years-ago/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-12T18:22:54+00:00"
-    },
-    {
-      "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
-      "description": "Full autonomy is rare, but Ukraine is installing AI modules on drones and robots.",
-      "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-12T18:03:29+00:00"
-    },
-    {
-      "title": "$130 billion in data center projects blocked by protests so far this year",
-      "description": "Winning fight against AI data centers gives people a \"taste of political power.\"",
-      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-12T17:18:49+00:00"
-    },
-    {
-      "title": "Siri is good now??",
-      "description": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a new version of [&#823",
-      "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-12T17:17:04+00:00"
-    },
-    {
-      "title": "A trillion dollars is a stupid amount of money",
-      "description": "Elon Musk is now officially the world's first trillionaire. That is a colossal amount of wealth (and by proxy, power) for one individual to have. Its scale - a thousand times more than a billion - is difficult to fathom for those of us who aren't among the 3,363 billionaires that currently exist in ",
-      "url": "https://www.theverge.com/tech/948917/elon-musk-trillionaire-how-much-visualization",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-12T16:26:29+00:00"
-    },
-    {
-      "title": "Elon Musk is the world&#8217;s first trillionaire",
-      "description": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla. Shares of SPCX opened at $150 and ha",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-12T16:24:39+00:00"
-    },
-    {
       "title": "US consumer sentiment improves in June due to easing gas prices",
       "description": "Consumer sentiment still remains at historically low levels amid Iran war and rising inflation, new survey showsEasing gas prices are making Americans feel better about their personal finances and the economy in June, but consumer sentiment remains at historically low levels amid ongoing conflict in",
       "url": "https://www.theguardian.com/business/2026/jun/12/consumer-sentiment-june-data-gas-prices",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-06-12T16:23:00+00:00"
-    },
-    {
-      "title": "I held the Trump phone",
-      "description": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. We don't have the phones we preordered yet, but this week included an unexpected in-person encounter with the T1. You see a lot of interesting phones whe",
-      "url": "https://www.theverge.com/tech/948464/trump-phone-t1-hands-on",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-12T16:05:00+00:00"
-    },
-    {
-      "title": "Mini Brain Organoids Expose Hidden Biological Differences in Alzheimer’s Disease",
-      "description": "Tiny lab-grown brain models and the particles they release may reveal hidden differences among Alzheimer’s patients. Personalized treatment remains one of the biggest challenges in Alzheimer&#8217;s disease. Two patients can receive the same medication for symptoms such as depression, anxiety, or ag",
-      "url": "https://scitechdaily.com/mini-brain-organoids-expose-hidden-biological-differences-in-alzheimers-disease/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-12T15:54:32+00:00"
     },
     {
       "title": "Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case",
@@ -368,14 +400,6 @@
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-06-12T10:01:11+00:00"
-    },
-    {
-      "title": "After SpaceX’s huge IPO, Americans’ financial future will be bound to AI",
-      "description": "They’re about to get more AI rammed down their throats, stuck into their pension plans and investment portfoliosShare your views on SpaceX’s stock market debutAmericans are growing worried about what artificial intelligence portends for their futures. Eight in 10 Americans report concern over AI, co",
-      "url": "https://www.theguardian.com/business/2026/jun/12/ai-ipos-stock-market",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-06-12T09:00:41+00:00"
     },
     {
       "title": "Watch: Three things to know about SpaceX's stock market debut",
@@ -456,22 +480,6 @@
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-06-11T23:00:29+00:00"
-    },
-    {
-      "title": "Weight-loss drug Wegovy to be available in pill form in UK for first time",
-      "description": "Manufacturer Novo Nordisk says a daily tablet of the drug could be more convenient for some people than weekly injections.",
-      "url": "https://www.bbc.com/news/articles/c9d2pl10lqzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-06-11T15:00:13+00:00"
-    },
-    {
-      "title": "AI wealth boom sending San Francisco home prices surging: ‘It’s ridiculous’",
-      "description": "Employees at artificial intelligence companies are coming into gargantuan sums of money amid boom in IPOsHome prices in the San Francisco Bay Area’s already expensive market are skyrocketing as employees at leading artificial intelligence companies come into gargantuan sums of money thanks to a boom",
-      "url": "https://www.theguardian.com/us-news/2026/jun/11/ai-wealth-boom-san-francisco-home-prices",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-06-11T14:00:17+00:00"
     }
   ]
 }
