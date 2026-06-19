@@ -1,13 +1,285 @@
 {
-  "updatedAt": "2026-06-18T22:55:20.697197+00:00",
+  "updatedAt": "2026-06-19T12:39:14.600927+00:00",
   "articles": [
     {
-      "title": "How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members",
-      "description": "Leaked files show the invite-only network grades members by their money and fame, shaping who’s in, who’s out, and who pays.",
-      "url": "https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/",
+      "title": "'Keeping England in the match' - Fisher reaches a first Test 50",
+      "description": "Watch the moment England bowler Matt Fisher scores a first Test half-century as he frustrates New Zealand on the third morning of the second Test at The Oval.",
+      "url": "https://www.bbc.com/sport/cricket/videos/c3vy5ywrrz6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-19T12:23:04+00:00"
+    },
+    {
+      "title": "Stick or twist? Rashford and Guehi are Tuchel's big dilemmas",
+      "description": "Before England's World Cup match against Ghana on Tuesday, BBC Sport's Phil McNulty looks at Thomas Tuchel's big selection dilemmas.",
+      "url": "https://www.bbc.com/sport/football/articles/cpq3e1r2x8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-19T12:20:37+00:00"
+    },
+    {
+      "title": "In season 2 of Sugar, Colin Farrell’s quirky detective becomes much more human",
+      "description": "When Colin Farrell was doing press for the first season of the detective series Sugar, he had to be very careful with how he spoke. Sugar is a story about a quirky private detective, but it's also secretly a work of science fiction, something that doesn't become clear until halfway through the seaso",
+      "url": "https://www.theverge.com/entertainment/951638/sugar-season-2-colin-farrell-interview-apple-tv",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-19T12:00:00+00:00"
+    },
+    {
+      "title": "Kaleidescape’s movie player blows streaming, and your wallet, away",
+      "description": "We've lost something in the past 15 years. Netflix, Amazon, Disney, Apple; they've all convinced us that streaming is the best way to watch movies and shows at home. With everything at our fingertips, there's no need to run to Blockbuster for the weekend's entertainment, or wait for a DVD rental to ",
+      "url": "https://www.theverge.com/tech/951718/kaleidescape-strato-e-review",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-19T12:00:00+00:00"
+    },
+    {
+      "title": "The Best iPad to Buy (and Some to Avoid) in 2026: Compare the Air, Pro, Mini",
+      "description": "We break down the current iPad lineup to help you figure out which of Apple’s tablets is best for you.",
+      "url": "https://www.wired.com/gallery/the-best-ipad/",
       "source": "Wired",
       "category": "Technology",
-      "publishedAt": "2026-06-18T22:12:45+00:00"
+      "publishedAt": "2026-06-19T12:00:00+00:00"
+    },
+    {
+      "title": "A Surprising Discovery Challenges What Scientists Thought DNA Methylation Was For",
+      "description": "DNA carries the instructions for life, but additional molecular systems help determine how those instructions are used. New research in a sea anemone reveals an unexpected role for one of these systems. DNA is often described as the blueprint of life, but a blueprint is only useful if someone knows ",
+      "url": "https://scitechdaily.com/a-surprising-discovery-challenges-what-scientists-thought-dna-methylation-was-for/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-19T11:54:21+00:00"
+    },
+    {
+      "title": "Two-time Olympic medallist Philip retires",
+      "description": "British two-time Olympic medallist Asha Philip has announced her retirement from athletics.",
+      "url": "https://www.bbc.com/sport/athletics/articles/c15yn20g3xdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-19T11:52:32+00:00"
+    },
+    {
+      "title": "Plans to end gazumping with binding agreements in house sales shake-up",
+      "description": "Sales agreements will be legally binding sooner and making sellers provide more home information up front are part of the planned changes.",
+      "url": "https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-06-19T11:41:14+00:00"
+    },
+    {
+      "title": "Best Mesh Wi-Fi Systems (2026): Netgear, Asus, Amazon, and More",
+      "description": "Forget about patchy internet connections and dead spots in the house. These WIRED-tested multiroom mesh systems will get you online in no time.",
+      "url": "https://www.wired.com/story/best-mesh-wifi-routers/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-19T11:31:00+00:00"
+    },
+    {
+      "title": "This New DNA Test Solves Rare Disease Mysteries That Standard Genetics Misses",
+      "description": "A new long-read DNA test improves rare disease diagnosis, replaces multiple existing tests, and could become the preferred global standard for genetic diagnostics. A new DNA test is providing a far more detailed view of the genome than current standard diagnostic methods, helping doctors identify ra",
+      "url": "https://scitechdaily.com/this-new-dna-test-solves-rare-disease-mysteries-that-standard-genetics-misses/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-19T11:19:13+00:00"
+    },
+    {
+      "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
+      "description": "Researchers say these coral strongholds may help repopulate more degraded reefs.",
+      "url": "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-19T11:15:11+00:00"
+    },
+    {
+      "title": "Former England goalkeeper Earps joins London City Lionesses",
+      "description": "Former England goalkeeper Mary Earps joins London City Lionesses on a two-year deal after leaving Paris St-Germain.",
+      "url": "https://www.bbc.com/sport/football/articles/c8x2jjyl5kqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-19T11:00:18+00:00"
+    },
+    {
+      "title": "The Best Art TVs",
+      "description": "Even after your movies end, these art televisions look stunning on any wall.",
+      "url": "https://www.wired.com/story/best-art-tvs/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-19T11:00:00+00:00"
+    },
+    {
+      "title": "Gen Z Singles Are Trying to Make ‘Solomaxxing’ Aspirational",
+      "description": "For young people, the trend removes the stigma of being unmarried and alone, and recasts it as something to aim for, not avoid.",
+      "url": "https://www.wired.com/story/solomaxxing/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-19T11:00:00+00:00"
+    },
+    {
+      "title": "Scientists Just Discovered the Eye Defies a Long-Held Rule of Vision",
+      "description": "A Yale-led study uncovered unexpected communication between retinal visual pathways that were thought to operate separately. Researchers at Yale School of Medicine (YSM) have discovered unexpected insights into how the eye handles visual information. When we view a scene, the visual system quickly s",
+      "url": "https://scitechdaily.com/scientists-just-discovered-the-eye-defies-a-long-held-rule-of-vision/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-19T10:44:12+00:00"
+    },
+    {
+      "title": "Try One of macOS 27’s Best Features Right Now",
+      "description": "Apple’s fall macOS release will let you build Shortcuts by typing what you want to happen. But Claude Code and Codex users don’t have to wait.",
+      "url": "https://www.wired.com/story/try-one-of-macos-27s-best-features-right-now-shortcuts-playground-agent/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-19T10:30:00+00:00"
+    },
+    {
+      "title": "Pump.Fun’s Bounties Platform Is a Black Hole of Circular Grifting",
+      "description": "The crypto platform claims you can “pay anyone to do anything,” from quitting a job on camera to getting a memecoin-themed tattoo. But it mostly seems like people trying to scam each other.",
+      "url": "https://www.wired.com/story/pumpfuns-bounties-platform-is-a-black-hole-of-circular-grifting/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-19T10:30:00+00:00"
+    },
+    {
+      "title": "Morocco captain Hakimi to stand trial for rape",
+      "description": "French prosecutors confirm Morocco captain Achraf Hakimi will stand trial for rape, in accusations dating back to 2023.",
+      "url": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-19T10:28:22+00:00"
+    },
+    {
+      "title": "The heavily jeered $250m goldmine - are hydration break ads here to stay?",
+      "description": "BBC Sport explores how hydration break ads work in other countries and how they could impact the future of football.",
+      "url": "https://www.bbc.com/sport/football/articles/cp3xqn9zxdgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-19T10:14:48+00:00"
+    },
+    {
+      "title": "The Best Fitness Trackers of 2026: Garmin, Google Fitbit, and More",
+      "description": "Find the right wearable for your lifestyle, workouts, and goals.",
+      "url": "https://www.wired.com/story/best-fitness-trackers/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-19T10:01:00+00:00"
+    },
+    {
+      "title": "This World Cup, Bigger Might Not Really Be Better",
+      "description": "The biggest World Cup ever is pushing fans, players, and host cities to their limits—and experts say this is only the beginning.",
+      "url": "https://www.wired.com/story/biggest-world-cup-travel-flights-hotels-costs/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-19T10:00:00+00:00"
+    },
+    {
+      "title": "Wonderwall one of favourite England moments - Kane",
+      "description": "Harry Kane says singing 'Wonderwall' with fans after England's win over Croatia on Wednesday was one of his \"favourite ever moments\" in a Three Lions shirt.",
+      "url": "https://www.bbc.com/sport/football/articles/ckg74e6dz5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-19T09:55:06+00:00"
+    },
+    {
+      "title": "Five ways the Iran peace deal could affect you and your money",
+      "description": "With fuel and gas prices having fallen in recent days, we look at how the end of hostilities might affect you - in five charts.",
+      "url": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-06-19T09:31:04+00:00"
+    },
+    {
+      "title": "Coventry play champions Arsenal in Premier League opener",
+      "description": "Newly promoted Coventry City will travel to champions Arsenal in the first match of the 2026-27 Premier League season.",
+      "url": "https://www.bbc.com/sport/football/articles/cdx7kyv92rjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-19T09:00:40+00:00"
+    },
+    {
+      "title": "Warning over 'fragile' public finances as borrowing rises",
+      "description": "The UK borrowed £23.3bn in May, according to official figures, up almost a third on the same month last year.",
+      "url": "https://www.bbc.com/news/articles/cqx1e8nrwgvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-06-19T08:37:31+00:00"
+    },
+    {
+      "title": "'I'd be put off if he asked to split it': Who should pay on a first date?",
+      "description": "Some insist on splitting the bill, others say the asker should pay, while many still see a man paying as romantic.",
+      "url": "https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-06-19T06:52:40+00:00"
+    },
+    {
+      "title": "Barret Zoph is out at OpenAI again after just five months",
+      "description": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-19T04:49:33+00:00"
+    },
+    {
+      "title": "Ancient Black Holes May Have Survived a Cosmic Era Before the Big Bang",
+      "description": "A new cosmic bounce model suggests that remnants from a pre-Big Bang Universe may still exist today. What if some of the Universe&#8217;s oldest objects are actually older than the Big Bang itself? A new study from the University of Portsmouth suggests that ancient black holes may have survived from",
+      "url": "https://scitechdaily.com/ancient-black-holes-may-have-survived-a-cosmic-era-before-the-big-bang/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-19T03:55:29+00:00"
+    },
+    {
+      "title": "What if Time Isn’t Fundamental? Physicists Just Tested the Idea in the Lab",
+      "description": "A quantum “mini universe” made from ultracold atoms revealed that time can emerge from entropy changes inside a system, offering experimental insight into one of physics’ deepest mysteries. A scientist at the University of Birmingham has created a &#8220;mini universe&#8221; that could help answer o",
+      "url": "https://scitechdaily.com/what-if-time-isnt-fundamental-physicists-just-tested-the-idea-in-the-lab/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-19T03:20:30+00:00"
+    },
+    {
+      "title": "Scientists Let People Play Video Games Using Only Their Thoughts",
+      "description": "Researchers developed a brain-controlled gaming system that learns from the brain’s natural wiring, enabling fast BCI training and potentially transforming medicine, mental health, and human-computer interaction. It may not be long before video game controllers become optional. Researchers at Yale U",
+      "url": "https://scitechdaily.com/scientists-let-people-play-video-games-using-only-their-thoughts/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-19T02:45:12+00:00"
+    },
+    {
+      "title": "A bold satellite rescue mission came together in record time, but will it work?",
+      "description": "\"I consider this a success already, just from the fact that we're even going to try this.\"",
+      "url": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-19T00:39:30+00:00"
+    },
+    {
+      "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+      "description": "Crypto Clipper spreads over USB and communicates over Tor.",
+      "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-18T23:28:52+00:00"
+    },
+    {
+      "title": "The artificial ice pyramids saving India's mountain villages",
+      "description": "Himalayan villages are creating artificial glaciers to guarantee water for their crops in the spring.",
+      "url": "https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-06-18T23:11:07+00:00"
+    },
+    {
+      "title": "Brexit cost 6% of UK economy, Bank of England company data suggests",
+      "description": "Analysis showed how much the UK could have grown if it had not exited the EU.",
+      "url": "https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-06-18T23:05:05+00:00"
+    },
+    {
+      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+      "description": "In February, a Trump official refused to review the vaccine.",
+      "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-18T22:08:59+00:00"
     },
     {
       "title": "Women’s Brains May Be More Vulnerable to Dementia Risk Factors Than Scientists Realized",
@@ -18,28 +290,12 @@
       "publishedAt": "2026-06-18T21:31:05+00:00"
     },
     {
-      "title": "Scotland fall short of famous win over Windies",
-      "description": "Scotland come up agonisingly short of a famous victory at the T20 World Cup as West Indies somehow come through to win a tumultuous game at Headingley.",
-      "url": "https://www.bbc.com/sport/cricket/articles/cly738qd150o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-18T21:28:13+00:00"
-    },
-    {
-      "title": "McIlroy starts strongly as Shinnecock bares its teeth",
-      "description": "Shinnecock Hills lives up to it's reputation as one of the toughest tests in golf on the opening day of a fog-delayed US Open as Rory McIlroy cards a one-under 69 in the opening round.",
-      "url": "https://www.bbc.com/sport/golf/articles/cly7rr96523o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-18T21:13:34+00:00"
-    },
-    {
-      "title": "The White House Is Making Up Its Rules for AI in Real Time",
-      "description": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.",
-      "url": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
-      "source": "Wired",
+      "title": "As China looms, Taiwan makes more drones for defense and the US military",
+      "description": "Taiwan's drone spending plans for defense could also boost business overseas.",
+      "url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
+      "source": "Ars Technica",
       "category": "Technology",
-      "publishedAt": "2026-06-18T21:03:43+00:00"
+      "publishedAt": "2026-06-18T21:21:26+00:00"
     },
     {
       "title": "Scientists Say We’ve Been Wrong About the Aging Brain",
@@ -59,7 +315,7 @@
     },
     {
       "title": "Valve is so behind on Steam Controller orders that some won&#8217;t ship until 2027",
-      "description": "Valve has some good news and bad news about Steam Controllers. The good news: if you make a reservation for a Steam Controller, the company will now show you one of three estimates of when you'll be able to actually order your gamepad: by September 2026, by December 2026, or sometime in 2027. The ba",
+      "description": "Valve has some good news and bad news about Steam Controllers. The good news: If you make a reservation for a Steam Controller, the company will now show you one of three estimates of when you'll be able to actually order your gamepad: by September 2026, by December 2026, or sometime in 2027. The ba",
       "url": "https://www.theverge.com/games/952582/valve-steam-controller-reservations-orders-behind-estimated-date",
       "source": "The Verge",
       "category": "Technology",
@@ -74,30 +330,6 @@
       "publishedAt": "2026-06-18T20:22:46+00:00"
     },
     {
-      "title": "More Weight Loss, Fewer Fractures? New Study Points to Semaglutide",
-      "description": "Semaglutide was linked to greater weight loss and a 15% lower fracture risk in people with type 2 diabetes, raising the possibility of an unexpected bone health benefit. People with type 2 diabetes who took semaglutide experienced greater weight loss and a lower risk of bone fractures than those usi",
-      "url": "https://scitechdaily.com/more-weight-loss-fewer-fractures-new-study-points-to-semaglutide/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-18T20:21:00+00:00"
-    },
-    {
-      "title": "Sutton's World Cup score predictions - second group games",
-      "description": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/articles/cwykwyp001xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-18T20:00:21+00:00"
-    },
-    {
-      "title": "Usyk-Verhoeven ref had seen enough to end fight before bell",
-      "description": "The referee at the centre of the controversial fight between Oleksandr Usyk and Rico Verhoeven tells a boxing commission he had seen enough to stop the bout in the 11th round before the bell sounded.",
-      "url": "https://www.bbc.com/sport/boxing/articles/c5yzxxe0x27o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-18T19:58:48+00:00"
-    },
-    {
       "title": "Android verification is coming: Google confirms timeline and supported app stores",
       "description": "A new system service will roll out this month ahead of big changes starting in September.",
       "url": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
@@ -106,36 +338,12 @@
       "publishedAt": "2026-06-18T19:53:33+00:00"
     },
     {
-      "title": "44 Best Father’s Day Gifts for Dads (2026)",
-      "description": "Dads are traditionally tough to shop for—let me help with these handpicked gift ideas for fathers with great taste.",
-      "url": "https://www.wired.com/story/the-best-gifts-for-dads-2026-1/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-18T19:45:35+00:00"
-    },
-    {
       "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
       "description": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers.",
       "url": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-06-18T19:41:35+00:00"
-    },
-    {
-      "title": "Stokes could return as captain for third Test against NZ",
-      "description": "Ben Stokes could return as England captain as early as next week for the third Test against New Zealand at Trent Bridge.",
-      "url": "https://www.bbc.com/sport/cricket/articles/clyeggrj8ddo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-18T19:33:42+00:00"
-    },
-    {
-      "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
-      "description": "On today’s Uncanny Valley, we dive into the dysfunction in Meta’s newly formed AI unit and why it’s been driving already-low employee morale even further into the ground.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-18T19:29:51+00:00"
     },
     {
       "title": "HBO Max&#8217;s annual plans are 28 percent off right now",
@@ -162,110 +370,6 @@
       "publishedAt": "2026-06-18T18:54:32+00:00"
     },
     {
-      "title": "Olympic medallist Simpson recovering after collapse",
-      "description": "Olympic medallist Jenny Simpson is making 'encouraging improvement' in hospital after collapsing at an event in Raleigh, North Carolina.",
-      "url": "https://www.bbc.com/sport/athletics/articles/c5yzxx3010do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-18T18:28:07+00:00"
-    },
-    {
-      "title": "After Senate vote, Trump admin backs off plans to kill ocean monitoring",
-      "description": "It's unclear whether the system is currently intact.",
-      "url": "https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-18T18:19:44+00:00"
-    },
-    {
-      "title": "England in trouble after dreadful day against NZ",
-      "description": "England are in a dire position against New Zealand after spiralling from a chaotic morning on day two of the second Test at The Oval.",
-      "url": "https://www.bbc.com/sport/cricket/articles/cgrk52lk1j7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-18T18:15:26+00:00"
-    },
-    {
-      "title": "This robotic self-driving toilet comes to you",
-      "description": "During a recent expo in Shanghai that focuses on elderly care, assistive devices, and rehabilitation medicine, a Chinese company called Yueban debuted a smart toilet that does something we haven't seen before; it comes to you. The autonomous self-driving Xiaoban toilet was designed to improve access",
-      "url": "https://www.theverge.com/tech/952441/yueban-xiaoban-self-driving-autonomous-toilet",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-18T18:08:17+00:00"
-    },
-    {
-      "title": "Trump Mocked Mark Zuckerberg and Jeff Bezos by Showing Off Fawning Texts",
-      "description": "“You would not believe the texts I got from these tech guys,” NYT reporters Maggie Haberman and Jonathan Swan quote Donald Trump as telling associates in an upcoming book.",
-      "url": "https://www.wired.com/story/trump-mocked-mark-zuckerberg-and-jeff-bezos-by-showing-off-fawning-texts/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-18T17:58:30+00:00"
-    },
-    {
-      "title": "Tuchel's complaints lead to Fifa moving photographers",
-      "description": "England head coach Thomas Tuchel has won a battle with Fifa to get photographers moved away from the bench during the national anthems.",
-      "url": "https://www.bbc.com/sport/football/articles/cdejd2p65k3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-18T17:44:19+00:00"
-    },
-    {
-      "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
-      "description": "One previously unreported SpaceX investor has ties to Chinese military contractors.",
-      "url": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-18T17:42:18+00:00"
-    },
-    {
-      "title": "A year of Walmart Plus is half off ahead of Prime Day",
-      "description": "Do you often find yourself shopping at the big blue, or perhaps you’re just looking for an alternative to Amazon? Either way, Walmart is currently offering a year of its Walmart Plus subscription for $49, which typically costs $98. The membership includes perks like free delivery on orders over $35,",
-      "url": "https://www.theverge.com/gadgets/952283/walmart-plus-half-off-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-18T17:33:00+00:00"
-    },
-    {
-      "title": "Firefox’s new home page widgets are helping me focus",
-      "description": "I launched Firefox this morning to find some new blocks on my home page. The widgets that are currently rolling out add sports scores, time zones, a focus timer, and a checklist, which are already some of my favorite new Firefox features in years. I usually have Focus Friend open on my phone when I ",
-      "url": "https://www.theverge.com/tech/952354/firefox-home-page-widgets",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-18T17:29:50+00:00"
-    },
-    {
-      "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
-      "description": "Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-18T17:02:49+00:00"
-    },
-    {
-      "title": "These Tiny Birds Became Giants on Remote Scottish Islands",
-      "description": "Remote Scottish islands turned tiny wrens into giant birds that may be evolving into new species. Tiny wrens living on remote Scottish islands are providing scientists with a rare look at how evolution can reshape animals in isolated environments. A new study led by researchers at the University of ",
-      "url": "https://scitechdaily.com/these-tiny-birds-became-giants-on-remote-scottish-islands/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-18T16:27:56+00:00"
-    },
-    {
-      "title": "3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers",
-      "description": "The software engineers filed a complaint with Seattle’s civil rights office accusing Amazon of illegally retaliating against them for expressing their personal political beliefs.",
-      "url": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-18T16:03:27+00:00"
-    },
-    {
-      "title": "A Fatal Deer Disease May Be Spreading in Ways No One Expected",
-      "description": "Scientists found that chronic wasting disease may spread silently between species, revealing a hidden challenge in the fight against the fatal wildlife disease. Chronic wasting disease (CWD) is best known as a disease affecting deer, elk, and other cervid (hooved, plant-eating) animals. Now, researc",
-      "url": "https://scitechdaily.com/a-fatal-deer-disease-may-be-spreading-in-ways-no-one-expected/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-18T15:52:57+00:00"
-    },
-    {
       "title": "Fed governor Lisa Cook faced $1.3m in legal and security fees after Trump’s bid to fire her",
       "description": "Cook is at the center of a supreme court case focused on whether Trump’s firing of her from the Fed board was legalThe Federal Reserve governor Lisa Cook faced more than $1.3m in legal and security fees after coming under attack from the Trump administration, according to ethics disclosures that wer",
       "url": "https://www.theguardian.com/business/2026/jun/18/lisa-cook-legal-security-fees-trump-fed",
@@ -290,62 +394,6 @@
       "publishedAt": "2026-06-18T15:33:53+00:00"
     },
     {
-      "title": "CrossCountry ranked Britain's worst train operator",
-      "description": "Transport Focus asks it to reduce delays and provide better information during disruption.",
-      "url": "https://www.bbc.com/news/articles/c36y5ezr0k7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-18T15:25:26+00:00"
-    },
-    {
-      "title": "68 Quadrillion Miles: Scientists Map Earth’s Vast Hidden Fungal Network for the First Time",
-      "description": "The first global map of underground fungal networks reveals a hidden 68 quadrillion-mile superhighway that helps sustain life on Earth and store carbon in the soil. Beneath forests, grasslands, wetlands, and even many agricultural fields lies a vast underground fungal network that supports plant lif",
-      "url": "https://scitechdaily.com/68-quadrillion-miles-scientists-map-earths-vast-hidden-fungal-network-for-the-first-time/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-18T15:17:08+00:00"
-    },
-    {
-      "title": "Heathrow's 'critical' expansion blueprint released",
-      "description": "A consultation is launched on the Heathrow expansion, outlining conditions for the project to go ahead.",
-      "url": "https://www.bbc.com/news/articles/cx2dem7y78no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-18T15:07:21+00:00"
-    },
-    {
-      "title": "Hunter-gatherers in Siberia died of a plague outbreak 5,500 years ago",
-      "description": "We can't blame the Neolithic Transition for the plague anymore.",
-      "url": "https://arstechnica.com/science/2026/06/hunter-gatherers-in-siberia-died-of-a-plague-outbreak-5500-years-ago/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-18T15:04:40+00:00"
-    },
-    {
-      "title": "Silicon Valley’s Elite Financial Advisers Say This Era of Wealth Is Different",
-      "description": "The rich are getting richer. Here’s what wealth advisers are telling their tech clients right now.",
-      "url": "https://www.wired.com/story/silicon-valleys-elite-financial-advisers-say-this-era-of-wealth-is-different/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-18T15:00:00+00:00"
-    },
-    {
-      "title": "The first long-duration resident of the ISS, a cosmonaut, has died",
-      "description": "Two expeditions, two spacewalks, 322 days in space.",
-      "url": "https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-18T14:34:36+00:00"
-    },
-    {
-      "title": "Apple to raise prices as AI boom pushes up chip costs",
-      "description": "The firm's outgoing boss Tim Cook did not say when prices would rise or which products would be affected.",
-      "url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-18T14:03:27+00:00"
-    },
-    {
       "title": "Interest rates held as Bank warns of impact of high energy prices",
       "description": "The Bank last cut interest rates in December but upheaval in the Middle East has stalled any further reductions.",
       "url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
@@ -354,60 +402,12 @@
       "publishedAt": "2026-06-18T12:50:33+00:00"
     },
     {
-      "title": "Waymo Recalls Robotaxis Over Risk They'll Drive at Speed Into Freeway Construction Zones",
-      "description": "The company's latest recall of 3,871 vehicles follows incidents of its autonomous cars prioritizing other hazards or failing to recognize closed construction zones altogether.",
-      "url": "https://www.wired.com/story/waymo-recalls-robotaxis-over-risk-theyll-drive-at-speed-into-freeway-construction-zones/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-18T12:50:21+00:00"
-    },
-    {
-      "title": "Breakthrough Fentanyl Vaccine Could Neutralize Designer Drugs and Prevent Overdoses",
-      "description": "An experimental vaccine could help stop fentanyl and future designer-drug variants before they can trigger a deadly overdose. Fentanyl has become one of the deadliest drugs in the United States, with fentanyl and related synthetic opioid variants now claiming more lives each year than car crashes an",
-      "url": "https://scitechdaily.com/breakthrough-fentanyl-vaccine-could-neutralize-designer-drugs-and-prevent-overdoses/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-18T11:57:04+00:00"
-    },
-    {
-      "title": "Number of job vacancies hits five year-low",
-      "description": "Latest figures suggest companies are becoming more cautious about taking on new staff.",
-      "url": "https://www.bbc.com/news/articles/cm203nn7lzro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-18T11:25:44+00:00"
-    },
-    {
-      "title": "Researchers Expected Ozempic Weight Loss to Boost Exercise. It Didn’t",
-      "description": "People taking popular GLP-1 weight-loss drugs like Ozempic, Wegovy, Mounjaro, and Zepbound may be shedding pounds, but a new study suggests they are also moving less. People with obesity who lost weight while taking popular medications such as Ozempic, Wegovy, Zepbound, and similar drugs became sign",
-      "url": "https://scitechdaily.com/researchers-expected-ozempic-weight-loss-to-boost-exercise-it-didnt/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-18T11:22:29+00:00"
-    },
-    {
       "title": "Young women now have 'close to zero' risk of cervical cancer death after HPV jab",
       "description": "A new study finds that hundreds of lives have been saved since school-age girls were offered the HPV jab in 2008.",
       "url": "https://www.bbc.com/news/articles/c621z28z138o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-06-18T08:14:34+00:00"
-    },
-    {
-      "title": "Why has Texas set its sights on London?",
-      "description": "Texas, which once had an embassy in London, strengthens its ties with the capital by opening a new trade office.",
-      "url": "https://www.bbc.com/news/articles/ckgpgvklkgko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-18T05:03:39+00:00"
-    },
-    {
-      "title": "'We had to get out of the way': The backlash over delivery robots",
-      "description": "As the delivery vehicles increasing take to US streets, bans and protest groups are springing up.",
-      "url": "https://www.bbc.com/news/articles/c0rygp005wjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-17T23:02:05+00:00"
     },
     {
       "title": "Federal Reserve holds rates steady but signals possible hike before year’s end",
@@ -424,14 +424,6 @@
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-06-17T13:12:55+00:00"
-    },
-    {
-      "title": "'We travel 530 miles so our son can have a haircut'",
-      "description": "How a very special hairdressing salon in Lowestoft is cutting it when it comes to neurodivergence.",
-      "url": "https://www.bbc.com/news/articles/cwyd9yzg46yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-06-17T06:13:43+00:00"
     }
   ]
 }
