@@ -1,6 +1,174 @@
 {
-  "updatedAt": "2026-06-20T11:06:39.624928+00:00",
+  "updatedAt": "2026-06-20T22:04:43.683660+00:00",
   "articles": [
+    {
+      "title": "Newcastle reject Spurs bid of about £80m for Tonali",
+      "description": "Newcastle United reject a bid from Tottenham Hotspur for midfielder Sandro Tonali of about £80m.",
+      "url": "https://www.bbc.com/sport/football/articles/cy4en7q3j77o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-20T21:39:47+00:00"
+    },
+    {
+      "title": "Scientists Finally Uncover Why Solid-State Batteries Short-Circuit",
+      "description": "Researchers have uncovered a critical mechanism behind battery failure in solid-state batteries, offering new insights that could help unlock safer, longer-lasting energy storage technologies. Every time a smartphone is charged or an electric vehicle is plugged in, billions of lithium ions move thro",
+      "url": "https://scitechdaily.com/scientists-finally-uncover-why-solid-state-batteries-short-circuit/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-20T21:38:28+00:00"
+    },
+    {
+      "title": "Impressive England beat Scotland to close on semis",
+      "description": "England's batting sparkles again as the hosts close on a place in the T20 World Cup semi-finals with an 38-run victory over Scotland at Headingley.",
+      "url": "https://www.bbc.com/sport/cricket/articles/cy5vwqn0yr0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-20T20:54:57+00:00"
+    },
+    {
+      "title": "Scotland expects: What is behind McTominay's understated World Cup?",
+      "description": "Some are suggesting Scott McTominay has not had the expected impact for Scotland at the World Cup, but is that fair on the Napoli midfielder?",
+      "url": "https://www.bbc.com/sport/football/articles/c78yn1gzy6do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-20T20:16:11+00:00"
+    },
+    {
+      "title": "Hunt and Glave win British 100m titles",
+      "description": "Amy Hunt retains her British 100m title while Romell Glave becomes the men's 100m champion for the first time.",
+      "url": "https://www.bbc.com/sport/athletics/articles/c9d2g083943o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-20T19:50:23+00:00"
+    },
+    {
+      "title": "Netherlands thrash Sweden to all but guarantee last-32 place",
+      "description": "Brian Brobbey and Cody Gakpo score two goals apiece as the Netherlands cruise past Sweden 5-1 to all but mathematically guarantee a place in the last 32 of the World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c17yl58xlpdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-20T19:36:30+00:00"
+    },
+    {
+      "title": "Can 'best Northampton team ever' become one of English rugby's greats?",
+      "description": "Does Northampton Saints' second Prem Rugby title in three seasons suggest a dynasty is being built at the club?",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cq513040wd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-20T19:35:43+00:00"
+    },
+    {
+      "title": "Tongue admits England have missed absent Stokes",
+      "description": "Pace bowler Josh Tongue admits England have missed absent captain Ben Stokes as they head for a heavy defeat in the second Test against New Zealand.",
+      "url": "https://www.bbc.com/sport/cricket/articles/c9329xx4e3no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-20T19:22:11+00:00"
+    },
+    {
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "description": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount o",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-20T18:46:48+00:00"
+    },
+    {
+      "title": "Scientists Discover the “Achilles’ Heel” of Two of the World’s Deadliest Diarrhea Bacteria",
+      "description": "Scientists have uncovered a shared target used by multiple diarrhea-causing bacteria to invade the gut. Despite decades of research, scientists still do not have vaccines against two of the world&#8217;s most common causes of severe bacterial diarrhea: enterotoxigenic E. coli (ETEC) and Shigella. To",
+      "url": "https://scitechdaily.com/scientists-discover-the-achilles-heel-of-two-of-the-worlds-deadliest-diarrhea-bacteria/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-20T18:27:34+00:00"
+    },
+    {
+      "title": "Saka trains alone as England prepare for Ghana game",
+      "description": "Bukayo Saka was the only player not present in group training as England continued their preparations for their second World Cup match against Ghana.",
+      "url": "https://www.bbc.com/sport/football/articles/cr47wqdq26lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-20T18:02:39+00:00"
+    },
+    {
+      "title": "Why Older Adults Need To Pay Closer Attention to Vitamin B12",
+      "description": "Vitamin B12 is needed in only trace amounts, yet its absence can have far-reaching effects. Two micrograms is an almost unimaginably small amount. It weighs less than a tiny fragment of a grain of table salt. Yet adults need only around this amount of vitamin B12 each day, depending on the guideline",
+      "url": "https://scitechdaily.com/why-older-adults-need-to-pay-closer-attention-to-vitamin-b12/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-20T17:52:37+00:00"
+    },
+    {
+      "title": "Scientists Say a Daily Probiotic May Help Fight Depression in Older Adults",
+      "description": "A new study suggests that altering the gut microbiome with probiotics may provide additional benefits for older adults being treated for depression. Could a daily probiotic help ease depression in older adults? A new clinical trial suggests the answer may be yes, adding to growing evidence that the ",
+      "url": "https://scitechdaily.com/scientists-say-a-daily-probiotic-may-help-fight-depression-in-older-adults/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-20T17:17:36+00:00"
+    },
+    {
+      "title": "2,000-Year-Old Grape Seeds Rewrite the History of Italian Wine",
+      "description": "A genetic study of 2,000-year-old grape seeds is shedding new light on ancient winemaking. For centuries, the vineyards of Tuscany have been associated with some of the world’s most celebrated red wines. But a cache of grape seeds buried in ancient wells is revealing a very different story about wha",
+      "url": "https://scitechdaily.com/2000-year-old-grape-seeds-rewrite-the-history-of-italian-wine/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-20T15:36:39+00:00"
+    },
+    {
+      "title": "Musician and YouTuber Hainbach on ‘Breath of the Wild’ and Swiss Army Knives",
+      "description": "Stefan Paul Goetsch, better known as Hainbach, is a German experimental composer, artist, and YouTuber who is perhaps most famous for making music with laboratory equipment and scientific instruments. He describes it as being like the \"Dark Souls of synthesis.\" Despite using \"hard mode\" production t",
+      "url": "https://www.theverge.com/report/953116/experimental-musician-youtuber-hainbach-interview",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-20T15:20:00+00:00"
+    },
+    {
+      "title": "Why You Flinch When Someone Else Gets Hurt",
+      "description": "Scientists discovered that the visual brain may secretly &#8220;feel&#8221; what it sees, turning sight into physical experience and helping make empathy possible. Working with researchers from institutions around the world, Nicholas Hedger (University of Reading) and Tomas Knapen (Netherlands Insti",
+      "url": "https://scitechdaily.com/why-you-flinch-when-someone-else-gets-hurt/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-20T15:01:38+00:00"
+    },
+    {
+      "title": "This Deadly Disease Was Wiping Out Humans 5,500 Years Ago",
+      "description": "A new study suggests plague was already a deadly threat 5,500 years ago, striking small hunter-gatherer communities long before cities and agriculture emerged. For centuries, plague has been remembered as the disease that devastated medieval Europe, killing millions and reshaping societies. But new ",
+      "url": "https://scitechdaily.com/this-deadly-disease-was-wiping-out-humans-5500-years-ago/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-20T14:26:21+00:00"
+    },
+    {
+      "title": "Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG",
+      "description": "From its opening minutes, Moves of the Diamond Hand is upfront about what it offers: You're going to have a lot of strange conversations, and you're going to roll a lot of dice. Get on board with this proposition, and the reward is one of the most creative roleplaying games I've seen in years, even ",
+      "url": "https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-20T14:00:00+00:00"
+    },
+    {
+      "title": "Toy Story has the right take on tech",
+      "description": "Hi, friends! Welcome to Installer No. 133, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy belated Juneteenth, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Sam Bankman-Fried and PE Guy and admi",
+      "url": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-20T12:00:00+00:00"
+    },
+    {
+      "title": "The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed",
+      "description": "Tests of age-verification technology show the risks of life-altering errors.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-20T11:15:09+00:00"
+    },
+    {
+      "title": "How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’",
+      "description": "We asked people in the US about their customer service battles and hundreds responded on the financial and emotional costsGuardian readers from across the US wrote in to tell us about their battles with big companies, and the time, expense and emotional toll exacted by businesses they say are priori",
+      "url": "https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-06-20T11:00:03+00:00"
+    },
     {
       "title": "Home Batteries: How They're Installed and How Much They Cost",
       "description": "After adding one to my home, here's why you might want a home battery, how they work, and what to look for, plus some installation tips.",
@@ -50,76 +218,12 @@
       "publishedAt": "2026-06-20T09:00:00+00:00"
     },
     {
-      "title": "'Everything I do is for you' - how tragedy is driving Diomande",
-      "description": "BBC Sport explores how exciting young Ivory Coast Yan Diomande is determined to succeed at the World Cup in honour of his sister.",
-      "url": "https://www.bbc.com/sport/football/articles/ckg04xer94eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-20T08:56:58+00:00"
-    },
-    {
       "title": "SwitchBot’s Standing Circulator Fan is worth fighting for",
       "description": "I can't remember the last time I got excited about a fan. Normally, I just buy whatever Vornado or Dreo model fits my budget, but that was before I started testing the battery-powered Standing Circulator Fan from SwitchBot. As the name indicates, the SwitchBot fan is a 3D circulator - a fancy way of",
       "url": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-06-20T07:00:00+00:00"
-    },
-    {
-      "title": "World Cup first sees Almiron sent off for covering mouth",
-      "description": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey.",
-      "url": "https://www.bbc.com/sport/football/videos/c17y0977klgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-20T05:05:57+00:00"
-    },
-    {
-      "title": "World Cup still waits for real Brazil to show up",
-      "description": "While rivals Argentina and France have impressed in the United States, Brazil have struggled to hit top form - despite a 3-0 win over minnows Haiti.",
-      "url": "https://www.bbc.com/sport/football/articles/c4gy8lldwqyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-20T04:54:22+00:00"
-    },
-    {
-      "title": "Almiron first player sent off for covering mouth",
-      "description": "Paraguay's Miguel Almiron is the first player to be shown a red card for covering his mouth while speaking to an opponent - doing so during the World Cup match against Turkey.",
-      "url": "https://www.bbc.com/sport/football/articles/cvg58m7n1plo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-20T04:45:25+00:00"
-    },
-    {
-      "title": "Cunha scores twice as Brazil beat Haiti",
-      "description": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/cy04ly9rk22o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-20T03:06:22+00:00"
-    },
-    {
-      "title": "Clark in control of US Open as wind hinders McIlroy and Scheffler",
-      "description": "Wyndham Clark opens a four-shot halfway lead at the US Open, with England's Matt Fitzpatrick among the closest challengers.",
-      "url": "https://www.bbc.com/sport/golf/articles/cgrk5rqn0djo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-20T01:59:16+00:00"
-    },
-    {
-      "title": "Flawed but relentless Scotland show themselves as men of substance",
-      "description": "Morocco threatened to blow Scotland away early on, but Steve Clarke's squad showed their resilience despite defeat, writes Tom English.",
-      "url": "https://www.bbc.com/sport/football/articles/c33y5v4mer3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-20T01:41:52+00:00"
-    },
-    {
-      "title": "Scotland fall to narrow defeat against Morocco",
-      "description": "Scotland concede after 71 seconds and fall to a World Cup defeat against a classy Morocco, but their hopes of a historic knock-out place remain in their own hands with one group game to go.",
-      "url": "https://www.bbc.com/sport/videos/cn59zxl376ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-20T00:47:02+00:00"
     },
     {
       "title": "Nothing cancels this year&#8217;s CMF phone due to RAM prices",
@@ -138,28 +242,12 @@
       "publishedAt": "2026-06-19T19:43:21+00:00"
     },
     {
-      "title": "The Surprising Reason Swimming Could Be Better for Your Heart Than Running",
-      "description": "Swimming matched running for fitness gains but delivered greater heart growth and more favorable molecular changes, making it potentially more beneficial for cardiovascular health. For decades, swimming and running have been considered two of the best forms of aerobic exercise for cardiovascular hea",
-      "url": "https://scitechdaily.com/the-surprising-reason-swimming-could-be-better-for-your-heart-than-running/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-19T19:08:23+00:00"
-    },
-    {
       "title": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
       "description": "Relativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-private partnership, Relativity Space will provide the \"spacecraft, rocket, and cruise operations\" to fl",
       "url": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-06-19T18:41:48+00:00"
-    },
-    {
-      "title": "Could Vitamin C Be the Secret to Keeping Your Brain Younger?",
-      "description": "Lower vitamin C levels were linked to reduced brain volume and weaker neural connectivity in older adults, suggesting a potential connection between nutrition and brain health. Could a common vitamin help preserve the brain as we age? A new study of more than 2,000 older adults in Japan found that p",
-      "url": "https://scitechdaily.com/could-vitamin-c-be-the-secret-to-keeping-your-brain-younger/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-19T18:33:24+00:00"
     },
     {
       "title": "Hue’s wired wall modules bring non-smart lights into its ecosystem",
@@ -178,44 +266,12 @@
       "publishedAt": "2026-06-19T16:18:49+00:00"
     },
     {
-      "title": "The Surprising Fix for Robot Traffic Jams",
-      "description": "Harvard researchers found that adding a little randomness to robot movements can prevent gridlock and dramatically boost efficiency in crowded swarms. Imagine a swarm of robots sent into a tight space to handle an urgent job, such as cleaning up an oil spill or assembling complex equipment. At first",
-      "url": "https://scitechdaily.com/the-surprising-fix-for-robot-traffic-jams/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-19T16:11:37+00:00"
-    },
-    {
-      "title": "Near Absolute Zero, This Transistor Starts Acting Like a Brain Cell",
-      "description": "A single transistor that behaves like a brain cell in the deep freeze could help unlock the next generation of quantum computers and space exploration systems. Researchers at the University of Hong Kong (HKU) have developed a new type of brain-inspired electronic hardware that can operate at tempera",
-      "url": "https://scitechdaily.com/near-absolute-zero-this-transistor-starts-acting-like-a-brain-cell/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-19T15:36:36+00:00"
-    },
-    {
       "title": "O'Leary extends Ryanair contract in deal that could net him over £130m",
       "description": "The Ryanair boss extends his contract to 2032, in a deal featuring a bonus scheme that could earn him more than €150m (£130m).",
       "url": "https://www.bbc.com/news/articles/c4gyejpy221o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-06-19T15:27:27+00:00"
-    },
-    {
-      "title": "Beyond DNA: Scientists Discover Inheritance That Breaks the Rules of Genetics",
-      "description": "Scientists found that some inherited traits can bypass the traditional rules of genetics, revealing a surprising new layer of inheritance beyond DNA. For more than a century, Gregor Mendel&#8217;s laws of inheritance have served as the foundation of genetics. But new research suggests that inheritan",
-      "url": "https://scitechdaily.com/beyond-dna-scientists-discover-inheritance-that-breaks-the-rules-of-genetics/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-19T15:01:38+00:00"
-    },
-    {
-      "title": "The NTS Radio Player brings the best of internet radio to your hi-fi",
-      "description": "NTS Radio and Swedish audio company Atonemo have teamed up on a dedicated player that brings NTS's genre-defying mixes and streaming stations to almost any stereo or speaker setup. And, like Atonemo's existing Streamplayer, you can also listen to your favorite streaming services with it, using AirPl",
-      "url": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-19T14:53:53+00:00"
     },
     {
       "title": "The Most Promising Ebola Vaccine Has Been Sitting on the Shelf for 15 Years",
@@ -226,44 +282,12 @@
       "publishedAt": "2026-06-19T14:23:43+00:00"
     },
     {
-      "title": "The film about Sam Altman has been dropped by Amazon MGM",
-      "description": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast als",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-19T14:15:29+00:00"
-    },
-    {
-      "title": "Our long national sunscreen nightmare is almost over",
-      "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On TikTok, the tanned youths are explaining why they no longer wear sunscreen. In on",
-      "url": "https://www.theverge.com/column/952744/optimizer-sunscreen-bemotrizinol-fda-health",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-19T14:00:00+00:00"
-    },
-    {
       "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
       "description": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.",
       "url": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-06-19T13:36:53+00:00"
-    },
-    {
-      "title": "T1 Phone PR firm is &#8216;not assisting Trump Mobile any further&#8217;",
-      "description": "Where's the Trump phone? We're going to keep talking about it every week. We don't have the phones we preordered yet, but this week we received unexpected news from Trump Mobile's media relations manager. If you've been following my reporting on the Trump phone, you'll know that Trump Mobile doesn't",
-      "url": "https://www.theverge.com/gadgets/952274/t1-phone-pr-firm-not-assisting-trump-mobile-any-further",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-19T13:00:00+00:00"
-    },
-    {
-      "title": "‘It’s a scam’: Americans express unease over SpaceX’s influence on retirement savings",
-      "description": "Guardian readers in the US share concerns about how the SpaceX IPO and AI boom affect their retirement accountsElon Musk became the world’s first trillionaire last week after SpaceX debuted on the stock market with a valuation of $1.77tn.Millions of Americans could soon become indirect investors in ",
-      "url": "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-06-19T12:00:33+00:00"
     },
     {
       "title": "The Best iPad to Buy (and Some to Avoid) in 2026: Compare the Air, Pro, Mini",
@@ -274,28 +298,12 @@
       "publishedAt": "2026-06-19T12:00:00+00:00"
     },
     {
-      "title": "A Surprising Discovery Challenges What Scientists Thought DNA Methylation Was For",
-      "description": "DNA carries the instructions for life, but additional molecular systems help determine how those instructions are used. New research in a sea anemone reveals an unexpected role for one of these systems. DNA is often described as the blueprint of life, but a blueprint is only useful if someone knows ",
-      "url": "https://scitechdaily.com/a-surprising-discovery-challenges-what-scientists-thought-dna-methylation-was-for/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-19T11:54:21+00:00"
-    },
-    {
       "title": "Plans to end gazumping with binding agreements in house sales shake-up",
       "description": "Sales agreements will be legally binding sooner and making sellers provide more home information up front are part of the planned changes.",
       "url": "https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-06-19T11:41:14+00:00"
-    },
-    {
-      "title": "This New DNA Test Solves Rare Disease Mysteries That Standard Genetics Misses",
-      "description": "A new long-read DNA test improves rare disease diagnosis, replaces multiple existing tests, and could become the preferred global standard for genetic diagnostics. A new DNA test is providing a far more detailed view of the genome than current standard diagnostic methods, helping doctors identify ra",
-      "url": "https://scitechdaily.com/this-new-dna-test-solves-rare-disease-mysteries-that-standard-genetics-misses/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-19T11:19:13+00:00"
     },
     {
       "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
@@ -384,54 +392,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-06-18T22:08:59+00:00"
-    },
-    {
-      "title": "As China looms, Taiwan makes more drones for defense and the US military",
-      "description": "Taiwan's drone spending plans for defense could also boost business overseas.",
-      "url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-18T21:21:26+00:00"
-    },
-    {
-      "title": "NASA asks Northrop Grumman to stop working on lunar HALO module",
-      "description": "\"We are reassigning most affected employees across existing opportunities and programs.\"",
-      "url": "https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-18T20:49:55+00:00"
-    },
-    {
-      "title": "Android verification is coming: Google confirms timeline and supported app stores",
-      "description": "A new system service will roll out this month ahead of big changes starting in September.",
-      "url": "https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-18T19:53:33+00:00"
-    },
-    {
-      "title": "Fed governor Lisa Cook faced $1.3m in legal and security fees after Trump’s bid to fire her",
-      "description": "Cook is at the center of a supreme court case focused on whether Trump’s firing of her from the Fed board was legalThe Federal Reserve governor Lisa Cook faced more than $1.3m in legal and security fees after coming under attack from the Trump administration, according to ethics disclosures that wer",
-      "url": "https://www.theguardian.com/business/2026/jun/18/lisa-cook-legal-security-fees-trump-fed",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-06-18T15:43:40+00:00"
-    },
-    {
-      "title": "Not so empty nesters: record-high number of US adults under 35 live at home, new data says",
-      "description": "Data shows that the increase in at-home living stems from high housing costs rather than labor market conditionsA record number of the US’s young adults were living with their parents last year, according to new data from Realtor.com, as high housing costs pushed the milestone of independent living ",
-      "url": "https://www.theguardian.com/society/2026/jun/18/us-adults-under-35-living-at-home",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-06-18T15:33:53+00:00"
-    },
-    {
-      "title": "Interest rates held as Bank warns of impact of high energy prices",
-      "description": "The Bank last cut interest rates in December but upheaval in the Middle East has stalled any further reductions.",
-      "url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-18T12:50:33+00:00"
     }
   ]
 }
