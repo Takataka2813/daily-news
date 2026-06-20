@@ -1,13 +1,125 @@
 {
-  "updatedAt": "2026-06-19T22:02:50.063020+00:00",
+  "updatedAt": "2026-06-20T11:06:39.624928+00:00",
   "articles": [
     {
-      "title": "USA close in on last 32 with win over Australia",
-      "description": "The United States take a huge step towards winning their World Cup group beating Australia 2-0 with a dominant, high-energy performance in front of a boisterous sellout crowd in Seattle.",
-      "url": "https://www.bbc.com/sport/football/videos/c30ylqjmpgyo?at_medium=RSS&at_campaign=rss",
+      "title": "Home Batteries: How They're Installed and How Much They Cost",
+      "description": "After adding one to my home, here's why you might want a home battery, how they work, and what to look for, plus some installation tips.",
+      "url": "https://www.wired.com/story/how-to-buy-a-home-battery/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-20T11:00:00+00:00"
+    },
+    {
+      "title": "I Found 29 Early Prime Day Deals That Are Worth Shopping Now (2026)",
+      "description": "We’ve trawled the depths of Amazon to find the best deals on gear we’ve tested.",
+      "url": "https://www.wired.com/story/early-prime-day-deals-june-2026-2/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-20T10:38:00+00:00"
+    },
+    {
+      "title": "16 Best Greens Powders (2026): Taste-Tested for Months",
+      "description": "I did the research and taste-testing to find the best greens powders worth your money. Bloom Nutrition’s Superfood Greens Powder is my tried-and-true pick.",
+      "url": "https://www.wired.com/gallery/best-greens-powders/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-20T10:31:00+00:00"
+    },
+    {
+      "title": "Siri AI Hands On: A Smart, Helpful Assistant",
+      "description": "The new Siri AI is conversational, omnipresent, and actually helpful.",
+      "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-20T10:00:00+00:00"
+    },
+    {
+      "title": "Hackers Claim to Leak Stolen Madison Square Garden Data",
+      "description": "Plus: Gay bars in San Francisco using face scanners, France quits Palantir, Apple plans to change its private email and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-hackers-claim-to-leak-stolen-madison-square-garden-data/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-20T09:30:00+00:00"
+    },
+    {
+      "title": "Scientists Invent a Way to Brew Espresso With Ultrasonic Waves—No Hot Water Required",
+      "description": "Researchers have demonstrated they can make coffee comparable to conventional espresso using ultrasonic waves. Because the process doesn’t need hot water, it consumes 75 percent less energy.",
+      "url": "https://www.wired.com/story/scientists-brew-espresso-with-ultrasonic-waves/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-20T09:00:00+00:00"
+    },
+    {
+      "title": "'Everything I do is for you' - how tragedy is driving Diomande",
+      "description": "BBC Sport explores how exciting young Ivory Coast Yan Diomande is determined to succeed at the World Cup in honour of his sister.",
+      "url": "https://www.bbc.com/sport/football/articles/ckg04xer94eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-06-19T21:46:26+00:00"
+      "publishedAt": "2026-06-20T08:56:58+00:00"
+    },
+    {
+      "title": "SwitchBot’s Standing Circulator Fan is worth fighting for",
+      "description": "I can't remember the last time I got excited about a fan. Normally, I just buy whatever Vornado or Dreo model fits my budget, but that was before I started testing the battery-powered Standing Circulator Fan from SwitchBot. As the name indicates, the SwitchBot fan is a 3D circulator - a fancy way of",
+      "url": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-20T07:00:00+00:00"
+    },
+    {
+      "title": "World Cup first sees Almiron sent off for covering mouth",
+      "description": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey.",
+      "url": "https://www.bbc.com/sport/football/videos/c17y0977klgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-20T05:05:57+00:00"
+    },
+    {
+      "title": "World Cup still waits for real Brazil to show up",
+      "description": "While rivals Argentina and France have impressed in the United States, Brazil have struggled to hit top form - despite a 3-0 win over minnows Haiti.",
+      "url": "https://www.bbc.com/sport/football/articles/c4gy8lldwqyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-20T04:54:22+00:00"
+    },
+    {
+      "title": "Almiron first player sent off for covering mouth",
+      "description": "Paraguay's Miguel Almiron is the first player to be shown a red card for covering his mouth while speaking to an opponent - doing so during the World Cup match against Turkey.",
+      "url": "https://www.bbc.com/sport/football/articles/cvg58m7n1plo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-20T04:45:25+00:00"
+    },
+    {
+      "title": "Cunha scores twice as Brazil beat Haiti",
+      "description": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/cy04ly9rk22o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-20T03:06:22+00:00"
+    },
+    {
+      "title": "Clark in control of US Open as wind hinders McIlroy and Scheffler",
+      "description": "Wyndham Clark opens a four-shot halfway lead at the US Open, with England's Matt Fitzpatrick among the closest challengers.",
+      "url": "https://www.bbc.com/sport/golf/articles/cgrk5rqn0djo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-20T01:59:16+00:00"
+    },
+    {
+      "title": "Flawed but relentless Scotland show themselves as men of substance",
+      "description": "Morocco threatened to blow Scotland away early on, but Steve Clarke's squad showed their resilience despite defeat, writes Tom English.",
+      "url": "https://www.bbc.com/sport/football/articles/c33y5v4mer3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-20T01:41:52+00:00"
+    },
+    {
+      "title": "Scotland fall to narrow defeat against Morocco",
+      "description": "Scotland concede after 71 seconds and fall to a World Cup defeat against a classy Morocco, but their hopes of a historic knock-out place remain in their own hands with one group game to go.",
+      "url": "https://www.bbc.com/sport/videos/cn59zxl376ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-20T00:47:02+00:00"
     },
     {
       "title": "Nothing cancels this year&#8217;s CMF phone due to RAM prices",
@@ -16,38 +128,6 @@
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-06-19T21:28:39+00:00"
-    },
-    {
-      "title": "NZ keep World Cup hopes alive with narrow win over Ireland",
-      "description": "New Zealand are still in the mix for a semi-finals spot at the T20 World Cup after a thrilling four-run win over Ireland in Southampton.",
-      "url": "https://www.bbc.com/sport/articles/cy4ek5j2ll9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-19T20:55:55+00:00"
-    },
-    {
-      "title": "Five-try Leinster rout Bulls to retain URC title",
-      "description": "Leinster retain their United Rugby Championship title with a resounding 36-7 win over the Bulls at Croke Park in Dublin.",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/ceqdg39yrxlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-19T20:44:30+00:00"
-    },
-    {
-      "title": "Ipswich close in on O'Neil as new head coach",
-      "description": "Former Wolves and Bournemouth boss O'Neil close to joining Ipswich after Keiran McKenna's departure.",
-      "url": "https://www.bbc.com/sport/football/articles/c3vy5g610yno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-19T20:28:59+00:00"
-    },
-    {
-      "title": "England winger Saka unlikely to start against Ghana",
-      "description": "England head coach Thomas Tuchel hints that Bukayo Saka is unlikely to be in contention to start against Ghana on Tuesday.",
-      "url": "https://www.bbc.com/sport/football/articles/crm0kg22m9jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-19T20:09:51+00:00"
     },
     {
       "title": "Scientists Uncover Cause of Inflammatory Bowel Disease Solving Decades-Old Mystery",
@@ -66,22 +146,6 @@
       "publishedAt": "2026-06-19T19:08:23+00:00"
     },
     {
-      "title": "England XV well beaten by France in summer warm-up",
-      "description": "France prove too skilful for England in the teams' non-Test summer warm-up in Vannes, easing away to a comfortable victory.",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/c78y0pyeenro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-19T18:55:05+00:00"
-    },
-    {
-      "title": "Fifa alters how World Cup tables work - it changes everything",
-      "description": "Fifa is using head-to-head records instead of group goal difference as the first tiebreaker for teams who are level on points at the World Cup.",
-      "url": "https://www.bbc.com/sport/football/articles/cn94jrj8d5go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-19T18:52:19+00:00"
-    },
-    {
       "title": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
       "description": "Relativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-private partnership, Relativity Space will provide the \"spacecraft, rocket, and cruise operations\" to fl",
       "url": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
@@ -98,20 +162,20 @@
       "publishedAt": "2026-06-19T18:33:24+00:00"
     },
     {
-      "title": "England hit by Rew drops and Nicholls century",
-      "description": "England’s parlous position in the second Test against New Zealand is compounded by drops from debutant wicketkeeper James Rew and a superb century by Henry Nicholls.",
-      "url": "https://www.bbc.com/sport/cricket/articles/cn94jnpv3wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-19T17:42:41+00:00"
-    },
-    {
       "title": "Hue’s wired wall modules bring non-smart lights into its ecosystem",
       "description": "Smart lighting company Philips Hue has launched its first wired wall modules. Installed behind existing wall switches, the new devices bring non-smart lights into the Hue ecosystem for the first time. Hue also announced new Play table and floor lamps that are more affordable versions of its Signe se",
       "url": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb",
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-06-19T17:24:45+00:00"
+    },
+    {
+      "title": "Minimum age of 11 set for UK puberty blocker trial",
+      "description": "Gender-questioning children will have to be at least 11 years old to take part in a clinical trial of puberty-blocking drugs.",
+      "url": "https://www.bbc.com/news/articles/c892p2qdjjxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-06-19T16:18:49+00:00"
     },
     {
       "title": "The Surprising Fix for Robot Traffic Jams",
@@ -194,12 +258,12 @@
       "publishedAt": "2026-06-19T13:00:00+00:00"
     },
     {
-      "title": "In season 2 of Sugar, Colin Farrell’s quirky detective becomes much more human",
-      "description": "When Colin Farrell was doing press for the first season of the detective series Sugar, he had to be very careful with how he spoke. Sugar is a story about a quirky private detective, but it's also secretly a work of science fiction, something that doesn't become clear until halfway through the seaso",
-      "url": "https://www.theverge.com/entertainment/951638/sugar-season-2-colin-farrell-interview-apple-tv",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-19T12:00:00+00:00"
+      "title": "‘It’s a scam’: Americans express unease over SpaceX’s influence on retirement savings",
+      "description": "Guardian readers in the US share concerns about how the SpaceX IPO and AI boom affect their retirement accountsElon Musk became the world’s first trillionaire last week after SpaceX debuted on the stock market with a valuation of $1.77tn.Millions of Americans could soon become indirect investors in ",
+      "url": "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-06-19T12:00:33+00:00"
     },
     {
       "title": "The Best iPad to Buy (and Some to Avoid) in 2026: Compare the Air, Pro, Mini",
@@ -226,14 +290,6 @@
       "publishedAt": "2026-06-19T11:41:14+00:00"
     },
     {
-      "title": "Best Mesh Wi-Fi Systems (2026): Netgear, Asus, Amazon, and More",
-      "description": "Forget about patchy internet connections and dead spots in the house. These WIRED-tested multiroom mesh systems will get you online in no time.",
-      "url": "https://www.wired.com/story/best-mesh-wifi-routers/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-19T11:31:00+00:00"
-    },
-    {
       "title": "This New DNA Test Solves Rare Disease Mysteries That Standard Genetics Misses",
       "description": "A new long-read DNA test improves rare disease diagnosis, replaces multiple existing tests, and could become the preferred global standard for genetic diagnostics. A new DNA test is providing a far more detailed view of the genome than current standard diagnostic methods, helping doctors identify ra",
       "url": "https://scitechdaily.com/this-new-dna-test-solves-rare-disease-mysteries-that-standard-genetics-misses/",
@@ -250,44 +306,12 @@
       "publishedAt": "2026-06-19T11:15:11+00:00"
     },
     {
-      "title": "The Best Art TVs",
-      "description": "Even after your movies end, these art televisions look stunning on any wall.",
-      "url": "https://www.wired.com/story/best-art-tvs/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-19T11:00:00+00:00"
-    },
-    {
-      "title": "Gen Z Singles Are Trying to Make ‘Solomaxxing’ Aspirational",
-      "description": "For young people, the trend removes the stigma of being unmarried and alone, and recasts it as something to aim for, not avoid.",
-      "url": "https://www.wired.com/story/solomaxxing/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-19T11:00:00+00:00"
-    },
-    {
-      "title": "Try One of macOS 27’s Best Features Right Now",
-      "description": "Apple’s fall macOS release will let you build Shortcuts by typing what you want to happen. But Claude Code and Codex users don’t have to wait.",
-      "url": "https://www.wired.com/story/try-one-of-macos-27s-best-features-right-now-shortcuts-playground-agent/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-19T10:30:00+00:00"
-    },
-    {
-      "title": "Pump.Fun’s Bounties Platform Is a Black Hole of Circular Grifting",
-      "description": "The crypto platform claims you can “pay anyone to do anything,” from quitting a job on camera to getting a memecoin-themed tattoo. But it mostly seems like people trying to scam each other.",
-      "url": "https://www.wired.com/story/pumpfuns-bounties-platform-is-a-black-hole-of-circular-grifting/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-19T10:30:00+00:00"
-    },
-    {
-      "title": "The Best Fitness Trackers of 2026: Garmin, Google Fitbit, and More",
-      "description": "Find the right wearable for your lifestyle, workouts, and goals.",
-      "url": "https://www.wired.com/story/best-fitness-trackers/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-19T10:01:00+00:00"
+      "title": "Datacenters driving US clean energy growth while still threatening climate",
+      "description": "As datacenters’ connections to electric grids are held up, big tech is forced to throw money at producing its own powerDatacenters are driving unprecedented growth in the US clean energy industry, paradoxically boosting a sector that was sputtering before the artificial intelligence boom even as AI’",
+      "url": "https://www.theguardian.com/us-news/2026/jun/19/datacenters-us-clean-energy-growth-climate",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-06-19T11:00:30+00:00"
     },
     {
       "title": "Five ways the Iran peace deal could affect you and your money",
@@ -408,14 +432,6 @@
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-06-18T12:50:33+00:00"
-    },
-    {
-      "title": "Young women now have 'close to zero' risk of cervical cancer death after HPV jab",
-      "description": "A new study finds that hundreds of lives have been saved since school-age girls were offered the HPV jab in 2008.",
-      "url": "https://www.bbc.com/news/articles/c621z28z138o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-06-18T08:14:34+00:00"
     }
   ]
 }
