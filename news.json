@@ -1,13 +1,221 @@
 {
-  "updatedAt": "2026-06-20T22:04:43.683660+00:00",
+  "updatedAt": "2026-06-21T11:37:37.961912+00:00",
   "articles": [
     {
-      "title": "Newcastle reject Spurs bid of about £80m for Tonali",
-      "description": "Newcastle United reject a bid from Tottenham Hotspur for midfielder Sandro Tonali of about £80m.",
-      "url": "https://www.bbc.com/sport/football/articles/cy4en7q3j77o?at_medium=RSS&at_campaign=rss",
+      "title": "Five wickets in 40 minutes - Henry humilates England on day five",
+      "description": "Resuming on 182-5, England lose their remaining five wickets in a 40-minute period, with Matt Henry picking up all of the dismissals to finish with figures of 6-29 as New Zealand secure a 253-run victory in the second Test at The Oval and level the three match series 1-1.",
+      "url": "https://www.bbc.com/sport/cricket/videos/cpweqg1vp2yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-06-20T21:39:47+00:00"
+      "publishedAt": "2026-06-21T11:27:04+00:00"
+    },
+    {
+      "title": "Clark finishes strong and more from the third roun...",
+      "description": "Here's a look back at the highlights from the third round of the 2026 U.S. Open at Shinnecock Hills Golf Club.",
+      "url": "https://www.espn.com/golf/story/_/id/49119510/us-open-2026-third-round-sights-sounds-best-shots",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-21T11:16:47+00:00"
+    },
+    {
+      "title": "Chaotic England fortnight ends with huge defeat",
+      "description": "England's miserable fortnight ends with a crushing defeat in the second Test against New Zealand at The Oval - setting up a high-stakes decider at Trent Bridge.",
+      "url": "https://www.bbc.com/sport/cricket/articles/c1ey0532yevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-21T11:03:42+00:00"
+    },
+    {
+      "title": "Wooting 60HE v2: Peak Keyboard Perfection",
+      "description": "Wooting’s 60HE v2 isn’t just a terrific Hall Effect keyboard. It’s a fantastic keyboard period.",
+      "url": "https://www.wired.com/review/review-wooting-60he-v2/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-21T11:01:00+00:00"
+    },
+    {
+      "title": "Sony’s Xperia 1 VIII is still a phone for the fans",
+      "description": "The Xperia 1 VIII marks an attempt at a step change for Sony's flagship phone line. Not only has it had an aesthetic overhaul, but Sony has also revamped the camera system, dropping the continuous optical zoom telephoto that's defined the last four generations of Xperia phone. It's not all different",
+      "url": "https://www.theverge.com/tech/952245/sony-xperia-1-viii-review",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-21T11:00:00+00:00"
+    },
+    {
+      "title": "All three England keepers played there - Carlisle's role in trio's rise",
+      "description": "From west Cumbria to the World Cup, Carlisle is England's goalkeeper factory, with all of Thomas Tuchel's goalkeepers passing through the club.",
+      "url": "https://www.bbc.com/sport/football/articles/ckg4qw57d4do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-21T10:43:54+00:00"
+    },
+    {
+      "title": "The Best NAS Devices for Your Home After Months of Testing",
+      "description": "Network-attached storage (NAS) provides accessible shared space on your home network. After testing, these are my favorite NAS devices.",
+      "url": "https://www.wired.com/story/best-nas-devices/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-21T10:30:00+00:00"
+    },
+    {
+      "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+      "description": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
+      "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-21T10:30:00+00:00"
+    },
+    {
+      "title": "If You’re Searching for a New Skillet, Consider Stainless Steel",
+      "description": "Stainless-steel pans may lack nonstick coatings, but they’re unfussy, they sear well, and they’re built for a lifetime of hard work.",
+      "url": "https://www.wired.com/story/stainless-steel-skillets-are-great/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-21T10:30:00+00:00"
+    },
+    {
+      "title": "Review: Widow's Bay is a boldly original take on comedic horror",
+      "description": "An eminently binge-able series that honors classic horror tropes while reinventing them in surprising ways",
+      "url": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-21T10:00:11+00:00"
+    },
+    {
+      "title": "Buying a Used iPhone Makes More Sense Than Ever",
+      "description": "With Apple raising prices soon, you can save a lot of money by buying a used handset or upgrading an older device—safe in the knowledge that it'll last longer than ever.",
+      "url": "https://www.wired.com/story/buying-a-used-iphone-makes-more-sense-than-ever/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-21T10:00:00+00:00"
+    },
+    {
+      "title": "A Critical Deadline Is Approaching for Windows and Linux Security",
+      "description": "The cryptographic keys that secure your computer's boot sequence will start to expire on June 24. Here's what that means for you.",
+      "url": "https://www.wired.com/story/a-critical-deadline-is-approaching-for-windows-and-linux-security/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-21T09:00:00+00:00"
+    },
+    {
+      "title": "Mark Hughes' son Alex dies aged 38",
+      "description": "Wales legend Mark Hughes says he is \"totally heartbroken\" after the death of his son Alex aged 38.",
+      "url": "https://www.bbc.com/sport/football/articles/cm2j0x3zgego?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-21T08:44:38+00:00"
+    },
+    {
+      "title": "How Murray was tempted back to tennis - and would he ever do a Serena?",
+      "description": "British tennis icon Andy Murray discusses returning to coaching with Jack Draper, Serena Williams' comeback and filling the void of not playing.",
+      "url": "https://www.bbc.com/sport/tennis/articles/c621zrvxp6vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-21T08:01:19+00:00"
+    },
+    {
+      "title": "Every moment ached with importance as Northampton win compelling final",
+      "description": "Northampton show their grit and unity to prevail in a tussle of a Prem final with Exeter and secure their third English title.",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cdjkxmr3wrgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-21T07:41:24+00:00"
+    },
+    {
+      "title": "If anyone can catch Wyndham Clark at the 2026 U.S....",
+      "description": "Scheffler is six shots back heading into Sunday, which might seem insurmountable. But he's in the final group with Clark and has a chance to do something historic.",
+      "url": "https://www.espn.com/golf/story/_/id/49129497/wyndham-clark-2026-us-open-scottie-scheffler-shinnecock",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-21T06:56:42+00:00"
+    },
+    {
+      "title": "Curaçao GK ties Howard's WC save record in draw",
+      "description": "Curaçao goalkeeper Eloy Room made 15 saves to equal the World Cup record and help earn the island nation its first-ever World Cup point with a 0-0 draw against heavily favored Ecuador on Saturday.",
+      "url": "https://www.espn.com/soccer/story/_/id/49131334/curacao-goalkeeper-eloy-room-tim-howard-world-cup-save-record",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-21T06:01:01+00:00"
+    },
+    {
+      "title": "Netherlands break WC record with Sweden thumping",
+      "description": "Netherlands coach Ronald Koeman said their 5-1 win over Sweden on Saturday sends a warning message to their World Cup rivals. The dominant victory came on the same day his side broke a tournament record.",
+      "url": "https://www.espn.com/soccer/story/_/id/49129008/netherlands-shatter-world-cup-unbeaten-record-streak-crushing-sweden",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-21T06:01:01+00:00"
+    },
+    {
+      "title": "Schwarber's 3 HRs, Harper's cycle propel Phillies",
+      "description": "Kyle Schwarber hit three home runs, and Bryce Harper became the 11th player in franchise history to hit for the cycle as the Phillies beat the Mets 15-3 on Saturday night.",
+      "url": "https://www.espn.com/mlb/story/_/id/49131252/schwarber-homers-twice-inning-harper-hits-cycle",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-21T06:01:00+00:00"
+    },
+    {
+      "title": "Ivory Coast boss slams Germany's 'lack of fair pla...",
+      "description": "Ivory Coast head coach Emerse Faé has criticized what he said was a lack of fair play from Germany during his team's 2-1 World Cup defeat on Saturday at BMO Field.",
+      "url": "https://www.espn.com/soccer/story/_/id/49130449/ivory-coast-coach-germany-emerse-fae-nathaniel-brown-fifa-world-cup",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-21T06:01:00+00:00"
+    },
+    {
+      "title": "A father again, Ohtani homers in Dodgers' 3-2 loss...",
+      "description": "Los Angeles superstar Shohei Ohtani announced on social media Saturday that he is a father again, and hours later, he hit a homer in the Dodgers' 3-2 loss to the Orioles.",
+      "url": "https://www.espn.com/mlb/story/_/id/49131220/los-angeles-dodgers-superstar-shohei-ohtani-father-again",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-21T06:01:00+00:00"
+    },
+    {
+      "title": "Clark keeps hot pace, now up 6 shots at U.S. Open",
+      "description": "Wyndham Clark shot an even-par 70 and will take a six-shot lead into the final round as he pursues his second U.S. Open title Sunday at Shinnecock Hills.",
+      "url": "https://www.espn.com/golf/story/_/id/49130791/clark-keeps-hot-pace-takes-6-shot-lead-us-open-final-round",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-21T06:01:00+00:00"
+    },
+    {
+      "title": "Meet the record-equalling keeper who helped Curacao make history",
+      "description": "Curacao's Eloy Room makes a record-equalling 15 saves to help his tiny island nation to a first World Cup point against Ecuador.",
+      "url": "https://www.bbc.com/sport/football/articles/cvg58z9gl34o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-21T04:29:28+00:00"
+    },
+    {
+      "title": "Jeremy Clarkson in remission from prostate cancer",
+      "description": "The presenter shared his \"aggressive\" cancer diagnosis on an episode of Clarkson's Farm earlier this week.",
+      "url": "https://www.bbc.com/news/articles/czj8kgg4rrro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-06-21T01:48:33+00:00"
+    },
+    {
+      "title": "Doku criticised over plan to return home for birth",
+      "description": "Winger Jeremy Doku is criticised for saying he wants to leave Belgium's World Cup camp to be with his wife when she gives birth to their first child.",
+      "url": "https://www.bbc.com/sport/football/articles/c74ywv08ylpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-20T23:21:21+00:00"
+    },
+    {
+      "title": "Scientists Just Found Something Weird Inside Moss",
+      "description": "A surprising discovery inside desert mosses could reshape scientists’ understanding of plant evolution. In some of the driest places on Earth, the ground itself can be alive. What looks like a thin, dark crust on desert soil may actually be a miniature ecosystem, packed with mosses, fungi, bacteria,",
+      "url": "https://scitechdaily.com/scientists-just-found-something-weird-inside-moss/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-20T22:48:29+00:00"
+    },
+    {
+      "title": "Scientists Just Repeated a Nobel Prize-Winning Experiment in a Creature Older Than Jellyfish",
+      "description": "A century after one of developmental biology’s most influential experiments, researchers have revisited the concept of the embryonic “organizer” in one of the oldest animal lineages alive today. A tiny cluster of cells in an embryo can act like a construction manager for an entire body. It helps det",
+      "url": "https://scitechdaily.com/scientists-just-repeated-a-nobel-prize-winning-experiment-in-a-creature-older-than-jellyfish/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-20T22:13:26+00:00"
     },
     {
       "title": "Scientists Finally Uncover Why Solid-State Batteries Short-Circuit",
@@ -16,54 +224,6 @@
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-06-20T21:38:28+00:00"
-    },
-    {
-      "title": "Impressive England beat Scotland to close on semis",
-      "description": "England's batting sparkles again as the hosts close on a place in the T20 World Cup semi-finals with an 38-run victory over Scotland at Headingley.",
-      "url": "https://www.bbc.com/sport/cricket/articles/cy5vwqn0yr0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-20T20:54:57+00:00"
-    },
-    {
-      "title": "Scotland expects: What is behind McTominay's understated World Cup?",
-      "description": "Some are suggesting Scott McTominay has not had the expected impact for Scotland at the World Cup, but is that fair on the Napoli midfielder?",
-      "url": "https://www.bbc.com/sport/football/articles/c78yn1gzy6do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-20T20:16:11+00:00"
-    },
-    {
-      "title": "Hunt and Glave win British 100m titles",
-      "description": "Amy Hunt retains her British 100m title while Romell Glave becomes the men's 100m champion for the first time.",
-      "url": "https://www.bbc.com/sport/athletics/articles/c9d2g083943o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-20T19:50:23+00:00"
-    },
-    {
-      "title": "Netherlands thrash Sweden to all but guarantee last-32 place",
-      "description": "Brian Brobbey and Cody Gakpo score two goals apiece as the Netherlands cruise past Sweden 5-1 to all but mathematically guarantee a place in the last 32 of the World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/c17yl58xlpdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-20T19:36:30+00:00"
-    },
-    {
-      "title": "Can 'best Northampton team ever' become one of English rugby's greats?",
-      "description": "Does Northampton Saints' second Prem Rugby title in three seasons suggest a dynasty is being built at the club?",
-      "url": "https://www.bbc.com/sport/rugby-union/articles/cq513040wd3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-20T19:35:43+00:00"
-    },
-    {
-      "title": "Tongue admits England have missed absent Stokes",
-      "description": "Pace bowler Josh Tongue admits England have missed absent captain Ben Stokes as they head for a heavy defeat in the second Test against New Zealand.",
-      "url": "https://www.bbc.com/sport/cricket/articles/c9329xx4e3no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-20T19:22:11+00:00"
     },
     {
       "title": "The Atlantic created a searchable database of the music used to train AI",
@@ -80,14 +240,6 @@
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-06-20T18:27:34+00:00"
-    },
-    {
-      "title": "Saka trains alone as England prepare for Ghana game",
-      "description": "Bukayo Saka was the only player not present in group training as England continued their preparations for their second World Cup match against Ghana.",
-      "url": "https://www.bbc.com/sport/football/articles/cr47wqdq26lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-20T18:02:39+00:00"
     },
     {
       "title": "Why Older Adults Need To Pay Closer Attention to Vitamin B12",
@@ -128,14 +280,6 @@
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-06-20T15:01:38+00:00"
-    },
-    {
-      "title": "This Deadly Disease Was Wiping Out Humans 5,500 Years Ago",
-      "description": "A new study suggests plague was already a deadly threat 5,500 years ago, striking small hunter-gatherer communities long before cities and agriculture emerged. For centuries, plague has been remembered as the disease that devastated medieval Europe, killing millions and reshaping societies. But new ",
-      "url": "https://scitechdaily.com/this-deadly-disease-was-wiping-out-humans-5500-years-ago/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-20T14:26:21+00:00"
     },
     {
       "title": "Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG",
@@ -186,38 +330,6 @@
       "publishedAt": "2026-06-20T10:38:00+00:00"
     },
     {
-      "title": "16 Best Greens Powders (2026): Taste-Tested for Months",
-      "description": "I did the research and taste-testing to find the best greens powders worth your money. Bloom Nutrition’s Superfood Greens Powder is my tried-and-true pick.",
-      "url": "https://www.wired.com/gallery/best-greens-powders/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-20T10:31:00+00:00"
-    },
-    {
-      "title": "Siri AI Hands On: A Smart, Helpful Assistant",
-      "description": "The new Siri AI is conversational, omnipresent, and actually helpful.",
-      "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-20T10:00:00+00:00"
-    },
-    {
-      "title": "Hackers Claim to Leak Stolen Madison Square Garden Data",
-      "description": "Plus: Gay bars in San Francisco using face scanners, France quits Palantir, Apple plans to change its private email and more.",
-      "url": "https://www.wired.com/story/security-news-this-week-hackers-claim-to-leak-stolen-madison-square-garden-data/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-20T09:30:00+00:00"
-    },
-    {
-      "title": "Scientists Invent a Way to Brew Espresso With Ultrasonic Waves—No Hot Water Required",
-      "description": "Researchers have demonstrated they can make coffee comparable to conventional espresso using ultrasonic waves. Because the process doesn’t need hot water, it consumes 75 percent less energy.",
-      "url": "https://www.wired.com/story/scientists-brew-espresso-with-ultrasonic-waves/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-20T09:00:00+00:00"
-    },
-    {
       "title": "SwitchBot’s Standing Circulator Fan is worth fighting for",
       "description": "I can't remember the last time I got excited about a fan. Normally, I just buy whatever Vornado or Dreo model fits my budget, but that was before I started testing the battery-powered Standing Circulator Fan from SwitchBot. As the name indicates, the SwitchBot fan is a 3D circulator - a fancy way of",
       "url": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review",
@@ -234,28 +346,12 @@
       "publishedAt": "2026-06-19T21:28:39+00:00"
     },
     {
-      "title": "Scientists Uncover Cause of Inflammatory Bowel Disease Solving Decades-Old Mystery",
-      "description": "Scientists identified an autoimmune mechanism linked to a major IBD risk gene, opening the door to targeted diagnosis and personalized therapies for thousands of patients. For decades, inflammatory bowel disease (IBD) has been treated as a single disorder, even though patients often experience drama",
-      "url": "https://scitechdaily.com/scientists-uncover-cause-of-inflammatory-bowel-disease-solving-decades-old-mystery/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-19T19:43:21+00:00"
-    },
-    {
       "title": "NASA selects Eric Schmidt&#8217;s rocket company for a 2028 mission to Mars",
       "description": "Relativity Space, the rocket company led by former Google executive Eric Schmidt, was picked to launch NASA's Aeolus payload to Mars in 2028, as reported earlier by TechCrunch. Under a new public-private partnership, Relativity Space will provide the \"spacecraft, rocket, and cruise operations\" to fl",
       "url": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-06-19T18:41:48+00:00"
-    },
-    {
-      "title": "Hue’s wired wall modules bring non-smart lights into its ecosystem",
-      "description": "Smart lighting company Philips Hue has launched its first wired wall modules. Installed behind existing wall switches, the new devices bring non-smart lights into the Hue ecosystem for the first time. Hue also announced new Play table and floor lamps that are more affordable versions of its Signe se",
-      "url": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-19T17:24:45+00:00"
     },
     {
       "title": "Minimum age of 11 set for UK puberty blocker trial",
@@ -274,14 +370,6 @@
       "publishedAt": "2026-06-19T15:27:27+00:00"
     },
     {
-      "title": "The Most Promising Ebola Vaccine Has Been Sitting on the Shelf for 15 Years",
-      "description": "Years after initial tests, researchers are now racing to see if a vaccine developed in 2011 can help fight the current Bundibugyo outbreak in Congo.",
-      "url": "https://www.wired.com/story/ebola-vaccine-sitting-on-shelf-for-15-years/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-19T14:23:43+00:00"
-    },
-    {
       "title": "Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars",
       "description": "A French launch startup is scrapping the name of its rocket, apparently due to a trademark issue.",
       "url": "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
@@ -290,108 +378,12 @@
       "publishedAt": "2026-06-19T13:36:53+00:00"
     },
     {
-      "title": "The Best iPad to Buy (and Some to Avoid) in 2026: Compare the Air, Pro, Mini",
-      "description": "We break down the current iPad lineup to help you figure out which of Apple’s tablets is best for you.",
-      "url": "https://www.wired.com/gallery/the-best-ipad/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-19T12:00:00+00:00"
-    },
-    {
       "title": "Plans to end gazumping with binding agreements in house sales shake-up",
       "description": "Sales agreements will be legally binding sooner and making sellers provide more home information up front are part of the planned changes.",
       "url": "https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-06-19T11:41:14+00:00"
-    },
-    {
-      "title": "As global warming threatens corals, scientists search for reefs that can take the heat",
-      "description": "Researchers say these coral strongholds may help repopulate more degraded reefs.",
-      "url": "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-19T11:15:11+00:00"
-    },
-    {
-      "title": "Datacenters driving US clean energy growth while still threatening climate",
-      "description": "As datacenters’ connections to electric grids are held up, big tech is forced to throw money at producing its own powerDatacenters are driving unprecedented growth in the US clean energy industry, paradoxically boosting a sector that was sputtering before the artificial intelligence boom even as AI’",
-      "url": "https://www.theguardian.com/us-news/2026/jun/19/datacenters-us-clean-energy-growth-climate",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-06-19T11:00:30+00:00"
-    },
-    {
-      "title": "Five ways the Iran peace deal could affect you and your money",
-      "description": "With fuel and gas prices having fallen in recent days, we look at how the end of hostilities might affect you - in five charts.",
-      "url": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-19T09:31:04+00:00"
-    },
-    {
-      "title": "Warning over 'fragile' public finances as borrowing rises",
-      "description": "The UK borrowed £23.3bn in May, according to official figures, up almost a third on the same month last year.",
-      "url": "https://www.bbc.com/news/articles/cqx1e8nrwgvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-19T08:37:31+00:00"
-    },
-    {
-      "title": "'I'd be put off if he asked to split it': Who should pay on a first date?",
-      "description": "Some insist on splitting the bill, others say the asker should pay, while many still see a man paying as romantic.",
-      "url": "https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-19T06:52:40+00:00"
-    },
-    {
-      "title": "A bold satellite rescue mission came together in record time, but will it work?",
-      "description": "\"I consider this a success already, just from the fact that we're even going to try this.\"",
-      "url": "https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-19T00:39:30+00:00"
-    },
-    {
-      "title": "Five tips to keep your kids cool this weekend",
-      "description": "Temperatures are set to rise over the next few days, and children can be especially vulnerable - so read on for tips to protect them.",
-      "url": "https://www.bbc.com/news/articles/c862j9vy746o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-06-19T00:07:22+00:00"
-    },
-    {
-      "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
-      "description": "Crypto Clipper spreads over USB and communicates over Tor.",
-      "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-18T23:28:52+00:00"
-    },
-    {
-      "title": "The artificial ice pyramids saving India's mountain villages",
-      "description": "Himalayan villages are creating artificial glaciers to guarantee water for their crops in the spring.",
-      "url": "https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-18T23:11:07+00:00"
-    },
-    {
-      "title": "Brexit cost 6% of UK economy, Bank of England company data suggests",
-      "description": "Analysis showed how much the UK could have grown if it had not exited the EU.",
-      "url": "https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-18T23:05:05+00:00"
-    },
-    {
-      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
-      "description": "In February, a Trump official refused to review the vaccine.",
-      "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-18T22:08:59+00:00"
     }
   ]
 }
