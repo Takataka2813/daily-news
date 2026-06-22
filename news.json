@@ -1,13 +1,357 @@
 {
-  "updatedAt": "2026-06-22T14:23:13.185664+00:00",
+  "updatedAt": "2026-06-22T22:46:29.503916+00:00",
   "articles": [
     {
-      "title": "WhatsApp head Will Cathcart is stepping down after seven years",
-      "description": "Will Cathcart, who led WhatsApp for the past seven years, is stepping down from his role as Meta appoints a new leader. On Monday, Meta CEO Mark Zuckerberg announced on Facebook that Kunal Shah, the founder of an Indian fintech startup called Cred, is taking over as the head of WhatsApp. Cred is an ",
-      "url": "https://www.theverge.com/tech/953464/whatsapp-will-cathcart-stepping-down-cred",
+      "title": "Sources: U-M's May finalizing deal to coach Mavs",
+      "description": "Michigan coach Dusty May is finalizing a deal to take the Dallas Mavericks' head coaching job, sources told ESPN, an axis-shifting move that significantly alters the college and NBA landscapes.",
+      "url": "https://www.espn.com/nba/story/_/id/49143856/sources-michigan-dusty-finalizing-deal-coach-mavericks",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-22T23:18:05+00:00"
+    },
+    {
+      "title": "Sources: Young to ink $212M deal with Wizards",
+      "description": "Free agent Trae Young intends to sign a four-year, approximately $212 million deal to stay with the Wizards, with a player option in Year 4, sources told ESPN.",
+      "url": "https://www.espn.com/nba/story/_/id/49145221/sources-trae-young-sign-4-year-212m-deal-wizards",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-22T23:18:05+00:00"
+    },
+    {
+      "title": "Messi breaks tie with Klose for most WC goals",
+      "description": "Lionel Messi became the highest goal scorer in men's World Cup history Monday, moving up to 18 with a superb double in Argentina's Group J match against Austria.",
+      "url": "https://www.espn.com/soccer/story/_/id/49140402/lionel-messi-world-cup-record-goals-miroslav-klose-all",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-22T23:18:05+00:00"
+    },
+    {
+      "title": "Sources: Celtics, Heat finalists for Giannis trade...",
+      "description": "Giannis Antetokounmpo is expected to be traded before the start of the NBA draft Tuesday, with the Celtics and Heat emerging as finalists to land the Bucks superstar, sources told ESPN.",
+      "url": "https://www.espn.com/nba/story/_/id/49143752/sources-giannis-antetokounmpo-trade-finalists-celtics-heat",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-22T23:18:05+00:00"
+    },
+    {
+      "title": "Keith Tkachuk makes HOF day after son's trade",
+      "description": "Less than 24 hours after his sons became teammates when Brady was dealt from Ottawa to Florida, joining brother Matthew, Keith Tkachuk was elected into the Hall of Fame Monday after waiting for more than a decade and a half since his playing career ended.",
+      "url": "https://www.espn.com/nhl/story/_/id/49146071/keith-tkachuk-makes-hall-fame-sons-become-teammates",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-22T23:18:05+00:00"
+    },
+    {
+      "title": "Álvarez says Atlético exit best thing for everyone...",
+      "description": "Julián Álvarez told ESPN he wants to leave Atlético Madrid this summer as Europe's top clubs jostle for the forward's signature.",
+      "url": "https://www.espn.com/soccer/story/_/id/49147171/alvarez-says-move-atletico-madrid-best-everyone",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-22T23:18:05+00:00"
+    },
+    {
+      "title": "Retired Poirier arrested; allegedly drunk in publi...",
+      "description": "Dustin Poirier was arrested for alleged public drunkenness on Sunday in Georgia.",
+      "url": "https://www.espn.com/mma/story/_/id/49146288/retired-dustin-poirier-arrested-allegedly-drunk-public",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-22T23:18:05+00:00"
+    },
+    {
+      "title": "MCWS finals: UNC, Oklahoma headed to Game 3 after ...",
+      "description": "As North Carolina forced a winner-take-all game in Omaha, it wasn't without any tears.",
+      "url": "https://www.espn.com/college-sports/story/_/id/49136189/2026-mcws-finals-north-carolina-forces-game-3-oklahoma-fathers-day",
+      "source": "ESPN",
+      "category": "Sports",
+      "publishedAt": "2026-06-22T23:15:33+00:00"
+    },
+    {
+      "title": "Tesla crash that killed a woman under US federal investigation",
+      "description": "A Tesla driver on Friday said he was using ‘self-driving’ technology after his vehicle sped into a Texas home.",
+      "url": "https://www.bbc.com/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-06-22T22:20:07+00:00"
+    },
+    {
+      "title": "A Source of Mysterious Repeating Radio Signals From Space Has Been Identified",
+      "description": "Researchers say the discovery could be a “Rosetta stone” for cosmic signals.",
+      "url": "https://www.wired.com/story/a-source-of-mysterious-repeating-radio-signals-from-space-has-been-identified/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T22:15:10+00:00"
+    },
+    {
+      "title": "Antarctica’s Future May Be More Predictable Than Scientists Thought",
+      "description": "A new study suggests Antarctic ice loss may be reliably projected over the next several decades. Scientists say the next 30 to 50 years could be a crucial period for understanding and preparing for Antarctic ice loss and its impact on rising sea levels. A new study published in Nature and led by Mon",
+      "url": "https://scitechdaily.com/antarcticas-future-may-be-more-predictable-than-scientists-thought/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-22T21:58:58+00:00"
+    },
+    {
+      "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
+      "description": "US autoworkers union warns of robot automation as dark factory future looms.",
+      "url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T21:52:39+00:00"
+    },
+    {
+      "title": "From retirement to records - another immortal Messi moment",
+      "description": "Ten years after announcing he was quitting international football, Lionel Messi is still breaking records for reigning World Cup champions Argentina.",
+      "url": "https://www.bbc.com/sport/football/articles/c74y1vypn2wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-22T21:43:58+00:00"
+    },
+    {
+      "title": "California drivers sue gas stations for allegedly using AI to inflate prices",
+      "description": "Firms including BP and 7-Eleven accused of coordinating prices to ‘wring more money from pockets of consumers’Gas ⁠station ​operators including BP, Circle K, Marathon, 7-Eleven, Walmart and Albertsons were sued on Monday by California drivers ⁠who accused them of using artificial intelligence to boo",
+      "url": "https://www.theguardian.com/us-news/2026/jun/22/california-gas-stations-ai-prices-lawsuit",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-06-22T21:39:52+00:00"
+    },
+    {
+      "title": "Report: Kennedy Space Center not ready for era of super heavy rockets",
+      "description": "SpaceX has told NASA it plans to launch Starship every eight days from Kennedy.",
+      "url": "https://arstechnica.com/space/2026/06/report-kennedy-space-center-not-ready-for-era-of-super-heavy-rockets/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T21:28:19+00:00"
+    },
+    {
+      "title": "Sea Level Rise Is Swallowing Farmland at Alarming Rates",
+      "description": "Coastal farmland in the Mid-Atlantic is being overtaken by rising seas faster than forests, revealing an overlooked rural front in climate-driven marsh migration. Ghost forests, the eerie stands of dead trees left behind when saltwater moves inland, have become a stark sign of sea level rise along t",
+      "url": "https://scitechdaily.com/sea-level-rise-is-swallowing-farmland-at-alarming-rates/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-22T21:23:52+00:00"
+    },
+    {
+      "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+      "description": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
+      "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T21:08:09+00:00"
+    },
+    {
+      "title": "Man used massage gun on his tired eyeballs. It went as well as you'd expect.",
+      "description": "He had retinal tears and bruises from squishing his eyeballs with the gun.",
+      "url": "https://arstechnica.com/health/2026/06/man-used-massage-gun-on-his-tired-eyeballs-it-went-as-well-as-youd-expect/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T21:02:08+00:00"
+    },
+    {
+      "title": "Scientists Have Found “The Heaven Sword” After Years of Looking",
+      "description": "A decade-long search through Taiwan’s remote forests led to the discovery of East Asia’s tallest tree and hundreds of other towering giants. An 84-meter-tall tree is surprisingly easy to miss. Hidden within Taiwan&#8217;s steep mountains and dense old-growth forests are some of the tallest trees on ",
+      "url": "https://scitechdaily.com/scientists-have-found-the-heaven-sword-after-years-of-looking/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-22T20:48:53+00:00"
+    },
+    {
+      "title": "Puberty blocker trial will help reduce harm, says Cass report author",
+      "description": "Dr Hilary Cass says she is \"absolutely convinced that more children will be harmed if we don't do the trial than if we do.\"",
+      "url": "https://www.bbc.com/news/articles/cvg5njnn8k8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-06-22T20:30:41+00:00"
+    },
+    {
+      "title": "Messi makes World Cup history as Argentina reach last 32",
+      "description": "Lionel Messi becomes the World Cup's all-time leading goalscorer as his double against Austria sends holders Argentina into the last 32.",
+      "url": "https://www.bbc.com/sport/football/videos/c0ey1l0z2r8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-22T20:29:31+00:00"
+    },
+    {
+      "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+      "description": "Employees had previously raised concerns about the initiative, which involves collecting workers’ keystroke data to train AI models.",
+      "url": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T20:28:53+00:00"
+    },
+    {
+      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+      "description": "\"Winning\" bets were made on cloned website and would have lost money, WSJ finds.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T20:10:34+00:00"
+    },
+    {
+      "title": "AI is cursing renters with the promise of impossible homes",
+      "description": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \"It",
+      "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
       "source": "The Verge",
       "category": "Technology",
-      "publishedAt": "2026-06-22T14:14:23+00:00"
+      "publishedAt": "2026-06-22T20:00:00+00:00"
+    },
+    {
+      "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
+      "description": "Critics saw the move as an underhanded way to steer them toward more costly chips.",
+      "url": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T19:16:52+00:00"
+    },
+    {
+      "title": "Valve's Steam Machine ships June 29 for $1,049, but you probably won't be able to buy one yet",
+      "description": "Valve says it's using a randomized purchase queue to make the experience \"less frustrating and more fair.\"",
+      "url": "https://arstechnica.com/gaming/2026/06/valves-steam-machine-ships-june-29-for-1049-but-you-probably-wont-be-able-to-buy-one-yet/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T19:02:45+00:00"
+    },
+    {
+      "title": "Man City close in on appointing Maresca as manager",
+      "description": "Manchester City are closing in on the appointment of Enzo Maresca to succeed Pep Guardiola as manager.",
+      "url": "https://www.bbc.com/sport/football/articles/cn59kxz44wgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-22T18:43:13+00:00"
+    },
+    {
+      "title": "We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)",
+      "description": "“Coffee” made with functional mushrooms like lion’s mane and chaga is all the rage. We tried the most popular brands to find which were the most palatable.",
+      "url": "https://www.wired.com/gallery/best-mushroom-coffee/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T18:10:09+00:00"
+    },
+    {
+      "title": "ABC encourages viewers to back network amid FCC investigations",
+      "description": "Network launches ad on The View, which is target of one of two FCC investigations currently seeking public commentThe television network ABC is seeking the public’s backing as it faces simultaneous investigations from the Brendan Carr-led Federal Communications Commission (FCC).The media regulator h",
+      "url": "https://www.theguardian.com/media/2026/jun/22/abc-fcc-investigations",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-06-22T18:06:45+00:00"
+    },
+    {
+      "title": "The Apple Watch SE 3 is just $199 for Prime Day",
+      "description": "The Apple Watch SE 3 is at an all-time low of $199, making the sleeper hit of last year’s Apple Watches an even better value. While the Series 11 and Ultra 3 were iterative updates, the SE 3 was a wide-ranging glow-up that added an always-on display, gestures like double tap and wrist flick, a [&#82",
+      "url": "https://www.theverge.com/gadgets/953458/apple-watch-se-3-prime-day-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T18:00:00+00:00"
+    },
+    {
+      "title": "The Steam Machine is the start of an even more expensive future for game consoles",
+      "description": "It's no secret that just about every aspect of video games is getting more expensive. Game consoles are getting regular price hikes, PC components are spiking in cost, and the golden age of affordable handhelds is over, all largely due to the global RAM shortage, which has had a similarly costly imp",
+      "url": "https://www.theverge.com/entertainment/953615/steam-machine-price-game-consoles-future-ps6-project-helix",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T18:00:00+00:00"
+    },
+    {
+      "title": "How Ferguson became Scotland's most influential World Cup player",
+      "description": "BBC Scotland examines the impact of Bologna's Lewis Ferguson in the Scotland midfield going into the crunch game with Brazil.",
+      "url": "https://www.bbc.com/sport/football/articles/c20y1zj927jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-22T17:39:02+00:00"
+    },
+    {
+      "title": "Job scams are growing and getting tougher to spot: ‘That’s the reality of this hell job market’",
+      "description": "Swindlers now use AI to send out floods of fraudulent messages to gain the personal information of job seekersAmericans are seeing more employment scams than ever as job seekers, facing a tough job market, report a bombardment of messages from swindlers try to lure them into giving sensitive informa",
+      "url": "https://www.theguardian.com/money/2026/jun/22/job-scams-employment-ai",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-06-22T17:36:28+00:00"
+    },
+    {
+      "title": "Google invests in A24 to build AI movie tools",
+      "description": "Google's DeepMind AI lab is teaming up with A24 to develop new movie production technologies that aim to help future filmmakers \"expand their storytelling possibilities.\" As part of this new research and development collaboration, The Wall Street Journal reports that Google is investing \"around $75 ",
+      "url": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T17:18:13+00:00"
+    },
+    {
+      "title": "The Hottest Known Exoplanets May Hold Clues to Planetary Habitability",
+      "description": "The first direct measurements of exoplanet magnetic fields reveal that ultra-hot Jupiters possess strong magnetism that shapes their atmospheres and may provide new insights into planetary habitability. Astronomers have achieved a major advance in the study of worlds beyond our Solar System by estim",
+      "url": "https://scitechdaily.com/the-hottest-known-exoplanets-may-hold-clues-to-planetary-habitability/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-22T17:12:17+00:00"
+    },
+    {
+      "title": "NHTSA investigating alleged Tesla Autopilot crash that killed woman in her home",
+      "description": "Tesla touts Autopilot as lifesaving a day after grandmother died in crash.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T17:10:52+00:00"
+    },
+    {
+      "title": "Valve is working with AMD to bring FSR 4 to the Steam Machine",
+      "description": "The Steam Machine is a cool little console that's about as powerful as a PlayStation 5, according to my colleague Sean Hollister's in-depth review. But one area where it lags behind is with its earlier version of AMD FSR upscaler: It's just not as good as it should be. Yes, it can sharpen low-res gr",
+      "url": "https://www.theverge.com/games/952210/valve-steam-machine-fsr4-amd-upscaler",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T17:10:00+00:00"
+    },
+    {
+      "title": "Here’s how you can reserve a Steam Machine",
+      "description": "The Steam Machine is here, but getting one is a little complicated. Valve is taking preorders using a reservation system, which is intended to make the process more fair and harder for bots to exploit. However, it's a bit different than the $5 reservations Valve used for the Steam Deck. Starting tod",
+      "url": "https://www.theverge.com/games/952191/valve-steam-machine-reservation-preorder-process",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T17:07:01+00:00"
+    },
+    {
+      "title": "Valve will finally let you build your own Steam Machine with SteamOS for desktop",
+      "description": "If you don't get lucky with Valve's Steam Machine reservation system, you can make your own Steam Machine instead. Valve says that \"starting with the SteamOS 3.8 release, you can put together your own Steam Machine using whatever PC parts you want.\" SteamOS 3.8.10 launched last week with a slew of u",
+      "url": "https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T17:05:00+00:00"
+    },
+    {
+      "title": "The Ninja Slushi Is Only $200: Early Amazon Prime Day Deal 2026",
+      "description": "Two years after it turned Marg Monday into a daily, the Ninja Slushi is only $200. That’s the cheapest deal ever.",
+      "url": "https://www.wired.com/story/ninja-slushi-amazon-prime-day-deal-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T17:02:30+00:00"
+    },
+    {
+      "title": "Valve explains why it isn&#8217;t subsidizing the Steam Machine",
+      "description": "Valve finally announced the price of the Steam Machine, and like a lot of new gadgets these days, it's not cheap: It starts at $1,049 for a 512GB model, and a 2TB model costs $300 more. Configurations with a bundled Steam Controller cost an extra $79 each. Despite Valve offering a console alternativ",
+      "url": "https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T17:02:00+00:00"
+    },
+    {
+      "title": "I Found 37 Early Prime Day Deals That Are Worth Shopping Now (2026)",
+      "description": "We’ve trawled the depths of Amazon to find the best early Prime Day deals on gear we’ve tested.",
+      "url": "https://www.wired.com/story/early-prime-day-deals-june-2026-3/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T17:01:33+00:00"
+    },
+    {
+      "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
+      "description": "Amid concerns about AI models’ cybersecurity capabilities, OpenAI revealed an improved version of GPT-5.5-Cyber and its “Patch the Planet” initiative to fix open-source software bugs.",
+      "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-22T17:00:00+00:00"
+    },
+    {
+      "title": "Astronomers Discover a Sleeping Giant: Ancient Black Hole 6 Billion Times the Sun’s Mass",
+      "description": "Researchers have identified the most distant dormant black hole known, dating back to the universe’s early history. Astronomers have long relied on brilliant quasars, supermassive black holes actively feeding on surrounding matter, to study the early universe. Yet these luminous objects reveal only ",
+      "url": "https://scitechdaily.com/astronomers-discover-a-sleeping-giant-ancient-black-hole-6-billion-times-the-suns-mass/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-22T16:47:16+00:00"
     },
     {
       "title": "Ex-Wimbledon champion Vondrousova given four-year ban",
@@ -15,23 +359,47 @@
       "url": "https://www.bbc.com/sport/tennis/articles/c36yjz55z3zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-06-22T14:09:41+00:00"
+      "publishedAt": "2026-06-22T16:46:06+00:00"
     },
     {
-      "title": "Patreon CEO Jack Conte on supporting artists in the AI slop era",
-      "description": "Today, I’m talking with Jack Conte, the CEO of Patreon. Jack last joined me on the show almost exactly five years ago, in the summer of 2021, and a lot has changed on the internet and in the creator landscape since then, so I was very excited to talk to him again, especially since his [&#8230;]",
-      "url": "https://www.theverge.com/podcast/952607/patreon-ceo-jack-conte",
-      "source": "The Verge",
+      "title": "They’re Making Clip-On Frames for Smart Glasses Now",
+      "description": "Smart glasses are hitting the mainstream, so companies are now getting into the accessories game.",
+      "url": "https://www.wired.com/story/lorika-ontop-cases-for-smart-glasses-now/",
+      "source": "Wired",
       "category": "Technology",
-      "publishedAt": "2026-06-22T14:00:00+00:00"
+      "publishedAt": "2026-06-22T16:41:32+00:00"
     },
     {
-      "title": "Apple’s AirPods Max 2 are $150 off for the first time",
-      "description": "Walmart has the Apple AirPods Max 2 in every color discounted to $399.99 (normally $549) during Walmart Deals, the lowest price we’ve seen yet by a long shot. Amazon currently has the starlight color selling at this price. In our review, we praised Apple’s latest over-ear headset for its excellent s",
-      "url": "https://www.theverge.com/gadgets/953322/apple-airpods-max-2-usbc-prime-day-walmart-deal-sale",
-      "source": "The Verge",
+      "title": "Uncapped Coles picked for England T20 squad",
+      "description": "Sussex all-rounder James Coles is called up by England for their T20 series against India.",
+      "url": "https://www.bbc.com/sport/cricket/articles/czx5y111rj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-22T16:12:53+00:00"
+    },
+    {
+      "title": "Can Time Flow in Reverse? A Quantum Breakthrough Challenges Our Assumptions",
+      "description": "Researchers investigate how quantum time flow can be stretched, blurred, or even reversed. What if the direction of time isn’t as fixed as it seems? While our everyday experience tells us that time moves relentlessly forward, the microscopic laws governing quantum systems are far less restrictive. I",
+      "url": "https://scitechdaily.com/can-time-flow-in-reverse-a-quantum-breakthrough-challenges-our-assumptions/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-22T16:12:06+00:00"
+    },
+    {
+      "title": "Itoje rested as Caluori among five England call-ups",
+      "description": "England captain Maro Itoje will miss England's Test against South Africa on 4 July after being left out of the entirety of the summer's Nations Championship action.",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cz9l3vy7j4do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-22T15:58:25+00:00"
+    },
+    {
+      "title": "Lucid lays off 1,500 workers in second big cut of the year",
+      "description": "The cuts and redundancies are part of a plan to \"simplify the company,\" the CEO says.",
+      "url": "https://arstechnica.com/cars/2026/06/lucid-lays-off-1500-workers-in-second-big-cut-of-the-year/",
+      "source": "Ars Technica",
       "category": "Technology",
-      "publishedAt": "2026-06-22T13:47:31+00:00"
+      "publishedAt": "2026-06-22T15:22:46+00:00"
     },
     {
       "title": "The key differences between Tuchel and Southgate's England teams",
@@ -58,36 +426,20 @@
       "publishedAt": "2026-06-22T13:05:01+00:00"
     },
     {
-      "title": "Wyze’s new smart scale can break down your body composition for less than $80",
-      "description": "Seven months after introducing its $119.98 Ultra BodyScan smart scale, Wyze announced a cheaper $79.98 alternative available today that makes a few compromises to shave $40 off the price. There's no Wi-Fi, but you can sync the BodyScan's measurements to Apple Health and Google Fit by connecting to t",
-      "url": "https://www.theverge.com/tech/952512/wyze-smart-scale-bodyscan-electrodes-handle-body-composition",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-22T13:00:00+00:00"
+      "title": "Alan Greenspan, longtime head of the US federal reserve, dies aged 100",
+      "description": "Greenspan served under the presidencies of Ronald Reagan, George HW Bush, Bill Clinton and George W BushAlan Greenspan, the influential economist who ​steered US ⁠monetary policy ⁠during ​his ‌five ‌terms as chair ‌of the Federal Reserve ‌under four presidents, ​has died aged 100.The central bank sa",
+      "url": "https://www.theguardian.com/business/2026/jun/22/alan-greenspan-dies-aged-100",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-06-22T12:46:22+00:00"
     },
     {
-      "title": "US Open shows why golf is on guard against bad behaviour",
-      "description": "With unruly behaviour both on and off the course during last week's US Open, it is imperative officials continue to closely police the situation, writes Iain Carter.",
-      "url": "https://www.bbc.com/sport/golf/articles/c9827n38n69o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-22T12:35:47+00:00"
-    },
-    {
-      "title": "Hidden Alzheimer’s Biomarker Could Change How Doctors Prescribe Hormone Therapy",
-      "description": "Researchers found that an Alzheimer’s-related biomarker may influence how hormone therapy affects dementia risk. Hormone therapy is commonly used to ease menopausal symptoms, including hot flashes and night sweats. Whether it affects the risk of dementia has remained a long-running question. A new s",
-      "url": "https://scitechdaily.com/hidden-alzheimers-biomarker-could-change-how-doctors-prescribe-hormone-therapy/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-22T12:30:07+00:00"
-    },
-    {
-      "title": "'He's stored in a hard disk in my head' - watching the World Cup as a manager",
-      "description": "Former Tottenham and Brentford manager Thomas Frank on watching new players at the World Cup - who would he sign and who will be the star of the tournament?",
-      "url": "https://www.bbc.com/sport/football/articles/c77y64gzvzgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-22T12:01:44+00:00"
+      "title": "‘Every time you turn around, there’s a new price increase’: US small-business optimism plummets",
+      "description": "At the same time, 29% of small-business owners also report having open positions they can’t fillAmid rising fuel prices and inflation across the US, confidence among small-business owners has declined in recent weeks as many continue to grapple with higher costs and economic uncertainty.According to",
+      "url": "https://www.theguardian.com/us-news/2026/jun/22/us-small-business-optimism",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-06-22T12:00:24+00:00"
     },
     {
       "title": "Alan Greenspan, architect of the modern American economy, dies aged 100",
@@ -106,108 +458,12 @@
       "publishedAt": "2026-06-22T11:25:06+00:00"
     },
     {
-      "title": "Read this before you vibe-code another app",
-      "description": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It cou",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-22T11:00:00+00:00"
-    },
-    {
-      "title": "Madueke's remarkable season - from petition to World Cup starter",
-      "description": "Noni Madueke has gone from fans protesting against him signing for Arsenal to England World Cup starter. BBC Sport look at his rollercoaster season.",
-      "url": "https://www.bbc.com/sport/football/articles/c5yz2xyvd1zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-22T10:47:17+00:00"
-    },
-    {
       "title": "EasyJet says US bidder trying to buy it 'on the cheap' as it rejects £4.7bn offer",
       "description": "The airline describes the latest bid approach from Castlelake as \"highly opportunistic\".",
       "url": "https://www.bbc.com/news/articles/c30yz76834yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-06-22T10:29:11+00:00"
-    },
-    {
-      "title": "How football united behind Doku after childbirth criticism",
-      "description": "Jeremy Doku wants to fly home to attend the birth of his first child - but why has that proved controversial in some quarters?",
-      "url": "https://www.bbc.com/sport/football/articles/cly01kjqdnpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-22T10:01:15+00:00"
-    },
-    {
-      "title": "These Are the 12 Ikea Products the Company's Design Chief Personally Owns",
-      "description": "We asked Johan Ejdemo to list which Ikea items populate his home. He also tells us about his all-time favorite. (No, it's not a Billy bookcase.)",
-      "url": "https://www.wired.com/story/these-are-the-12-ikea-products-ikeas-design-chief-personally-owns/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-22T10:00:00+00:00"
-    },
-    {
-      "title": "Iran leave note asking for peace after Belgium draw",
-      "description": "Iran leave a message saying \"may peace, respect and friendship prevail among all nations\" following their World Cup group game with Belgium.",
-      "url": "https://www.bbc.com/sport/football/articles/cwy0ppqx1p9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-22T09:54:09+00:00"
-    },
-    {
-      "title": "The UK Just Lost Its Sixth Prime Minister of the Decade",
-      "description": "Keir Starmer's resignation on Monday morning paves the way for yet another leadership battle.",
-      "url": "https://www.wired.com/story/uk-loses-its-sixth-prime-minister-keir-starmer/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-22T09:46:54+00:00"
-    },
-    {
-      "title": "Some Electricians Think Building Data Centers Is for Sellouts",
-      "description": "Big Tech is throwing big money into data center buildouts. As national opposition to the facilities grows, some workers are beginning to question whether it’s worth it.",
-      "url": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-22T09:30:00+00:00"
-    },
-    {
-      "title": "World Cup Scams Are Getting Harder to Spot",
-      "description": "From fake tickets to cloned websites, AI is magnifying World Cup scams. Can fans distinguish between what’s real and what’s not?",
-      "url": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-22T09:30:00+00:00"
-    },
-    {
-      "title": "Priceline Promo Codes & Coupons: 10% Off June",
-      "description": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
-      "url": "https://www.wired.com/story/priceline-promo-code/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-22T05:00:00+00:00"
-    },
-    {
-      "title": "LG Promo Codes and Coupons for June 2026",
-      "description": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "url": "https://www.wired.com/story/lg-promo-code/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-22T05:00:00+00:00"
-    },
-    {
-      "title": "Dyson Promo Codes: 25% Off in June 2026",
-      "description": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-22T05:00:00+00:00"
-    },
-    {
-      "title": "Squarespace Promo Codes: 20% Off in June 2026",
-      "description": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
-      "url": "https://www.wired.com/story/squarespace-promo-code/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-22T05:00:00+00:00"
     },
     {
       "title": "Toy Story 5 scores record opening weekend for franchise",
@@ -218,28 +474,12 @@
       "publishedAt": "2026-06-22T03:13:05+00:00"
     },
     {
-      "title": "In the foothills of the Dolomites, a champion was made",
-      "description": "Jannik Sinner is the world's best tennis player. This is the journey that forged a champion.",
-      "url": "https://www.bbc.co.uk/sport/extra/v5ergq8rop/the-making-of-Jannik-Sinner?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-22T00:00:00+00:00"
-    },
-    {
       "title": "Is Germany looking again at coal-powered electricity?",
       "description": "It had planned to abandon the fuel, but the higher cost of natural gas may make it think again.",
       "url": "https://www.bbc.com/news/articles/cy04ykxrj5eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-06-21T23:27:11+00:00"
-    },
-    {
-      "title": "Koalas Nearly Vanished 100,000 Years Ago – Long Before Humans Arrived",
-      "description": "Koalas survived a climate-driven population crash 100,000 years ago, and new genomic research is helping scientists better protect the species today. A major genomic study has transformed scientists&#8217; understanding of koala (Phascolarctos cinereus) evolution, showing that the species underwent ",
-      "url": "https://scitechdaily.com/koalas-nearly-vanished-100000-years-ago-long-before-humans-arrived/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-21T23:19:22+00:00"
     },
     {
       "title": "Fake romance to missed deliveries: How to protect yourself from three common scams",
@@ -258,92 +498,12 @@
       "publishedAt": "2026-06-21T23:03:07+00:00"
     },
     {
-      "title": "Ancient Ice Man Still Hosts Mysterious Cold-Loving Organisms, Study Finds",
-      "description": "A new study untangles the complex microbial history of Ötzi the Iceman, revealing which microorganisms originated during his lifetime and which arrived long after his death. For more than 5,000 years, Ötzi the Iceman has carried an invisible community of microbes through ice, time, and modern museum",
-      "url": "https://scitechdaily.com/ancient-ice-man-still-hosts-mysterious-cold-loving-organisms-study-finds/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-21T22:44:26+00:00"
-    },
-    {
-      "title": "Scientists Discover a Gene That Boosts Youth – but It Comes With a Cost",
-      "description": "Researchers have identified a gene that appears to balance a powerful evolutionary trade-off, boosting growth and reproductive success early in life while carrying hidden costs later on. The biological processes that help build a healthy young body may also sow the seeds of aging and cancer. Researc",
-      "url": "https://scitechdaily.com/scientists-discover-a-gene-that-boosts-youth-but-it-comes-with-a-cost/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-21T22:09:28+00:00"
-    },
-    {
-      "title": "Wowcher sorry for 'unacceptable' crocodile attack email",
-      "description": "The firm's marketing email appeared to reference an incident involving a toddler at a zoo.",
-      "url": "https://www.bbc.com/news/articles/c17ynlek5djo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-21T19:12:32+00:00"
-    },
-    {
-      "title": "Bose thinks it can be a media company for some reason",
-      "description": "The history books are littered with the corpses of corporate record labels started by companies that had no business being in the music industry. Bose thinks it can be the exception to the rule. It thinks it can be Red Bull. And, while Bose has more of a right to dip its toes into the [&#8230;]",
-      "url": "https://www.theverge.com/entertainment/953324/bose-studios-record-label-media-company",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-21T18:53:50+00:00"
-    },
-    {
-      "title": "A Decade-Long Physics Mystery May Finally Be Solved",
-      "description": "Researchers precisely measured the proton’s size, resolving the proton radius puzzle and strengthening confidence in the Standard Model of particle physics. Hydrogen is the simplest element in the universe and the first entry on the periodic table. Each hydrogen atom contains just one proton in its ",
-      "url": "https://scitechdaily.com/a-decade-long-physics-mystery-may-finally-be-solved/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-21T18:52:16+00:00"
-    },
-    {
-      "title": "AI Cracks the Secrets of How the Universe’s Heaviest Elements Are Forged",
-      "description": "A machine learning-powered simulation is giving researchers a new window into the processes that create some of the universe’s heaviest elements. Where do the gold in jewelry, the uranium in nuclear fuel, and many of the universe&#8217;s heaviest elements come from? Scientists believe they are forge",
-      "url": "https://scitechdaily.com/ai-cracks-the-secrets-of-how-the-universes-heaviest-elements-are-forged/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-21T18:17:20+00:00"
-    },
-    {
-      "title": "Trump admin’s coal investments assist plants with repeated violations",
-      "description": "At least three coal plants have been repeatedly cited for violating environmental regulations.",
-      "url": "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-21T17:49:35+00:00"
-    },
-    {
-      "title": "Cold Court’s debut EP is an infectious, glitchy genre mashup",
-      "description": "Cold Court is a brother-sister duo from Philly that seems to love nothing more than shoving all of their influences together in a messy soup that at least superficially resembles the hyperpop you've come to expect from acts like 100 Gecs. But, where songs like \"Dumbest Girl Alive\" goofily wink at po",
-      "url": "https://www.theverge.com/entertainment/953303/cold-court-hands-up-ep-music-review",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-21T17:00:33+00:00"
-    },
-    {
-      "title": "Polymarket reportedly paid people to post fake videos of themselves placing bets",
-      "description": "According to a Wall Street Journal investigation, Polymarket has been paying people to film themselves placing fake bets and celebrating fake wins on social media. WSJ identified over 1,100 deceptive clips and talked to creators who, despite not stating as such in their videos, confirmed the company",
-      "url": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-21T14:19:46+00:00"
-    },
-    {
       "title": "Prediction markets surge in US as public health advocates call for support to combat gambling",
       "description": "Platforms like Kalshi and Polymarket operating in areas with limited resources for people with gambling problemsPublic health resources across the US are failing to keep pace with the rapid growth of online gambling, problem health advocates warned, after Donald Trump endorsed the controversial nati",
       "url": "https://www.theguardian.com/us-news/2026/jun/21/prediction-markets-health-advocates-on-gambling",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-06-21T10:00:27+00:00"
-    },
-    {
-      "title": "Review: Widow's Bay is a boldly original take on comedic horror",
-      "description": "An eminently binge-able series that honors classic horror tropes while reinventing them in surprising ways.",
-      "url": "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-21T10:00:11+00:00"
     },
     {
       "title": "Jeremy Clarkson in remission from prostate cancer",
