@@ -1,13 +1,373 @@
 {
-  "updatedAt": "2026-06-25T11:31:05.151687+00:00",
+  "updatedAt": "2026-06-25T22:20:17.864136+00:00",
   "articles": [
     {
-      "title": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
-      "description": "From AirPods to on-ears, we’ve tested hundreds of pairs of headphones. Here are the best deals from Amazon’s biggest sale event.",
-      "url": "https://www.wired.com/story/best-prime-day-headphone-deals-06-25-2026/",
+      "title": "YouTube updates Shorts to make it even more like TikTok",
+      "description": "YouTube is adding even more TikTok-like features to Shorts, including a new \"clear screen\" mode that removes the icons and text from the video you're watching. In a blog post on Thursday, YouTube says it's also replacing the \"thumbs-up\" button with a \"heart\" icon, and is introducing a new option tha",
+      "url": "https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T22:08:30+00:00"
+    },
+    {
+      "title": "Plata's 'touch of gold' gives Ecuador lead against Germany",
+      "description": "Gonzalo Plata reacts quickest to direct Kevin Rodriuguez' flick on over Manuel Neuer, to give Ecuador a 2-1 lead over Germany in their FIFA World Cup Group E match at the New York New Jersey Stadium.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cpd322zzv90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-25T22:00:17+00:00"
+    },
+    {
+      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+      "description": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&#38;A that it would release GPT-5.6 in limited pr",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T21:57:06+00:00"
+    },
+    {
+      "title": "Man City agree record fee with Forest for Anderson",
+      "description": "Manchester City agree a deal with Nottingham Forest worth up to a British record £130m to sign England midfielder Elliot Anderson.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8qx30q4xqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-25T21:43:27+00:00"
+    },
+    {
+      "title": "Framework has good news and bad news",
+      "description": "Thanks to the component crisis, it's a bad time to want a new computer. But if you are waiting on a preorder for the Framework Laptop 13 Pro - which Framework's CEO has called the \"MacBook Pro for Linux users\" - the company shared good news on Thursday that might mean yours will cost less [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/957338/framework-laptop-13-pro-ssd-price-cpu",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T21:23:47+00:00"
+    },
+    {
+      "title": "James and Rice miss training in preparation for Panama",
+      "description": "England's Reece James and Declan Rice miss England's penultimate training session before Panama with injury concerns.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8rywj8rnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-25T21:19:06+00:00"
+    },
+    {
+      "title": "17,000 Brain Scans Reveal Surprising Ethnic Differences in Alzheimer’s Biology",
+      "description": "A large analysis of brain imaging and clinical data from more than 17,000 older adults is revealing a more complex picture of Alzheimer’s disease risk across populations. As new Alzheimer’s drugs increasingly target amyloid plaques in the brain, researchers are working to understand whether the biol",
+      "url": "https://scitechdaily.com/17000-brain-scans-reveal-surprising-ethnic-differences-in-alzheimers-biology/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-25T20:32:17+00:00"
+    },
+    {
+      "title": "Microsoft adds another year to Windows 10 extended update program",
+      "description": "About a quarter of PCs are still running Microsoft's previous operating system.",
+      "url": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T20:24:09+00:00"
+    },
+    {
+      "title": "Score a discounted Xbox console before the prices jump",
+      "description": "Microsoft announced today that the price of all Xbox models will rise in August, the second time in less than a year as memory prices continue to wreak havoc on every industry from cars to computing. Thankfully, we&#8217;re already out looking for Prime Day deals, and we were able to find some disco",
+      "url": "https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T20:18:47+00:00"
+    },
+    {
+      "title": "Saracens' Auvaa not punished for Stokes incident",
+      "description": "Saracens forward Totoa Auvaa is not sanctioned after he was involved in a nightclub incident with England cricket captain Ben Stokes.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c0myx4n2zz4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-25T20:18:00+00:00"
+    },
+    {
+      "title": "Instagram wants to monopolize your attention",
+      "description": "This week, Instagram launched a series of new features for its smart TV app that are all designed to get people to spend more time on the platform through the biggest screens in their homes. In addition to vertical Reels, Instagram for TV - which is currently available for Amazon Fire TV, Google TV,",
+      "url": "https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T20:10:24+00:00"
+    },
+    {
+      "title": "FCC may kill $2B program that connects schools and libraries to Internet",
+      "description": "Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\"",
+      "url": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T20:01:08+00:00"
+    },
+    {
+      "title": "RAMageddon just got extremely real",
+      "description": "As far as prices go, Apple is kind of a reverse canary in the coal mine. With its famously generous margins and immense purchasing volume, it can afford to ride out price fluctuations in its supply chain in a way no other consumer tech company can. So when Apple raises prices across nearly all of [&",
+      "url": "https://www.theverge.com/tech/956950/ram-crisis-apple-price-increase",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T20:00:00+00:00"
+    },
+    {
+      "title": "Forget Peloton. Race to This 25% Off Deal on Hydrow’s Rowing Machine (2026)",
+      "description": "This Peloton-adjacent rowing machine gamifies your workout to a satisfying effect, and it’s up to 25 percent off right now for Prime Day.",
+      "url": "https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/",
       "source": "Wired",
       "category": "Technology",
-      "publishedAt": "2026-06-25T11:27:43+00:00"
+      "publishedAt": "2026-06-25T19:58:52+00:00"
+    },
+    {
+      "title": "New Autism Treatment Strategy Restores Key Brain Receptor Function",
+      "description": "An antisense therapy that targets a glycine transporter restored NMDA receptor function in mouse models related to autism and in human brain organoids. An overlooked protein that regulates levels of the amino acid glycine may hold the key to treating autism and other disorders linked to disrupted br",
+      "url": "https://scitechdaily.com/new-autism-treatment-strategy-restores-key-brain-receptor-function/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-25T19:57:34+00:00"
+    },
+    {
+      "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
+      "description": "Apple said it had \"never seen a component price increase this much, this quickly\".",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-06-25T19:41:22+00:00"
+    },
+    {
+      "title": "Younger Generations Are Aging Faster – and It May Be Fueling a Surge in Cancer",
+      "description": "Younger generations may be aging biologically faster than those before them, and that shift could help explain rising rates of cancer at younger ages. For decades, cancer was viewed largely as a disease of older age. Yet around the world, doctors are seeing a troubling shift: more cancers are being ",
+      "url": "https://scitechdaily.com/younger-generations-are-aging-faster-and-it-may-be-fueling-a-surge-in-cancer/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-25T19:22:21+00:00"
+    },
+    {
+      "title": "US media regulator Brendan Carr accuses Disney of ‘misinformation’ on investigations",
+      "description": "Disney-owned ABC launched awareness campaign about two FCC investigations it faces, urging viewers to write inBrendan Carr, the Trump-aligned chairman of the Federal Communications Commission (FCC), has accused Disney of running a “campaign of misinformation” as the media group defends itself agains",
+      "url": "https://www.theguardian.com/media/2026/jun/25/disney-brendan-carr-fcc-investigation",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-06-25T19:21:34+00:00"
+    },
+    {
+      "title": "We're Live-Blogging For The Real Heads Still Shopping Amazon Prime Day",
+      "description": "The third day of Amazon Prime Day is for the real heads, and so is our live blog. We'll bring you deals, trends, and commentary until Amazon's annual summer sale finally hangs up its cleats.",
+      "url": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-25-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T19:13:33+00:00"
+    },
+    {
+      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+      "description": "Notion is \"going all in on using agents to run your inbox.\"",
+      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T19:04:57+00:00"
+    },
+    {
+      "title": "England can play on NZ memories of 2022 - Southee",
+      "description": "England can play on New Zealand memories of a remarkable Test at Trent Bridge in 2022 to turn around their series decider in Nottingham, according to assistant coach Tim Southee.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c932d9n7xvno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-25T19:02:24+00:00"
+    },
+    {
+      "title": "The 16 best robot vacuum deals available during Prime Day",
+      "description": "If you&#8217;ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We&#8217;re now on day three of Prime Day, and Amazon, along with retailers like Best Buy and Walmart, is offering discounts [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T18:47:26+00:00"
+    },
+    {
+      "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
+      "description": "It took 20 years, but the Finance app arrives just in time to be packed full of AI.",
+      "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T18:38:51+00:00"
+    },
+    {
+      "title": "It&#8217;s a bad time to want a new computer",
+      "description": "It's not exactly surprising that RAMaggeddon is making new tech hardware really expensive. But if you've been in the market for things like a new computer or tablet, this week has been filled with sticker shock. Given how many companies announced price hikes related to component shortages, it seems ",
+      "url": "https://www.theverge.com/tech/957151/ram-crisis-component-shortage-prices-computer-apple-microsoft-valve",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T18:20:17+00:00"
+    },
+    {
+      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+      "description": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T18:01:48+00:00"
+    },
+    {
+      "title": "Planet orbits so close to its star that their magnetic fields connect",
+      "description": "At the right point of the orbit and stellar cycle, the star's chromosphere brightens.",
+      "url": "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T18:00:39+00:00"
+    },
+    {
+      "title": "Double Ballon d'Or winner Putellas to join London City Lionesses",
+      "description": "Two-time Ballon d'Or winner Alexia Putellas decides to move to London City Lionesses after leaving Barcelona.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c93273z471xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-25T17:59:54+00:00"
+    },
+    {
+      "title": "A Fatal Tesla Crash in Texas Sets Up a Legal Showdown",
+      "description": "Did Full Self-Driving (Supervised), Tesla’s driver assistance feature, play a role in a woman’s death?",
+      "url": "https://www.wired.com/story/a-fatal-tesla-crash-in-texas-sets-up-a-legal-showdown/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T17:52:51+00:00"
+    },
+    {
+      "title": "Tennis legend Evert says 'relentless' cancer has returned",
+      "description": "Former Wimbledon champion Chris Evert says her \"relentless\" cancer has returned for a third time.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c0myx8lr1mpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-25T17:12:48+00:00"
+    },
+    {
+      "title": "The Aerogarden I Recommend to Everyone Is Just $83 Right Now, a 63 Percent Discount",
+      "description": "This flash deal is a rare chance to buy one of our favorite hydroponic gardens for less than $100.",
+      "url": "https://www.wired.com/story/amazon-prime-day-aerogarden-deal-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T16:54:55+00:00"
+    },
+    {
+      "title": "Why it's time for Saka and Rashford - Shearer",
+      "description": "Former England captain Alan Shearer explains why Thomas Tuchel needs to change some personnel as well as his team's mindset when they face Panama.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwyl7dpnx1no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-25T16:53:18+00:00"
+    },
+    {
+      "title": "Key Fed inflation gauge rises to three-year high in May after gas prices peaked",
+      "description": "Consumer prices rose 4.1% in May from a year earlier – a sign rising costs could pose problem for Trump in midtermsThe Federal Reserve’s preferred inflation gauge rose to a new three-year high in May as gas prices peaked, a sign rising costs could pose political problems for Donald Trump and his pol",
+      "url": "https://www.theguardian.com/business/2026/jun/25/us-may-inflation-gauge-three-year-high",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-06-25T16:14:37+00:00"
+    },
+    {
+      "title": "Scientists Turn Ordinary Sunlight Into UV Light in Major Energy Breakthrough",
+      "description": "Sunlight just got an upgrade: Scientists have developed a material that converts ordinary sunshine into UV light, opening new possibilities for solar-powered technologies. Imagine pouring two cups of warm water together and expecting to get one cup of boiling water. That is impossible in everyday li",
+      "url": "https://scitechdaily.com/scientists-turn-ordinary-sunlight-into-uv-light-in-major-energy-breakthrough/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-25T16:14:36+00:00"
+    },
+    {
+      "title": "17 Best Prime Day Fitness Tech Deals (2026) Up to $250 Off",
+      "description": "I've compiled a list of the best fitness tech deals this Amazon Prime Day, including smartwatches, walking pads, and recovery gear. You can thank me later.",
+      "url": "https://www.wired.com/story/amazon-prime-day-fitness-deals-06-25-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T16:05:30+00:00"
+    },
+    {
+      "title": "Reeves urges Burnham to 'stick to what I'm doing' on economy",
+      "description": "The chancellor throws her support behind the MP for Makerfield despite reports he could demote her if he becomes PM.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm9mj262qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-06-25T16:04:42+00:00"
+    },
+    {
+      "title": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz",
+      "description": "Stock markets on both sides of Atlantic up as concerns ease over prospect of another inflationary shockBusiness live – latest updatesOil prices have fallen to pre-Iran war levels as more oil tankers exited the strait of Hormuz.Brent crude, the global benchmark, fell to a low of $72.24 a barrel on Th",
+      "url": "https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-06-25T15:41:17+00:00"
+    },
+    {
+      "title": "New Discovery Could Unlock Quantum Computers the Size of a Coin",
+      "description": "Physicists at the University of Vienna have discovered magnons with lifespans 100 times longer than previously measured. For decades, magnons have shown enormous promise for quantum technologies, but one critical limitation has kept them from practical use: they disappear almost as soon as they form",
+      "url": "https://scitechdaily.com/new-discovery-could-unlock-quantum-computers-the-size-of-a-coin/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-25T15:39:37+00:00"
+    },
+    {
+      "title": "Oil price falls back to pre-Iran war levels",
+      "description": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
+      "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-06-25T15:32:04+00:00"
+    },
+    {
+      "title": "Stop Mowing Your Grass Forever With One of These Highly Rated Robot Mowers On Sale",
+      "description": "You don’t need to cut your own grass anymore. Most of the best robot mowers I’ve tested are on sale for Prime Day.",
+      "url": "https://www.wired.com/story/amazon-prime-day-robot-mower-deals-june-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T15:22:36+00:00"
+    },
+    {
+      "title": "Scientists Create AI Skin Patch That Acts Like an Instant Personal Doctor",
+      "description": "Researchers developed a flexible AI computing patch that analyzes health data directly on the body, enabling near-instant medical insights and highly accurate heart monitoring. Researchers at the University of Chicago Pritzker School of Molecular Engineering (UChicago PME) have created a skin-like c",
+      "url": "https://scitechdaily.com/scientists-create-ai-skin-patch-that-acts-like-an-instant-personal-doctor/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-25T15:04:53+00:00"
+    },
+    {
+      "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
+      "description": "Unlike with Volvo, there will be no authorization for Polestar to sell its cars here.",
+      "url": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T14:40:23+00:00"
+    },
+    {
+      "title": "Kobo Libra Colour Sale (2026): The E-Reader Deal Worth Jumping on This Prime Day",
+      "description": "The color e-reader that’s most worth your money this Prime Day isn't from Amazon.",
+      "url": "https://www.wired.com/story/amazon-prime-day-kobo-deal-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T14:24:57+00:00"
+    },
+    {
+      "title": "Apple ratchets up prices, blames the cost of memory",
+      "description": "Some Macs are hundreds of dollars more expensive today than yesterday.",
+      "url": "https://arstechnica.com/apple/2026/06/apple-ratchets-up-prices-blames-the-cost-of-memory/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T14:14:37+00:00"
+    },
+    {
+      "title": "21 Best Prime Day Beauty Deals of 2026 (We Sifted Through Hundreds to Pick Them)",
+      "description": "It wouldn't be Amazon Prime Day without some beauty deals. Here's a roundup of all our favorites.",
+      "url": "https://www.wired.com/story/best-prime-day-beauty-deals-06-25-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-25T14:00:58+00:00"
+    },
+    {
+      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
+      "description": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
+      "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-06-25T12:08:33+00:00"
+    },
+    {
+      "title": "Common Nutrients Could Make Alzheimer’s Treatments Safer and More Effective",
+      "description": "A study found that combining antibody therapy with molecules found in some common foods may make treatment more effective and reduce side effects. Despite decades of research, Alzheimer&#8217;s disease remains one of medicine&#8217;s greatest challenges. Current treatments can modestly slow the dise",
+      "url": "https://scitechdaily.com/common-nutrients-could-make-alzheimers-treatments-safer-and-more-effective/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-25T11:52:16+00:00"
     },
     {
       "title": "Scientists Discover How the Gut May Trigger Multiple Sclerosis",
@@ -18,14 +378,6 @@
       "publishedAt": "2026-06-25T11:17:17+00:00"
     },
     {
-      "title": "The 23 Best Amazon Prime Day Deals Under $30 We've Found (2026)",
-      "description": "Everything is expensive. Treat yourself to one of these WIRED-tested and -approved Prime Day picks under $30.",
-      "url": "https://www.wired.com/story/best-amazon-prime-day-deals-under-30-06-25-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T11:11:34+00:00"
-    },
-    {
       "title": "How you can save money on your energy bill as debts rise",
       "description": "Experts say support is available as total debt and arrears to suppliers hit a new record.",
       "url": "https://www.bbc.co.uk/news/articles/cwy2e3wx7xwo?at_medium=RSS&at_campaign=rss",
@@ -34,160 +386,16 @@
       "publishedAt": "2026-06-25T11:04:09+00:00"
     },
     {
-      "title": "Burnley and West Ham to meet on first Championship weekend",
-      "description": "Relegated Burnley and West Ham will meet on the opening weekend of the Championship season on Sunday, 16 August.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjwg9l53evwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-25T11:00:17+00:00"
-    },
-    {
-      "title": "World Cup Teams Are in a Race for AI Dominance",
-      "description": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
-      "url": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T11:00:00+00:00"
-    },
-    {
-      "title": "Disney agrees to pay $50 million to YouTube TV and DirecTV subscribers",
-      "description": "YouTube TV and DirecTV Stream customers may be eligible for a cash payout, after Disney agreed to pay $50 million to settle claims that it forced the services to increase their subscription prices. Anyone who was subscribed to YouTube TV or DirecTV Stream between April 1st, 2019, and March 31st, 202",
-      "url": "https://www.theverge.com/streaming/956712/disney-youtube-tv-directv-streaming-settlement",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T10:54:21+00:00"
-    },
-    {
-      "title": "How brands banned from the World Cup became the story",
-      "description": "When we try to suppress something, we often make it more visible - and Fifa is living that in real time with its sponsors.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdejrjpe8w3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-25T10:53:31+00:00"
-    },
-    {
-      "title": "Amazon Prime Day 3 is for the Real Heads, And We're Live-Blogging For Them",
-      "description": "The third day of Amazon Prime Day is for the real heads, and so is our live blog. We'll bring you deals, trends, and commentary until Amazon's annual summer sale finally hangs up its cleats.",
-      "url": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-25-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T10:52:30+00:00"
-    },
-    {
-      "title": "This Buy-It-For-Life Coffee Maker Just Won Prime Day",
-      "description": "The Moccamaster Prime Day deal is the best price I've seen this year, on a coffee maker that will probably outlive you.",
-      "url": "https://www.wired.com/story/amazon-prime-day-deal-2026-moccamaster/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T10:47:03+00:00"
-    },
-    {
-      "title": "The 23 Best Prime Day Deals Under $100 in 2026",
-      "description": "Times are hard in 2026. These Amazon Prime Day deals under $100 on earbuds, Kindles, and other tested products should help make life just a little bit easier.",
-      "url": "https://www.wired.com/story/best-prime-day-deals-under-100-06-25-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T10:44:04+00:00"
-    },
-    {
-      "title": "Shingles Vaccine Linked to 24% Lower Dementia Risk in Older Adults",
-      "description": "New research found that older adults who received the shingles vaccine currently used in the United States were less likely to be diagnosed with dementia within four years. A vaccine designed to prevent the painful viral infection known as shingles may also help protect the aging brain. A new study ",
-      "url": "https://scitechdaily.com/shingles-vaccine-linked-to-24-lower-dementia-risk-in-older-adults/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-25T10:42:32+00:00"
-    },
-    {
-      "title": "The 124 best tech deals for day three of Prime Day",
-      "description": "It&#8217;s day three of Prime Day, folks. We&#8217;re nearly 75 percent of the way through Amazon&#8217;s four-day sales event, and unsurprisingly, many deals are still sticking around. There have been all kinds of discounts on things like TVs, smart home gadgets, chargers, headphones, and more. Pri",
-      "url": "https://www.theverge.com/gadgets/956199/best-prime-day-2026-deals-tech-electronics-sale-day-three",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T10:40:00+00:00"
-    },
-    {
-      "title": "Is this solar e-bike a good idea or sophisticated e-waste?",
-      "description": "I like the idea of a solar-powered electric bike, but I don't think anyone should buy the new Phosgo Go5 - not yet, anyway. This \"world's first AI solar e-bike\" promises to \"eliminate range anxiety,\" and is sold by a new brand out of China hoping to make a big splash by selling direct-to-consumer th",
-      "url": "https://www.theverge.com/news/956095/worlds-first-solar-ebike-do-not-buy",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T10:30:00+00:00"
-    },
-    {
-      "title": "After More Than a Decade of Waiting, ‘GTA VI’ Is Finally Around the Corner",
-      "description": "We’re finally getting Grand Theft Auto VI, poised to be one of the largest gaming releases in history.",
-      "url": "https://www.wired.com/story/after-more-than-a-decade-of-waiting-gta-vi-is-finally-around-the-corner/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T10:30:00+00:00"
-    },
-    {
-      "title": "EasyJet rejects fourth takeover offer",
-      "description": "The airline is questioning the \"deliverability\" of the offer.",
-      "url": "https://www.bbc.co.uk/news/articles/c8d2r9przvno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
+      "title": "Datacentres are growing target of global climate-related legal cases, report finds",
+      "description": "LSE analysis highlights litigation linked to energy sources, water consumption and air pollutionThe proliferation of datacentres and AI is increasingly at the forefront of environmental litigation around the world, from the US and UK to Chile to Ireland, a report has found.In an analysis of about 3,",
+      "url": "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds",
+      "source": "The Guardian",
       "category": "Business",
-      "publishedAt": "2026-06-25T10:27:25+00:00"
+      "publishedAt": "2026-06-25T10:03:54+00:00"
     },
     {
-      "title": "Reeves backs Burnham to become next prime minister",
-      "description": "The chancellor throws her support behind the MP for Makerfield despite reports he could demote her if he becomes PM.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgm9mj262qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-25T10:16:11+00:00"
-    },
-    {
-      "title": "Best Prime Day Tech Deals Offer Up to $280 Off (2026): Phones, Watches, and More",
-      "description": "Don't pay full price—snag one of these tasty Prime Day tech deals on some of our favorite WIRED-tested gadgets.",
-      "url": "https://www.wired.com/story/best-prime-day-tech-deals-06-25-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T10:05:24+00:00"
-    },
-    {
-      "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
-      "description": "IBM says it has created the world's first known chip tech below 1 nanometre - but it will be some time before it's ready for production.",
-      "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-25T10:04:43+00:00"
-    },
-    {
-      "title": "IBM claims world’s first sub-1 nanometer chip technology",
-      "description": "IBM’s nanostack transistors could boost chip performance or energy efficiency.",
-      "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T10:00:55+00:00"
-    },
-    {
-      "title": "French footballer Kies dies from drowning",
-      "description": "French footballer Kenzo Kies has died at the age of 21 after drowning in the Rhone river.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8x21j42n5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-25T09:38:15+00:00"
-    },
-    {
-      "title": "Austrian GP declared heat-hazard race amid heatwave",
-      "description": "This weekend's Austrian Grand Prix is declared a heat-hazard race by Formula 1's governing body the FIA.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/crelx8d3ye1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-25T09:23:20+00:00"
-    },
-    {
-      "title": "Facebook’s Creator Studio has been revived as an AI companion app",
-      "description": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them \"exactly how to grow on Facebook,\" according to Meta's announcement. Meta's AI Creator Assi",
-      "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T09:06:19+00:00"
-    },
-    {
-      "title": "Elizabeth Warren says ‘frenzy’ of mergers under Trump could be reversed",
-      "description": "Senator warns of ‘tsunami of anger’ against big companies and suggests future administrations may undo key dealsDemocratic senator Elizabeth Warren has warned that corporate mergers approved by the Trump administration – including a pending deal that would put two of America’s largest news outlets u",
+      "title": "Elizabeth Warren says ‘tsunami of anger’ could prompt reversal of Trump-era mega mergers",
+      "description": "Exclusive: US senator suggests architects behind ‘frenzy’ of blockbuster corporate deals have ‘badly miscalculated’The Democratic senator Elizabeth Warren has warned that corporate mergers approved by the Trump administration – including a pending deal that would put two of America’s largest news ou",
       "url": "https://www.theguardian.com/us-news/2026/jun/25/elizabeth-warren-trump-mergers",
       "source": "The Guardian",
       "category": "Business",
@@ -202,92 +410,12 @@
       "publishedAt": "2026-06-25T08:19:54+00:00"
     },
     {
-      "title": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz",
-      "description": "Fears of long-lasting energy crunch ‘slinking away’ as vessel traffic doubled in 24 hours to highest level since late FebruaryBusiness live – latest updatesOil prices have fallen below levels last seen before the Iran war started in late February as more oil tankers exited the strait of Hormuz.Brent",
-      "url": "https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-06-25T07:39:13+00:00"
-    },
-    {
-      "title": "Oil price falls back to pre-Iran war levels",
-      "description": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-25T07:34:55+00:00"
-    },
-    {
       "title": "I've spent 30 years in recruitment - this is how to get a job",
       "description": "The recruitment agency boss shares his tips on getting noticed in a tougher jobs market.",
       "url": "https://www.bbc.co.uk/news/articles/c8r2vljglgno?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-06-25T07:24:08+00:00"
-    },
-    {
-      "title": "Best World Cup stadium? BBC Sport experts have their say",
-      "description": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy3grvpg6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-25T06:30:04+00:00"
-    },
-    {
-      "title": "The Secret Language Behind Animal Cooperation Across Species",
-      "description": "Scientists are discovering that animals use surprisingly sophisticated communication to form partnerships and cooperate across species boundaries. Animals from different species often cooperate in ways that seem surprisingly sophisticated. A new review published in Animal Behaviour shows that commun",
-      "url": "https://scitechdaily.com/the-secret-language-behind-animal-cooperation-across-species/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-25T05:37:14+00:00"
-    },
-    {
-      "title": "India debut looms - what makes Sooryavanshi, 15, so special?",
-      "description": "Vaibhav Sooryavanshi is poised to make his international debut for India against Ireland at the age of 15 years and 91 days. BBC Sport asks three batting legends what makes him so special.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/ce8jvenl31no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-25T05:11:16+00:00"
-    },
-    {
-      "title": "Scientists Finally Solve a 100-Year Mystery About France’s Famous Ice Age Cave Paintings",
-      "description": "A new analysis detected hidden charcoal in black cave paintings at Font-de-Gaume, allowing scientists to accurately date the artworks for the first time. For more than a century, the spectacular cave paintings of France&#8217;s Dordogne region have captivated archaeologists, yet one basic question r",
-      "url": "https://scitechdaily.com/scientists-finally-solve-a-100-year-mystery-about-frances-famous-ice-age-cave-paintings/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-25T05:02:18+00:00"
-    },
-    {
-      "title": "Scientists Found a Wordle Trick That Solves 99% of Puzzles",
-      "description": "Researchers turned a classic theory of information into a near-perfect Wordle strategy that solves 99% of puzzles. Millions of people play Wordle every day, trying to identify a hidden five-letter word in six guesses or fewer. Now, researchers at Binghamton University, State University of New York, ",
-      "url": "https://scitechdaily.com/scientists-found-a-wordle-trick-that-solves-99-of-puzzles/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-25T04:27:46+00:00"
-    },
-    {
-      "title": "Vinicius Jr stops the fun and leaves Scots down... but are they going out?",
-      "description": "Scotland's party stops at the hands of Brazil in Miami, but might they still find themselves in the last 32?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce3e237r7g7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-25T01:25:19+00:00"
-    },
-    {
-      "title": "Scotland on the brink after defeat by Brazil",
-      "description": "Scotland's hopes of reaching the knockout stages of the World Cup for the first time are in significant peril with calamitous defending allowed Brazil to win 3-0 in Miami and finish top of Group C.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cd0mzld5lpeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-25T00:38:36+00:00"
-    },
-    {
-      "title": "The top tech Prime Day deals to shop on day two",
-      "description": "Update, June 25th: We’re now onto day three of Amazon’s Prime Day sales event, and you can find our new main roundup of deals here. Welcome to day two of Amazon&#8217;s four-day Prime Day event, which, if we&#8217;re being honest, looks a lot like day one. That&#8217;s actually good news, though, be",
-      "url": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-24T23:48:19+00:00"
     },
     {
       "title": "Obesity cases rising fastest in young adults",
@@ -304,110 +432,6 @@
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-06-24T23:10:28+00:00"
-    },
-    {
-      "title": "Hotly anticipated Grand Theft Auto VI will cost more than other AAA games",
-      "description": "GTA6 might be an outlier, though—at least for now.",
-      "url": "https://arstechnica.com/gaming/2026/06/grand-theft-auto-vi-will-cost-80-without-a-physical-disc/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-24T22:47:03+00:00"
-    },
-    {
-      "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
-      "description": "The silicon race is heating up amid the struggle to keep up with demand.",
-      "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-24T22:28:18+00:00"
-    },
-    {
-      "title": "Scientists Recreate a Quantum Mystery in a Water Tank – and Discover Something Completely New",
-      "description": "Scientists used swirling water waves to simulate a quantum effect, uncovering rotating nodal patterns that could deepen understanding of hidden quantum phenomena. In the strange world of quantum physics, particles can be influenced by forces they never directly pass through. One famous example is th",
-      "url": "https://scitechdaily.com/scientists-recreate-a-quantum-mystery-in-a-water-tank-and-discover-something-completely-new/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-24T22:23:14+00:00"
-    },
-    {
-      "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
-      "description": "Amazon&#8217;s Prime Day is now in its second day, and whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch Series 11 has already dropped to a new low price, while the AirPods Pro 3 are discounted to $179. With",
-      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-24T21:58:59+00:00"
-    },
-    {
-      "title": "The 16 best robot vacuum deals available during Prime Day",
-      "description": "If you&#8217;ve been wanting to buy a robot vacuum but have been put off by how much it can cost to get a good one, now is not a bad time to start looking. We&#8217;re now on day two of Prime Day, and Amazon, along with retailers like Best Buy and Walmart, is offering discounts [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-24T21:51:09+00:00"
-    },
-    {
-      "title": "A Hidden Galaxy Called Shadow Blaster May Explain One of Astronomy’s Biggest Mysteries",
-      "description": "A mysterious neutrino signal has led astronomers to a surprising discovery: a hidden star-forming galaxy, not a supermassive black hole, may be generating some of the Universe’s most powerful particles. Astronomers have traced a burst of high-energy neutrinos to an unexpected source. Using the Ataca",
-      "url": "https://scitechdaily.com/a-hidden-galaxy-called-shadow-blaster-may-explain-one-of-astronomys-biggest-mysteries/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-24T21:48:04+00:00"
-    },
-    {
-      "title": "13 years and $500 million for a stage adapter? Report justifies NASA cancellations.",
-      "description": "\"Contract values for these efforts ballooned from nearly $2.8 billion to $5.9 billion.\"",
-      "url": "https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-24T21:41:03+00:00"
-    },
-    {
-      "title": "Charlie Kirk&#8217;s legacy is a 30-year sentence for moving zines",
-      "description": "Just days after a gunman killed conservative activist Charlie Kirk, it became clear that President Donald Trump would use the assassination to fuel a crackdown on free speech. To avenge Kirk's death, the administration vowed to go after so-called \"antifa\" (otherwise known as antifascist) terrorists.",
-      "url": "https://www.theverge.com/policy/956404/prairieland-sentencing-zines-trump-antifa",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-24T21:40:26+00:00"
-    },
-    {
-      "title": "US ends hantavirus outbreak response with no answers on draconian quarantines",
-      "description": "We still don't know why RFK Jr. overruled CDC expert to order strict quarantines.",
-      "url": "https://arstechnica.com/health/2026/06/us-ends-hantavirus-outbreak-response-with-no-answers-on-draconian-quarantines/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-24T21:28:39+00:00"
-    },
-    {
-      "title": "Why Mars May Remain Uninhabitable for Centuries",
-      "description": "Making Mars Earthlike is not impossible in principle, but the scale of mass, heat, oxygen, and energy required makes it far beyond current capability. Terraforming Mars has always been an intimidating idea. Reworking the environment of an entire planet is an extraordinary challenge, and decades of s",
-      "url": "https://scitechdaily.com/why-mars-may-remain-uninhabitable-for-centuries/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-24T21:13:05+00:00"
-    },
-    {
-      "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
-      "description": "\"Operation Endgame\" simultaneously disrupts two widely used crime tools.",
-      "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-24T21:03:34+00:00"
-    },
-    {
-      "title": "Underpromise, overdeliver? Hands-on with the $24,950 Slate auto.",
-      "description": "It has 205 miles of bare-bones range.",
-      "url": "https://arstechnica.com/features/2026/06/we-take-a-ride-in-slates-24950-electric-pickup/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-24T20:28:07+00:00"
-    },
-    {
-      "title": "Disney agreed to $50M settlement over claims it made live-TV streaming expensive",
-      "description": "Lawsuit alleged Disney inflated market prices by making carriers include ESPN.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/disney-agreed-to-50m-settlement-over-claims-it-made-live-tv-streaming-expensive/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-24T20:22:58+00:00"
     },
     {
       "title": "Elon Musk loses trillionaire status as SpaceX and Tesla stock drops",
@@ -432,22 +456,6 @@
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-06-23T23:50:12+00:00"
-    },
-    {
-      "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
-      "description": "Losses spread globally as investors questioned soaring valuations and spending on AI infrastructureA tech sell-off shook global markets on Tuesday as attention turned away from developments in the US war with Iran and toward the future of AI companies and chipmakers that have driven stock markets to",
-      "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-06-23T14:16:24+00:00"
-    },
-    {
-      "title": "Will California’s billionaire tax proposal make it to ballots?",
-      "description": "Despite more than double the needed number of signatures to qualify for ballot, there’s uncertainty it’ll make it to votersHi and welcome to TechScape. Nick Robins-Early and Dara Kerr here, filling in for your usual host Blake Montgomery who is out on vacation. We’ll be talking about the fight over ",
-      "url": "https://www.theguardian.com/technology/2026/jun/22/california-billionaire-tax-techscape",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-06-23T12:45:51+00:00"
     }
   ]
 }
