@@ -1,6 +1,302 @@
 {
-  "updatedAt": "2026-06-26T11:36:49.972241+00:00",
+  "updatedAt": "2026-06-26T22:11:59.787116+00:00",
   "articles": [
+    {
+      "title": "After covering Prime Day for 36 hours over four days, this is the one thing I bought",
+      "description": "We&#8217;ve covered so many deals during Prime Day that my head is spinning. But after four days of doing our damndest to try and help folks save money, the thing I&#8217;m most hyped for is a simple tool for fixing my most egregious mistakes. I bought a pair of Vampliers. If you&#8217;re unfamiliar",
+      "url": "https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T22:09:46+00:00"
+    },
+    {
+      "title": "Prime Day Deal 2026: Fellow Espresso Series 1 Is $200 Off",
+      "description": "This is the last day for deals on Fellow Series 1 espresso machine, Fellow Aiden, and Fellow Stagg kettle. Each is the best in their category.",
+      "url": "https://www.wired.com/story/amazon-prime-day-deal-2026-fellow-series-1/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T22:04:47+00:00"
+    },
+    {
+      "title": "Best Prime Day Vacuum Deals Offer Up to 42% Off (2026): Shark, Dyson, Bissell",
+      "description": "Move over, spring cleaning. These vacuum deals will give your home the cleanest summer yet thanks to Amazon Prime Day.",
+      "url": "https://www.wired.com/story/prime-day-vacuum-deals-06-26-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T22:00:00+00:00"
+    },
+    {
+      "title": "This Sodium Battery From China Matched Tesla in a Surprising Head-to-Head Test",
+      "description": "A new study found that a commercial sodium-ion battery from China rivals Tesla’s batteries in manufacturing quality and several key performance benchmarks. With improvements to cold-weather charging and energy density, sodium-ion batteries could become a more affordable alternative for electric vehi",
+      "url": "https://scitechdaily.com/this-sodium-battery-from-china-matched-tesla-in-a-surprising-head-to-head-test/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-26T21:43:21+00:00"
+    },
+    {
+      "title": "Brilliant Dembele hat-trick helps France see off Norway to top group",
+      "description": "Ousmane Dembele's first-half hat-trick helps France soundly defeat a Norway side without Erling Haaland 4-1 to top Group I at the World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr47d0g9v4yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-26T21:34:57+00:00"
+    },
+    {
+      "title": "The Best Prime Day Laptop Deals on My Personal Favorites",
+      "description": "From MacBooks to gaming laptops, these are the very best deals on some of my very favorite laptops for Amazon Prime Day.",
+      "url": "https://www.wired.com/story/best-prime-day-laptop-deals-06-26-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T21:30:00+00:00"
+    },
+    {
+      "title": "Trump threatens 100% tariff on European nations over tech tax",
+      "description": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
+      "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-06-26T21:29:38+00:00"
+    },
+    {
+      "title": "Our favorite Prime Day gadgets under $100 you don&#8217;t need but will really want",
+      "description": "Prime Day has a funny way of convincing you to buy things you weren&#8217;t shopping for in the first place. You sign on intending to buy something sensible you actually need, like a pack of USB-C cables, and an hour later you&#8217;ve also added a gadget that can press your coffee maker&#8217;s pow",
+      "url": "https://www.theverge.com/gadgets/957473/prime-day-2026-fun-gadgets-under-100-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T21:25:22+00:00"
+    },
+    {
+      "title": "James injury concerns grow but Rice back in training",
+      "description": "Reece James could miss the start of the World Cup knockout stage if England progress as he recovers from injury.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4kv0kkgeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-26T21:04:10+00:00"
+    },
+    {
+      "title": "How People in China Keep Outsmarting Anthropic’s Geolocation Restrictions",
+      "description": "As Anthropic tightens restrictions on access to Claude in China, users keep finding new workarounds, from proxy services to fake identities sourced on Telegram.",
+      "url": "https://www.wired.com/story/how-people-in-china-keep-outsmarting-anthropics-geolocation-restrictions/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T21:02:54+00:00"
+    },
+    {
+      "title": "Samsung’s Excellent OLED Monitors Are Up to 36 Percent Off for Prime Day",
+      "description": "Samsung makes some of the very best OLED gaming monitors, and they’ve never been this affordable.",
+      "url": "https://www.wired.com/story/samsungs-odyssey-oled-monitors-prime-day-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T21:02:31+00:00"
+    },
+    {
+      "title": "Russian citizens told \"switch to Android\" after Apple blocks key Russian apps",
+      "description": "Russian government lashes out at Apple's \"bizarre\" decisions.",
+      "url": "https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T20:58:02+00:00"
+    },
+    {
+      "title": "Best Ninja Prime Day Deals (2026) Slushi, Creami, Crispi, Cafe Luxe",
+      "description": "Ninja Creami Swirl, Crispi, Slushi, and Cafe Luxe Pro are all on Prime Day deals that will soon go away.",
+      "url": "https://www.wired.com/story/ninja-creami-slushi-prime-day-deals-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T20:55:48+00:00"
+    },
+    {
+      "title": "It’s the last day of Prime Day — here are over 140 great deals to choose from",
+      "description": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling out at some retailers, so if you’ve bee",
+      "url": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T20:38:57+00:00"
+    },
+    {
+      "title": "India-born Moondra realises dream in Ireland win over world champions",
+      "description": "India-born bowler Jai Moondra says helping Ireland claim a historic T20 win over the world champions is a \"dream come true\".",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cr47347kkvko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-26T20:26:03+00:00"
+    },
+    {
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "description": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T20:04:55+00:00"
+    },
+    {
+      "title": "'I started running' - how fitter Duckett got back to his best",
+      "description": "Ben Duckett has lost \"five or six\" kilograms since the Ashes - this is how he reaped the rewards with a century for England in the third Test against New Zealand.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c621nr8zj80o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-26T19:54:44+00:00"
+    },
+    {
+      "title": "These are the best deals you can still get on MacBooks before Apple&#8217;s price hike kicks in",
+      "description": "Apple just raised the prices on Macs and iPads in response to the rising costs of memory chips, right in the middle of Amazon Prime Day. That means existing discounts (even small ones) on Apple laptops like the MacBook Neo, MacBook Air, and MacBook Pro just became significantly better deals. As an e",
+      "url": "https://www.theverge.com/gadgets/956830/prime-day-macbook-deals-apple-price-hikes",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T19:42:52+00:00"
+    },
+    {
+      "title": "10 Best Prime Day Streaming Deals, Including Half Off Apple TV (2026)",
+      "description": "Prime Day isn’t just about cheap TVs. It’s also about cheap stuff to watch on your cheap TV.",
+      "url": "https://www.wired.com/story/best-prime-day-streaming-deals-06-26-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T18:55:18+00:00"
+    },
+    {
+      "title": "FCC accused of hiding Chairman Carr's messages with DOGE and Musk",
+      "description": "FCC refuses to provide messages, has \"wasted a year\" of court's time, filing says.",
+      "url": "https://arstechnica.com/tech-policy/2026/06/fcc-accused-of-hiding-chairman-carrs-messages-with-doge-and-musk/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T18:51:04+00:00"
+    },
+    {
+      "title": "How to See the Giant Asteroid That Will Pass by Earth This Weekend",
+      "description": "The asteroid will be visible for several nights from different parts of the world. We’ll tell you when and where to look, and what equipment you’ll need to spot it.",
+      "url": "https://www.wired.com/story/how-to-see-1997-nc1-asteroid-pass-by-earth-this-weekend/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T18:45:16+00:00"
+    },
+    {
+      "title": "Our 36 favorite gaming deals on Prime Day for Switch, PS5, and Xbox",
+      "description": "There are some some sizable discounts on new and recent hits from the last few years for the Nintendo Switch 2, PlayStation 5, and the Xbox Series X / S for Prime Day. Most Amazon game deals are physical copies, but every so often there’s a better or equivalent price on digital versions, as well [&#",
+      "url": "https://www.theverge.com/gadgets/951901/prime-day-video-games-switch-playstation-xbox-pc-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T18:43:39+00:00"
+    },
+    {
+      "title": "Netflix now requires every user profile to be tied to unique email address",
+      "description": "Update began June 15 and will no longer allow you to share your login info.",
+      "url": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T18:19:58+00:00"
+    },
+    {
+      "title": "The beautiful shame",
+      "description": "While European tourists marvel at ranch dressing, Buc-ee's, and other wonders of Middle America, would-be World Cup attendees from Africa, Asia, and the Middle East have experienced a different American pastime: exclusion. President Donald Trump's nakedly racist immigration policies have prevented s",
+      "url": "https://www.theverge.com/report/957948/world-cup-us-visa-policies-trump",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T18:00:00+00:00"
+    },
+    {
+      "title": "This video bird feeder is the surprise hit of Prime Day",
+      "description": "I can understand why The Verge readers are flocking to the BirdBuddy deal we posted at the beginning of Prime Day. The BirdBuddy Pro with Solar Panels is a wholesome upgrade for your yard, but the full price of $299 is tough to stomach. After all, the BirdBuddy is essentially a video doorbell and so",
+      "url": "https://www.theverge.com/gadgets/957791/birdbuddy-pro-solar-prime-day-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T17:56:25+00:00"
+    },
+    {
+      "title": "Antibiotic \"megacluster\" discovery provides new strategy to fight superbugs",
+      "description": "It's \"an exciting advance in efforts to restock the antibiotic arsenal.\"",
+      "url": "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T17:46:07+00:00"
+    },
+    {
+      "title": "Mercedes' Antonelli tops Friday practice in Austria",
+      "description": "Mercedes' Kimi Antonelli heads McLaren's Oscar Piastri in Friday practice at the Austrian Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ce8jze60zzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-26T17:38:04+00:00"
+    },
+    {
+      "title": "Usyk vacates belts but is not retiring",
+      "description": "Heavyweight world champion Oleksandr Usyk says he will vacate all his belts but is not retiring.",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/c6210pk8klro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-26T17:29:56+00:00"
+    },
+    {
+      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "description": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-v",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T17:00:00+00:00"
+    },
+    {
+      "title": "Is a former England striker right about reasons for Scottish football's ills?",
+      "description": "From undervalued broadcasting deals to unfulfilled potential, Ian Wright says he feels sorry for Scottish football fans - but is the former England striker right?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz9nnp2p1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-26T16:26:04+00:00"
+    },
+    {
+      "title": "Ars Live: What's the latest in the aftermath of the New Glenn catastrophe?",
+      "description": "Join us on the livestream at 1 pm ET and ask questions about the aftermath of New Glenn.",
+      "url": "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T16:24:59+00:00"
+    },
+    {
+      "title": "Common Laxative May Help Reverse Depression-Related Brain Fog",
+      "description": "A common constipation drug could have an unexpected benefit for people recovering from depression. Depression is often thought of as a disorder of mood, but for many people, its most persistent symptoms are cognitive. Even after depressive episodes end, problems with memory, attention, and mental pr",
+      "url": "https://scitechdaily.com/common-laxative-may-help-reverse-depression-related-brain-fog/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-26T15:53:35+00:00"
+    },
+    {
+      "title": "VW may close four factories to adapt to the future, report says",
+      "description": "With falling sales in the US and especially China, VW Group wants to restructure.",
+      "url": "https://arstechnica.com/cars/2026/06/vw-may-close-four-factories-to-adapt-to-the-future-report-says/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T15:10:03+00:00"
+    },
+    {
+      "title": "The Surprising Reason Frozen Fruit May Be Just As Nutritious as Fresh",
+      "description": "Frozen and canned produce may be a surprisingly healthy alternative to fresh fruit and vegetables. You probably know fruit and vegetables are good for you, and most of us don’t eat enough of them. But amid a cost-of-living crisis, buying more fresh food may not seem like a budget-friendly option. En",
+      "url": "https://scitechdaily.com/the-surprising-reason-frozen-fruit-may-be-just-as-nutritious-as-fresh/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-06-26T15:08:39+00:00"
+    },
+    {
+      "title": "Feedbacks upon feedbacks: Rock weathering and the climate",
+      "description": "Rock weathering may release or draw down carbon dioxide—it depends on the rock.",
+      "url": "https://arstechnica.com/science/2026/06/feedbacks-upon-feedbacks-rock-weathering-and-the-climate/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-06-26T14:41:18+00:00"
+    },
+    {
+      "title": "Why has Trump stayed away from the World Cup?",
+      "description": "Why has Donald Trump stayed away from the World Cup? And will he appear before the final?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0myxevn3emo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-06-26T14:35:00+00:00"
+    },
+    {
+      "title": "What's happening to petrol prices now oil is back to pre-Iran war levels?",
+      "description": "When the conflict began on 28 February, fuel costs jumped as the war disrupted the production and transportation of energy across the Middle East.",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-06-26T13:51:15+00:00"
+    },
     {
       "title": "Scientists Discover the Oldest Known Fossils of Humans’ Closest Invertebrate Relatives",
       "description": "New fossils hint that the roots of complex animal life stretch further back than previously believed. Animal life today is remarkably varied and complex, and animals have spread into nearly every environment on Earth, from harsh hydrothermal vents in the deep ocean to the skies above the continents.",
@@ -8,78 +304,6 @@
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-06-26T11:28:06+00:00"
-    },
-    {
-      "title": "Rainbow flags await Egypt and Iran at awkward World Cup Pride Match",
-      "description": "Iran's coach refuses to discuss pride celebrations in Seattle, where his country face Egypt in a crucial Group G match.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-26T11:20:11+00:00"
-    },
-    {
-      "title": "Afghan women ask ICC for 'clear answers' on future",
-      "description": "Afghanistan Women's cricket team call on the International Cricket Council to give them a \"clear answer\" on what their future looks like.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/czderm0d20zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-26T11:17:01+00:00"
-    },
-    {
-      "title": "Apple’s most powerful Macs might be waiting until 2027 for big processor upgrades",
-      "description": "Apple is expected to shake up its usual Mac silicon release strategy, with Bloomberg's Mark Gurman reporting that there won't be Pro or Max versions of the upcoming M6 chip. Instead, Apple wants to \"fast-track technologies that it originally planned to release later\" with the M7 launch next year. Th",
-      "url": "https://www.theverge.com/tech/957561/apple-m6-m7-ai-chip-release-timeline-gurman",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-26T11:14:44+00:00"
-    },
-    {
-      "title": "Hart explains how goalkeepers are struggling with World Cup ball",
-      "description": "Former England goalkeeper Joe Hart answers your questions about the Trionda World Cup ball and how it might be affecting goalkeepers at the tournament.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cp8l5e48g4zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-26T11:02:14+00:00"
-    },
-    {
-      "title": "Rocket Report: China may soon attempt booster landing; Rocket Lab does rapid response",
-      "description": "Is SpaceX planning to end its Transporter program?",
-      "url": "https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-26T11:00:59+00:00"
-    },
-    {
-      "title": "It’s the last day of Prime Day — here are over 130 great deals to choose from",
-      "description": "We’ve arrived at the final day of Prime Day, which at this point should probably be called “Prime Week.” We’ve found discounts on all manner of gadgets, including TVs, smart home tech, chargers, headphones, and more. Some of the best deals have started selling out at some retailers, so if you’ve bee",
-      "url": "https://www.theverge.com/gadgets/957435/prime-day-2026-best-tech-deals-sale-day-four",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-26T11:00:00+00:00"
-    },
-    {
-      "title": "Which MacBook to Buy (2026): Neo, Air, or Pro?",
-      "description": "After testing each of the MacBooks myself, here's my honest advice on which is right for you.",
-      "url": "https://www.wired.com/story/which-macbook-should-you-buy/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-26T11:00:00+00:00"
-    },
-    {
-      "title": "Ivanka Trump and Jared Kushner's Island Resort Could Bring Down Albania’s Prime Minister",
-      "description": "What began as a “flamingo revolution” to protest the $1.4 billion development on Sazan Island has spiraled into mass protests against a ruling party that thousands now want out.",
-      "url": "https://www.wired.com/story/ivanka-and-jareds-island-resort-could-bring-down-albanias-prime-minister/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-26T11:00:00+00:00"
-    },
-    {
-      "title": "We're Tracking the Final Hours of Amazon Prime Day Deals Live",
-      "description": "It's Day Four. Somehow it's still Prime Day. The deals are live. The deals are wild. The deals are almost feral. We are still here in the trenches digging up the deals and trends.",
-      "url": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-26-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-26T10:54:18+00:00"
     },
     {
       "title": "Watch What Happened When a Lost Elephant Calf Returned to Her Family",
@@ -98,36 +322,12 @@
       "publishedAt": "2026-06-26T10:37:12+00:00"
     },
     {
-      "title": "Should You Buy Your Kid a 3D Printer? What to Know and Consider (2026)",
-      "description": "Kids love 3D printers almost as much as K-Pop Demon Hunters. Just give in and get one.",
-      "url": "https://www.wired.com/story/3d-printer-for-kids/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-26T10:31:00+00:00"
-    },
-    {
-      "title": "The Gooner Music Video Boom Is Here",
-      "description": "Porn music videos have circulated on the fringes of the internet for years. Featuring everything from narrative-driven stories to hypnosis, they are proliferating across X as “bate fuel” for gooners.",
-      "url": "https://www.wired.com/story/the-gooner-music-video-boom-is-here/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-26T10:30:00+00:00"
-    },
-    {
       "title": "Even young and fit urged to skip runs and too many beers in heatwave",
       "description": "Cardiac arrests have gone up during very hot weather, and it's not just among the elderly and frail, experts are warning.",
       "url": "https://www.bbc.co.uk/news/articles/cgjxdpp4qzeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-06-26T10:24:26+00:00"
-    },
-    {
-      "title": "I Found The Best Amazon Prime Day Headphone Deals (2026)",
-      "description": "From AirPods to on-ears, we’ve tested hundreds of pairs of headphones. Here are the best deals from Amazon’s biggest sale event.",
-      "url": "https://www.wired.com/story/best-prime-day-headphone-deals-06-26-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-26T10:17:23+00:00"
     },
     {
       "title": "The abundant but expensive energy source that's under your feet",
@@ -138,52 +338,12 @@
       "publishedAt": "2026-06-26T10:12:42+00:00"
     },
     {
-      "title": "How to be a good tennis parent",
-      "description": "Pushy parents are well documented in tennis - BBC Sport looks at when things get out of hand and what is being done to change this.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cx23r1r55npo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-26T10:01:44+00:00"
-    },
-    {
-      "title": "How Qatar Became FIFA’s Technology Test Lab",
-      "description": "Qatar has become the place where FIFA experiments with the next generation of football technology. The results are already visible across this year’s World Cup.",
-      "url": "https://www.wired.com/story/how-qatar-became-fifas-technology-test-lab/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-26T10:00:00+00:00"
-    },
-    {
-      "title": "Williams given favourable Wimbledon start - who else plays who?",
-      "description": "American superstar Serena Williams will make her highly-anticipated singles comeback at Wimbledon against Australia's Maya Joint in the first round.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c621072x6l2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-26T09:20:27+00:00"
-    },
-    {
-      "title": "Why are World Cup underdogs doing so well?",
-      "description": "Are the surprise results achieved by lower-ranked teams in the World Cup a matter of luck - or clever planning and execution?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr5jedp7ppyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-26T09:18:00+00:00"
-    },
-    {
-      "title": "Best Prime Day Tech Deals Offer Up to $280 Off (2026): Phones, Watches, and More",
-      "description": "Don't pay full price—snag one of these tasty Prime Day tech deals on some of our favorite WIRED-tested gadgets.",
-      "url": "https://www.wired.com/story/best-prime-day-tech-deals-06-26-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-06-26T09:17:04+00:00"
-    },
-    {
-      "title": "Trump Mobile will take your $499 right now",
-      "description": "Where's the Trump phone? We're going to keep talking about it every week. We still don't have the phones we preordered yet, but this week the T1 hit open sale, no deposit required. Trump Mobile's T1 Phone is now available for anyone to buy directly. The phone has previously trickled out to a small n",
-      "url": "https://www.theverge.com/tech/957521/trump-mobile-t1-phone-open-sale-no-deposit",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-26T08:40:21+00:00"
+      "title": "As billionaires’ wealth soars, US workers struggle: ‘The rich keep getting richer for no good reason’",
+      "description": "Ultrarich face backlash as billionaire tax in California makes it to the ballot and Americans organize for higher wagesThe day that Elon Musk became the world’s first trillionaire, Gilberto Rubio, a security officer in the San Francisco area, said he was thinking about how to cut back on meals to sa",
+      "url": "https://www.theguardian.com/us-news/2026/jun/26/billionaires-wealth-soars-as-workers-struggle",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-06-26T09:00:14+00:00"
     },
     {
       "title": "Asia stock markets slide as tech shares slump",
@@ -194,20 +354,12 @@
       "publishedAt": "2026-06-26T07:33:10+00:00"
     },
     {
-      "title": "Turkey end World Cup on high with last-gasp win over USA",
-      "description": "Turkey come out on top in the last minute of an end-to-end 3-2 win over a second string USA side, in their final Group D match at SoFi Stadium in Los Angeles.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8j2rxn00d4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-26T05:05:12+00:00"
-    },
-    {
-      "title": "From 42% to 5.26% - how Scotland's World Cup hopes are fading",
-      "description": "Defeat against Brazil left Scotland in a precarious position, but little has gone their way since either.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-26T04:33:51+00:00"
+      "title": "Too hot for work: why extreme heat is a threat to Europe’s productivity",
+      "description": "High temperatures make some workplaces dangerous, with economists warning disruption will dent growthMonique Mosley is used to sweltering conditions at the food factory in Yorkshire where she works, but June’s record-breaking heatwave has made conditions unbearable. “We make hot filled food products",
+      "url": "https://www.theguardian.com/business/2026/jun/26/extreme-heat-europe-productivity-economic-growth",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-06-26T05:00:08+00:00"
     },
     {
       "title": "Power banks and vapes now biggest fire risk on planes",
@@ -226,52 +378,12 @@
       "publishedAt": "2026-06-25T23:19:48+00:00"
     },
     {
-      "title": "This year’s Prime Day deals on Apple products are the best I’ve seen",
-      "description": "Amazon&#8217;s Prime Day is now in its third day, and whether you&#8217;re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll find a discount. The Apple Watch Series 11 has already dropped to a new low price, while the AirPods Pro 3 are discounted to $179. With ",
-      "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T23:04:23+00:00"
-    },
-    {
       "title": "I'm back at home again after uni - here's how I'm making it work",
       "description": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
       "url": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-06-25T23:03:48+00:00"
-    },
-    {
-      "title": "Android 17&#8217;s new foldable gaming mode could make flippy phones more fun",
-      "description": "Android 17 is getting a dedicated gaming mode for foldables that will put a virtual gamepad with touch controls on half of your screen to theoretically make it easier to play games. With foldable gaming mode, which is set to launch in the coming months, the virtual controller emulates physical butto",
-      "url": "https://www.theverge.com/tech/957450/android-17-foldable-gaming-mode-virtual-controller",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T22:33:54+00:00"
-    },
-    {
-      "title": "YouTube updates Shorts to make it even more like TikTok",
-      "description": "YouTube is adding even more TikTok-like features to Shorts, including a new \"clear screen\" mode that removes the icons and text from the video you're watching. In a blog post on Thursday, YouTube says it's also replacing the \"thumbs-up\" button with a \"heart\" icon, and is introducing a new option tha",
-      "url": "https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T22:08:30+00:00"
-    },
-    {
-      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
-      "description": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&#38;A that it would release GPT-5.6 in limited pr",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T21:57:06+00:00"
-    },
-    {
-      "title": "Framework has good news and bad news",
-      "description": "Thanks to the component crisis, it's a bad time to want a new computer. But if you are waiting on a preorder for the Framework Laptop 13 Pro - which Framework's CEO has called the \"MacBook Pro for Linux users\" - the company shared good news on Thursday that might mean yours will cost less [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/957338/framework-laptop-13-pro-ssd-price-cpu",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T21:23:47+00:00"
     },
     {
       "title": "17,000 Brain Scans Reveal Surprising Ethnic Differences in Alzheimer’s Biology",
@@ -282,36 +394,12 @@
       "publishedAt": "2026-06-25T20:32:17+00:00"
     },
     {
-      "title": "Microsoft adds another year to Windows 10 extended update program",
-      "description": "About a quarter of PCs are still running Microsoft's previous operating system.",
-      "url": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T20:24:09+00:00"
-    },
-    {
-      "title": "FCC may kill $2B program that connects schools and libraries to Internet",
-      "description": "Carr cites screen time concerns, is accused of trying to be \"the nation’s parent.\"",
-      "url": "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T20:01:08+00:00"
-    },
-    {
       "title": "New Autism Treatment Strategy Restores Key Brain Receptor Function",
       "description": "An antisense therapy that targets a glycine transporter restored NMDA receptor function in mouse models related to autism and in human brain organoids. An overlooked protein that regulates levels of the amino acid glycine may hold the key to treating autism and other disorders linked to disrupted br",
       "url": "https://scitechdaily.com/new-autism-treatment-strategy-restores-key-brain-receptor-function/",
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-06-25T19:57:34+00:00"
-    },
-    {
-      "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
-      "description": "Apple said it had \"never seen a component price increase this much, this quickly\".",
-      "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-25T19:41:22+00:00"
     },
     {
       "title": "Younger Generations Are Aging Faster – and It May Be Fueling a Surge in Cancer",
@@ -330,38 +418,6 @@
       "publishedAt": "2026-06-25T19:21:34+00:00"
     },
     {
-      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-      "description": "Notion is \"going all in on using agents to run your inbox.\"",
-      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T19:04:57+00:00"
-    },
-    {
-      "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
-      "description": "It took 20 years, but the Finance app arrives just in time to be packed full of AI.",
-      "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T18:38:51+00:00"
-    },
-    {
-      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-      "description": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.",
-      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T18:01:48+00:00"
-    },
-    {
-      "title": "Planet orbits so close to its star that their magnetic fields connect",
-      "description": "At the right point of the orbit and stellar cycle, the star's chromosphere brightens.",
-      "url": "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T18:00:39+00:00"
-    },
-    {
       "title": "Key Fed inflation gauge rises to three-year high in May after gas prices peaked",
       "description": "Consumer prices rose 4.1% in May from a year earlier – a sign rising costs could pose problem for Trump in midtermsThe Federal Reserve’s preferred inflation gauge rose to a new three-year high in May as gas prices peaked, a sign rising costs could pose political problems for Donald Trump and his pol",
       "url": "https://www.theguardian.com/business/2026/jun/25/us-may-inflation-gauge-three-year-high",
@@ -370,52 +426,12 @@
       "publishedAt": "2026-06-25T16:14:37+00:00"
     },
     {
-      "title": "Scientists Turn Ordinary Sunlight Into UV Light in Major Energy Breakthrough",
-      "description": "Sunlight just got an upgrade: Scientists have developed a material that converts ordinary sunshine into UV light, opening new possibilities for solar-powered technologies. Imagine pouring two cups of warm water together and expecting to get one cup of boiling water. That is impossible in everyday li",
-      "url": "https://scitechdaily.com/scientists-turn-ordinary-sunlight-into-uv-light-in-major-energy-breakthrough/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-25T16:14:36+00:00"
-    },
-    {
       "title": "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz",
       "description": "Stock markets on both sides of Atlantic up as concerns ease over prospect of another inflationary shockBusiness live – latest updatesOil prices have fallen to pre-Iran war levels as more oil tankers exited the strait of Hormuz.Brent crude, the global benchmark, fell to a low of $72.24 a barrel on Th",
       "url": "https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-06-25T15:41:17+00:00"
-    },
-    {
-      "title": "New Discovery Could Unlock Quantum Computers the Size of a Coin",
-      "description": "Physicists at the University of Vienna have discovered magnons with lifespans 100 times longer than previously measured. For decades, magnons have shown enormous promise for quantum technologies, but one critical limitation has kept them from practical use: they disappear almost as soon as they form",
-      "url": "https://scitechdaily.com/new-discovery-could-unlock-quantum-computers-the-size-of-a-coin/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-25T15:39:37+00:00"
-    },
-    {
-      "title": "Scientists Create AI Skin Patch That Acts Like an Instant Personal Doctor",
-      "description": "Researchers developed a flexible AI computing patch that analyzes health data directly on the body, enabling near-instant medical insights and highly accurate heart monitoring. Researchers at the University of Chicago Pritzker School of Molecular Engineering (UChicago PME) have created a skin-like c",
-      "url": "https://scitechdaily.com/scientists-create-ai-skin-patch-that-acts-like-an-instant-personal-doctor/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-25T15:04:53+00:00"
-    },
-    {
-      "title": "Feds deny Polestar authorization to sell cars in US from model year 2027",
-      "description": "Unlike with Volvo, there will be no authorization for Polestar to sell its cars here.",
-      "url": "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-25T14:40:23+00:00"
-    },
-    {
-      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
-      "description": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
-      "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-25T12:08:33+00:00"
     },
     {
       "title": "Datacentres are growing target of global climate-related legal cases, report finds",
@@ -440,22 +456,6 @@
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-06-24T23:11:14+00:00"
-    },
-    {
-      "title": "Elon Musk loses trillionaire status as SpaceX and Tesla stock drops",
-      "description": "Falling shares push tech mogul back down to billionaire ranks after SpaceX IPO made him world’s first trillionaireElon Musk was no longer a trillionaire by the time markets closed on Wednesday. Plunging shares in Tesla and SpaceX dragged the tech magnate down to billionaire status. As of 4pm ET, For",
-      "url": "https://www.theguardian.com/technology/2026/jun/24/elon-musk-trillionaire-spacex",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-06-24T20:02:33+00:00"
-    },
-    {
-      "title": "Trump says he’s ordered investigation into oil companies over alleged price gouging",
-      "description": "Trump says he instructed justice department to investigate oil firms over high gas prices amid Middle East conflictDonald Trump said on Wednesday that he had instructed the US Department of Justice to investigate oil companies for alleged price gouging, accusing them of not lowering gas prices enoug",
-      "url": "https://www.theguardian.com/us-news/2026/jun/24/trump-doj-investigation-oil-company-price-gouging",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-06-24T15:21:25+00:00"
     }
   ]
 }
