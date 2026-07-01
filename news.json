@@ -1,21 +1,397 @@
 {
-  "updatedAt": "2026-07-01T11:48:27.902939+00:00",
+  "updatedAt": "2026-07-01T22:16:33.546527+00:00",
   "articles": [
+    {
+      "title": "New Fossils Show the Arctic Was an Evolutionary Powerhouse During the Age of Dinosaurs",
+      "description": "Tiny fossil teeth from Alaska are changing how scientists view mammal life and migration in the ancient Arctic. Today&#8217;s Arctic is one of the harshest and least biodiverse places on Earth, but during the age of dinosaurs it was home to a surprisingly rich community of mammals. A new fossil disc",
+      "url": "https://scitechdaily.com/new-fossils-show-the-arctic-was-an-evolutionary-powerhouse-during-the-age-of-dinosaurs/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-01T22:15:37+00:00"
+    },
+    {
+      "title": "The funeral for PlayStation discs has begun",
+      "description": "Cody Spencer, the co-owner of the small games retail chain Pink Gorilla Games, put it well when I asked about the impact of Sony's recent announcement that it will stop making discs for new games starting January 2028. \"It's sad to see. This decision is only a negative for gamers. We're losing the a",
+      "url": "https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T22:03:37+00:00"
+    },
+    {
+      "title": "What Happened to Australasia’s Lost Crocodiles? New Research Reveals a Dramatic Extinction Story",
+      "description": "New research uncovers a lost world of strange crocodile relatives that once thrived across Australasia alongside early humans. The sight of a saltwater crocodile basking on a mudbank is one of the most iconic and intimidating images of northern Australia. Yet the crocodiles that inhabit the region t",
+      "url": "https://scitechdaily.com/what-happened-to-australasias-lost-crocodiles-new-research-reveals-a-dramatic-extinction-story/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-01T21:40:20+00:00"
+    },
+    {
+      "title": "Mexico’s Victory Over Ecuador Made the Ground Shake. Was It an Artificial Earthquake?",
+      "description": "Fans’ euphoric reactions to the Mexican national team’s recent victory in the 2026 World Cup caused a series of unusual vibrations that were detected by seismic warning systems.",
+      "url": "https://www.wired.com/story/mexicos-victory-over-ecuador-artificial-earthquake/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T21:34:03+00:00"
+    },
+    {
+      "title": "Vintage Djokovic 'in full flow' to crush Tsitsipas as Sinner wins",
+      "description": "Novak Djokovic outclasses Stefanos Tsitsipas in a statement performance to reach the Wimbledon third round.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cgjxzeqnn1vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-01T21:29:09+00:00"
+    },
+    {
+      "title": "Did hydration breaks spark England comeback?",
+      "description": "England came from behind to beat DR Congo and reach the last 16 of the World Cup, but did the momentum noticeably swing their way after the hydration breaks?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gy8nrny19o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-01T21:23:18+00:00"
+    },
+    {
+      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+      "description": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
+      "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T21:21:21+00:00"
+    },
+    {
+      "title": "520-Million-Year-Old Fossils Solve One of Evolution’s Biggest Mysteries",
+      "description": "Exceptionally preserved fossils from China reveal that bryozoans were already thriving during the Cambrian explosion. More than half a billion years ago, the Cambrian explosion reshaped life on Earth, giving rise to nearly every major animal lineage alive today. Yet despite more than a century of fo",
+      "url": "https://scitechdaily.com/520-million-year-old-fossils-solve-one-of-evolutions-biggest-mysteries/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-01T21:05:29+00:00"
+    },
+    {
+      "title": "Xbox’s ‘reset’: all the news about Microsoft&#8217;s looming layoffs and studio closures",
+      "description": "Xbox is making some big changes — again. On June 10th, a few months after Asha Sharma took over as CEO, she and newly-promoted chief content officer Matt Booty sent a memo to staff warning of an &#8220;Xbox reset.&#8221; The business, they said, is facing significant challenges, including a 3 percen",
+      "url": "https://www.theverge.com/games/959900/xbox-reset-layoffs-studio-closures",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T21:00:00+00:00"
+    },
+    {
+      "title": "Genuine superstar Kane produces his biggest England moment",
+      "description": "Harry Kane's England career is filled with great moments - his World Cup rescue act against DR Congo in Atlanta is his greatest, says chief football writer Phil McNulty.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-01T20:41:03+00:00"
+    },
+    {
+      "title": "Goose, a New Gay Dating App, Appears to Be a Psyop",
+      "description": "Touted as a less-hookup-focused Grindr, Goose is an invite-only space for gay men. The problem is the people promoting it don’t seem real.",
+      "url": "https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T20:28:57+00:00"
+    },
+    {
+      "title": "Elon Musk denies a report about SpaceX&#8217;s AI phone prototype",
+      "description": "Elon Musk says a report about a SpaceX AI phone prototype is \"utterly false.\" The report, published on Wednesday by The Wall Street Journal, says SpaceX showed off a \"handset-like prototype\" to some investors before launching its record-breaking initial public offering in June. The device was \"slimm",
+      "url": "https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T20:10:21+00:00"
+    },
+    {
+      "title": "Halifax brand to be scrapped after 173 years",
+      "description": "Lloyds says it remains committed to the town of Halifax and very little will change for customers.",
+      "url": "https://www.bbc.co.uk/news/articles/c24ydy4q0nzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-01T20:09:05+00:00"
+    },
+    {
+      "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
+      "description": "Trump and US officials opted to keep USMCA alive on short leash of annual reviews rather than longer term renewalDonald Trump has refused to renew the North American trade pact he once championed as his signature deal, opting instead to keep it alive on a short leash of annual reviews rather than co",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-07-01T20:09:01+00:00"
+    },
+    {
+      "title": "NASA chief praises progress Blue Origin is making after launch failure",
+      "description": "\"We've got time into 2027 before we're getting nervous.\"",
+      "url": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T19:57:36+00:00"
+    },
+    {
+      "title": "An Explosion Knocked Out Anduril’s Rocket Motor Test Site in Mississippi",
+      "description": "The incident could disrupt a key part of the defense company’s rocket motor business, which designs and tests prototype motors for military customers.",
+      "url": "https://www.wired.com/story/anduril-mississippi-explosion-missiles-rocket-motor/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T19:29:21+00:00"
+    },
+    {
+      "title": "Spurs agree deal worth up to £100m for Newcastle's Tonali",
+      "description": "Tottenham Hotspur agree a deal worth up to £100m with Newcastle United for midfielder Sandro Tonali.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2xjlevpjpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-01T19:29:02+00:00"
+    },
+    {
+      "title": "Rapid spread of AI may worsen global inequality, UN warns",
+      "description": "Panel proses shared framework for responsible AI development as adoption grows unevenly across worldA new United Nations report warns that the development of artificial intelligence may exacerbate global inequality and proposes a shared framework for how to responsibly develop AI, as adoption and in",
+      "url": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-07-01T19:17:11+00:00"
+    },
+    {
+      "title": "US home battery installations hit record high on rising electricity costs",
+      "description": "Record home battery installations unlock options for grids—and AI data centers.",
+      "url": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T19:11:15+00:00"
+    },
+    {
+      "title": "Superworms could replace beetles for cleaning skeletal remains",
+      "description": "An optimal ratio of 10-15 grams of larvae per gram of specimen minimized cleaning time with no bone damage.",
+      "url": "https://arstechnica.com/science/2026/07/museums-could-use-ravenous-superworms-to-clean-skeletons/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T18:59:21+00:00"
+    },
+    {
+      "title": "US blocks long-term renewal of North American trade deal",
+      "description": "US blocks 16-year North America trade deal renewal, triggering annual rolling reviews",
+      "url": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-01T18:56:36+00:00"
+    },
+    {
+      "title": "Sony announces end of PlayStation discs, parts of digital store in the same day",
+      "description": "“We will own nothing, it's truly sad.”",
+      "url": "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T18:41:49+00:00"
+    },
+    {
+      "title": "Kane scores twice as England come from behind to reach last 16",
+      "description": "Harry Kane scores twice as England come from behind to beat DR Congo in a tense World Cup encounter in Atlanta, and set up a last-16 meeting with Mexico.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-01T18:31:15+00:00"
+    },
+    {
+      "title": "A good little EV you won't be able to buy soon: The Volvo EX30 Cross Country",
+      "description": "Tariffs and anti-China policies killed this little Volvo in the United States.",
+      "url": "https://arstechnica.com/cars/2026/07/the-volvo-ex30-cross-country-review-a-victim-of-geopolitics/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T18:24:04+00:00"
+    },
+    {
+      "title": "England into last 16 - what is their path to the final?",
+      "description": "BBC Sport takes a look at what England will need to do to reach the final after progressing the last 16",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-01T18:17:02+00:00"
+    },
+    {
+      "title": "'That was a rocket' - Kane scores winner for England",
+      "description": "A \"rocket\" of a strike from Harry Kane gives England a late lead against DR Congo in Atlanta.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cz9lq8n04k0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-01T18:10:03+00:00"
+    },
+    {
+      "title": "You Can Now Sound the Alarm on AI Behaving Badly",
+      "description": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There’s a website for that.",
+      "url": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T18:10:00+00:00"
+    },
+    {
+      "title": "England sneak through - but who had a nightmare start? Player ratings",
+      "description": "BBC Sport England reporter Alex Howell rates the players after the World Cup comeback win over DR Congo - plus have your say.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5x35zx04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-01T18:00:16+00:00"
+    },
+    {
+      "title": "Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million",
+      "description": "After a lengthy legal dispute, Krafton has settled with its subsidiary Unknown Worlds Entertainment, which is developing Subnautica 2, and will pay bonuses to the studio's staff, Bloomberg reports. The dispute began last year after Krafton pushed out Unknown Worlds' cofounders, Charlie Cleveland and",
+      "url": "https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T17:45:23+00:00"
+    },
+    {
+      "title": "The 49 Best Outdoor Deals From the REI 4th of July Sale",
+      "description": "Whether you need a tent, sleeping pad, rain jacket, or new pack, REI’s Independence Day sale has something for everyone.",
+      "url": "https://www.wired.com/story/rei-4th-of-july-sale-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T17:45:16+00:00"
+    },
+    {
+      "title": "Xbox testing disc-to-digital feature that digitizes a physical game collection",
+      "description": "Microsoft will likely soon follow Sony and stop the production of physical discs for Xbox games. But instead of leaving physical discs behind entirely, sources familiar with Microsoft's plans tell me the company has quietly been working on a disc-to-digital feature that will allow Xbox owners to dig",
+      "url": "https://www.theverge.com/report/960173/microsoft-xbox-disc-to-digital-feature-physical-game-collection",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T17:41:23+00:00"
+    },
+    {
+      "title": "Sony’s PlayStation Puts a Nail in Physical Media’s Coffin",
+      "description": "Is PlayStation about to make the same mistake Microsoft made with Xbox One?",
+      "url": "https://www.wired.com/story/sony-playstation-puts-a-nail-in-physical-medias-coffin/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T17:38:12+00:00"
+    },
+    {
+      "title": "Bibles, Home Alone and perfume: Six things about how Trump made money in 2025",
+      "description": "Official documents show the US president made billions of dollars as he returned to the White House.",
+      "url": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-01T17:22:25+00:00"
+    },
+    {
+      "title": "Ithaca's king defies the gods in final The Odyssey trailer",
+      "description": "\"You gods don't speak in ways we understand.\"",
+      "url": "https://arstechnica.com/culture/2026/07/ithacas-king-defies-the-gods-in-final-the-odyssey-trailer/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T16:58:30+00:00"
+    },
+    {
+      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
+      "description": "US lifts curbs on Anthropic’s advanced Fable and Mythos models.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T16:44:18+00:00"
+    },
+    {
+      "title": "My favorite Kindle alternative is $30 off after a recent price increase",
+      "description": "Kobo recently raised the price of its Libra Colour e-reader to $259.99, but today&#8217;s deal effectively erases that hike. The company, Best Buy, and Target, are all selling it for its old $229.99 price as part of broader sales, making now one of the best times to grab my favorite alternative to A",
+      "url": "https://www.theverge.com/gadgets/960282/kobo-libra-colour-july-fourth-sale-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T16:28:40+00:00"
+    },
+    {
+      "title": "Penalty Shootouts: Is the Team That Kicks First More Likely to Win?",
+      "description": "Penalty kicks are already proving critical to big wins at this year’s World Cup. But the advantage in penalty kicks has more to do with psychological effects than who kicks first.",
+      "url": "https://www.wired.com/story/penalty-shootouts-is-the-team-that-kicks-first-more-likely-to-win/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T16:28:25+00:00"
+    },
+    {
+      "title": "This Extraordinary Desert Mouse Defies Aging – and It Could Change Human Longevity",
+      "description": "A wild mouse with an unusually long life may reveal clues to healthy aging. Aging is often treated as an unavoidable biological process, but evolution tells a more complicated story. Across the animal kingdom, species age at dramatically different rates, with some rapidly declining after reaching ad",
+      "url": "https://scitechdaily.com/this-extraordinary-desert-mouse-defies-aging-and-it-could-change-human-longevity/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-01T16:13:55+00:00"
+    },
     {
       "title": "Trump made more than $1bn from crypto in first year back in office",
       "description": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
       "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "publishedAt": "2026-07-01T11:41:13+00:00"
+      "publishedAt": "2026-07-01T16:04:32+00:00"
     },
     {
-      "title": "The Best Automatic Litter Box of 2026: Petkit and Litter-Robot",
-      "description": "With these high-tech automatic litter boxes, gone are the days of scooping and smells. Welcome to the future.",
-      "url": "https://www.wired.com/gallery/best-automatic-cat-litter-boxes/",
+      "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
+      "description": "The government has removed restrictions on Anthropic’s Fable 5 and Mythos 5 AI models—but there were strings attached.",
+      "url": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
       "source": "Wired",
       "category": "Technology",
-      "publishedAt": "2026-07-01T11:38:00+00:00"
+      "publishedAt": "2026-07-01T16:00:00+00:00"
+    },
+    {
+      "title": "A Simple Blood Test Can Reveal the True Age of Your Brain, Heart, and Other Organs",
+      "description": "Scientists have developed a blood test that estimates the biological age of individual organs, offering a new way to gauge future disease risk. Your body is not aging as a single unit. While your driver&#8217;s license may say you&#8217;re 50, your brain could resemble that of someone much older, wh",
+      "url": "https://scitechdaily.com/a-simple-blood-test-can-reveal-the-true-age-of-your-brain-heart-and-other-organs/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-01T15:38:38+00:00"
+    },
+    {
+      "title": "Comcast’s split could make or break Peacock",
+      "description": "NBCUniversal executives are about to find out whether Peacock will sink or swim in the streaming industry. Now that Comcast is planning to split NBCUniversal, Peacock, and Sky from its broadband and wireless businesses, Peacock will be forced to stand on its own - without the backing of a combined c",
+      "url": "https://www.theverge.com/streaming/960235/comcast-breakup-peacock-streaming",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T15:30:00+00:00"
+    },
+    {
+      "title": "Brewery boss who banned phones and swearing from pubs dies aged 81",
+      "description": "Humphrey Smith had been at the helm of the Tadcaster brewer since the 1980s.",
+      "url": "https://www.bbc.co.uk/news/articles/c0ky1v2e275o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-01T15:13:20+00:00"
+    },
+    {
+      "title": "This Popular Workout Supplement May Give Cancer Immunotherapy a Big Boost",
+      "description": "Researchers at UCLA found that creatine not only enhances cancer-fighting killer T cells but also strengthens dendritic cells, which activate and direct T cells to attack tumors. Creatine, a supplement widely used by athletes and bodybuilders, may also strengthen the immune system&#8217;s ability to",
+      "url": "https://scitechdaily.com/this-popular-workout-supplement-may-give-cancer-immunotherapy-a-big-boost/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-01T15:03:31+00:00"
+    },
+    {
+      "title": "The best Switch 2 case I’ve tried is cheaper than usual",
+      "description": "Dbrand apparently knows how to really whiff a product launch, as we recently saw with the Steam Machine Companion Cube shell. But it also makes the best case out there for the Nintendo Switch 2, which happens to be discounted right now. The Killswitch 2 is versatile, with better build quality than o",
+      "url": "https://www.theverge.com/gadgets/960185/dbrand-killswitch-switch-2-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-01T15:00:00+00:00"
+    },
+    {
+      "title": "Up to 150 ex-WHSmith High Street stores to close as rescue deal approved",
+      "description": "The sweeping restructuring, approved by a court, will see steep rent cuts on most remaining stores.",
+      "url": "https://www.bbc.co.uk/news/articles/cn751pkmgyxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-01T14:10:32+00:00"
+    },
+    {
+      "title": "Crypto and stock stakes: key takeaways from Trump’s financial disclosures",
+      "description": "US president raked in more than $1bn from crypto – an industry he has sought to deregulate – and a total of $2.2bn last year, files revealAlarm bells over conflict of interest as filing shows Trump raked in $2bn in 2025Donald Trump’s money-making ventures enriched him by more than $2bn last year, ac",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/crypto-ventures-stock-key-takeaways-trump-financial-disclosures",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-07-01T13:30:20+00:00"
+    },
+    {
+      "title": "US cooking oil market shrinking due to Ice pressures on Latino households, Mazola owner says",
+      "description": "Economic squeeze and anti-immigration raids have hit Hispanic communities, prompting people to shop online and reuse oilBusiness live – latest updatesThe US cooking oil market is shrinking and unlikely to improve soon because of economic and immigration enforcement pressures on Latino households, th",
+      "url": "https://www.theguardian.com/business/2026/jul/01/us-cooking-oil-market-shrinking-ice-pressures-latino-households-mazola-owner",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-07-01T12:52:57+00:00"
+    },
+    {
+      "title": "Scientists Built a Mars Rover That “Swims” Through Sand",
+      "description": "A Sahara desert lizard has inspired a new approach to Mars rover mobility. The research could lead to more capable explorers able to navigate sandy landscapes with greater ease. One of the biggest challenges for Mars rovers is simply staying mobile. Fine, loose sand can cause wheels to slip, sink, o",
+      "url": "https://scitechdaily.com/scientists-built-a-mars-rover-that-swims-through-sand/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-01T11:59:05+00:00"
     },
     {
       "title": "This Strange New Magnet Could Transform Future Electronics",
@@ -26,116 +402,12 @@
       "publishedAt": "2026-07-01T11:24:34+00:00"
     },
     {
-      "title": "Lectric XPress2 Review (2026): A Heavy-Duty but Nimble Ebike",
-      "description": "This hefty but nimble and highly customizable ebike makes the journey as important as the destination. Get where you want, and have fun along the way.",
-      "url": "https://www.wired.com/review/lectric-xpress2-review/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-01T11:02:00+00:00"
-    },
-    {
-      "title": "Three die in Mexico City World Cup celebrations",
-      "description": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-01T11:01:12+00:00"
-    },
-    {
-      "title": "Range anxiety",
-      "description": "The storm developed quickly over west central Illinois on April 17th, first as a single high-intensity system called a supercell, and then later that evening transforming into a long squall line of thunderstorms. Tucked inside a wall of wind were several smaller, quick-forming tornadoes, one of whic",
-      "url": "https://www.theverge.com/cs/features/938196/rivian-r2-ev-factory-supply-chain",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-01T11:00:02+00:00"
-    },
-    {
-      "title": "The cube was a lie: up close with our Dbrand Companion Cube before it gets destroyed",
-      "description": "Dbrand is the company that shipped a product that told Nintendo's legal team to \"go fuck yourself,\" and the company that had a second set of lawyer-dodging PS5 plates ready when Sony threatened to sue over the originals. But on June 29th, the company finally ate some serious humble pie, canceling it",
-      "url": "https://www.theverge.com/games/959890/dbrand-companion-cube-photos-hands-on",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-01T11:00:00+00:00"
-    },
-    {
-      "title": "Drive Slower, Save Money on Gas. Thanks, Physics!",
-      "description": "Planning a Fourth of July getaway? Use less gas—and cut your emissions—by easing up on the pedal.",
-      "url": "https://www.wired.com/story/drive-slower-save-money-on-gas-because-physics/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-01T11:00:00+00:00"
-    },
-    {
-      "title": "Scientists Discover Quantum Entanglement in a Crystal You Can Hold",
-      "description": "TU Wien has detected strong quantum entanglement for the first time in a centimeter-sized crystal of a strange metal. Many quantum effects are easiest to detect in very small systems, such as individual atoms, molecules or photons, that are carefully isolated from their surroundings. But physicists ",
-      "url": "https://scitechdaily.com/scientists-discover-quantum-entanglement-in-a-crystal-you-can-hold/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-01T10:49:20+00:00"
-    },
-    {
-      "title": "Just About Anyone Can Sell You GLP-1s Online Now",
-      "description": "Welcome to the “Temu experience of telehealth,” where everyone from Grindr to MAGA influencers can open a virtual clinic selling weight loss drugs and more.",
-      "url": "https://www.wired.com/story/telehealth-middlemen-turnkey-healthcare-providers-glp1/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-01T10:30:00+00:00"
-    },
-    {
-      "title": "Fujifilm launches two new QuickSnap cameras because Gen Z can&#8217;t get enough",
-      "description": "Fujifilm is expanding its QuickSnap lineup with a new disposable camera focused on taking monochrome photos and another built to survive harsh outdoor environments. The $22.90 QuickSnap Black and White and the $24.75 QuickSnap Active are expected to launch sometime later this fall, to the delight of",
-      "url": "https://www.theverge.com/gadgets/960067/fujifilm-quicksnap-active-black-and-white-price-availability",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-01T10:05:28+00:00"
-    },
-    {
-      "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
-      "description": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to Bonnaroo—and freely issue any ticket he chose.",
-      "url": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-01T10:00:00+00:00"
-    },
-    {
-      "title": "A Guided Tour of Donald Trump’s Renovated Washington, DC",
-      "description": "Trump has remade the nation’s capitol in his own image. Ahead of the Fourth of July, WIRED guides you through the dizzying effects of DC’s makeover.",
-      "url": "https://www.wired.com/story/a-guided-tour-of-donald-trumps-renovated-washington-dc/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-01T09:30:00+00:00"
-    },
-    {
-      "title": "Time for Tuchel to show hand as England enter World Cup danger zone",
-      "description": "England coach Thomas Tuchel must now play his strongest hand as he enters the danger zone in a World Cup of shocks, says chief football writer Phil McNulty.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c17y8r90082o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-01T09:10:35+00:00"
-    },
-    {
-      "title": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart",
-      "description": "Getty is planning to axe its $3.7 billion merger agreement with Shutterstock after a UK regulator imposed restrictions that would prevent part of Shutterstock's business from being included in the deal. The move comes despite the US Department of Justice granting the deal \"unconditional antitrust cl",
-      "url": "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-01T08:41:26+00:00"
-    },
-    {
-      "title": "Space Lasers Show How Venezuela’s Earthquakes Reshaped the Earth’s Crust",
-      "description": "New satellite imagery reveals how much terrain has shifted in the wake of the twin quakes.",
-      "url": "https://www.wired.com/story/space-lasers-show-venezuela-earthquakes-reshaped-earth-crust/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-01T08:30:00+00:00"
-    },
-    {
-      "title": "I've had death threats over Clark incident - Thomas",
-      "description": "Phoenix Mercury forward Alyssa Thomas says she has received death threats and racist abuse after an incident with Indiana Fever's Caitlin Clark.",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/c3wyll5lx0no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-01T08:22:19+00:00"
+      "title": "US labor board more likely to dismiss worker and union charges under Trump, analysis finds",
+      "description": "Report points to staffing shortages, procedural changes and lack of a board quorum as contributing factorsDismissals of unfair labor practice charges have surged at the National Labor Relations Board under Donald Trump, according to a new analysis.From January 2025 to 29 April 2026, the US top labor",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-labor-board-dismissals",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-07-01T11:00:33+00:00"
     },
     {
       "title": "Why is crucial tech vulnerable to the heat?",
@@ -144,110 +416,6 @@
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-07-01T07:23:12+00:00"
-    },
-    {
-      "title": "Romesh Ranganathan 'gutted' over bakery closure",
-      "description": "Coughlans Bakery says it has gone into voluntary liquidation over hikes in national insurance and business rates.",
-      "url": "https://www.bbc.co.uk/news/articles/c74y7wdgy49o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-01T06:53:28+00:00"
-    },
-    {
-      "title": "Mexico rampant at fortress Azteca - and England could be next",
-      "description": "Mexico have won all four games and not conceded a goal at this World Cup. Their last-16 opponents must also contend with playing at the Azteca Stadium.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy9rg5n3380o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-01T05:38:14+00:00"
-    },
-    {
-      "title": "Lobbing Federer changed his life – the cult hero back at Wimbledon",
-      "description": "Marcus Willis is best known for playing Roger Federer on Wimbledon's Centre Court but, 10 years on, he says he is not defined by that magical moment.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/ckg5127471yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-01T05:04:26+00:00"
-    },
-    {
-      "title": "Ulta Promo Codes: Up to 50% Off in July 2026",
-      "description": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "url": "https://www.wired.com/story/ulta-coupon/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-01T05:00:00+00:00"
-    },
-    {
-      "title": "Anthropic says US lifts export ban on its advanced AI tools",
-      "description": "Fable and Mythos were abruptly suspended in June over concerns that they could be used by hackers.",
-      "url": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-01T03:39:44+00:00"
-    },
-    {
-      "title": "United, free and brilliant - can anyone stop France masterclass?",
-      "description": "France boss Didier Deschamps urges caution despite watching his side dismantle Sweden to leave Les Bleus fans dreaming of winning the World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8r1zdj9k5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-01T01:07:39+00:00"
-    },
-    {
-      "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
-      "description": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
-      "url": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-01T01:04:16+00:00"
-    },
-    {
-      "title": "Meta is adding ridiculous &#8216;rate limits&#8217; and a soft paywall to its smart glasses",
-      "description": "Would you pay $20 a month for access to AI hardware you already own? That appears to be one of Meta's next bets. This week, it quietly announced that your glasses' Conversation Focus feature will soon be limited to three hours of use per month, unless you pay for a $19.99 Meta One Premium subscripti",
-      "url": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-01T00:51:03+00:00"
-    },
-    {
-      "title": "120mph serves but movement a struggle - how did Williams' return go?",
-      "description": "Serena Williams loses on her singles return to Wimbledon - but what can we expect next from the tennis legend?",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c621g6z0przo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-01T00:29:08+00:00"
-    },
-    {
-      "title": "Scientists Create Tiny “Mini Livers” That Could One Day Replace Liver Transplants",
-      "description": "Engineered tissue grafts could help perform key liver functions and benefit thousands of people living with liver failure. The liver is one of the body&#8217;s hardest-working organs, carrying out hundreds of vital jobs, from filtering toxins and metabolizing medications to producing proteins essent",
-      "url": "https://scitechdaily.com/scientists-create-tiny-mini-livers-that-could-one-day-replace-liver-transplants/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-01T00:05:29+00:00"
-    },
-    {
-      "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
-      "description": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AWS, ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-01T00:03:55+00:00"
-    },
-    {
-      "title": "This Surprising Factor May Predict Heart Disease Decades Before It Strikes",
-      "description": "Adverse neighborhood conditions in early adulthood may raise the risk of early cardiovascular disease decades later. Your ZIP code may reveal more about your future heart health than previously understood. In a new study published in Nature Communications, researchers found that people exposed to mo",
-      "url": "https://scitechdaily.com/this-surprising-factor-may-predict-heart-disease-decades-before-it-strikes/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-30T23:30:34+00:00"
-    },
-    {
-      "title": "Why Gen Z are planning for life without a state pension",
-      "description": "Many younger people do not believe the state pension will exist when they are older",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-30T23:05:19+00:00"
     },
     {
       "title": "Women with PMOS should have yearly NHS checks, says health watchdog",
@@ -274,132 +442,12 @@
       "publishedAt": "2026-06-30T23:02:02+00:00"
     },
     {
-      "title": "New Nonsurgical Knee Treatment Delivers Lasting Pain Relief",
-      "description": "A minimally invasive procedure that blocks abnormal blood vessels around the knee may offer lasting relief for people with osteoarthritis who have exhausted standard treatments. For millions of people with knee osteoarthritis, treatment options often fall into an uncomfortable middle ground: medicat",
-      "url": "https://scitechdaily.com/new-nonsurgical-knee-treatment-delivers-lasting-pain-relief/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-30T22:55:56+00:00"
-    },
-    {
-      "title": "Dish files for bankruptcy, but is not shutting down",
-      "description": "Dish, the company that operates Dish TV and Sling TV, has filed for Chapter 11 bankruptcy,\" as reported earlier by Reuters. The plan will allow the EchoStar-owned company to continue to wind down its wireless operations after \"unforeseen delays\" held back its sale of $23 billion worth of 5G spectrum",
-      "url": "https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-30T22:46:52+00:00"
-    },
-    {
-      "title": "Koeman resigns, while Netherlands report racist abuse",
-      "description": "Ronald Koeman resigns as Netherlands manager after their World Cup exit, which led to \"appalling\" racist abuse aimed at players who missed penalties.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly0g1y3v00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-06-30T22:30:26+00:00"
-    },
-    {
-      "title": "June research roundup: 6 cool science stories we almost missed",
-      "description": "Also, the science of poop's distinctive shape, boron buckyballs, and the secret to a soccer feint.",
-      "url": "https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-30T22:11:10+00:00"
-    },
-    {
-      "title": "Reddit will require you to log in to use old.reddit.com",
-      "description": "Logged-out Old Reddit access is “significant source of abusive scraping.\"",
-      "url": "https://arstechnica.com/gadgets/2026/06/reddit-will-require-you-to-log-in-to-use-old-reddit-com/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-30T21:46:35+00:00"
-    },
-    {
-      "title": "Amazon fined $2.25 million for failing to help identity theft victims",
-      "description": "The Federal Trade Commission fined Amazon $2.25 million to settle claims that the company failed to help customers who fell victim to identity theft, as reported earlier by Bloomberg. In its complaint, the FTC accuses Amazon of refusing to provide customers with information about purchases made with",
-      "url": "https://www.theverge.com/tech/959847/amazon-ftc-identity-theft-fine",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-06-30T21:20:01+00:00"
-    },
-    {
       "title": "NPR retracts ‘inaccurate’ story saying supreme court justice Samuel Alito retiring",
       "description": "Story from Nina Totenberg removed and replaced with editor’s note after journalist misheard announcement made by chief justiceThe US public broadcasting organization National Public Radio (NPR) on Tuesday took the unusual step of formally retracting a major news story, after it published what seemed",
       "url": "https://www.theguardian.com/media/2026/jun/30/npr-samuel-alito-supreme-court-story",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-06-30T21:18:34+00:00"
-    },
-    {
-      "title": "Amazon blames piracy apps with malware for killing new Fire Stick sideloading",
-      "description": "New Fire Stick OS helps Amazon block third-party homepage launchers, ad blockers.",
-      "url": "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-30T21:04:53+00:00"
-    },
-    {
-      "title": "Scientists Discover Hidden Rule That Could Make Fuel Cells Cheaper and More Powerful",
-      "description": "A new study reveals that dual-atom catalysts behave in a fundamentally different way than scientists previously thought, challenging a long-standing model used to predict catalytic performance. For decades, scientists have relied on a simple rule of thumb to design better catalysts: there is one &#8",
-      "url": "https://scitechdaily.com/scientists-discover-hidden-rule-that-could-make-fuel-cells-cheaper-and-more-powerful/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-30T20:56:17+00:00"
-    },
-    {
-      "title": "NASA may send a backup, nuclear-powered Mars rover to the Moon",
-      "description": "\"That would be an awesome capability.\"",
-      "url": "https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-30T20:50:14+00:00"
-    },
-    {
-      "title": "Google kills Tenor GIF API, forcing changes at X, Discord, and more",
-      "description": "Tenor still connects to Google apps, but other platforms must look elsewhere for GIFs.",
-      "url": "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-30T20:38:51+00:00"
-    },
-    {
-      "title": "New Water-Harvesting Jacket Pulls up to 30 Ounces of Drinking Water From the Air Daily",
-      "description": "Engineers have created innovative materials that pull drinking water from the air, including a water-harvesting jacket and a record-setting collection system. Engineers at the University of Texas at Austin have created a jacket that can generate drinking water from moisture in the air. The innovatio",
-      "url": "https://scitechdaily.com/new-water-harvesting-jacket-pulls-up-to-30-ounces-of-drinking-water-from-the-air-daily/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-30T20:21:30+00:00"
-    },
-    {
-      "title": "Apple takes Epic fight over app store fees to the Supreme Court",
-      "description": "Supreme Court will weigh if Apple contempt finding in Epic case is “erroneous.”",
-      "url": "https://arstechnica.com/tech-policy/2026/06/apple-takes-epic-fight-over-app-store-fees-to-the-supreme-court/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-30T20:20:29+00:00"
-    },
-    {
-      "title": "New attack provides one more reason why AI browsers are a bad idea",
-      "description": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
-      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-30T20:03:14+00:00"
-    },
-    {
-      "title": "Scientists Finally Uncover Why Gold Never Tarnishes",
-      "description": "Gold may stay shiny because some of its surface atoms reorganize into structures that block oxygen reactions. Gold has been valued for millennia because it keeps its shine, but new research from Tulane University suggests that this durability is not explained by chemistry alone. In a study published",
-      "url": "https://scitechdaily.com/scientists-finally-uncover-why-gold-never-tarnishes/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-06-30T19:46:28+00:00"
-    },
-    {
-      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
-      "description": "They may not look as good, but Nano Banana 2 Lite images only take a few seconds to create.",
-      "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-06-30T18:36:10+00:00"
     },
     {
       "title": "US treasury secretary warns oil and gas companies to lower prices: ‘We’re watching’",
@@ -424,54 +472,6 @@
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-06-30T14:25:42+00:00"
-    },
-    {
-      "title": "We had packed lunches every day for 10 years and retired at 40",
-      "description": "The Fire (Financially Independent, Retire Early) movement sees followers save as much as possible.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgdn3qqg7po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-06-29T23:03:26+00:00"
-    },
-    {
-      "title": "EU sets up three months of talks with China over €360bn trade deficit",
-      "description": "Two sides agree to try to make bilateral relationship ‘more balanced’ after weeks of threatsThe EU and China have agreed to enter three months of talks to try to avoid a trade war over the bloc’s €360bn (£310bn) annual import/export imbalance.In their first joint statement in seven years, the two si",
-      "url": "https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-06-29T18:33:51+00:00"
-    },
-    {
-      "title": "Resident doctors in England accept pay deal and end strikes",
-      "description": "Doctors have been locked in a three-year dispute with the government, resulting in several rounds of strikes.",
-      "url": "https://www.bbc.co.uk/news/articles/cwy01n5z48qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-06-29T16:45:16+00:00"
-    },
-    {
-      "title": "US supreme court rules Trump can fire leaders of independent agencies",
-      "description": "Case focused on White House’s March 2025 firing of Federal Trade Commission member Rebecca SlaughterSign up for the Breaking News US emailThe US supreme court has ruled that Donald Trump can fire leaders of independent agencies or commissions, ending 90 years of court precedent that curbs executive ",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/us-supreme-court-ftc-ruling-slaughter",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-06-29T14:29:11+00:00"
-    },
-    {
-      "title": "US supreme court rules Trump’s firing of Lisa Cook from Fed was unconstitutional",
-      "description": "Justices find president does not have constitutional authority to fire Federal Reserve governor without causeUS supreme court decisions – live updatesSign up for the Breaking News US emailThe US supreme court has refused Donald Trump’s attempts to immediately fire a Federal Reserve governor, in a la",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-trump-lisa-cook-ruling",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-06-29T14:20:22+00:00"
-    },
-    {
-      "title": "Comcast to spin off NBCUniversal and Sky into separate media business",
-      "description": "Entertainment arm to split from mobile and broadband in move that raises questions over future of Sky NewsBusiness live – latest updatesComcast is to spin off its media operation, which includes Sky and the Hollywood film studio, TV and theme park business NBCUniversal, into a separate publicly list",
-      "url": "https://www.theguardian.com/media/2026/jun/29/comcast-spin-off-nbcuniversal-sky-media-mobile-cable-broadband",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-06-29T14:18:01+00:00"
     }
   ]
 }
