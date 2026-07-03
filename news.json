@@ -1,93 +1,213 @@
 {
-  "updatedAt": "2026-07-02T22:05:03.743129+00:00",
+  "updatedAt": "2026-07-03T11:23:36.144694+00:00",
   "articles": [
     {
-      "title": "Sources: 76ers, with Brown on board, eye LeBron",
-      "description": "One day after swinging a trade for Jaylen Brown, the 76ers have entered the mix for LeBron James and are attempting to pitch him, sources said.",
-      "url": "https://www.espn.com/nba/story/_/id/49252040/sources-76ers-enter-mix-lebron-james-jaylen-brown-add",
-      "source": "ESPN",
-      "category": "Sports",
-      "publishedAt": "2026-07-02T22:54:52+00:00"
-    },
-    {
-      "title": "Oyarzabal fires Spain past Austria to WC last 16",
-      "description": "Mikel Oyarzabal scored twice as Spain cruised into the World Cup round of 16 with a 3-0 win over Austria at SoFi Stadium on Thursday.",
-      "url": "https://www.espn.com/soccer/story/_/id/49251007/spain-austria-fifa-world-cup-2026-round-32-mikel-oyarzabal",
-      "source": "ESPN",
-      "category": "Sports",
-      "publishedAt": "2026-07-02T22:54:52+00:00"
-    },
-    {
-      "title": "Brown 'excited and disappointed' for 76ers trade",
-      "description": "Former Celtics star Jaylen Brown says he is \"excited and disappointed\" over his trade to the 76ers.",
-      "url": "https://www.espn.com/nba/story/_/id/49250597/jaylen-brown-excited-disappointed-trade-76ers",
-      "source": "ESPN",
-      "category": "Sports",
-      "publishedAt": "2026-07-02T22:54:52+00:00"
-    },
-    {
-      "title": "Judge grants access to Tiger's medical records",
-      "description": "A Florida judge has granted prosecutors access to review medical records related to Tiger Woods' March vehicle crash and subsequent arrest on suspicion of driving under the influence.",
-      "url": "https://www.espn.com/espn/story/_/id/49249519/prosecutors-review-tiger-woods-medical-records-dui-case",
-      "source": "ESPN",
-      "category": "Sports",
-      "publishedAt": "2026-07-02T22:54:52+00:00"
-    },
-    {
-      "title": "'Cool off' on criticism of Serena, says Djokovic",
-      "description": "Men's tennis star Novak Djokovic says people need to \"cool off a little bit\" on their judgment and criticism of Serena Williams, who lost in her return to singles play at Wimbledon earlier this week.",
-      "url": "https://www.espn.com/tennis/story/_/id/49250909/djokovic-people-cool-serena-williams-criticism",
-      "source": "ESPN",
-      "category": "Sports",
-      "publishedAt": "2026-07-02T22:54:52+00:00"
-    },
-    {
-      "title": "Dressed for success, Fritz advances at Wimbledon",
-      "description": "A well-dressed Taylor Fritz impressed again, beating compatriot Patrick Kypson 6-2, 6-2, 7-5 to reach the third round at Wimbledon on Thursday.",
-      "url": "https://www.espn.com/tennis/story/_/id/49251788/fritz-impresses-walk-advancing-wimbledon",
-      "source": "ESPN",
-      "category": "Sports",
-      "publishedAt": "2026-07-02T22:54:52+00:00"
-    },
-    {
-      "title": "Sources: Simons agrees with revamped 76ers",
-      "description": "Free agent guard Anfernee Simons has agreed to a two-year, $12.3 million deal with the Philadelphia 76ers, with a player option in the second season, sources told ESPN's Shams Charania.",
-      "url": "https://www.espn.com/nba/story/_/id/49250070/sources-anfernee-simons-agrees-deal-revamped-76ers",
-      "source": "ESPN",
-      "category": "Sports",
-      "publishedAt": "2026-07-02T22:54:52+00:00"
-    },
-    {
-      "title": "Spain dominate Austria, advance to round of 16",
-      "description": "null",
-      "url": "https://www.espn.com/soccer/story/_/id/49244994/world-cup-daily-spain-portugal-action-round-32-continues",
-      "source": "ESPN",
-      "category": "Sports",
-      "publishedAt": "2026-07-02T22:43:49+00:00"
-    },
-    {
-      "title": "Dimitrov extends emotional Wimbledon return after last year's agony",
-      "description": "Grigor Dimitrov extends his emotional return to Wimbledon after his tearful exit 12 months ago by defeating 15th seed Jakub Mensik to reach the third round.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cjrg95pyeq5o?at_medium=RSS&at_campaign=rss",
+      "title": "Argentina v Cape Verde: Breaking down biggest World Cup knockout mismatch",
+      "description": "Lionel Messi versus Vozinha. It is the World Cup battle no-one knew they wanted, but which fans now cannot wait to see.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c17y82qyjj4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-07-02T21:47:00+00:00"
+      "publishedAt": "2026-07-03T11:01:01+00:00"
     },
     {
-      "title": "Oyarzabal scores twice as Spain cruise past Austria",
-      "description": "Mikel Oyarzabal scores in each half to help Spain beat Austria 3-0 in their World Cup last-32 match in Los Angeles.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crel13y4825o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-02T21:39:14+00:00"
+      "title": "All Your Favorite Gadgets Are Getting Way More Expensive … Again",
+      "description": "Thanks to the AI-driven chip shortage, prices for phones, computers, and consoles are sky-high—and still climbing.",
+      "url": "https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-03T11:00:00+00:00"
     },
     {
-      "title": "Sciver-Brunt leads superb England into World Cup final",
-      "description": "England roar into Sunday's T20 World Cup final against Australia with a superb 40-run victory against South Africa at The Oval.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cy731p46j5mo?at_medium=RSS&at_campaign=rss",
+      "title": "'Less than 10% sheep': How millions may have unknowingly eaten goat, skin and fat kebabs",
+      "description": "Millions are likely to have eaten \"lamb\" kebabs that were actually made with goat, skin and fat.",
+      "url": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-03T10:55:35+00:00"
+    },
+    {
+      "title": "No-gift policy for Taylor Swift, but how much should you give at a wedding?",
+      "description": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
+      "url": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-03T10:46:34+00:00"
+    },
+    {
+      "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
+      "description": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8ml7jv1g1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-07-02T21:29:40+00:00"
+      "publishedAt": "2026-07-03T10:39:10+00:00"
+    },
+    {
+      "title": "7 Best Phones You Can’t Buy in the US (2026)",
+      "description": "Avoid phone FOMO with our favorite smartphones that aren’t officially sold stateside but are available in markets like the UK and Europe.",
+      "url": "https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-03T10:31:00+00:00"
+    },
+    {
+      "title": "The FDA Ruled That ZYN Pouches Are Safer Than Cigarettes. That Doesn’t Mean They’re Safe",
+      "description": "ZYN nicotine pouches, the FDA found, can be advertised as a less-harmful option for adult smokers. But quitting all tobacco and nicotine products remains the best idea.",
+      "url": "https://www.wired.com/story/the-fda-ruled-that-zyn-pouches-are-safer-than-cigarettes-that-doesnt-mean-theyre-safe/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-03T10:30:00+00:00"
+    },
+    {
+      "title": "Germany want Klopp talks as Nagelsmann resigns",
+      "description": "The German football association is seeking talks with Jurgen Klopp about becoming their men's national team coach after Julian Nagelsmann resigned.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8x272kyp4wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-03T10:17:01+00:00"
+    },
+    {
+      "title": "The Best Ultralight Backpacking Quilts (2026): Zenbivy, REI",
+      "description": "Lighten your pack this summer—skip the sleeping bag and carry one of our favorite ultralight backpacking quilts instead.",
+      "url": "https://www.wired.com/story/the-best-ultralight-backpacking-quilts/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-03T10:06:00+00:00"
+    },
+    {
+      "title": "Tackle workplace sickness to unlock hidden growth, former John Lewis boss says",
+      "description": "More than 250 of the UK's biggest employers have signed up to his 'Get Britain Working' taskforce.",
+      "url": "https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-03T09:50:56+00:00"
+    },
+    {
+      "title": "Usyk in Zuffa talks for farewell bout with Wilder",
+      "description": "Oleksandr Usyk is in talks with Dana White's Zuffa Boxing for a farewell fight against Deontay Wilder in America.",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/cz9lv0g3lpzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-03T09:35:11+00:00"
+    },
+    {
+      "title": "When the Law Kills Your Electric Car Dealership",
+      "description": "Dealers who invested in Polestar won’t be able to sell in the US next year after the federal government denied an authorization that would have allowed the company to avoid a Chinese tech ban.",
+      "url": "https://www.wired.com/story/when-the-law-kills-your-polestar-electric-car-dealership/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-03T09:30:00+00:00"
+    },
+    {
+      "title": "The 11 Best TV Shows to Stream This Month (July 2026)",
+      "description": "House of the Dragon, Adventure Time: Side Quests, and The Man Will Burn are just a few of the TV shows you should be watching right now.",
+      "url": "https://www.wired.com/story/the-11-best-shows-to-stream-right-now/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-03T09:00:00+00:00"
+    },
+    {
+      "title": "Sony Erases Digital Content From Libraries, a Reminder That You Don’t Own What You Buy",
+      "description": "In September, some PlayStation customers will no longer be able to access some purchased movies and shows. It underscores the fact that digital purchases are really more like long-term rentals.",
+      "url": "https://www.wired.com/story/sony-erases-digital-content-from-libraries/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-03T08:30:00+00:00"
+    },
+    {
+      "title": "Burnham says there is some room for movement on tax",
+      "description": "But the likely next PM says he will stick to Labour's pledges to not raise VAT, income tax or national insurance.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-03T07:40:21+00:00"
+    },
+    {
+      "title": "Four-time Tour de France winner Froome retires",
+      "description": "Great Britain's Chris Froome, who won the Tour de France four times, brings an end to his illustrious career in professional cycling.",
+      "url": "https://www.bbc.co.uk/sport/cycling/articles/clyere67jpmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-03T07:18:02+00:00"
+    },
+    {
+      "title": "Security staff to go on strike at Aberdeen Airport",
+      "description": "The strikes, involving baggage screening staff, are set to begin on Monday with the Unite union warning of \"significant delays\".",
+      "url": "https://www.bbc.co.uk/news/articles/c39y3expgk3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-03T07:14:32+00:00"
+    },
+    {
+      "title": "EU Politicians Investigated Pegasus Spyware. Then It Ended Up on One of Their Phones",
+      "description": "“It is a direct attack on the rule of law,” says one European Parliament member of the new findings from Citizen Lab.",
+      "url": "https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-03T05:00:00+00:00"
+    },
+    {
+      "title": "Huge Snicko VAR call prolongs Ronaldo's last dance but ends Modric's",
+      "description": "Veteran forward Cristiano Ronaldo gets another day on the World Cup stage after Croatia are denied a late equaliser by a huge VAR call.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz0jee3vy39o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-03T04:42:51+00:00"
+    },
+    {
+      "title": "NASA Reveals Four Cosmic Masterpieces for America’s 250th Birthday",
+      "description": "NASA unveiled four patriotic-colored images of the cosmos to celebrate America&#8217;s 250th birthday, revealing everything from an exploded star to a galaxy cluster shaped by dark matter. NASA is marking the 250th anniversary of the United States with a striking new collection of space images that ",
+      "url": "https://scitechdaily.com/nasa-reveals-four-cosmic-masterpieces-for-americas-250th-birthday/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-03T03:58:49+00:00"
+    },
+    {
+      "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
+      "description": "The ads use terms including “rape” and “child video” and link to content on the messaging app Telegram.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-03T03:50:18+00:00"
+    },
+    {
+      "title": "Sony’s PlayStation disc factory is already being repurposed",
+      "description": "The video game disc is dead, and Sony's been planning to kill it for some time, according to a report out of Austria. The man who leads Sony's discmaking operations, Sony DADC president Dietmar Tanzer, told ORF Salzburg that the company's Thalgau plant produces 600,000 discs every day, half of which",
+      "url": "https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-03T01:05:13+00:00"
+    },
+    {
+      "title": "Hard work and a disco jacket - England turn fielding woes around to reach final",
+      "description": "It used to be their big weakness but England have turned around their fielding woes with hard work and the help of a sparkly jacket.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cwyedgekzyjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-03T00:26:53+00:00"
+    },
+    {
+      "title": "AI is 'not smart' so what's next in artificial intelligence?",
+      "description": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+      "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-02T23:02:09+00:00"
+    },
+    {
+      "title": "The one club man who is Spain's under-the-radar hero",
+      "description": "Mikel Oyarzabal is perhaps not the biggest name in Spain's World Cup squad, but the one who has so far shone brightest.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgd0jz1xq7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-02T22:49:15+00:00"
+    },
+    {
+      "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
+      "description": "The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler was arrested on Wednesday and claimed to have been driving his Model 3 using Tes",
+      "url": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-02T22:09:33+00:00"
     },
     {
       "title": "Meta has a new app called Pocket that is absolutely nothing like the old Pocket",
@@ -98,36 +218,12 @@
       "publishedAt": "2026-07-02T21:09:06+00:00"
     },
     {
-      "title": "Pubs allowed to stay open until 5am for England Mexico match",
+      "title": "Pubs allowed to stay open until 5am on Monday for England Mexico match",
       "description": "The government had initially said it would not relax licensing laws further for the World Cup.",
       "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-07-02T20:49:17+00:00"
-    },
-    {
-      "title": "Fery last Briton standing in Wimbledon singles",
-      "description": "Arthur Fery is the last British player standing in the Wimbledon singles after his compatriots Katie Swan, Jacob Fearnley, and Jan Choinski are beaten.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cly87nn87plo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-02T20:48:38+00:00"
-    },
-    {
-      "title": "How Big Is ‘Love Island USA’? More Than 10 Million People Are Already on Its App",
-      "description": "“We have more people voting on the ‘Love Island USA’ app than we do in many political elections taking place across the country,” says the show's executive producer.",
-      "url": "https://www.wired.com/story/love-island-usa-app/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-02T20:47:27+00:00"
-    },
-    {
-      "title": "Goat and skin in millions of 'lamb' kebabs compared to horsemeat lasagne scandal",
-      "description": "Millions are likely to have eaten \"lamb\" kebabs that were actually made with goat, skin and fat.",
-      "url": "https://www.bbc.co.uk/news/articles/ce95y1zlzyxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-02T20:34:14+00:00"
     },
     {
       "title": "The best July 4th sales we found so far",
@@ -146,22 +242,6 @@
       "publishedAt": "2026-07-02T19:38:57+00:00"
     },
     {
-      "title": "Secret location & sleep devices: England bid to combat noisy Mexico fans",
-      "description": "England are taking precautions to ensure boisterous locals do not disrupt their preparations in Mexico.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74y7jwj30eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-02T19:26:15+00:00"
-    },
-    {
-      "title": "Spotify Confirms Streaming Fraud After Kalshi Trader Cries Foul",
-      "description": "One of Kalshi’s most prominent traders tells WIRED he’s swearing off Spotify-related markets until the issue is resolved.",
-      "url": "https://www.wired.com/story/spotify-streaming-manipulation-prediction-markets-polymarket-kalshi/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-02T18:30:59+00:00"
-    },
-    {
       "title": "Weber marks down grills and griddles to their best prices ever for July 4th",
       "description": "If our recent Decoder interview with Weber Blackstone CEO Roger Dahle has you craving freshly grilled meats or veggies, Weber just so happens to have a variety of grills, smokers, griddles, and accessories selling at big discounts ahead of the July 4th holiday. It makes a bunch of models, but we’ve ",
       "url": "https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal",
@@ -170,36 +250,12 @@
       "publishedAt": "2026-07-02T18:19:03+00:00"
     },
     {
-      "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
-      "description": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
-      "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-02T18:01:20+00:00"
-    },
-    {
       "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
       "description": "New US rules would legalize quiet supersonic flights without the sonic boom.",
       "url": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-07-02T17:29:37+00:00"
-    },
-    {
-      "title": "Ryanair warns of 'queue chaos' from new EU border system",
-      "description": "The airline calls on European governments to postpone the EES system until after the summer holiday period.",
-      "url": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-02T17:17:36+00:00"
-    },
-    {
-      "title": "Silverstone completely different with new cars - Hamilton",
-      "description": "Ferrari's Lewis Hamilton says Silverstone will be \"a completely different circuit\" with this year's new cars.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cp36le6vlv6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-02T17:05:21+00:00"
     },
     {
       "title": "Ars Live recap: When are the big rockets NASA desperately needs going to be ready?",
@@ -250,14 +306,6 @@
       "publishedAt": "2026-07-02T16:24:17+00:00"
     },
     {
-      "title": "The DEA Plans to Ban Opioid-Like Kratom Compound 7-OH",
-      "description": "The federal agency says it will temporarily schedule the drug, which has been called “gas station heroin,” as a controlled substance—a boon for MAHA and the mainstream kratom industry.",
-      "url": "https://www.wired.com/story/the-dea-plans-to-ban-kratom-compound-7-oh-sold-as-a-gas-station-opioid/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-02T16:21:40+00:00"
-    },
-    {
       "title": "Artificial cell manages a few rounds of cell division",
       "description": "It only works for a few divisions thanks to a lot of added materials.",
       "url": "https://arstechnica.com/science/2026/07/artificial-cell-manages-a-few-rounds-of-cell-division/",
@@ -272,14 +320,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-07-02T16:15:41+00:00"
-    },
-    {
-      "title": "Why Spurs' statement spending looks set to continue",
-      "description": "Tottenham are set to break their record transfer for the second time in a matter of days with the club's impressive performance off the field allowing greater flexibility for investment into the first-team squad.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crel1w2ddq3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-02T15:50:51+00:00"
     },
     {
       "title": "Influencer screenings aren’t going away",
@@ -330,60 +370,12 @@
       "publishedAt": "2026-07-02T15:00:00+00:00"
     },
     {
-      "title": "Tesla&#8217;s Q2 sales jump 25 percent",
-      "description": "Tesla just released its second-quarter delivery and production report, showing that the automaker is starting to recover after a particularly brutal sales year in 2025. The company said that it produced a total of 451,758 vehicles between April and June of this year, including 442,936 Model 3 and Mo",
-      "url": "https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-02T14:14:48+00:00"
-    },
-    {
-      "title": "AI won’t save advertising, says Digitas’ Amy Lanzi",
-      "description": "We’ve got a special Decoder today — I had the chance to talk with Amy Lanzi, the CEO of Digitas North America, in front of a live audience at the Uber Villa at the Cannes Lions advertising festival in the South of France. I know, it’s a hard gig, but I do it for you. [&#8230;]",
-      "url": "https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-02T14:00:00+00:00"
-    },
-    {
-      "title": "World Cup boom falters as US hospitality jobs fall in June",
-      "description": "There had been early signs of a jobs boom from the tournament, but hospitality jobs declined in June.",
-      "url": "https://www.bbc.co.uk/news/articles/cr471w6ykxno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-02T13:36:04+00:00"
-    },
-    {
-      "title": "7 Lesser-Known Google Account Settings You Should Change",
-      "description": "Adjust your options for things like account recovery, ad personalization, and which parts of your Google profile are shared publicly.",
-      "url": "https://www.wired.com/story/7-google-account-settings-you-should-change/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-02T13:30:00+00:00"
-    },
-    {
       "title": "US employers added just 57,000 new jobs in June, lower than expected",
       "description": "The country’s unemployment rate dropped slightly to 4.2% as US job growth also slowed for the monthSign up for the Breaking News US newsletter emailUS job growth slowed in June as employers added 57,000 new jobs – just about half of what economists had predicted – and the Bureau of Labor Statistics ",
       "url": "https://www.theguardian.com/business/2026/jul/02/us-job-growth-slowed-june",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-07-02T13:21:35+00:00"
-    },
-    {
-      "title": "'Diogo's dream is with us' - Portugal want to win World Cup for Jota",
-      "description": "One year after his death, Portugal are using Diogo Jota's memory to help inspire them at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1kyl71wxw9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-02T12:43:53+00:00"
-    },
-    {
-      "title": "Car finance compensation payments delayed until next year",
-      "description": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
-      "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-02T12:26:03+00:00"
     },
     {
       "title": "Scientists Uncover the Hidden Force Making Sea-Level Rise Far Worse Than Expected",
@@ -402,30 +394,6 @@
       "publishedAt": "2026-07-02T11:31:03+00:00"
     },
     {
-      "title": "8 Best Travel Adapters (2026): My Top Recommendations",
-      "description": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers.",
-      "url": "https://www.wired.com/gallery/best-travel-adapters/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-02T11:31:00+00:00"
-    },
-    {
-      "title": "Bublue BuVortex V5 Pool Skimmer Review: An Impractical Cleaner",
-      "description": "The Bublue BuVortex V5 ditches conventional skimming for a vortex-powered design that’s fascinating to watch, even if it’s severely impractical.",
-      "url": "https://www.wired.com/review/bublue-buvortex-v5-pool-skimmer/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-02T11:04:00+00:00"
-    },
-    {
-      "title": "How Trump Helped China Make America’s Cheapest EV",
-      "description": "Slate is the latest automaker to transition to lower-cost batteries perfected in China, driven in part by the repeal of EV tax credits that required materials to be sourced domestically.",
-      "url": "https://www.wired.com/story/how-trump-helped-china-make-slate-americas-cheapest-ev/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-02T11:00:00+00:00"
-    },
-    {
       "title": "NASA Satellites Spot Rare Underwater Volcano Eruption That Could Create Earth’s Newest Island",
       "description": "A submarine eruption north of Papua New Guinea may be building new land while satellites track its evolution from above. Oceanographers often point out that the surfaces of the Moon and Mars are mapped more precisely than much of the deep seafloor on Earth. That gap is especially clear in the Bismar",
       "url": "https://scitechdaily.com/nasa-satellites-spot-rare-underwater-volcano-eruption-that-could-create-earths-newest-island/",
@@ -434,44 +402,12 @@
       "publishedAt": "2026-07-02T10:56:06+00:00"
     },
     {
-      "title": "Google must pay €4.1bn fine for using Android to 'block' rivals",
-      "description": "A Google spokesperson said the judgement \"fails to recognise\" the firm's \"significant investment to ensure Android remains open.\"",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-02T09:46:11+00:00"
-    },
-    {
-      "title": "'I spent $6,000 on a World Cup trip but was left stranded at the gate'",
-      "description": "Hundreds of fans who bought World Cup tickets on resale site StubHub say they have had them cancelled at the last minute.",
-      "url": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-02T04:59:47+00:00"
-    },
-    {
-      "title": "Diesel sees biggest monthly fall in 26 years. What's happening to fuel prices?",
-      "description": "When the US-Israel war with Iran began, fuel costs jumped, but they are now plummeting as hope of lasting peace grows.",
-      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-01T23:01:32+00:00"
-    },
-    {
       "title": "New Fossils Show the Arctic Was an Evolutionary Powerhouse During the Age of Dinosaurs",
       "description": "Tiny fossil teeth from Alaska are changing how scientists view mammal life and migration in the ancient Arctic. Today&#8217;s Arctic is one of the harshest and least biodiverse places on Earth, but during the age of dinosaurs it was home to a surprisingly rich community of mammals. A new fossil disc",
       "url": "https://scitechdaily.com/new-fossils-show-the-arctic-was-an-evolutionary-powerhouse-during-the-age-of-dinosaurs/",
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-07-01T22:15:37+00:00"
-    },
-    {
-      "title": "What Happened to Australasia’s Lost Crocodiles? New Research Reveals a Dramatic Extinction Story",
-      "description": "New research uncovers a lost world of strange crocodile relatives that once thrived across Australasia alongside early humans. The sight of a saltwater crocodile basking on a mudbank is one of the most iconic and intimidating images of northern Australia. Yet the crocodiles that inhabit the region t",
-      "url": "https://scitechdaily.com/what-happened-to-australasias-lost-crocodiles-new-research-reveals-a-dramatic-extinction-story/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-01T21:40:20+00:00"
     },
     {
       "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
@@ -504,30 +440,6 @@
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-07-01T12:52:57+00:00"
-    },
-    {
-      "title": "US labor board more likely to dismiss worker and union charges under Trump, analysis finds",
-      "description": "Report points to staffing shortages, procedural changes and lack of a board quorum as contributing factorsDismissals of unfair labor practice charges have surged at the National Labor Relations Board under Donald Trump, according to a new analysis.From January 2025 to 29 April 2026, the US top labor",
-      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-labor-board-dismissals",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-07-01T11:00:33+00:00"
-    },
-    {
-      "title": "Women with PMOS should have yearly NHS checks, says health watchdog",
-      "description": "Despite affecting millions of women in the UK, PMOS is still under-diagnosed and inconsistently managed, say experts.",
-      "url": "https://www.bbc.co.uk/news/articles/cd0m3g05kx2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-06-30T23:04:58+00:00"
-    },
-    {
-      "title": "'Normal birth drive' criticism removed from maternity report, expert claims",
-      "description": "Dr Bill Kirkup says he resigned from a government-commissioned review into NHS maternity services over the omission.",
-      "url": "https://www.bbc.co.uk/news/articles/c3eywv0np13o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-06-30T23:04:28+00:00"
     }
   ]
 }
