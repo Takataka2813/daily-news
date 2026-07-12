@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-07-11T21:47:35.347070+00:00",
+  "updatedAt": "2026-07-12T10:16:48.459074+00:00",
   "articles": [
+    {
+      "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "description": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
+      "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-12T10:00:00+00:00"
+    },
+    {
+      "title": "Best External Hard Drives (2026): SSD to Store Data, Video, and More",
+      "description": "Need an ultrafast drive for video editing or a rugged option to back up your photos in the field? We’ve got a solution for every situation.",
+      "url": "https://www.wired.com/story/best-portable-external-storage-drives/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-12T09:33:00+00:00"
+    },
+    {
+      "title": "The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot",
+      "description": "Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.",
+      "url": "https://www.wired.com/gallery/best-pet-cameras/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-12T09:05:00+00:00"
+    },
+    {
+      "title": "Champion Sinner wary of Zverev before Wimbledon final",
+      "description": "Recent history suggests Jannik Sinner should be confident of retaining his Wimbledon title - but he is wary of French Open champion Alexander Zverev.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8dlpvxpvmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-12T05:19:17+00:00"
+    },
+    {
+      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+      "description": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
+      "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-12T05:00:15+00:00"
+    },
+    {
+      "title": "'We should all be excited' - Messi set for first England meeting",
+      "description": "Lionel Messi is set for his first match against England after Argentina beat Switzerland in the World Cup quarter-finals.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgexz4qdlgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-12T04:48:18+00:00"
+    },
+    {
+      "title": "McGregor injured 69 seconds into UFC comeback",
+      "description": "Conor McGregor's return to the octagon against Max Holloway at UFC 329 lasts just 69 seconds after the Irishman suffers a knee injury.",
+      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c9w2zgpnrqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-12T04:45:08+00:00"
+    },
+    {
+      "title": "Bellingham reaching heights of World Cup legends with Messi next",
+      "description": "Jude Bellingham again dazzles England and the World Cup with his brilliance, matching some records of the all-time greats.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-12T04:35:19+00:00"
+    },
+    {
+      "title": "Pimblett makes title claim with 52-second win at UFC 329",
+      "description": "Liverpool's Paddy Pimblett submits Benoit Saint-Denis in just 52 seconds at UFC 329 to strengthen his claim for a lightweight title shot.",
+      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c5yznne9l70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-12T03:51:43+00:00"
+    },
+    {
+      "title": "Tuchel angry at 'lucky' England - but Bellingham defends players",
+      "description": "England head coach Thomas Tuchel is praised by former England players for saying his players \"got lucky\" in World Cup quarter-final win over Norway - but match-winner Jude Bellingham disagrees.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-12T03:08:42+00:00"
+    },
+    {
+      "title": "New Smart Material Can Control Heat Like a Computer Chip",
+      "description": "Scientists have created a programmable material that gives engineers unprecedented control over heat, with potential applications ranging from energy systems to next-generation photonic memory. Heat normally follows strict rules. A material that efficiently absorbs heat from a particular direction a",
+      "url": "https://scitechdaily.com/new-smart-material-can-control-heat-like-a-computer-chip/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-12T02:02:05+00:00"
+    },
+    {
+      "title": "England 'got lucky' with disallowed goal",
+      "description": "BBC Sport World Cup pundits Wayne Rooney and Ellen White believe England \"got lucky\" after Torbjorn Heggem's second-half goal was ruled out for a foul on Elliott Anderson by Erling Haaland.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5yznny63pko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-12T01:45:01+00:00"
+    },
+    {
+      "title": "AI Just Uncovered a Hidden Secret Inside Water",
+      "description": "AI is helping scientists uncover the hidden molecular structure behind water&#8217;s famously strange behavior. Water covers most of Earth&#8217;s surface, yet it continues to puzzle scientists because it behaves differently from almost every other liquid. One of its best-known quirks is that it exp",
+      "url": "https://scitechdaily.com/ai-just-uncovered-a-hidden-secret-inside-water/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-12T01:27:05+00:00"
+    },
+    {
+      "title": "The Universe Was Barely Born When These Giant Black Holes Appeared",
+      "description": "Thirty-one newly discovered ancient quasars are giving scientists their clearest view yet of the universe&#8217;s earliest giant black holes. Quasars are among the brightest objects in the universe, shining with the power of supermassive black holes consuming vast amounts of matter. Some are so lumi",
+      "url": "https://scitechdaily.com/the-universe-was-barely-born-when-these-giant-black-holes-appeared/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-12T00:52:06+00:00"
+    },
+    {
+      "title": "Bellingham scores extra-time winner as England reach semi-finals",
+      "description": "Jude Bellingham scores twice, including an extra-time winner, as England come from behind to beat Norway 2-1 in Miami to reach the World Cup semi-finals.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjrgww8vr98o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-12T00:50:48+00:00"
+    },
+    {
+      "title": "Scientists Find the Hidden “Fuel” That May Intensify Tropical Clouds",
+      "description": "Deep, clean convective clouds can reach high supersaturation levels that may allow aerosols to intensify cloud growth. Tiny aerosol particles can change how clouds behave, but scientists have long debated whether they can actually make tropical storm clouds grow stronger. The question matters becaus",
+      "url": "https://scitechdaily.com/scientists-find-the-hidden-fuel-that-may-intensify-tropical-clouds/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-11T22:15:11+00:00"
+    },
     {
       "title": "New Research Challenges a Long-Held Myth About Colorado Moose",
       "description": "Evidence from archaeology, archives and Indigenous knowledge shows moose have a much longer history in Colorado than modern reintroductions suggest. Long before wildlife officials moved moose into Colorado in the late 1970s, the animals may already have been part of the state’s ecological and cultur",
@@ -8,14 +136,6 @@
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-07-11T21:40:51+00:00"
-    },
-    {
-      "title": "Noskova holds her nerve to beat Muchova for first Wimbledon title",
-      "description": "Linda Noskova overcomes missing out on five Championship points in the second set, to defeat Karolina Muchova 6-2 5-7 6-3 to win her first Wimbledon title at 21 years old.",
-      "url": "https://www.bbc.co.uk/sport/tennis/videos/c5yznz1q402o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-11T21:32:00+00:00"
     },
     {
       "title": "Scientists Catch a “Jumping Gene” Moving Between Species",
@@ -34,44 +154,12 @@
       "publishedAt": "2026-07-11T20:57:42+00:00"
     },
     {
-      "title": "Noskova, an astonishing Wimbledon fightback - and a kiss to the sky",
-      "description": "Linda Noskova produces \"one of the all-time greatest efforts on Centre Court\" to win Wimbledon - and thanks her late mother, Ivana, for inspiring her.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/ckg85p1dp12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-11T20:41:53+00:00"
-    },
-    {
-      "title": "Fitzpatrick shares lead at fog-disrupted Scottish Open",
-      "description": "Matt Fitzpatrick holds a share of the lead and out-of-sorts Rory McIlroy struggles in an unfinished third round at the Genesis Scottish Open where fog caused havoc.",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cpv3g37el93o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-11T20:32:35+00:00"
-    },
-    {
-      "title": "Former England captain Knight announces retirement",
-      "description": "World Cup-winning captain Heather Knight joins batter Tammy Beaumont in retiring after the ongoing Test match against India.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cwy090krk0go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-11T19:53:01+00:00"
-    },
-    {
       "title": "Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger",
       "description": "Oregon Attorney General Dan Rayfield had been seeking documents from Paramount related to its takeover of Warner Bros. Discovery. Rayfield also asked a state circuit court judge to delay the closing of the deal by 60 days so that his office could review the documents. But according to Deadline and V",
       "url": "https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger",
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-07-11T18:44:12+00:00"
-    },
-    {
-      "title": "England too good for India as Buttler hits 131",
-      "description": "Jos Buttler's sublime 131 and Harry Brook's unbeaten 95 help England crush India in the fifth T20 and replace their opponents at the top of the world rankings.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cy73ljle6dro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-11T17:50:34+00:00"
     },
     {
       "title": "New Study Rewrites the Story of How Humans Got Bigger",
@@ -90,22 +178,6 @@
       "publishedAt": "2026-07-11T16:09:00+00:00"
     },
     {
-      "title": "This Tiny-Bead Procedure Is Helping Patients Avoid Knee Replacement",
-      "description": "A minimally invasive procedure that targets inflamed blood vessels is giving many people with chronic knee pain lasting relief without major surgery. For Cynthia Schraf-Fletcher, 74, the results were better than she expected. Nearly a year after undergoing genicular artery embolization (GAE), a mini",
-      "url": "https://scitechdaily.com/this-tiny-bead-procedure-is-helping-patients-avoid-knee-replacement/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-11T15:34:54+00:00"
-    },
-    {
-      "title": "Eleven-try England thrash sorry Fiji to end losing run",
-      "description": "Henry Pollock scores a hat-trick as England run out convincing winners against a Fiji side reduced to 14 players for the second half in Liverpool.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/crely1qlj47o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-11T15:27:20+00:00"
-    },
-    {
       "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
       "description": "If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin Koehncke, is the man responsible for shepherding the pioneering digital audio workstation (DAW) through the modern age. A",
       "url": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
@@ -120,14 +192,6 @@
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-07-11T15:00:00+00:00"
-    },
-    {
-      "title": "South Africa World Cup midfielder Adams dies aged 25",
-      "description": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-11T14:47:47+00:00"
     },
     {
       "title": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
@@ -154,20 +218,20 @@
       "publishedAt": "2026-07-11T13:00:00+00:00"
     },
     {
-      "title": "Scientists Discover a Hidden Chemical Pathway That Makes City Air Hazy",
-      "description": "Nitric oxide may play a larger role in city air pollution than scientists previously thought. City air can look clear one moment and turn hazy the next, but the chemistry behind that change is often hidden molecule by molecule. In traffic corridors, near power plants, and around other combustion sou",
-      "url": "https://scitechdaily.com/scientists-discover-a-hidden-chemical-pathway-that-makes-city-air-hazy/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-11T12:21:00+00:00"
-    },
-    {
       "title": "A Jupiter-size planet that escaped its star's death",
       "description": "It's unclear how the planet avoided its star's bloated red giant stage.",
       "url": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-07-11T12:00:58+00:00"
+    },
+    {
+      "title": "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
+      "description": "The Chancellor tells Laura Kuenssberg she will be handing over a stable economy to the incoming PM.",
+      "url": "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-11T12:00:16+00:00"
     },
     {
       "title": "A tasty RPG that will make you very hungry",
@@ -186,28 +250,12 @@
       "publishedAt": "2026-07-11T12:00:00+00:00"
     },
     {
-      "title": "Neanderthals Nearly Vanished 75,000 Years Ago – Then One Group Repopulated Europe",
-      "description": "A new study from the Senckenberg Nature Research Society and the University of Tübingen reveals major shifts in Neanderthal genetic history. Near the end of their time in Europe, Neanderthals were not spread across the continent as a deeply varied population. Their DNA now points to a much narrower ",
-      "url": "https://scitechdaily.com/neanderthals-nearly-vanished-75000-years-ago-then-one-group-repopulated-europe/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-11T11:46:59+00:00"
-    },
-    {
       "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
       "description": "For the first time since 1995, the Bureau of Land Management is rewriting its grazing regulations.",
       "url": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-07-11T11:11:26+00:00"
-    },
-    {
-      "title": "AI Detects Hidden Warning Signs Before Major Earthquakes",
-      "description": "A new analysis of seismic “families” reveals that some large earthquakes may be preceded by hidden patterns in clustering, localization, and strain release. The warning signs before a major earthquake, if they exist at all, are often buried in thousands of smaller tremors that seem ordinary at first",
-      "url": "https://scitechdaily.com/ai-detects-hidden-warning-signs-before-major-earthquakes/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-11T11:11:02+00:00"
     },
     {
       "title": "Beatbot AquaSense X Review: A Pool Robot That Cleans Itself",
@@ -248,38 +296,6 @@
       "source": "Wired",
       "category": "Technology",
       "publishedAt": "2026-07-11T10:00:00+00:00"
-    },
-    {
-      "title": "Best Hiking Boots (2026): Walking Shoes, Trails, Backpacking",
-      "description": "From strenuous hikes and serious summits to weekend rambles in the park, these boots help you make the most of your time outdoors.",
-      "url": "https://www.wired.com/gallery/best-hiking-boots/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-11T09:32:00+00:00"
-    },
-    {
-      "title": "China’s Tianwen-2 Space Probe Has Rendezvoused With Earth’s Quasi-Moon",
-      "description": "The probe sent back the first pictures of the asteroid Kamo’oalewa. Next step: landing on the surface and collecting samples to send back to Earth.",
-      "url": "https://www.wired.com/story/chinas-tianwen-2-space-probe-earth-quasi-moon/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-11T09:30:00+00:00"
-    },
-    {
-      "title": "El Niño Is Already Wreaking Havoc on Pacific Fisheries",
-      "description": "As the climate phenomenon sends warm water surging across the eastern Pacific, some parts of the fishing industry are suffering—but other regions are seeing a windfall.",
-      "url": "https://www.wired.com/story/el-nino-wreaking-havoc-on-pacific-fisheries/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-11T09:00:00+00:00"
-    },
-    {
-      "title": "Hey Jude: Bellingham's return to England indispensability",
-      "description": "Before tonight's quarter-final against Norway, senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable resurgence with England at the World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-11T07:54:32+00:00"
     },
     {
       "title": "Will Trump Accounts deliver for American children?",
@@ -354,20 +370,12 @@
       "publishedAt": "2026-07-10T19:25:04+00:00"
     },
     {
-      "title": "Democratic Texas AG candidate claims $110m in grants for Elon Musk’s Starlink ‘sure looks’ like corruption",
-      "description": "Nathan Johnson says if elected he’ll investigate state’s deal with Elon Musk’s SpaceX to provide rural internetUS politics live – latest updatesA Texas Democrat running to become the state’s attorney general has said he will investigate Elon Musk’s SpaceX company if elected, saying it “sure looks li",
+      "title": "Texas Democratic political candidate says SpaceX grants ‘sure looks like’ corruption",
+      "description": "Nathan Johnson says if elected attorney general he’ll investigate rural internet deal with Elon Musk companyA Texas Democrat running to become the state’s attorney general has said he will investigate Elon Musk’s SpaceX company if elected, saying it “sure looks like” corruption was involved in a dea",
       "url": "https://www.theguardian.com/us-news/2026/jul/10/democrat-texas-ag-candidate-spacex-starlink-investigation",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-07-10T18:51:44+00:00"
-    },
-    {
-      "title": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
-      "description": "The shares surged as much as 17% in their Nasdaq trading debut on Friday following the record-breaking foreign listing.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-10T16:42:35+00:00"
     },
     {
       "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
@@ -424,54 +432,6 @@
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-07-10T10:18:28+00:00"
-    },
-    {
-      "title": "Vapes to have less enticing names and flavours to protect children",
-      "description": "People are being consulted about plans to stop vape companies using enticing flavour descriptions that \"attract\" children into experimenting.",
-      "url": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-10T09:54:49+00:00"
-    },
-    {
-      "title": "Vapes to have less enticing names and flavours to protect children",
-      "description": "People are being consulted about plans to stop vape companies using enticing flavour descriptions that \"attract\" children into experimenting.",
-      "url": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-07-10T09:54:49+00:00"
-    },
-    {
-      "title": "Pioneering treatment saves identical twins from rare pregnancy condition",
-      "description": "Identical twins Nancy and Margo benefitted from the procedure while in the womb as part of a world-first medical trial.",
-      "url": "https://www.bbc.co.uk/news/articles/c2eyl3zkpwko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-07-10T01:37:23+00:00"
-    },
-    {
-      "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
-      "description": "The ASA says adverts claiming small devices can rapidly cool rooms were too good to be true.",
-      "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-10T01:33:45+00:00"
-    },
-    {
-      "title": "Pressure builds on Europe's biggest port to be greener",
-      "description": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
-      "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-09T23:00:51+00:00"
-    },
-    {
-      "title": "Motherhood not all warm and fuzzy: Bollywood actor's play spotlights messier side",
-      "description": "As a society, we take mothers for granted and raising children is a thankless job, says actor Kalki Koechlin.",
-      "url": "https://www.bbc.co.uk/news/articles/c04yxnlkdxzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-07-09T22:41:08+00:00"
     }
   ]
 }
