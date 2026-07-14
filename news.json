@@ -1,6 +1,254 @@
 {
-  "updatedAt": "2026-07-13T21:54:43.442214+00:00",
+  "updatedAt": "2026-07-14T10:27:47.648307+00:00",
   "articles": [
+    {
+      "title": "California leads lawsuit to block Paramount Warner Bros mega merger",
+      "description": "The state, where both studios have headquarters, has joined 11 others to halt the deal.",
+      "url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-14T10:17:11+00:00"
+    },
+    {
+      "title": "South East Water must pay £30.5m for supply failures",
+      "description": "Regulator Ofwat confirms this penalty follows three investigations into the water company.",
+      "url": "https://www.bbc.co.uk/news/articles/cevlvxgggxyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-14T10:13:59+00:00"
+    },
+    {
+      "title": "Brighton sign Vuskovic from Spurs for club record £46m",
+      "description": "Brighton sign Croatia defender Luka Vuskovic from Tottenham for a club record fee of £46m on a five-year contract, with an option for a further year.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy7370x2yp7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-14T10:08:08+00:00"
+    },
+    {
+      "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
+      "description": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
+      "url": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-14T10:00:00+00:00"
+    },
+    {
+      "title": "How deadly have the heatwaves in England and Wales been?",
+      "description": "Experts suggest more than 2,700 people may have died from heat-related causes during the heatwaves.",
+      "url": "https://www.bbc.co.uk/news/videos/c9929nl2m3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-07-14T09:38:32+00:00"
+    },
+    {
+      "title": "Sotheby’s Big T. Rex Auction Raises Concerns Hype and Wealth Are Upending Science",
+      "description": "Private buyers are increasingly outbidding museums for fossils. That’s making it difficult—or even impossible—for researchers to improve our understanding of the past.",
+      "url": "https://www.wired.com/story/sothebys-t-rex-auction-shows-wealth-upending-science/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-14T09:30:00+00:00"
+    },
+    {
+      "title": "A winner and true friend - Bartoli on France boss Deschamps",
+      "description": "Former Wimbledon champion Marion Bartoli speaks about her friendship with France boss Didier Deschamps.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c77y2151e4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-14T09:03:14+00:00"
+    },
+    {
+      "title": "Could it work if Verstappen wanted to go to McLaren? F1 Q&A",
+      "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Belgian Grand Prix at Spa-Francorchamps.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c872v408y2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-14T09:01:47+00:00"
+    },
+    {
+      "title": "New York becomes the first state to enact a data center moratorium",
+      "description": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new env",
+      "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-14T09:00:00+00:00"
+    },
+    {
+      "title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
+      "description": "In response to a public records request, HUD has withheld documents about DOGE’s use of AI—in part by citing a privilege that doesn’t exist.",
+      "url": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-14T09:00:00+00:00"
+    },
+    {
+      "title": "The US Approves the Launch of a Mirror Satellite That Can Reflect Sunlight and Illuminate the Earth at Night",
+      "description": "The FCC authorized Reflect Orbital to launch the mirror satellite Eärendil-1. “For optical astronomy, this poses an existential threat,” the European Southern Observatory said.",
+      "url": "https://www.wired.com/story/reflect-orbital-earendil-mirror-satellite-fcc/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-14T08:30:00+00:00"
+    },
+    {
+      "title": "Why it's time for The Open to crown an English winner",
+      "description": "It is nearly 60 years since Tony Jacklin became the last Englishman to win The Open on English soil but there's every chance that drought may be broken this week, writes Iain Carter.",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cpd3wwxp94vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-14T08:00:05+00:00"
+    },
+    {
+      "title": "Increased security for England v Argentina tie in Atlanta",
+      "description": "Authorities say there will be increased security measures in place for Wednesday's World Cup semi-final between England and Argentina in Atlanta.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyey5glv4ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-14T07:14:16+00:00"
+    },
+    {
+      "title": "US refunds $81bn in Trump tariffs after supreme court ruled them illegal",
+      "description": "Government has been forced to pay back duties to companies that imported goods into the US that were hit by Trump’s tariffsBusiness live – latest updatesThe US government has already paid back tens of billions of dollars in tariffs it collected before the supreme court ruled them illegal, according ",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/trump-tariffs-us-refunds",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-07-14T07:03:02+00:00"
+    },
+    {
+      "title": "Who will win the World Cup? The view from the semi-finalists",
+      "description": "BBC Sport speaks to journalists and fans from the World Cup's four semi-finalists to see who they think will win the tournament.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjrgew3wv4xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-14T05:43:53+00:00"
+    },
+    {
+      "title": "Lamine Yamal v Mbappe: La Liga stars set for World Cup showdown",
+      "description": "France face Spain for a place in the World Cup final on Tuesday, meaning a showdown between Kylian Mbappe and Lamine Yamal. Who comes out on top?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clywep30z7jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-14T05:13:23+00:00"
+    },
+    {
+      "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
+      "description": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files.",
+      "url": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-14T05:00:03+00:00"
+    },
+    {
+      "title": "Hotels.com Coupon Codes for July 2026",
+      "description": "Unlock significant savings on hotels, resorts, and getaways with our verified Hotels.com promo codes and gift card discounts. Plan your perfect trip today!",
+      "url": "https://www.wired.com/story/hotels-com-coupon/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-14T05:00:00+00:00"
+    },
+    {
+      "title": "Bose Promo Code: 40% Off for July 2026",
+      "description": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
+      "url": "https://www.wired.com/story/bose-coupon-code/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-14T05:00:00+00:00"
+    },
+    {
+      "title": "B&H Photo Promo Codes and Deals This July 2026",
+      "description": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "url": "https://www.wired.com/story/bh-photo-coupon/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-14T05:00:00+00:00"
+    },
+    {
+      "title": "OnePlus Promo Codes: 30% Off July 2026",
+      "description": "Save 30% with a OnePlus coupon in July 2026, plus save up to 10% on earbuds, phones, and more.",
+      "url": "https://www.wired.com/story/oneplus-promo-code/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-14T05:00:00+00:00"
+    },
+    {
+      "title": "US burrito giant Chipotle opening first outlet in Mexico",
+      "description": "Other US fast-food brands have struggled to succeed in the countries their dishes originated in.",
+      "url": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-14T02:42:51+00:00"
+    },
+    {
+      "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
+      "description": "This flight will put Starship under higher pressure and test out new Starlink satellites in orbit.",
+      "url": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-14T01:17:14+00:00"
+    },
+    {
+      "title": "The Strange Force That Could Slow Interstellar Solar Sails",
+      "description": "Solar sails may encounter drag from light itself as they approach a significant fraction of the speed. Getting a spacecraft to another star is not simply a matter of building a bigger rocket. Chemical propulsion is far too slow for interstellar travel on practical timescales, which is why many missi",
+      "url": "https://scitechdaily.com/the-strange-force-that-could-slow-interstellar-solar-sails/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-14T00:14:14+00:00"
+    },
+    {
+      "title": "Microscope Breakthrough Could Reveal Proteins Once Thought Too Small To See",
+      "description": "A laser-based innovation could allow electron microscopes to reveal biological structures that have long remained beyond their reach. Most human proteins remain too small for today’s most powerful biological microscopes to resolve clearly. A laser system developed by UC Berkeley physicists could hel",
+      "url": "https://scitechdaily.com/microscope-breakthrough-could-reveal-proteins-once-thought-too-small-to-see/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-13T23:39:05+00:00"
+    },
+    {
+      "title": "Is tracking your food purchases good for your health?",
+      "description": "Food tracking apps are popular, but are they a good way to make us eat a healthier diet?",
+      "url": "https://www.bbc.co.uk/news/articles/cy8wlplellvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-13T23:04:58+00:00"
+    },
+    {
+      "title": "Beyond Heisenberg: Scientists Discover a New “Space-Time Limit” in Quantum Physics",
+      "description": "Scientists have uncovered a hidden quantum limit that prevents an electron&#8217;s position and timing from ever being known with perfect precision. Quantum physics sets hard limits on what can be known about a particle. Werner Heisenberg’s uncertainty principle famously states that position and mom",
+      "url": "https://scitechdaily.com/beyond-heisenberg-scientists-discover-a-new-space-time-limit-in-quantum-physics/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-13T23:04:01+00:00"
+    },
+    {
+      "title": "How to navigate the awkward year-end teacher 'thank you' collection",
+      "description": "Collecting money for a joint present might overcome the competitive gift-giving, but it can still cause friction.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg8x4vk04vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-13T23:02:11+00:00"
+    },
+    {
+      "title": "The mysterious crypto firm backed by Farage's biggest donor",
+      "description": "Tether is a giant in crytocurrency, an industry that Nigel Farage believes the UK should be embracing.",
+      "url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-13T23:00:59+00:00"
+    },
+    {
+      "title": "How my period is supercharging my ADHD",
+      "description": "A first-of-its-kind study by UK researchers is looking at the link between menstrual cycles and ADHD.",
+      "url": "https://www.bbc.co.uk/news/articles/czj8zp9e084o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-07-13T23:00:58+00:00"
+    },
+    {
+      "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
+      "description": "The man is said to be doing well in a Frankfurt hospital.",
+      "url": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-13T22:07:34+00:00"
+    },
     {
       "title": "Microsoft tests Windows Search without all the ads and fluff",
       "description": "Microsoft is testing a cleaner version of the Windows 11 search menu that strips it of recommended content and ads. In a blog post on Monday, Microsoft announced that it's rolling out the decluttered Search Box to Windows Insiders in the Experimental channel as the company looks to regain trust with",
@@ -18,36 +266,20 @@
       "publishedAt": "2026-07-13T21:48:43+00:00"
     },
     {
-      "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
-      "description": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz.",
-      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-13T21:46:06+00:00"
-    },
-    {
-      "title": "Siri AI Is Becoming Apple’s Everything Tool",
-      "description": "Apple’s revamped Siri is more than a voice assistant; it’s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
-      "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-13T21:39:09+00:00"
-    },
-    {
-      "title": "England to make late call on Rice for World Cup semi-final",
-      "description": "England will make a late decision on whether Declan Rice is fit to start Wednesday's World Cup semi-final against Argentina.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8m996g9g1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-13T21:30:05+00:00"
-    },
-    {
       "title": "A two-pack of DJI&#8217;s most capable wireless mics just got its first price cut",
       "description": "Smartphones these days have incredible cameras that are capable of taking smooth, sharp video, but the microphones are often lacking, to say the least. A wireless lavalier microphone can dramatically improve the audio quality of your videos, whether you’re the only one talking, or if you’re getting ",
       "url": "https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale",
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-07-13T21:03:14+00:00"
+    },
+    {
+      "title": "The US government warns that Russia state hackers are coming after your router",
+      "description": "With residential proxies all the rage, CISA urges router users to be vigilant.",
+      "url": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-13T21:03:07+00:00"
     },
     {
       "title": "The Shokz OpenRun Pro are the cheapest they’ve been since January",
@@ -82,44 +314,12 @@
       "publishedAt": "2026-07-13T20:44:20+00:00"
     },
     {
-      "title": "Siri AI is already changing how I use my iPhone",
-      "description": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard [",
-      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-13T20:43:20+00:00"
-    },
-    {
       "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
       "description": "Ukraine’s drone blitz halted Russia’s Sea of Azov shipping in under a week.",
       "url": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-07-13T20:41:26+00:00"
-    },
-    {
-      "title": "Chance to face Messi once in a lifetime - O'Reilly",
-      "description": "England left-back Nico O'Reilly is relishing the opportunity to face Lionel Messi in Wednesday's World Cup semi-final against Argentina.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8924433kjyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-13T20:33:07+00:00"
-    },
-    {
-      "title": "Villa assess Estupinan move - Tuesday's gossip",
-      "description": "Aston Villa assess Pervis Estupinan, Bruno Guimaraes is not for sale, Inter Milan give up on signing Trevoh Chalobah, plus more",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2jlg3el4no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-13T20:28:34+00:00"
-    },
-    {
-      "title": "The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It",
-      "description": "The video assistant referee system, or VAR, has led to some controversial calls at the 2026 World Cup. Here’s why.",
-      "url": "https://www.wired.com/story/the-problem-with-var-at-the-2026-world-cup-isnt-the-technology-its-who-interprets-it/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-13T19:55:12+00:00"
     },
     {
       "title": "New Technique Exposes Hidden Multiple Sclerosis Damage in Routine MRI Scans",
@@ -186,52 +386,20 @@
       "publishedAt": "2026-07-13T18:34:35+00:00"
     },
     {
-      "title": "Paramount and Warner Bros sued to block $110bn mega merger",
-      "description": "A dozen US states are taking legal action to halt the largest media consolidation in Hollywood history.",
-      "url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
+      "title": "US justice department investigating UAW president over corruption allegations",
+      "description": "Shawn Fain calls allegations ‘bogus’ and says attorney holds a ‘grudge’ against him over union’s ‘anti-war stance’ on GazaThe US Department of Justice is investigating allegations against the United Auto Workers (UAW) president, Shawn Fain, that he put pressure on another high-ranking union official",
+      "url": "https://www.theguardian.com/us-news/2026/jul/13/justice-department-uaw-president-investigation",
+      "source": "The Guardian",
       "category": "Business",
-      "publishedAt": "2026-07-13T18:25:05+00:00"
+      "publishedAt": "2026-07-13T17:18:47+00:00"
     },
     {
-      "title": "Wi-Fi 8 Explained: Features, Release Date, and More",
-      "description": "Chipset makers and router manufacturers are talking about Wi-Fi 8, but what is the new standard, and when will it arrive?",
-      "url": "https://www.wired.com/story/what-is-wi-fi-8/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-13T18:05:25+00:00"
-    },
-    {
-      "title": "Tom Cruise is utterly transformed in Digger trailer",
-      "description": "\"If we can't control the force of nature, at least we can control the narrative.\"",
-      "url": "https://arstechnica.com/culture/2026/07/digger-trailer-is-giving-big-dr-strangelove-vibes/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-13T17:49:56+00:00"
-    },
-    {
-      "title": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
-      "description": "The biggest smartphone makers keep on trucking in the face of component shortages and economic uncertainty.",
-      "url": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-13T17:18:25+00:00"
-    },
-    {
-      "title": "Tesla Says It’s Building a Wheelchair-Accessible Robotaxi",
-      "description": "A Tesla representative at a DC hearing said the vehicle is “an active product being built.” But its timeline isn’t clear.",
-      "url": "https://www.wired.com/story/tesla-says-its-building-a-wheelchair-accessible-robotaxi/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-13T17:15:35+00:00"
-    },
-    {
-      "title": "Colorado will decide whether a \"right to natural gas\" is added to state constitution",
-      "description": "The amendment would restrict building codes that promote electrification.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/colorado-will-decide-whether-a-right-to-natural-gas-is-added-to-state-constitution/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-13T16:49:35+00:00"
+      "title": "Oil prices leap and stocks fall as Trump reinstates Hormuz blockade on Iranian shipping",
+      "description": "Brent crude rises 5% after US president says 20% toll will be imposed on key trade route to cover ‘safety and security’Oil prices rose 5% on Monday as Donald Trump reinstated the US blockade of Iranian shipping in the Gulf and will charge other countries to pass through the strait of Hormuz.As the U",
+      "url": "https://www.theguardian.com/business/2026/jul/13/oil-prices-leap-stocks-fall-us-iran-strait-of-hormuz-brent-crude-markets",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-07-13T16:36:16+00:00"
     },
     {
       "title": "Volkswagen planning to cut up to 100,000 jobs globally",
@@ -250,68 +418,12 @@
       "publishedAt": "2026-07-13T16:07:54+00:00"
     },
     {
-      "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
-      "description": "The UK signs a new services deal with Switzerland it says will increase exports by £5.2bn annually \"in the long run\".",
-      "url": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-13T16:05:13+00:00"
-    },
-    {
-      "title": "There Are Endless Conspiracy Theories About Lindsey Graham’s Death",
-      "description": "Despite a complete lack of evidence, everyone from Russia to Israel and Iran is being blamed for Lindsey Graham’s death.",
-      "url": "https://www.wired.com/story/there-are-endless-conspiracy-theories-about-lindsey-grahams-death/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-13T15:56:04+00:00"
-    },
-    {
       "title": "Scientists May Have Finally Solved a Decades-Old Mystery Beneath the Pacific Ocean",
       "description": "A thermochemical plume may explain how Earth’s largest oceanic plateau formed beneath the sea. Buried beneath the western Pacific is a volcanic structure so vast that it rivals the size of a continent. The Ontong Java Plateau is the largest oceanic plateau on Earth, built from immense volumes of lav",
       "url": "https://scitechdaily.com/scientists-may-have-finally-solved-a-decades-old-mystery-beneath-the-pacific-ocean/",
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-07-13T15:32:01+00:00"
-    },
-    {
-      "title": "Sacked McCullum holds hands up for England results",
-      "description": "Brendon McCullum apologises for a run of seven defeats in nine games which led to him being sacked as Test coach on Sunday.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/crkvg5y2y0zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-13T15:08:40+00:00"
-    },
-    {
-      "title": "NASA Satellites Spot a Powerful El Niño Building Beneath the Pacific",
-      "description": "A powerful climate signal is building across the tropical Pacific, and satellites can see it rising in the ocean itself. El Niño returned in June 2026, marked by warmer-than-average waters in the central and eastern equatorial Pacific. NOAA declared the event on June 11 after sea surface temperature",
-      "url": "https://scitechdaily.com/nasa-satellites-spot-a-powerful-el-nino-building-beneath-the-pacific/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-13T14:57:53+00:00"
-    },
-    {
-      "title": "Man Utd sign £48m Santos and close in on Tielemans",
-      "description": "Manchester United sign Andrey Santos from Chelsea and are in advanced talks with Aston Villa for Youri Tielemans.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-13T14:09:00+00:00"
-    },
-    {
-      "title": "Oil price jumps 3% and UK pump prices rise as the US and Iran trade attacks – as it happened",
-      "description": "Brent crude remains below $80 a barrel; European shares push cautiously higher while Asian shares tumble with South Korea’s Kospi down nearly 10%People in the UK: have you used prediction markets to bet on the World Cup or other events?Drinkers across the UK were shocked when a pint in some London b",
-      "url": "https://www.theguardian.com/business/live/2026/jul/13/oil-price-jumps-gold-slides-us-iran-trade-attacks-live-news-updates",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-07-13T14:06:36+00:00"
-    },
-    {
-      "title": "India outplay England - but is women's Test cricket struggling for relevance?",
-      "description": "The scheduling of the game and the announcement of Brendon McCullum's sacking left the historic Lord's Test between England and India struggling for relevance, so what is the future of women's Test cricket?",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cgjx3xq6182o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-13T14:04:20+00:00"
     },
     {
       "title": "The New York nurses replaced by AI: ‘It should concern every patient who cares about quality of care’",
@@ -322,30 +434,6 @@
       "publishedAt": "2026-07-13T12:00:47+00:00"
     },
     {
-      "title": "The SpaceX IPO made history. One month on has it lost momentum?",
-      "description": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus.",
-      "url": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-13T11:45:25+00:00"
-    },
-    {
-      "title": "6 Best Bidets of 2026: Toto, Brondell, More, All Tested in My Bathroom",
-      "description": "These butt-cleaning machines also offer luxe features like custom seat warming and adjustable water flows.",
-      "url": "https://www.wired.com/story/the-best-bidets-for-every-bathroom-and-budget/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-13T11:35:00+00:00"
-    },
-    {
-      "title": "A 60-Year-Old Mystery About Collagen May Finally Be Solved",
-      "description": "A new study challenges a 60-year-old assumption about the body’s main structural building block, opening new possibilities for treating fibrosis and cancer. For more than half a century, collagen has been depicted as a long, rigid molecular cable, the structural protein that helps give skin, bones, ",
-      "url": "https://scitechdaily.com/a-60-year-old-mystery-about-collagen-may-finally-be-solved/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-13T11:32:45+00:00"
-    },
-    {
       "title": "Is Donald Trump winning his war against the media?",
       "description": "President and allies have sued, cut access and issued subpoenas, but experts say media still producing strong workDonald Trump has ramped up his attacks on the media to a level without precedent in American history in the first 17 months of his second presidency.But have Trump and his allies won the",
       "url": "https://www.theguardian.com/media/2026/jul/13/trump-war-on-media",
@@ -354,36 +442,12 @@
       "publishedAt": "2026-07-13T11:30:45+00:00"
     },
     {
-      "title": "iGarden Swim Jet X Pro 10 Review: Endless Pool",
-      "description": "Swimming against the iGarden Swim Jet X Pro 10’s artificial current is a real workout, even if it doesn’t quite replace a full-size lap pool.",
-      "url": "https://www.wired.com/review/igarden-swim-jet-x-pro-10/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-13T11:08:00+00:00"
-    },
-    {
-      "title": "Most clinical? Least creative? Best in the air? Comparing the last four",
-      "description": "BBC Sport compares statistics for France, Spain, Argentina and England in the World Cup so far as the semi-finalists prepare to meet.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2k9qj2nyvo?at_medium=RSS&at_campaign=rss",
+      "title": "Chris Sutton's World Cup semi-final predictions",
+      "description": "BBC Sport's football expert Chris Sutton gives his predictions for the semi-final ties at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gynmr6vjro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-07-13T11:05:25+00:00"
-    },
-    {
-      "title": "Python Is So Slow. Can Julia Solve the Two-Language Problem?",
-      "description": "By some benchmarks, Julia code can run 10X to 1,000X faster than Python—but there’s a reason it’s not a very popular programming language.",
-      "url": "https://www.wired.com/story/python-is-so-slow-can-julia-solve-the-two-language-problem/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-13T11:00:00+00:00"
-    },
-    {
-      "title": "Researchers Uncover a Promising New Way To Stop Prostate Cancer From Spreading",
-      "description": "A fully human antibody showed promise against aggressive prostate cancer in preclinical testing. For most men diagnosed with prostate cancer, the disease grows slowly. The danger changes sharply when cancer cells begin to leave the prostate and spread to the lymph nodes or bones, where treatment bec",
-      "url": "https://scitechdaily.com/researchers-uncover-a-promising-new-way-to-stop-prostate-cancer-from-spreading/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-13T10:57:57+00:00"
+      "publishedAt": "2026-07-13T09:55:54+00:00"
     },
     {
       "title": "More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales",
@@ -400,38 +464,6 @@
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-07-13T08:00:16+00:00"
-    },
-    {
-      "title": "'Out of this world!' - Best shots of Wimbledon 2026",
-      "description": "Enjoy the best shots of Wimbledon 2026, featuring Great Britain's Arthur Fery, Novak Djokovic, Coco Gauff and more.",
-      "url": "https://www.bbc.co.uk/sport/tennis/videos/cx2k9v4957no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-13T05:27:44+00:00"
-    },
-    {
-      "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
-      "description": "It is hoped that free movement between the UK territory and Spain will provide an economic boost.",
-      "url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-12T23:29:06+00:00"
-    },
-    {
-      "title": "How to change bank, energy or broadband provider and save money",
-      "description": "Changing your broadband or energy supplier, or even your bank, for a better deal is simpler than it used to be.",
-      "url": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-12T23:28:01+00:00"
-    },
-    {
-      "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
-      "description": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
-      "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-12T05:00:15+00:00"
     }
   ]
 }
