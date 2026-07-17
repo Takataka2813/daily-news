@@ -1,21 +1,381 @@
 {
-  "updatedAt": "2026-07-17T10:28:17.506064+00:00",
+  "updatedAt": "2026-07-17T21:52:14.154881+00:00",
   "articles": [
     {
-      "title": "God Of War TV series is recasting Kratos",
-      "description": "Amazon's upcoming God Of War show has hit a major snag - it's now on the hunt for a new Kratos, after an on-set injury put its current lead actor out of commission. Sons of Anarchy star Ryan Hurst was originally cast for the role in January, with Deadline reporting that four episodes of the [&#8230;",
-      "url": "https://www.theverge.com/entertainment/966995/god-of-war-amazon-prime-video-kratos-ryan-hurst-recast",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T10:14:04+00:00"
+      "title": "DeChambeau receives two-shot penalty in dramatic Open scenes",
+      "description": "Bryson DeChambeau's bid to win The Open takes a hit after he is given a two-shot penalty on a dramatic evening at Royal Birkdale.",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cjd45x7vgz7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-17T20:53:05+00:00"
     },
     {
-      "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
-      "description": "The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are overwhelmingly used to target women and girls.",
-      "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+      "title": "Tuchel urges England to finish strongly in emotional address",
+      "description": "England manager Thomas Tuchel urges his players to end the World Cup strongly in an emotional address after their agonising semi-final defeat by Argentina.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62ergl0py2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-17T20:39:45+00:00"
+    },
+    {
+      "title": "Stick with Tuchel unless Guardiola is available - Rooney",
+      "description": "Wayne Rooney thinks the Football Association should stick with Thomas Tuchel as England head coach unless a move for Pep Guardiola is possible.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c304ldrmmero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-17T20:16:26+00:00"
+    },
+    {
+      "title": "Shark&#8217;s versatile ChillPill cooling system is back to its best price",
+      "description": "Portable fans are one of the easiest ways to stay cool during the summer, and you don&#8217;t have to spend much to find a decent one. If you&#8217;re looking for something more versatile, though, Shark&#8217;s ChillPill Personal Fan and Cooling System combines a rechargeable fan with a dry-touch ev",
+      "url": "https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T20:15:54+00:00"
+    },
+    {
+      "title": "AWS Billing Glitch Hits Customers With Billion-Dollar Fees",
+      "description": "An error with the cloud computing giant’s billing operation caused some customers’ monthly bills to rise from a few cents to billions of dollars.",
+      "url": "https://www.wired.com/story/amazon-web-services-glitch-oh-no/",
       "source": "Wired",
       "category": "Technology",
-      "publishedAt": "2026-07-17T10:00:00+00:00"
+      "publishedAt": "2026-07-17T19:50:38+00:00"
+    },
+    {
+      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
+      "description": "The FireSat program can spot wildfires that other satellites miss.",
+      "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T19:50:18+00:00"
+    },
+    {
+      "title": "TikTok is testing an AI likeness detection tool",
+      "description": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been ",
+      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T19:34:30+00:00"
+    },
+    {
+      "title": "Blue Light Breakthrough Could Speed Up Drug Discovery",
+      "description": "Researchers have developed a visible-light-driven method that could help chemists build more complex drug-like molecules in fewer steps. A blue light commonly used in aquariums and indoor gardens could help chemists solve one of drug discovery’s persistent challenges: building more intricate molecul",
+      "url": "https://scitechdaily.com/blue-light-breakthrough-could-speed-up-drug-discovery/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-17T19:31:10+00:00"
+    },
+    {
+      "title": "The Pentagon's Space Development Agency hasn't moved as fast as anyone would like",
+      "description": "\"Missiles are being launched at the joint force every single day in [Operation] Epic Fury.\"",
+      "url": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T19:19:42+00:00"
+    },
+    {
+      "title": "What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke",
+      "description": "The US is home to some of the most polluted air on the planet as smoke from 120 out-of-control Canadian wildfires drifts across the border.",
+      "url": "https://www.wired.com/story/cities-from-chicago-to-washington-dc-look-like-wildfire-smoke/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T19:17:46+00:00"
+    },
+    {
+      "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust",
+      "description": "Pebble founder Eric Migicovsky says buyers of its new e-paper smartwatches should know what they're signing up for and trust Pebble to make things right if they run into issues, despite the short warranty. \"I think the most important thing is trust,\" Migicovsky told me in an interview this week. \"Do",
+      "url": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T19:14:42+00:00"
+    },
+    {
+      "title": "Scientists Discover AI Models May Not Think Like the Brain After All",
+      "description": "A reverse prediction test suggests that supposedly brainlike AI models may rely on visual strategies the primate brain does not use. Artificial intelligence can sometimes predict how the brain responds when people recognize objects. But that resemblance may hide an important weakness: the internal w",
+      "url": "https://scitechdaily.com/scientists-discover-ai-models-may-not-think-like-the-brain-after-all/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-17T18:56:12+00:00"
+    },
+    {
+      "title": "Hegseth wants a \"High-T\" military; doctors call it a clinical minefield",
+      "description": "\"We're turning the clock back on rational healthcare.\"",
+      "url": "https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T18:53:11+00:00"
+    },
+    {
+      "title": "Taco Bell iceberg lettuce identified as source of cyclosporiasis in 5 states",
+      "description": "Don't eat Taco Bell lettuce in Indiana, Kentucky, Michigan, Ohio, or West Virginia.",
+      "url": "https://arstechnica.com/health/2026/07/taco-bell-iceburg-lettuce-identified-as-source-of-cyclosporiasis-in-5-states/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T18:45:23+00:00"
+    },
+    {
+      "title": "Polymarket’s Corporate Structure Is a Mystery—Even to Some of Its Former Employees",
+      "description": "The prediction market’s Panamanian operation seems odd, even for a company whose CEO had his apartment raided by FBI agents.",
+      "url": "https://www.wired.com/story/whats-up-with-polymarkets-panama-entity/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T18:30:00+00:00"
+    },
+    {
+      "title": "The World’s Highest-Living Mammal Is Rewriting the Limits of Life",
+      "description": "A leaf-eared mouse living more than 6,700 meters (22,000 feet) above sea level in the Andes has shattered assumptions about where mammals can survive. Near the summit of an Andean volcano, where the air contains barely half as much oxygen as it does at sea level, scientists found something that shou",
+      "url": "https://scitechdaily.com/the-worlds-highest-living-mammal-is-rewriting-the-limits-of-life/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-17T18:21:13+00:00"
+    },
+    {
+      "title": "Apple Music is getting a price hike",
+      "description": "Apple Music is more expensive now. In the US, an individual plan now costs $11.99 per month, a $1 bump up from the previous $10.99 price. A family plan now costs $19.99 per month, up from $16.99, and a student plan costs $6.99 per month, up from $5.99. Apple, in a statement to Music Business [&#8230",
+      "url": "https://www.theverge.com/tech/967379/apple-music-price-increase",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T18:14:26+00:00"
+    },
+    {
+      "title": "ICE Is Using Data Broker Tools to ‘Identify Unaccompanied Minors’ and ‘Fraud’",
+      "description": "A newly renewed, $25 million-per-year contract with a subsidiary of Thomson Reuters further expands the power of ICE under the Trump administration.",
+      "url": "https://www.wired.com/story/ice-unaccompanied-minors-fraud-suspects-trss-contract/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T17:47:05+00:00"
+    },
+    {
+      "title": "Apple’s plot to crush OpenAI",
+      "description": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The [&#",
+      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T17:41:32+00:00"
+    },
+    {
+      "title": "Antonelli tops FP2 as Gasly crashes heavily at Spa",
+      "description": "Alpine's Pierre causes a red flag with a heavy crash in Friday practice at the Belgian Grand Prix as Mercedes' Kimi Antonelli set out his stall for the weekend with fastest time.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm2g9z3pr3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-17T17:33:27+00:00"
+    },
+    {
+      "title": "‘The Odyssey’ Backlash Failed Tremendously",
+      "description": "For all the hysteria over “woke” casting and ahistorical choices, Christopher Nolan’s epic is on track to make $200 million globally during its opening weekend.",
+      "url": "https://www.wired.com/story/the-odyssey-backlash-failed-tremendously/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T17:09:13+00:00"
+    },
+    {
+      "title": "Troubling new details emerge on diabetes ouster controversy",
+      "description": "American Diabetes Association blocked publication of op-ed articles so the authors posted them as a preprint.",
+      "url": "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T17:08:05+00:00"
+    },
+    {
+      "title": "The 'ultimate all-round sportsman' - Sobers could do it all",
+      "description": "Sir Garfield Sobers, who has died aged 89, was rightly chosen as one of the leading five cricketers of the 20th century - and will be remembered as arguably the best all-rounder in the history of the game.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c2xx42dle4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-17T17:03:08+00:00"
+    },
+    {
+      "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
+      "description": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
+      "url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-17T16:53:04+00:00"
+    },
+    {
+      "title": "Asus’ top-end 4K QD-OLED gaming monitor is $400 off",
+      "description": "The Asus ROG Swift 32-inch 4K QD-OLED gaming monitor has almost everything I want in a high-end gaming monitor, most notably a QD-OLED panel for inky black levels and vivid colors that go beyond what’s possible on an LCD screen. Amazon, Best Buy, and B&#38;H Photo have this model on sale for $899.99",
+      "url": "https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T16:47:13+00:00"
+    },
+    {
+      "title": "China hits out at British Steel nationalisation",
+      "description": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-17T16:44:22+00:00"
+    },
+    {
+      "title": "Brewdog founder faces data complaints over efforts to buy back firm",
+      "description": "The UK data watchdog has received complaints after James Watt reportedly contacted former shareholders.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-17T16:44:15+00:00"
+    },
+    {
+      "title": "Will Russia's answer to the Falcon 9 rocket ever take flight?",
+      "description": "Grasshopper-like tests could begin in 2028.",
+      "url": "https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T16:42:19+00:00"
+    },
+    {
+      "title": "Fubo hikes prices by $15 after restoring some NBCU channels lost in November",
+      "description": "Fubo subscribers still don't have Versant channels.",
+      "url": "https://arstechnica.com/gadgets/2026/07/fubo-hikes-prices-by-15-after-restoring-some-nbcu-channels-lost-in-november/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T16:24:21+00:00"
+    },
+    {
+      "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
+      "description": "Official estimates Google and Apple likely made millions in nudify app fees.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T16:10:05+00:00"
+    },
+    {
+      "title": "Brain Breakthrough Could Help Older Adults Live Longer and Stay Steady",
+      "description": "Aging appears to alter how key cerebellar neurons fire, with measurable effects on movement and coordination. Aging often brings slower movement, weaker balance, and reduced agility, but the brain changes behind these losses have been difficult to identify. McGill University researchers have now dir",
+      "url": "https://scitechdaily.com/brain-breakthrough-could-help-older-adults-live-longer-and-stay-steady/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-17T16:05:05+00:00"
+    },
+    {
+      "title": "Samsung&#8217;s redesigned Z Fold 8 with a wide display just leaked",
+      "description": "Leaker Evan Blass shared images of Samsung's redesigned Galaxy Z Fold 8 just days before the July 22nd launch event where Samsung is expected to officially announce the phone. The leaked images show a shorter, wider foldable matching earlier leaks of the Z Fold 8. They also reveal some of its specs,",
+      "url": "https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T15:52:50+00:00"
+    },
+    {
+      "title": "Is America ready for this quirky Jeep-looking EV that can park itself?",
+      "description": "Are we living through a small car renaissance? There's the Slate Truck, Amble's dune buggy, and the Fiat Topolino, as well as a whole galaxy of kei cars and trucks from Japan that have their own built-in fan base. While microcar sales in the US are still as tiny as the vehicles themselves, there are",
+      "url": "https://www.theverge.com/transportation/966498/chip-motors-low-speed-ev-remote-park-price",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T15:48:39+00:00"
+    },
+    {
+      "title": "Global Cancer Cases Could Surge 67% by 2050, New Report Warns",
+      "description": "New data reveal major geographic disparities and highlight the urgent need for global action on prevention, early detection, and equitable access to treatment. For roughly one in five people worldwide, cancer will become part of their lifetime. Global Cancer Statistics, 2026 estimates that nearly 21",
+      "url": "https://scitechdaily.com/global-cancer-cases-could-surge-67-by-2050-new-report-warns/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-17T15:30:08+00:00"
+    },
+    {
+      "title": "Keep calm and carry on - Spain trust team identity to deliver World Cup",
+      "description": "Former Spain captain Cesar Azpilicueta explains why Luis de la Fuente's side have confidence in the collective as they prepare for Sunday's World Cup final against Argentina.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czxedvre7ryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-17T15:04:58+00:00"
+    },
+    {
+      "title": "Lyft’s CEO Says, ‘We’re the Good Uber’",
+      "description": "David Risher insists that Lyft has lowered its prices and that customers who only check his competitor’s app are “leaving money on the table.”",
+      "url": "https://www.wired.com/story/lyfts-ceo-says-were-the-good-uber/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T15:00:00+00:00"
+    },
+    {
+      "title": "The Best New Camping Gear at REI (2026): Tents, Coolers, Bikes, More",
+      "description": "I tested REI’s best new and revamped outdoor gear of 2026. Here’s what’s worth buying, from tents and sleeping bags to coolers and bikes.",
+      "url": "https://www.wired.com/story/the-best-new-camping-gear-at-rei-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T14:55:29+00:00"
+    },
+    {
+      "title": "New Study Suggests Vitamin C Could Help Prevent Cancer",
+      "description": "New research examines how antioxidants may influence the risk of cancers linked to digestion. Vitamin C may do more than support the immune system. It could also help block chemical reactions in the stomach that are linked to cancer risk. New mathematical modeling from the University of Waterloo sug",
+      "url": "https://scitechdaily.com/new-study-suggests-vitamin-c-could-help-prevent-cancer/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-17T14:55:01+00:00"
+    },
+    {
+      "title": "Two record-equalling 62s at The Open - and two different reactions",
+      "description": "Australia's Lucas Herbert and Sam Burns of the United States both shoot eight-under 62s to equal the lowest rounds in men's major history.",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/ckg3n04n0v0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-17T14:40:37+00:00"
+    },
+    {
+      "title": "Conspiracy Theorists Think Trump’s Speech Paves the Path to the Insurrection Act",
+      "description": "Election deniers have spent years promoting the idea that the 2020 election was stolen. They believe Donald Trump’s speech finally proves them right.",
+      "url": "https://www.wired.com/story/conspiracy-theorists-think-trumps-speech-paves-the-path-to-the-insurrection-act/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T13:48:38+00:00"
+    },
+    {
+      "title": "Five reasons for England to be cheerful despite World Cup exit",
+      "description": "Despite the heartbreak of a World Cup semi-final loss, there are plenty of reasons to be optimistic about England's footballing future.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyxllv7lmpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-17T13:45:13+00:00"
+    },
+    {
+      "title": "How do you actually shop local in New York City?",
+      "description": "Shopping local ensures a future for cultures and communities, says Caroline Weaver, creator of the Locavore Guide digital directory When I signed the lease for my new apartment in Brooklyn, the relief of having survived the brutal New York City real estate market was short-lived when my next task be",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/how-to-shop-local-nyc",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-07-17T12:00:07+00:00"
+    },
+    {
+      "title": "New Fossil Study Challenges the Classic Story of Human Evolution",
+      "description": "Scientists say some of the traits that define modern humans may have evolved only after long-standing biological and cultural barriers were broken. Human evolution is often presented as a clear progression: brains grew larger, faces became smaller, tools improved, and our ancestors gradually became ",
+      "url": "https://scitechdaily.com/new-fossil-study-challenges-the-classic-story-of-human-evolution/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-17T11:51:25+00:00"
+    },
+    {
+      "title": "The financial winners and losers from the World Cup",
+      "description": "Big bucks are being made from the 2026 tournament off the field, but who is raking in the most, and who is losing out?",
+      "url": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-17T11:36:11+00:00"
+    },
+    {
+      "title": "The Surprising Chocolate Trick That Could Boost Your Gym Performance",
+      "description": "Researchers found that smelling chocolate before and during resistance exercise may subtly change how the brain responds to effort and appetite. Halfway through a difficult leg workout, most people would not expect the smell of chocolate to help them complete more repetitions. Yet a study published ",
+      "url": "https://scitechdaily.com/the-surprising-chocolate-trick-that-could-boost-your-gym-performance/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-17T11:16:12+00:00"
+    },
+    {
+      "title": "What type of procrastinator are you - and how to fix it now (not later)",
+      "description": "The nine types of stalling that researchers say can reveal something deeper about us and why it's not always bad.",
+      "url": "https://www.bbc.co.uk/news/articles/cpv3eky4w2do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-07-17T11:09:00+00:00"
+    },
+    {
+      "title": "‘Laws were broken’: multistate effort to stop Paramount’s $111bn merger heads to court",
+      "description": "Attorneys general from 12 states are suing to block the Paramount-Warner Bros deal they say violates antitrust lawA last-ditch effort to block the merger between Paramount Skydance and Warner Bros Discovery (WBD) is heading to court as 12 Democratic state attorneys general attempt to stop the $111bn",
+      "url": "https://www.theguardian.com/media/2026/jul/17/paramount-warner-bros-merger",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-07-17T11:00:06+00:00"
     },
     {
       "title": "Why has British Steel been nationalised?",
@@ -26,116 +386,12 @@
       "publishedAt": "2026-07-17T09:57:02+00:00"
     },
     {
-      "title": "How have missed targets affected Newcastle's summer rebuild?",
-      "description": "Newcastle United have missed out on Johan Manzambi and Victor Munoz this summer, but the club are targeting players who are \"desperate\" to join.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8626pzz96zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-17T09:53:44+00:00"
-    },
-    {
-      "title": "Who is the frontrunner to be the UK's next chancellor?",
-      "description": "Andy Burnham will be moving into Downing Street next week, and a question remains over who will be his neighbour in Number 11.",
-      "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+      "title": "Five headaches Andy Burnham will have to deal with as PM",
+      "description": "From defence spending to housing - the next UK leader has a series of challenges to deal with.",
+      "url": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "publishedAt": "2026-07-17T09:42:25+00:00"
-    },
-    {
-      "title": "The financial winners and losers from the World Cup",
-      "description": "Big bucks are being made from the 2026 tournament off the field, but who is raking in the most, and who is losing out?",
-      "url": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-17T09:40:17+00:00"
-    },
-    {
-      "title": "Spain 2010 v Spain 2026: How do the two XIs compare?",
-      "description": "How do Spain's 2010 World Cup winners compare to the current contingent who are looking to match their feat in the 2026 tournament? BBC Sport takes a look.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzy1rzxepo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-17T09:36:52+00:00"
-    },
-    {
-      "title": "The Group Behind ‘2000 Mules’ Is Back With Another Election Conspiracy Film",
-      "description": "True the Vote is working with a Detroit pastor to produce a new documentary called Trap, based on claims that have already been thrown out in court.",
-      "url": "https://www.wired.com/story/the-group-behind-2000-mules-is-back-with-another-election-conspiracy-film/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T09:30:00+00:00"
-    },
-    {
-      "title": "Clark 'a political football' says NBA chief Silver",
-      "description": "NBA commissioner Adam Silver believes the debate around the treatment of Indiana Fever star Caitlin Clark is \"not largely about officiating\".",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/c74gl4xj78yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-17T09:27:28+00:00"
-    },
-    {
-      "title": "Thousands of tickets still available for England v France",
-      "description": "Around 7,000 tickets are still listed on Fifa's ticket sites for Saturday's World Cup bronze medal match between England and France.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yd5kv1e5ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-17T09:16:00+00:00"
-    },
-    {
-      "title": "The CDC Has a Cyclospora Lab. DOGE Downsized It Last Year",
-      "description": "“Based on simple math, these outbreak responses—which require rapid, timely responses—are going to be greatly diminished,” the former CDC lab director tells WIRED.",
-      "url": "https://www.wired.com/story/cdc-cyclospora-lab-doge-downsized-it-last-year/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T09:15:00+00:00"
-    },
-    {
-      "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
-      "description": "The CEO of Foundation Future Industries, which counts the president’s son as its chief strategy adviser, tells WIRED it’s exploring some “kinetic things.”",
-      "url": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T09:00:00+00:00"
-    },
-    {
-      "title": "World Cup rings for winners as Trump attendance confirmed",
-      "description": "Donald Trump will present the trophy to the World Cup final winners on Sunday, and rings will be presented to the victorious side.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgmk7mnnyjeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-17T08:40:55+00:00"
-    },
-    {
-      "title": "China hits out at British Steel nationalisation",
-      "description": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-17T08:25:55+00:00"
-    },
-    {
-      "title": "Trump Media to sell instant access to 'market-moving' social posts",
-      "description": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
-      "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-17T07:25:31+00:00"
-    },
-    {
-      "title": "World Cup stars who could move this summer",
-      "description": "As the World Cup approaches its end, attentions are turning to the 2026-27 club season - and the players who could be on the move this summer.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c87ng4xq9nwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-17T06:30:34+00:00"
-    },
-    {
-      "title": "Effort, spirit and moments - but do England lack all-round quality?",
-      "description": "As England reflect on their World Cup semi-final defeat by Argentina, BBC Sport's Phil McNulty looks at what Thomas Tuchel's team were lacking.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz64xyn4vz2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-17T05:32:35+00:00"
+      "publishedAt": "2026-07-17T05:59:36+00:00"
     },
     {
       "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
@@ -146,68 +402,12 @@
       "publishedAt": "2026-07-17T05:00:08+00:00"
     },
     {
-      "title": "Home Depot Promo Codes: 50% Off in July 2026",
-      "description": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this July.",
-      "url": "https://www.wired.com/story/home-depot-promo-code/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T05:00:00+00:00"
-    },
-    {
-      "title": "Paramount+ Coupon Codes and Deals for July 2026",
-      "description": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T05:00:00+00:00"
-    },
-    {
-      "title": "LG Promo Codes and Coupons for July 2026",
-      "description": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "url": "https://www.wired.com/story/lg-promo-code/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T05:00:00+00:00"
-    },
-    {
-      "title": "Walmart Promo Codes: Up to 65% Off for July 2026",
-      "description": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
-      "url": "https://www.wired.com/story/top-walmart-promo-codes/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T05:00:00+00:00"
-    },
-    {
-      "title": "Common Mouth Bacteria May Trigger Dangerous Calcium Buildup in the Heart",
-      "description": "A gum disease bacterium may contribute to aortic valve calcification through inflammation, according to preliminary human tissue and mouse research. A bacterium best known for damaging gums may also be involved in the hardening of the heart’s aortic valve. Preliminary research presented at the Ameri",
-      "url": "https://scitechdaily.com/common-mouth-bacteria-may-trigger-dangerous-calcium-buildup-in-the-heart/",
-      "source": "SciTechDaily",
+      "title": "Targeted prostate cancer treatment cuts risk of side effects, study suggests",
+      "description": "An NHS trial over 10 years followed nearly 3,500 men who received focal therapy, a less invasive treatment.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq3lnndvxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
       "category": "Science",
-      "publishedAt": "2026-07-17T00:51:37+00:00"
-    },
-    {
-      "title": "New CRISPR Tool Gives Scientists Control Over Cellular Protein Production",
-      "description": "Controlling ribosomal RNA could help researchers target diseases driven by too little or too much protein production. Cells do not simply make proteins at a fixed pace. They continually adjust production to match their needs, and those changes can help determine whether a cell keeps dividing, adopts",
-      "url": "https://scitechdaily.com/new-crispr-tool-gives-scientists-control-over-cellular-protein-production/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-17T00:26:14+00:00"
-    },
-    {
-      "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
-      "description": "\"Now offloading propellant. Next launch attempt hopefully in a few days.\"",
-      "url": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T00:02:54+00:00"
-    },
-    {
-      "title": "Natural Supplement May Boost Cancer-Fighting Immunity",
-      "description": "A natural supplement strengthened lasting anticancer immune responses in obese mice. Weight loss can improve many aspects of health, but the immune system may not recover as quickly. Obesity can leave behind long-lasting changes in the bone marrow, where immune cells are formed, potentially weakenin",
-      "url": "https://scitechdaily.com/natural-supplement-may-boost-cancer-fighting-immunity/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-16T23:16:06+00:00"
+      "publishedAt": "2026-07-16T23:36:40+00:00"
     },
     {
       "title": "I wouldn't marry him until he paid off his debt, now I'm in charge of our money",
@@ -218,124 +418,12 @@
       "publishedAt": "2026-07-16T23:14:11+00:00"
     },
     {
-      "title": "Two Trump health nominees crash and burn in tense Senate hearing",
-      "description": "Both nominees flailed in their own unique ways as senators sought answers.",
-      "url": "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-16T22:33:24+00:00"
-    },
-    {
-      "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
-      "description": "Resellers threatened to ditch HP printing supplies for counterfeits.",
-      "url": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-16T22:02:31+00:00"
-    },
-    {
-      "title": "Fortnite is getting a bunch of AI-powered ‘personas’",
-      "description": "Get ready for more AI characters in Fortnite. Developer Epic Games is going to let Fortnite creators publish experiences featuring characters with AI-powered voices starting on July 30th, and ahead of that launch, it's created 36 characters with \"consistent voices and personas\" that creators can use",
-      "url": "https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-16T21:30:35+00:00"
-    },
-    {
       "title": "Kalshi to offer betting on drug trial results and FDA regulatory decisions",
       "description": "Move comes as prediction platforms rapidly gain popularity and offer opportunities to bet on virtually anythingKalshi is expanding its wagers to include bets on drug trial results, an expansion into new predictions territory as platforms continue to rapidly gain popularity and offer opportunities to",
       "url": "https://www.theguardian.com/technology/2026/jul/16/kalshi-betting-drug-trial-results",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-07-16T21:11:36+00:00"
-    },
-    {
-      "title": "T-Mobile bungled forced plan migration, canceling some users' free lines",
-      "description": "T-Mobile to restore free lines lost during plan migration, but price hikes remain.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/t-mobile-bungled-forced-plan-migration-canceling-some-users-free-lines/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-16T20:52:47+00:00"
-    },
-    {
-      "title": "Samsung’s 55-inch Frame art TV is $200 cheaper than usual",
-      "description": "Samsung’s Frame is different from your average 4K TV. Its biggest selling point involves what it does when you aren’t actively using it. It can display art, turning your living room into a gallery. The Frame has bezels that make it look like — you guessed it — framed art, and its matte finish can [&",
-      "url": "https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-16T20:47:30+00:00"
-    },
-    {
-      "title": "It's official: EU will force Google to share search data and open up AI on Android",
-      "description": "Google says these changes could endanger user privacy and security.",
-      "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-16T20:41:45+00:00"
-    },
-    {
-      "title": "Netflix says around 300 titles used generative AI",
-      "description": "Netflix says roughly 300 titles on its platform used generative AI, most of which occurred in post-production. The streaming service revealed the news in its second-quarter earnings report released on Thursday, saying it's \"increasingly leveraging these tools to deliver higher quality output more qu",
-      "url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-16T20:29:27+00:00"
-    },
-    {
-      "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-      "description": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-16T20:26:23+00:00"
-    },
-    {
-      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
-      "description": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
-      "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-16T20:09:48+00:00"
-    },
-    {
-      "title": "Trump teleprompter aide made $100,000 betting on what Trump would say, reports say",
-      "description": "If only someone could have predicted it.",
-      "url": "https://arstechnica.com/culture/2026/07/trump-teleprompter-aide-made-100000-betting-on-what-trump-would-say-reports-say/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-16T19:55:46+00:00"
-    },
-    {
-      "title": "Why are people buying so many CDs?",
-      "description": "CD sales are apparently going up, reportedly thanks to fans realizing they're an affordable way to support their favorite artists. According to a new report from research firm Luminate, 16.3 million CDs were sold in the first half of 2026 in the US, a 16 percent increase year-over-year. The growth i",
-      "url": "https://www.theverge.com/entertainment/966726/cd-sales-vinyl-physical-media-luminate",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-16T19:55:29+00:00"
-    },
-    {
-      "title": "Some England players disappointed by tactics as Tuchel questions team's DNA",
-      "description": "BBC Sport understands that Thomas Tuchel's defensive tactics in the World Cup semi-final defeat to Argentina are being hotly debated by the England squad.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqjxl90x27ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-16T19:54:48+00:00"
-    },
-    {
-      "title": "Scientists Overcome a Major Electrical Bottleneck in Next-Generation Semiconductors",
-      "description": "One of the largest obstacles limiting the next generation of computer chips may finally have a solution. The shrinking of computer chips has exposed a stubborn problem: even when a semiconductor can carry electricity efficiently, getting that electricity into the material can waste power and slow th",
-      "url": "https://scitechdaily.com/scientists-overcome-a-major-electrical-bottleneck-in-next-generation-semiconductors/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-16T19:54:12+00:00"
-    },
-    {
-      "title": "Mysterious Radio Beacon Near a Black Hole Defies Expectations",
-      "description": "A black hole in a relatively nearby galaxy has abruptly switched on a powerful cosmic beacon, and years later, it is still blazing. Astronomers have discovered a galaxy whose central black hole has remained extraordinarily bright in radio waves for more than eight years after its emission suddenly i",
-      "url": "https://scitechdaily.com/mysterious-radio-beacon-near-a-black-hole-defies-expectations/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-16T19:19:14+00:00"
     },
     {
       "title": "Energy drinks to be banned for under-16s in England from April",
@@ -346,52 +434,12 @@
       "publishedAt": "2026-07-16T18:57:47+00:00"
     },
     {
-      "title": "White House teleprompter operator accused of making $100k from Trump speech bets",
-      "description": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
-      "url": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-16T18:52:35+00:00"
-    },
-    {
-      "title": "Could Dark Matter Be Hiding in a Hidden Fifth Dimension?",
-      "description": "The geometry of a hidden dimension may naturally explain dark matter resonance and its elusive behavior. Every galaxy appears to carry far more mass than telescopes can see. That invisible material, known as dark matter, may be linked to a hidden fifth dimension whose geometry naturally shapes how d",
-      "url": "https://scitechdaily.com/could-dark-matter-be-hiding-in-a-hidden-fifth-dimension/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-16T18:44:15+00:00"
-    },
-    {
-      "title": "Kalshi says it caught Trump&#8217;s teleprompter operator insider trading",
-      "description": "Kalshi users betting on what President Donald Trump would say during his speeches were reportedly up against tough competition: the president's teleprompter operator. ABC News reports that federal investigators believe Gabriel Perez - Trump's teleprompter operator since 2016 - used inside informatio",
-      "url": "https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-16T18:43:14+00:00"
-    },
-    {
       "title": "Largest landlord in the US accused of civil rights violations",
       "description": "Fair housing complaints accuse Greystar of refusing to take tenants who use federal rent vouchersGreystar, the largest owner and manager of apartments in the US, systematically flouts local laws designed to make housing affordable to the poor, according to civil rights complaints filed with authorit",
       "url": "https://www.theguardian.com/us-news/2026/jul/16/greystar-landlord-civil-rights-violations",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-07-16T18:09:28+00:00"
-    },
-    {
-      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
-      "description": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, [and] po",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-16T17:58:37+00:00"
-    },
-    {
-      "title": "Ecovacs&#8217; self-cleaning Deebot X11 has hit a new low price",
-      "description": "Sometimes it feels like keeping your floors clean is one of those never-ending chores, which is why it's nice to have a versatile robot vacuum take it off your hands. The Ecovacs Deebot X11 robovac / mop hybrid is designed to do just that, and it's now $699 ($400 off) at Amazon and directly from [&#",
-      "url": "https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-16T17:57:15+00:00"
     },
     {
       "title": "Teenagers from 15 should be given free MenB vaccine, say UK experts",
@@ -402,14 +450,6 @@
       "publishedAt": "2026-07-16T16:36:13+00:00"
     },
     {
-      "title": "A 24-Hour Fast Activates a Microbial Pathway That Helps Heal the Gut",
-      "description": "A gut bacterium appears essential to the intestinal repair benefits linked to fasting before radiation. During radiation treatment for abdominal cancer, the therapy aimed at a tumor can also injure the delicate lining of the small intestine. That damage can lead to severe digestive problems and may ",
-      "url": "https://scitechdaily.com/a-24-hour-fast-activates-a-microbial-pathway-that-helps-heal-the-gut/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-16T15:07:40+00:00"
-    },
-    {
       "title": "NHS manager says trust wanted 4,000 reports 'gone'",
       "description": "He tells an inquiry he believed a trust was 'panicking' and was discouraged from raising rota issues.",
       "url": "https://www.bbc.co.uk/news/articles/c6212klngkko?at_medium=RSS&at_campaign=rss",
@@ -418,28 +458,12 @@
       "publishedAt": "2026-07-16T14:52:45+00:00"
     },
     {
-      "title": "Brighter Days May Lead to Deeper, Better Sleep",
-      "description": "Consistent exposure to brighter daytime light was associated with earlier sleep timing and deeper early night sleep. A bright afternoon may influence what happens hours later when the lights go out. Research led by University of Manchester scientists suggests that stronger and more consistent daytim",
-      "url": "https://scitechdaily.com/brighter-days-may-lead-to-deeper-better-sleep/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-16T14:32:45+00:00"
-    },
-    {
       "title": "US gas prices edge up again as US-Iran tensions heighten over strait of Hormuz",
       "description": "Diesel tops $5 a gallon as regular gas reaches almost $4, nearly a dollar and a quarter more than a year agoThe average price of diesel fuel in the US has increased again to more than $5 a gallon, according to the AAA, and the average price of gas is almost $4, returning to their highs before the Ju",
       "url": "https://www.theguardian.com/world/2026/jul/16/us-gas-prices-rise-strait-of-hormuz",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-07-16T12:26:57+00:00"
-    },
-    {
-      "title": "How Trump’s ‘original oil guy’ boosted US-Israel ties and played down risks of Iran war",
-      "description": "Fracking billionaire Harold Hamm is co-chair of a non-profit that has aggressively pushed for US energy dominanceTycoon Harold Hamm is one of the US’s most successful oilmen, the son of Oklahoma sharecroppers who hit it rich as a “wildcatter” and pioneered fracking techniques that drove the shale bo",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/harold-hamm-trump-oil-israel-iran",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-07-16T12:00:39+00:00"
     },
     {
       "title": "Democrats allege Trump administration stalled US-Canada bridge opening as a favor to billionaire donor",
@@ -472,14 +496,6 @@
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-07-16T00:20:52+00:00"
-    },
-    {
-      "title": "Tripling US union membership would shift $1.2tn to workers annually – report",
-      "description": "More density would also narrow racial pay gaps, while a decline in density correlated to surges in wealth inequalityTripling union membership in the US would lead to a 14.5% raise for the median US worker, shifting $1.2tn to workers annually and significantly narrowing racial wage gaps, according to",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/union-membership-rates",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-07-15T14:37:02+00:00"
     }
   ]
 }
