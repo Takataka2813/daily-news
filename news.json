@@ -1,13 +1,229 @@
 {
-  "updatedAt": "2026-07-18T10:06:56.170749+00:00",
+  "updatedAt": "2026-07-18T21:48:51.306952+00:00",
   "articles": [
     {
-      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
-      "description": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
-      "url": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+      "title": "Northants claim third T20 Blast title after beating Hants",
+      "description": "Northamptonshire Steelbacks win their third T20 Blast title after a titanic tussle with Hampshire Hawks in an enthralling Edgbaston final.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c1m191jkkm3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-18T21:41:54+00:00"
+    },
+    {
+      "title": "Rice fires England into early lead against France",
+      "description": "Captain Declan Rice gives England an early lead, scoring in the third minute against France in the World Cup third-place play-off at Miami Stadium.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c0qvzk59jn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-18T21:17:52+00:00"
+    },
+    {
+      "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
+      "description": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-18T20:54:42+00:00"
+    },
+    {
+      "title": "Tandy bitterly disappointed by South Africa drubbing",
+      "description": "Steve Tandy commended his side's efforts but could not hide his disappointment with Wales' Nations Championship loss to South Africa.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckg62xwdwpxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-18T20:52:40+00:00"
+    },
+    {
+      "title": "Scientists Discover the Brain Protein That Helps Alzheimer’s Spread Through the Brain",
+      "description": "Scientists have identified a brain protein that may help Alzheimer&#8217;s spread, revealing a potential new target for slowing the disease&#8217;s progression. Alzheimer’s disease is closely linked to the accumulation of a toxic form of the protein Tau inside the brain. As Tau damage reaches additi",
+      "url": "https://scitechdaily.com/scientists-discover-the-brain-protein-that-helps-alzheimers-spread-through-the-brain/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-18T20:32:17+00:00"
+    },
+    {
+      "title": "Argentina wear 1986 World Cup kit replica against England",
+      "description": "Argentina wear replica of the country's 1986 Fifa World Cup kit for the match against England at the Nations Championship.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c98v10r86ppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-18T20:29:30+00:00"
+    },
+    {
+      "title": "The Ancient Survival Mechanism Making Weight Loss So Difficult",
+      "description": "Biological defenses make losing weight and keeping it off unusually difficult. Better treatments, healthier environments, and sustainable habits may support long-term health more effectively than willpower alone. For years, weight loss has been framed as a simple test of discipline: consume fewer ca",
+      "url": "https://scitechdaily.com/the-ancient-survival-mechanism-making-weight-loss-so-difficult/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-18T19:57:15+00:00"
+    },
+    {
+      "title": "Fleetwood still dreaming as Burns leads an open Open",
+      "description": "Local favourite Tommy Fleetwood is five shots behind Open leader Sam Burns after two late bogeys threaten to crush his Birkdale dreams.",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/c4gdl72zpvno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-18T19:54:33+00:00"
+    },
+    {
+      "title": "Just 3,000 Steps a Day May Help Protect the Brain From Alzheimer’s",
+      "description": "Even moderate amounts of walking may help protect brain function and slow changes linked to Alzheimer’s disease. New research reveals a modest amount of daily movement may help protect the brain from Alzheimer’s disease, but the apparent benefit does not involve the biological target researchers exp",
+      "url": "https://scitechdaily.com/just-3000-steps-a-day-may-help-protect-the-brain-from-alzheimers/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-18T19:22:14+00:00"
+    },
+    {
+      "title": "Russell 'infuriated' by straight-line issue that leaves him 'powerless'",
+      "description": "George Russell says a \"serious issue\" with the straight-line performance of his Mercedes is making his title fight with Kimi Antonelli \"impossible\".",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/clyq6q12dkko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-18T19:10:27+00:00"
+    },
+    {
+      "title": "Google might not kneecap the Pixel 11a with an old processor",
+      "description": "Mystic Leaks suggests that the Pixel 11a will return to featuring a flagship-grade processor with the Tensor G6. Rather than the Tensor G5 found in the Pixel 10 and 10 Pro, the Pixel 10a shipped with the previous generation Tensor G4. That was a huge disappointment since, typically, the Pixel a line",
+      "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-18T18:25:08+00:00"
+    },
+    {
+      "title": "Chelsea agree record £117m deal for Villa's Rogers",
+      "description": "Chelsea have agreed a club record £117m deal to sign England international midfielder Morgan Rogers from Aston Villa.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ej1jyy8yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-18T18:02:48+00:00"
+    },
+    {
+      "title": "Google is open-sourcing its 3D emoji",
+      "description": "Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday. Things you might not necessarily worry about in a 2D illustration suddenly become very impo",
+      "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-18T16:40:55+00:00"
+    },
+    {
+      "title": "“Weird Clams” Reveal a New Invasion Along the U.S. Northeast Coast",
+      "description": "A research team found reproducing populations of Manila clams in Cape Cod and Boston Harbor. A stretch of Atlantic shoreline that had remained free of Manila clams now appears to support reproducing populations of the invasive shellfish. Biologists led by the University of Massachusetts Amherst, MIT",
+      "url": "https://scitechdaily.com/weird-clams-reveal-a-new-invasion-along-the-u-s-northeast-coast/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-18T16:28:48+00:00"
+    },
+    {
+      "title": "Why Ancient Mesopotamians Took Their Signatures So Seriously",
+      "description": "Cylinder seals were far more than ancient signatures. They fused art, power, and belief into objects that revealed exactly who their owners were. The earliest form of the signature came from ancient Iraq in the form of cylinder seals. Mesopotamians, the ancient inhabitants of the land between the Eu",
+      "url": "https://scitechdaily.com/why-ancient-mesopotamians-took-their-signatures-so-seriously/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-18T15:53:45+00:00"
+    },
+    {
+      "title": "Archaeologists Decapitated Tutankhamun and Glued His Body Back Together",
+      "description": "Tutankhamun’s 1925 examination left behind evidence that official accounts largely omitted. A closer look at the records reveals a troubling gap between scientific history and what actually happened. November 2025 marks 100 years since archaeologists first examined Tutankhamun’s mummified remains. W",
+      "url": "https://scitechdaily.com/archaeologists-decapitated-tutankhamun-and-glued-his-body-back-together/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-18T15:18:43+00:00"
+    },
+    {
+      "title": "GoPro&#8217;s discounted Max 2 bundle includes $100 worth of accessories",
+      "description": "A 360-degree camera is a great way to ensure you capture every bit of the action, but prices tend to be on the high end for models worth your attention. That’s why it’s notable that the GoPro Max 2 accessory bundle is discounted to $369 at Amazon (a dollar more at Best Buy and GoPro). [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-18T15:00:00+00:00"
+    },
+    {
+      "title": "Britain's Kerr breaks 27-year mile world record in London",
+      "description": "Great Britain's Josh Kerr smashes the long-standing men's mile world record in a spectacular performance at the London Diamond League.",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cx2jl1wge2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-18T14:48:16+00:00"
+    },
+    {
+      "title": "The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time",
+      "description": "Carter Sherman has been covering sex, gender, and the complex personal and national politics that accompany them for years. She was a senior reporter for Vice and has written for Elle, Ms. magazine, and Los Angeles magazine as well. Along the way, she's garnered a Scripps Howard Award, a National Pr",
+      "url": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-18T14:30:00+00:00"
+    },
+    {
+      "title": "Surprise! Facial recognition smart locks are actually good",
+      "description": "Hands-free unlocking is the future of smart locks. The best smart home tech removes friction, and having your door unlock for you as you walk up is as frictionless as it gets - no passcodes to remember, no need to have a free hand to wave, press, or poke at the lock. One way to [&#8230;]",
+      "url": "https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-18T14:00:00+00:00"
+    },
+    {
+      "title": "Sony’s flagship RGB LED TV is incredible",
+      "description": "The Sony Bravia 9 II is the most anticipated new TV in years. It's an amazing RGB LED TV. I watched Dungeons &#38; Dragons: Honor Among Thieves on the new Bravia with my son, who has been getting into the roleplaying game but had never seen the movie. The landscapes of Faer&#251;n looked natural and",
+      "url": "https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-18T12:30:00+00:00"
+    },
+    {
+      "title": "The Propellantless Spacecraft Technologies That Could Help Us Reach the Stars",
+      "description": "Future spacecraft may travel farther by drawing momentum from planets, sunlight, and the solar wind instead of onboard fuel. Every conventional rocket faces the same problem: it must carry the material that propels it. Since Konstantin Tsiolkovsky described the rocket equation in 1903, spacecraft ha",
+      "url": "https://scitechdaily.com/the-propellantless-spacecraft-technologies-that-could-help-us-reach-the-stars/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-18T12:14:42+00:00"
+    },
+    {
+      "title": "More games should be on rails (literally)",
+      "description": "It's been a good few weeks for games on rails. Nintendo's Star Fox remake wisely kept the tightly scripted, action-packed levels from Star Fox 64 largely the same, and they're still fun to fly through nearly 20 years later. Denshattack!, a new game from Undercoders, similarly features levels packed ",
+      "url": "https://www.theverge.com/games/961152/denshattack-review",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-18T12:00:00+00:00"
+    },
+    {
+      "title": "New Black Hole Theory Solves a 50-Year-Old Problem",
+      "description": "Scientists may have found a more realistic set of thermodynamic rules for black holes that never stop changing. Black holes are among the most extreme objects known in the universe. They compress enormous amounts of mass into remarkably small regions, creating gravitational fields so powerful that n",
+      "url": "https://scitechdaily.com/new-black-hole-theory-solves-a-50-year-old-problem/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-18T11:39:36+00:00"
+    },
+    {
+      "title": "Will AI fix prior authorization—or make it worse?",
+      "description": "The government is piloting a program that uses AI for insurance-coverage decisions.",
+      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-18T11:18:25+00:00"
+    },
+    {
+      "title": "4 Best Walking Pads for Small Spaces and Standing Desks (2026)",
+      "description": "Our remote team clocked serious hours walking, working, and sometimes jogging to find the best under-desk treadmills for home offices and small spaces.",
+      "url": "https://www.wired.com/story/best-walking-pads/",
       "source": "Wired",
       "category": "Technology",
-      "publishedAt": "2026-07-18T10:00:00+00:00"
+      "publishedAt": "2026-07-18T11:03:00+00:00"
+    },
+    {
+      "title": "Your Period Tracker Is (Probably) Spying on You",
+      "description": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s scraping ways, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-18T10:30:00+00:00"
+    },
+    {
+      "title": "The Best Motion Sensors and Home Security Gadgets Without Cameras",
+      "description": "If you prefer not to have cameras in and around your home, try one of these more private, WIRED-tested security devices.",
+      "url": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-18T10:30:00+00:00"
     },
     {
       "title": "FIFA Doesn’t Have a Plan to Deal With Climate Change",
@@ -18,20 +234,12 @@
       "publishedAt": "2026-07-18T10:00:00+00:00"
     },
     {
-      "title": "The harrowing dark side of England's World Cup exit",
-      "description": "During a major football tournament such as the World Cup, some women and girls are constantly living in fear - because domestic abuse rises when England play, research shows.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwymljn8y10o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-18T09:59:34+00:00"
-    },
-    {
-      "title": "How Villa's record signing Manzambi can spearhead new era",
-      "description": "It is a new era for Aston Villa - and Johan Manzambi, who has just joined in a club record deal worth more than £50m - will be one of the poster boys.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzyg028gxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-18T09:39:08+00:00"
+      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
+      "description": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
+      "url": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-18T10:00:00+00:00"
     },
     {
       "title": "Balmuda NatureWind Studio Review: A Better Breeze",
@@ -40,14 +248,6 @@
       "source": "Wired",
       "category": "Technology",
       "publishedAt": "2026-07-18T09:32:00+00:00"
-    },
-    {
-      "title": "All Blacks punish Ireland in dominant Eden Park win",
-      "description": "Ruthless New Zealand score five tries to overwhelm Ireland and preserve their 32-year unbeaten run at Eden Park in a largely one-sided Nations Championship contest.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c4gk5exp8eko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-18T09:15:09+00:00"
     },
     {
       "title": "The Best Tech for Back to School",
@@ -66,116 +266,12 @@
       "publishedAt": "2026-07-18T09:00:00+00:00"
     },
     {
-      "title": "Messi and Brady in disbelief over 'prophetic' Lamine Yamal photo",
-      "description": "Argentina's Lionel Messi says it is \"crazy\" to be facing Spain's Lamine Yamal in a World Cup final after being photographed with him as a baby.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yejxqll3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-18T08:59:23+00:00"
-    },
-    {
-      "title": "Rooney, Hart and Richards row down Hudson River",
-      "description": "Wayne Rooney rows down the Hudson River with fellow BBC pundits Joe Hart and Micah Richards.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3w0p810dj9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-18T07:30:11+00:00"
-    },
-    {
-      "title": "Fine, electric mountain bikes don’t suck",
-      "description": "Cheater, I'd grumble between huffs as yet another e-bike rider casually skittered past me on a steep ascent. It's this purist attitude that, for years, has left me blind to one simple fact: electric mountain bikes are fun! My attitude adjustment came a few weeks ago, the very first time I rode an Am",
-      "url": "https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-18T07:00:00+00:00"
-    },
-    {
-      "title": "SteelSeries Coupon Codes: 15% Off in July 2026",
-      "description": "Find the best SteelSeries coupon codes, promo codes, and discount codes for May 2026. Get deals on headsets, keyboards, and mice, including first-order and student discounts.",
-      "url": "https://www.wired.com/story/steelseries-coupon-code/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-18T05:00:00+00:00"
-    },
-    {
-      "title": "Defiant Tuchel defends decisions and says loss is 'scar we carry now'",
-      "description": "England head coach Thomas Tuchel defends his tactical decisions during the World Cup semi-final defeat by Argentina in a tense news conference.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3r0l4zn9jpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-18T02:50:36+00:00"
-    },
-    {
-      "title": "'They made him a defensive player' - Trump questions Kane role in semi",
-      "description": "US President Donald Trump joins criticism of England's tactics in their World Cup semi-final loss to Argentina, by questioning Harry Kane's second-half \"defensive\" role.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-18T02:12:52+00:00"
-    },
-    {
       "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
       "description": "It's a small but growing problem in the property market - here's how to protect yourself.",
       "url": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-07-18T01:14:53+00:00"
-    },
-    {
-      "title": "Second PSMA PET Scan Finds Hidden Prostate Cancer in 56% of Patients",
-      "description": "A negative scan does not always mean recurrent prostate cancer is nowhere to be found. Sometimes, the disease may simply be too small or too faint to appear yet. New research suggests that repeating a PSMA PET scan later can reveal cancer that was missed the first time. Among patients with rising pr",
-      "url": "https://scitechdaily.com/second-psma-pet-scan-finds-hidden-prostate-cancer-in-56-of-patients/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-18T00:21:11+00:00"
-    },
-    {
-      "title": "Researchers Warn Rising CO₂ May Already Be Changing Human Blood Chemistry",
-      "description": "A population study suggests the human body may already be responding to changes in the composition of the atmosphere. The air outside may be leaving a subtle signature in human blood. Researchers have identified gradual changes in a key carbon dioxide-related blood marker and warn that it could appr",
-      "url": "https://scitechdaily.com/researchers-warn-rising-co%e2%82%82-may-already-be-changing-human-blood-chemistry/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-17T23:46:14+00:00"
-    },
-    {
-      "title": "Scientists Discover a Surprising Way To Protect the Brain: Less Oxygen",
-      "description": "New research suggests that low oxygen levels may help alleviate disease caused by defects in mitochondrial quality control. Oxygen is essential for people—and most other organisms—but more is not always better. When oxygen accumulates beyond what cells can safely use, it can become toxic and contrib",
-      "url": "https://scitechdaily.com/scientists-discover-a-surprising-way-to-protect-the-brain-less-oxygen/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-17T23:11:10+00:00"
-    },
-    {
-      "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
-      "description": "Food producer Taylor Farms released a statement on the Cyclospora outbreak Friday, confirming that it's \"voluntarily removing all iceberg lettuce sourced from central Mexico from the US market.\" Reuters reports that, according to a source, Taylor Farms told customers like Yum Brands owner Taco Bell ",
-      "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T22:09:47+00:00"
-    },
-    {
-      "title": "Two-shot penalty 'fires up' Open contender DeChambeau",
-      "description": "Bryson DeChambeau says the decision to give him a two-shot penalty for \"inadvertently improving his lie\", \"fires me up\" for the final two rounds of the championship this weekend.",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cjd45x7vgz7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-17T20:53:05+00:00"
-    },
-    {
-      "title": "Shark&#8217;s versatile ChillPill cooling system is back to its best price",
-      "description": "Portable fans are one of the easiest ways to stay cool during the summer, and you don&#8217;t have to spend much to find a decent one. If you&#8217;re looking for something more versatile, though, Shark&#8217;s ChillPill Personal Fan and Cooling System combines a rechargeable fan with a dry-touch ev",
-      "url": "https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T20:15:54+00:00"
-    },
-    {
-      "title": "AWS Billing Glitch Hits Customers With Billion-Dollar Fees",
-      "description": "An error with the cloud computing giant’s billing operation caused some customers’ monthly bills to rise from a few cents to billions of dollars.",
-      "url": "https://www.wired.com/story/amazon-web-services-glitch-oh-no/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T19:50:38+00:00"
     },
     {
       "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
@@ -186,52 +282,12 @@
       "publishedAt": "2026-07-17T19:50:18+00:00"
     },
     {
-      "title": "TikTok is testing an AI likeness detection tool",
-      "description": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been ",
-      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T19:34:30+00:00"
-    },
-    {
-      "title": "Blue Light Breakthrough Could Speed Up Drug Discovery",
-      "description": "Researchers have developed a visible-light-driven method that could help chemists build more complex drug-like molecules in fewer steps. A blue light commonly used in aquariums and indoor gardens could help chemists solve one of drug discovery’s persistent challenges: building more intricate molecul",
-      "url": "https://scitechdaily.com/blue-light-breakthrough-could-speed-up-drug-discovery/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-17T19:31:10+00:00"
-    },
-    {
       "title": "The Pentagon's Space Development Agency hasn't moved as fast as anyone would like",
       "description": "\"Missiles are being launched at the joint force every single day in [Operation] Epic Fury.\"",
       "url": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-07-17T19:19:42+00:00"
-    },
-    {
-      "title": "What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke",
-      "description": "The US is home to some of the most polluted air on the planet as smoke from 120 out-of-control Canadian wildfires drifts across the border.",
-      "url": "https://www.wired.com/story/cities-from-chicago-to-washington-dc-look-like-wildfire-smoke/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T19:17:46+00:00"
-    },
-    {
-      "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust",
-      "description": "Pebble founder Eric Migicovsky says buyers of its new e-paper smartwatches should know what they're signing up for and trust Pebble to make things right if they run into issues, despite the short warranty. \"I think the most important thing is trust,\" Migicovsky told me in an interview this week. \"Do",
-      "url": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T19:14:42+00:00"
-    },
-    {
-      "title": "Scientists Discover AI Models May Not Think Like the Brain After All",
-      "description": "A reverse prediction test suggests that supposedly brainlike AI models may rely on visual strategies the primate brain does not use. Artificial intelligence can sometimes predict how the brain responds when people recognize objects. But that resemblance may hide an important weakness: the internal w",
-      "url": "https://scitechdaily.com/scientists-discover-ai-models-may-not-think-like-the-brain-after-all/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-17T18:56:12+00:00"
     },
     {
       "title": "Hegseth wants a \"High-T\" military; doctors call it a clinical minefield",
@@ -250,30 +306,6 @@
       "publishedAt": "2026-07-17T18:45:23+00:00"
     },
     {
-      "title": "The World’s Highest-Living Mammal Is Rewriting the Limits of Life",
-      "description": "A leaf-eared mouse living more than 6,700 meters (22,000 feet) above sea level in the Andes has shattered assumptions about where mammals can survive. Near the summit of an Andean volcano, where the air contains barely half as much oxygen as it does at sea level, scientists found something that shou",
-      "url": "https://scitechdaily.com/the-worlds-highest-living-mammal-is-rewriting-the-limits-of-life/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-17T18:21:13+00:00"
-    },
-    {
-      "title": "Apple Music is getting a price hike",
-      "description": "Apple Music is more expensive now. In the US, an individual plan now costs $11.99 per month, a $1 bump up from the previous $10.99 price. A family plan now costs $19.99 per month, up from $16.99, and a student plan costs $6.99 per month, up from $5.99. Apple, in a statement to Music Business [&#8230",
-      "url": "https://www.theverge.com/tech/967379/apple-music-price-increase",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T18:14:26+00:00"
-    },
-    {
-      "title": "Apple’s plot to crush OpenAI",
-      "description": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The [&#",
-      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T17:41:32+00:00"
-    },
-    {
       "title": "Troubling new details emerge on diabetes ouster controversy",
       "description": "American Diabetes Association blocked publication of op-ed articles so the authors posted them as a preprint.",
       "url": "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
@@ -288,14 +320,6 @@
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-07-17T16:53:04+00:00"
-    },
-    {
-      "title": "Asus’ top-end 4K QD-OLED gaming monitor is $400 off",
-      "description": "The Asus ROG Swift 32-inch 4K QD-OLED gaming monitor has almost everything I want in a high-end gaming monitor, most notably a QD-OLED panel for inky black levels and vivid colors that go beyond what’s possible on an LCD screen. Amazon, Best Buy, and B&#38;H Photo have this model on sale for $899.99",
-      "url": "https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T16:47:13+00:00"
     },
     {
       "title": "China hits out at British Steel nationalisation",
@@ -328,30 +352,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-07-17T16:24:21+00:00"
-    },
-    {
-      "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
-      "description": "Official estimates Google and Apple likely made millions in nudify app fees.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T16:10:05+00:00"
-    },
-    {
-      "title": "Brain Breakthrough Could Help Older Adults Live Longer and Stay Steady",
-      "description": "Aging appears to alter how key cerebellar neurons fire, with measurable effects on movement and coordination. Aging often brings slower movement, weaker balance, and reduced agility, but the brain changes behind these losses have been difficult to identify. McGill University researchers have now dir",
-      "url": "https://scitechdaily.com/brain-breakthrough-could-help-older-adults-live-longer-and-stay-steady/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-17T16:05:05+00:00"
-    },
-    {
-      "title": "Global Cancer Cases Could Surge 67% by 2050, New Report Warns",
-      "description": "New data reveal major geographic disparities and highlight the urgent need for global action on prevention, early detection, and equitable access to treatment. For roughly one in five people worldwide, cancer will become part of their lifetime. Global Cancer Statistics, 2026 estimates that nearly 21",
-      "url": "https://scitechdaily.com/global-cancer-cases-could-surge-67-by-2050-new-report-warns/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-17T15:30:08+00:00"
     },
     {
       "title": "How do you actually shop local in New York City?",
@@ -424,46 +424,6 @@
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-07-16T23:14:11+00:00"
-    },
-    {
-      "title": "Kalshi to offer betting on drug trial results and FDA regulatory decisions",
-      "description": "Move comes as prediction platforms rapidly gain popularity and offer opportunities to bet on virtually anythingKalshi is expanding its wagers to include bets on drug trial results, an expansion into new predictions territory as platforms continue to rapidly gain popularity and offer opportunities to",
-      "url": "https://www.theguardian.com/technology/2026/jul/16/kalshi-betting-drug-trial-results",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-07-16T21:11:36+00:00"
-    },
-    {
-      "title": "Energy drinks to be banned for under-16s in England from April",
-      "description": "It will be illegal to sell high-caffeine beverages to under-16s from April next year, but soft drinks with lower caffeine levels will not be affected.",
-      "url": "https://www.bbc.co.uk/news/articles/czrjg0jxkpno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-07-16T18:57:47+00:00"
-    },
-    {
-      "title": "Teenagers from 15 should be given free MenB vaccine, say UK experts",
-      "description": "Advisers are asking the government to consider introducing MenB jabs following concerns over an outbreak in Kent earlier this year, in which two people died.",
-      "url": "https://www.bbc.co.uk/news/articles/c74glj9zkzko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-07-16T16:36:13+00:00"
-    },
-    {
-      "title": "NHS manager says trust wanted 4,000 reports 'gone'",
-      "description": "He tells an inquiry he believed a trust was 'panicking' and was discouraged from raising rota issues.",
-      "url": "https://www.bbc.co.uk/news/articles/c6212klngkko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-07-16T14:52:45+00:00"
-    },
-    {
-      "title": "US gas prices edge up again as US-Iran tensions heighten over strait of Hormuz",
-      "description": "Diesel tops $5 a gallon as regular gas reaches almost $4, nearly a dollar and a quarter more than a year agoThe average price of diesel fuel in the US has increased again to more than $5 a gallon, according to the AAA, and the average price of gas is almost $4, returning to their highs before the Ju",
-      "url": "https://www.theguardian.com/world/2026/jul/16/us-gas-prices-rise-strait-of-hormuz",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-07-16T12:26:57+00:00"
     }
   ]
 }
