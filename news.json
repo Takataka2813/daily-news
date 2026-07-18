@@ -1,29 +1,165 @@
 {
-  "updatedAt": "2026-07-17T21:52:14.154881+00:00",
+  "updatedAt": "2026-07-18T10:06:56.170749+00:00",
   "articles": [
     {
-      "title": "DeChambeau receives two-shot penalty in dramatic Open scenes",
-      "description": "Bryson DeChambeau's bid to win The Open takes a hit after he is given a two-shot penalty on a dramatic evening at Royal Birkdale.",
+      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
+      "description": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
+      "url": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-18T10:00:00+00:00"
+    },
+    {
+      "title": "FIFA Doesn’t Have a Plan to Deal With Climate Change",
+      "description": "This year’s World Cup has faced sweltering heat and humidity. Now it may need to deal with wildfire smoke.",
+      "url": "https://www.wired.com/story/fifa-doesnt-have-plan-to-deal-with-climate-change/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-18T10:00:00+00:00"
+    },
+    {
+      "title": "The harrowing dark side of England's World Cup exit",
+      "description": "During a major football tournament such as the World Cup, some women and girls are constantly living in fear - because domestic abuse rises when England play, research shows.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwymljn8y10o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-18T09:59:34+00:00"
+    },
+    {
+      "title": "How Villa's record signing Manzambi can spearhead new era",
+      "description": "It is a new era for Aston Villa - and Johan Manzambi, who has just joined in a club record deal worth more than £50m - will be one of the poster boys.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzyg028gxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-18T09:39:08+00:00"
+    },
+    {
+      "title": "Balmuda NatureWind Studio Review: A Better Breeze",
+      "description": "Balmuda has engineered a remarkably pleasant breeze with its new NatureWind Studio, but is it worth hundreds more than its competition?",
+      "url": "https://www.wired.com/review/balmuda-naturewind-studio-fan/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-18T09:32:00+00:00"
+    },
+    {
+      "title": "All Blacks punish Ireland in dominant Eden Park win",
+      "description": "Ruthless New Zealand score five tries to overwhelm Ireland and preserve their 32-year unbeaten run at Eden Park in a largely one-sided Nations Championship contest.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c4gk5exp8eko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-18T09:15:09+00:00"
+    },
+    {
+      "title": "The Best Tech for Back to School",
+      "description": "Get ready to crush your coursework or scoot to class in style with these back-to-school gear picks.",
+      "url": "https://www.wired.com/story/best-tech-gear-back-to-school/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-18T09:01:00+00:00"
+    },
+    {
+      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+      "description": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
+      "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-18T09:00:00+00:00"
+    },
+    {
+      "title": "Messi and Brady in disbelief over 'prophetic' Lamine Yamal photo",
+      "description": "Argentina's Lionel Messi says it is \"crazy\" to be facing Spain's Lamine Yamal in a World Cup final after being photographed with him as a baby.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yejxqll3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-18T08:59:23+00:00"
+    },
+    {
+      "title": "Rooney, Hart and Richards row down Hudson River",
+      "description": "Wayne Rooney rows down the Hudson River with fellow BBC pundits Joe Hart and Micah Richards.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3w0p810dj9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-18T07:30:11+00:00"
+    },
+    {
+      "title": "Fine, electric mountain bikes don’t suck",
+      "description": "Cheater, I'd grumble between huffs as yet another e-bike rider casually skittered past me on a steep ascent. It's this purist attitude that, for years, has left me blind to one simple fact: electric mountain bikes are fun! My attitude adjustment came a few weeks ago, the very first time I rode an Am",
+      "url": "https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-18T07:00:00+00:00"
+    },
+    {
+      "title": "SteelSeries Coupon Codes: 15% Off in July 2026",
+      "description": "Find the best SteelSeries coupon codes, promo codes, and discount codes for May 2026. Get deals on headsets, keyboards, and mice, including first-order and student discounts.",
+      "url": "https://www.wired.com/story/steelseries-coupon-code/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-18T05:00:00+00:00"
+    },
+    {
+      "title": "Defiant Tuchel defends decisions and says loss is 'scar we carry now'",
+      "description": "England head coach Thomas Tuchel defends his tactical decisions during the World Cup semi-final defeat by Argentina in a tense news conference.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3r0l4zn9jpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-18T02:50:36+00:00"
+    },
+    {
+      "title": "'They made him a defensive player' - Trump questions Kane role in semi",
+      "description": "US President Donald Trump joins criticism of England's tactics in their World Cup semi-final loss to Argentina, by questioning Harry Kane's second-half \"defensive\" role.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-18T02:12:52+00:00"
+    },
+    {
+      "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
+      "description": "It's a small but growing problem in the property market - here's how to protect yourself.",
+      "url": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-18T01:14:53+00:00"
+    },
+    {
+      "title": "Second PSMA PET Scan Finds Hidden Prostate Cancer in 56% of Patients",
+      "description": "A negative scan does not always mean recurrent prostate cancer is nowhere to be found. Sometimes, the disease may simply be too small or too faint to appear yet. New research suggests that repeating a PSMA PET scan later can reveal cancer that was missed the first time. Among patients with rising pr",
+      "url": "https://scitechdaily.com/second-psma-pet-scan-finds-hidden-prostate-cancer-in-56-of-patients/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-18T00:21:11+00:00"
+    },
+    {
+      "title": "Researchers Warn Rising CO₂ May Already Be Changing Human Blood Chemistry",
+      "description": "A population study suggests the human body may already be responding to changes in the composition of the atmosphere. The air outside may be leaving a subtle signature in human blood. Researchers have identified gradual changes in a key carbon dioxide-related blood marker and warn that it could appr",
+      "url": "https://scitechdaily.com/researchers-warn-rising-co%e2%82%82-may-already-be-changing-human-blood-chemistry/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-17T23:46:14+00:00"
+    },
+    {
+      "title": "Scientists Discover a Surprising Way To Protect the Brain: Less Oxygen",
+      "description": "New research suggests that low oxygen levels may help alleviate disease caused by defects in mitochondrial quality control. Oxygen is essential for people—and most other organisms—but more is not always better. When oxygen accumulates beyond what cells can safely use, it can become toxic and contrib",
+      "url": "https://scitechdaily.com/scientists-discover-a-surprising-way-to-protect-the-brain-less-oxygen/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-17T23:11:10+00:00"
+    },
+    {
+      "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
+      "description": "Food producer Taylor Farms released a statement on the Cyclospora outbreak Friday, confirming that it's \"voluntarily removing all iceberg lettuce sourced from central Mexico from the US market.\" Reuters reports that, according to a source, Taylor Farms told customers like Yum Brands owner Taco Bell ",
+      "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-17T22:09:47+00:00"
+    },
+    {
+      "title": "Two-shot penalty 'fires up' Open contender DeChambeau",
+      "description": "Bryson DeChambeau says the decision to give him a two-shot penalty for \"inadvertently improving his lie\", \"fires me up\" for the final two rounds of the championship this weekend.",
       "url": "https://www.bbc.co.uk/sport/golf/articles/cjd45x7vgz7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
       "publishedAt": "2026-07-17T20:53:05+00:00"
-    },
-    {
-      "title": "Tuchel urges England to finish strongly in emotional address",
-      "description": "England manager Thomas Tuchel urges his players to end the World Cup strongly in an emotional address after their agonising semi-final defeat by Argentina.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62ergl0py2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-17T20:39:45+00:00"
-    },
-    {
-      "title": "Stick with Tuchel unless Guardiola is available - Rooney",
-      "description": "Wayne Rooney thinks the Football Association should stick with Thomas Tuchel as England head coach unless a move for Pep Guardiola is possible.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c304ldrmmero?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-17T20:16:26+00:00"
     },
     {
       "title": "Shark&#8217;s versatile ChillPill cooling system is back to its best price",
@@ -114,14 +250,6 @@
       "publishedAt": "2026-07-17T18:45:23+00:00"
     },
     {
-      "title": "Polymarket’s Corporate Structure Is a Mystery—Even to Some of Its Former Employees",
-      "description": "The prediction market’s Panamanian operation seems odd, even for a company whose CEO had his apartment raided by FBI agents.",
-      "url": "https://www.wired.com/story/whats-up-with-polymarkets-panama-entity/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T18:30:00+00:00"
-    },
-    {
       "title": "The World’s Highest-Living Mammal Is Rewriting the Limits of Life",
       "description": "A leaf-eared mouse living more than 6,700 meters (22,000 feet) above sea level in the Andes has shattered assumptions about where mammals can survive. Near the summit of an Andean volcano, where the air contains barely half as much oxygen as it does at sea level, scientists found something that shou",
       "url": "https://scitechdaily.com/the-worlds-highest-living-mammal-is-rewriting-the-limits-of-life/",
@@ -138,14 +266,6 @@
       "publishedAt": "2026-07-17T18:14:26+00:00"
     },
     {
-      "title": "ICE Is Using Data Broker Tools to ‘Identify Unaccompanied Minors’ and ‘Fraud’",
-      "description": "A newly renewed, $25 million-per-year contract with a subsidiary of Thomson Reuters further expands the power of ICE under the Trump administration.",
-      "url": "https://www.wired.com/story/ice-unaccompanied-minors-fraud-suspects-trss-contract/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T17:47:05+00:00"
-    },
-    {
       "title": "Apple’s plot to crush OpenAI",
       "description": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The [&#",
       "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
@@ -154,36 +274,12 @@
       "publishedAt": "2026-07-17T17:41:32+00:00"
     },
     {
-      "title": "Antonelli tops FP2 as Gasly crashes heavily at Spa",
-      "description": "Alpine's Pierre causes a red flag with a heavy crash in Friday practice at the Belgian Grand Prix as Mercedes' Kimi Antonelli set out his stall for the weekend with fastest time.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm2g9z3pr3yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-17T17:33:27+00:00"
-    },
-    {
-      "title": "‘The Odyssey’ Backlash Failed Tremendously",
-      "description": "For all the hysteria over “woke” casting and ahistorical choices, Christopher Nolan’s epic is on track to make $200 million globally during its opening weekend.",
-      "url": "https://www.wired.com/story/the-odyssey-backlash-failed-tremendously/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T17:09:13+00:00"
-    },
-    {
       "title": "Troubling new details emerge on diabetes ouster controversy",
       "description": "American Diabetes Association blocked publication of op-ed articles so the authors posted them as a preprint.",
       "url": "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-07-17T17:08:05+00:00"
-    },
-    {
-      "title": "The 'ultimate all-round sportsman' - Sobers could do it all",
-      "description": "Sir Garfield Sobers, who has died aged 89, was rightly chosen as one of the leading five cricketers of the 20th century - and will be remembered as arguably the best all-rounder in the history of the game.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c2xx42dle4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-17T17:03:08+00:00"
     },
     {
       "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
@@ -250,84 +346,12 @@
       "publishedAt": "2026-07-17T16:05:05+00:00"
     },
     {
-      "title": "Samsung&#8217;s redesigned Z Fold 8 with a wide display just leaked",
-      "description": "Leaker Evan Blass shared images of Samsung's redesigned Galaxy Z Fold 8 just days before the July 22nd launch event where Samsung is expected to officially announce the phone. The leaked images show a shorter, wider foldable matching earlier leaks of the Z Fold 8. They also reveal some of its specs,",
-      "url": "https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T15:52:50+00:00"
-    },
-    {
-      "title": "Is America ready for this quirky Jeep-looking EV that can park itself?",
-      "description": "Are we living through a small car renaissance? There's the Slate Truck, Amble's dune buggy, and the Fiat Topolino, as well as a whole galaxy of kei cars and trucks from Japan that have their own built-in fan base. While microcar sales in the US are still as tiny as the vehicles themselves, there are",
-      "url": "https://www.theverge.com/transportation/966498/chip-motors-low-speed-ev-remote-park-price",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T15:48:39+00:00"
-    },
-    {
       "title": "Global Cancer Cases Could Surge 67% by 2050, New Report Warns",
       "description": "New data reveal major geographic disparities and highlight the urgent need for global action on prevention, early detection, and equitable access to treatment. For roughly one in five people worldwide, cancer will become part of their lifetime. Global Cancer Statistics, 2026 estimates that nearly 21",
       "url": "https://scitechdaily.com/global-cancer-cases-could-surge-67-by-2050-new-report-warns/",
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-07-17T15:30:08+00:00"
-    },
-    {
-      "title": "Keep calm and carry on - Spain trust team identity to deliver World Cup",
-      "description": "Former Spain captain Cesar Azpilicueta explains why Luis de la Fuente's side have confidence in the collective as they prepare for Sunday's World Cup final against Argentina.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czxedvre7ryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-17T15:04:58+00:00"
-    },
-    {
-      "title": "Lyft’s CEO Says, ‘We’re the Good Uber’",
-      "description": "David Risher insists that Lyft has lowered its prices and that customers who only check his competitor’s app are “leaving money on the table.”",
-      "url": "https://www.wired.com/story/lyfts-ceo-says-were-the-good-uber/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T15:00:00+00:00"
-    },
-    {
-      "title": "The Best New Camping Gear at REI (2026): Tents, Coolers, Bikes, More",
-      "description": "I tested REI’s best new and revamped outdoor gear of 2026. Here’s what’s worth buying, from tents and sleeping bags to coolers and bikes.",
-      "url": "https://www.wired.com/story/the-best-new-camping-gear-at-rei-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T14:55:29+00:00"
-    },
-    {
-      "title": "New Study Suggests Vitamin C Could Help Prevent Cancer",
-      "description": "New research examines how antioxidants may influence the risk of cancers linked to digestion. Vitamin C may do more than support the immune system. It could also help block chemical reactions in the stomach that are linked to cancer risk. New mathematical modeling from the University of Waterloo sug",
-      "url": "https://scitechdaily.com/new-study-suggests-vitamin-c-could-help-prevent-cancer/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-17T14:55:01+00:00"
-    },
-    {
-      "title": "Two record-equalling 62s at The Open - and two different reactions",
-      "description": "Australia's Lucas Herbert and Sam Burns of the United States both shoot eight-under 62s to equal the lowest rounds in men's major history.",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/ckg3n04n0v0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-17T14:40:37+00:00"
-    },
-    {
-      "title": "Conspiracy Theorists Think Trump’s Speech Paves the Path to the Insurrection Act",
-      "description": "Election deniers have spent years promoting the idea that the 2020 election was stolen. They believe Donald Trump’s speech finally proves them right.",
-      "url": "https://www.wired.com/story/conspiracy-theorists-think-trumps-speech-paves-the-path-to-the-insurrection-act/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-17T13:48:38+00:00"
-    },
-    {
-      "title": "Five reasons for England to be cheerful despite World Cup exit",
-      "description": "Despite the heartbreak of a World Cup semi-final loss, there are plenty of reasons to be optimistic about England's footballing future.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyxllv7lmpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-17T13:45:13+00:00"
     },
     {
       "title": "How do you actually shop local in New York City?",
@@ -338,28 +362,12 @@
       "publishedAt": "2026-07-17T12:00:07+00:00"
     },
     {
-      "title": "New Fossil Study Challenges the Classic Story of Human Evolution",
-      "description": "Scientists say some of the traits that define modern humans may have evolved only after long-standing biological and cultural barriers were broken. Human evolution is often presented as a clear progression: brains grew larger, faces became smaller, tools improved, and our ancestors gradually became ",
-      "url": "https://scitechdaily.com/new-fossil-study-challenges-the-classic-story-of-human-evolution/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-17T11:51:25+00:00"
-    },
-    {
       "title": "The financial winners and losers from the World Cup",
       "description": "Big bucks are being made from the 2026 tournament off the field, but who is raking in the most, and who is losing out?",
       "url": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-07-17T11:36:11+00:00"
-    },
-    {
-      "title": "The Surprising Chocolate Trick That Could Boost Your Gym Performance",
-      "description": "Researchers found that smelling chocolate before and during resistance exercise may subtly change how the brain responds to effort and appetite. Halfway through a difficult leg workout, most people would not expect the smell of chocolate to help them complete more repetitions. Yet a study published ",
-      "url": "https://scitechdaily.com/the-surprising-chocolate-trick-that-could-boost-your-gym-performance/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-17T11:16:12+00:00"
     },
     {
       "title": "What type of procrastinator are you - and how to fix it now (not later)",
@@ -378,12 +386,12 @@
       "publishedAt": "2026-07-17T11:00:06+00:00"
     },
     {
-      "title": "Why has British Steel been nationalised?",
-      "description": "The UK's only remaining plant making virgin steel has been taken into public ownership after years of uncertainty over its future.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y66y40kgpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
+      "title": "‘Brazen corruption’: critics denounce Trump Media plan to sell priority access to Truth Social posts",
+      "description": "Move would allow Wall Street trading firms and other institutions to potentially profit from seeing president’s posts firstDonald Trump’s media company is planning to charge for special high-speed access to Truth Social posts, including possibly his own, affecting national security and financial mar",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/trump-media-truth-social-posts",
+      "source": "The Guardian",
       "category": "Business",
-      "publishedAt": "2026-07-17T09:57:02+00:00"
+      "publishedAt": "2026-07-17T08:16:58+00:00"
     },
     {
       "title": "Five headaches Andy Burnham will have to deal with as PM",
@@ -434,14 +442,6 @@
       "publishedAt": "2026-07-16T18:57:47+00:00"
     },
     {
-      "title": "Largest landlord in the US accused of civil rights violations",
-      "description": "Fair housing complaints accuse Greystar of refusing to take tenants who use federal rent vouchersGreystar, the largest owner and manager of apartments in the US, systematically flouts local laws designed to make housing affordable to the poor, according to civil rights complaints filed with authorit",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/greystar-landlord-civil-rights-violations",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-07-16T18:09:28+00:00"
-    },
-    {
       "title": "Teenagers from 15 should be given free MenB vaccine, say UK experts",
       "description": "Advisers are asking the government to consider introducing MenB jabs following concerns over an outbreak in Kent earlier this year, in which two people died.",
       "url": "https://www.bbc.co.uk/news/articles/c74glj9zkzko?at_medium=RSS&at_campaign=rss",
@@ -464,38 +464,6 @@
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-07-16T12:26:57+00:00"
-    },
-    {
-      "title": "Democrats allege Trump administration stalled US-Canada bridge opening as a favor to billionaire donor",
-      "description": "Delay seen as move to protect interests of Matthew Moroun, the owner of nearby Ambassador Bridge and a Trump donorThe Trump administration for months blocked a $4.7bn publicly owned bridge between Detroit and Windsor, Ontario, a move critics allege is a quid pro quo for a billionaire Donald Trump do",
-      "url": "https://www.theguardian.com/business/2026/jul/16/trump-administration-canada-gordie-howe-bridge",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-07-16T11:00:37+00:00"
-    },
-    {
-      "title": "Brazil vows to retaliate if US imposes 25% tariffs on some of its products",
-      "description": "President Lula’s office says US move is result of pressure on White House by family of predecessor Jair BolsonaroBrazil has vowed to retaliate against Washington’s decision to impose 25% tariffs on imports of some Brazilian products.The office of the president, Luiz Inácio Lula da Silva, described t",
-      "url": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-07-16T05:01:23+00:00"
-    },
-    {
-      "title": "New York Times files motion to quash justice department’s subpoenas",
-      "description": "Journalists who had reported on security concerns around the new Air Force One, a gift from Qatar, received summonsThe New York Times on Wednesday filed a motion to quash subpoenas the justice department served journalists who reported on security concerns involving the new Air Force One, a gift fro",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/new-york-times-subpoenas-air-force-one",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-07-16T00:32:16+00:00"
-    },
-    {
-      "title": "Jesy Nelson calls plan to test newborns for life-limiting muscle condition a 'victory'",
-      "description": "All newborn babies are set to have a heel prick test for Spinal Muscular Atrophy (SMA) in England.",
-      "url": "https://www.bbc.co.uk/news/articles/c07y77exx8eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-07-16T00:20:52+00:00"
     }
   ]
 }
