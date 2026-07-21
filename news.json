@@ -1,6 +1,230 @@
 {
-  "updatedAt": "2026-07-20T21:58:33.945222+00:00",
+  "updatedAt": "2026-07-21T10:54:18.935727+00:00",
   "articles": [
+    {
+      "title": "Why Are Bees Struggling To Survive This Summer?",
+      "description": "Multiple environmental pressures are harming bees whose pollination supports crops and flowering plants worldwide. You may be spotting bodies of dead bumblebees lying across pavements near you in the summer months. There are several reasons for this, some to do with the weather and some very much du",
+      "url": "https://scitechdaily.com/why-are-bees-struggling-to-survive-this-summer/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-21T10:33:33+00:00"
+    },
+    {
+      "title": "UK borrows less than expected in June but public finances remain a challenge",
+      "description": "Public finances for last month were better than expected but the UK is carrying major debt.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-21T10:31:06+00:00"
+    },
+    {
+      "title": "Thames Water lenders offer 'golden share' to head off nationalisation",
+      "description": "The water supplier's lenders are trying to prevent the company from being taken over by the Burnham government",
+      "url": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-21T10:30:45+00:00"
+    },
+    {
+      "title": "VAT to be cut from household electricity bills in October",
+      "description": "Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.",
+      "url": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-21T10:07:38+00:00"
+    },
+    {
+      "title": "Who’s afraid of the big, bad GPU?",
+      "description": "How does AI make you feel? Are you excited to “vibe-code” your smart home? Or anxious about all the added pollution and billions of gallons of water used by data centers? Dig a little deeper and you’ll start to question the actual value of the GPUs that underpin all the leaps and promises of generat",
+      "url": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-21T10:00:01+00:00"
+    },
+    {
+      "title": "Stop Saying Kids Can’t Read",
+      "description": "Everyone is talking about the reading crisis. But inside the “Mississippi Miracle,” it’s all about comprehension.",
+      "url": "https://www.wired.com/story/mississippi-state-testing-reading-comprehension-literacy/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-21T10:00:00+00:00"
+    },
+    {
+      "title": "A Device Hidden in Cars Across the US Leaves Them Vulnerable to Hacking and Paralysis. Patch It Now",
+      "description": "Dealerships installed alarms in millions of vehicles—and left them in even if the buyer didn’t want them. Now researchers warn they can be hacked to unlock, track, and disable cars.",
+      "url": "https://www.wired.com/story/a-device-hidden-in-cars-across-the-us-leaves-them-vulnerable-to-hacking-and-paralysis-patch-it-now/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-21T10:00:00+00:00"
+    },
+    {
+      "title": "What does an Andy Burnham-led government mean for your money?",
+      "description": "The new PM says he will look at how much people can earn before paying tax but admitted changing it would be difficult.",
+      "url": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-21T09:45:21+00:00"
+    },
+    {
+      "title": "The Army Is Burning Through Its AI Tokens",
+      "description": "Members of the Army received an email informing them that they were rapidly depleting their AI tokens, and needed to limit use.",
+      "url": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-21T09:30:00+00:00"
+    },
+    {
+      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "description": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-21T09:16:21+00:00"
+    },
+    {
+      "title": "Etsy Is In Its Flop Era, and Sellers Are Fleeing",
+      "description": "Once a quirky bastion of amateur vulva jewelry and pet portraits, Etsy is now deluged with mass-produced goods and AI knockoffs. Some customers don’t seem to mind.",
+      "url": "https://www.wired.com/story/etsy-is-in-its-flop-era-and-sellers-are-fleeing/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-21T09:00:00+00:00"
+    },
+    {
+      "title": "Bournemouth midfielder Scott rejects new contract",
+      "description": "Bournemouth midfielder Alex Scott rejects a new contract amid growing Premier League interest in the England Under-21 international.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-21T08:10:01+00:00"
+    },
+    {
+      "title": "Why was Hamilton penalised but not Leclerc? - F1 Q&A",
+      "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Hungarian Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cn4n21ye3w2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-21T07:00:48+00:00"
+    },
+    {
+      "title": "The country that doesn't play football ... yet",
+      "description": "Nauru is the only nation to have never played an official international football match and hardly anyone there plays the game. Is that about to change?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y03dermmeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-21T05:47:13+00:00"
+    },
+    {
+      "title": "Fake kits worth £18m seized by UK police over safety concerns",
+      "description": "Counterfeit football shirts worth over £18m were seized in the UK during the course of the World Cup because of safety concerns, with the Fire Service warning the outfits can be a danger to those who wear them.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0rdgrkx552o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-21T05:12:13+00:00"
+    },
+    {
+      "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
+      "description": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy productsDonald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfai",
+      "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-07-21T02:29:47+00:00"
+    },
+    {
+      "title": "Your tips on getting a fussy child to eat, and six recipes they'll love",
+      "description": "Want to avoid battles over broccoli and squabbles over spinach? We've asked you for your advice on how to cope at mealtimes over the summer holidays.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yrjgj984qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-07-21T00:16:08+00:00"
+    },
+    {
+      "title": "Antarctic Meltwater Is Making Glaciers Slide Faster Toward the Ocean",
+      "description": "A new study uses boreholes drilled deep beneath Antarctic ice to investigate why the continent’s glaciers are accelerating. More than half a kilometer beneath an East Antarctic glacier, sensors detected water pressure high enough to support almost all the ice above. The measurements provide the firs",
+      "url": "https://scitechdaily.com/antarctic-meltwater-is-making-glaciers-slide-faster-toward-the-ocean/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-20T23:29:23+00:00"
+    },
+    {
+      "title": "Ex-Villa striker Duran joins seventh club aged 22",
+      "description": "Former Aston Villa striker Jhon Duran joins Benfica on a season-long loan from Saudi Arabian side Al-Nassr.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c75gwl3n50qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-20T23:11:08+00:00"
+    },
+    {
+      "title": "'I made £100,000 of TikTok sales in one day': The business of live shopping",
+      "description": "Buying on social media livestreams is fast becoming regular consumer behaviour for many.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2j22w8k0po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-20T23:06:04+00:00"
+    },
+    {
+      "title": "Ancient Dog Skulls Rewrite the Story of Canine Evolution",
+      "description": "Ancient bones and DNA reveal that dog diversity and their close relationship with migrating humans developed thousands of years ago. Place a village dog beside a toy poodle and a mastiff, and the extraordinary physical range of a single species becomes obvious. An estimated 700 million dogs now live",
+      "url": "https://scitechdaily.com/ancient-dog-skulls-rewrite-the-story-of-canine-evolution/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-20T22:19:22+00:00"
+    },
+    {
+      "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+      "description": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyonc&#233;'s Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on ",
+      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-20T22:19:12+00:00"
+    },
+    {
+      "title": "Humphries suffers shock first-round exit at Matchplay",
+      "description": "World number two Luke Humphries is out of the World Matchplay after a shock first-round loss to Scotland's Cameron Menzies.",
+      "url": "https://www.bbc.co.uk/sport/darts/articles/cx2jn8p1v1yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-20T22:19:11+00:00"
+    },
+    {
+      "title": "Earl wants changes to 'brutal' Nations Championship format",
+      "description": "Ben Earl calls for a change to the Nations Championship format after England's \"brutal\" schedule in the summer leg of the inaugural competition.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c74g58vzjj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-20T22:16:19+00:00"
+    },
+    {
+      "title": "The FCC is planning to retroactively ban disguised DJI gadgets",
+      "description": "Last October, we told you how the FCC had given itself the power to retroactively ban gadgets that have already received its approval to be imported and sold in the United States. Now, the FCC's getting ready to wield that power for the first time, by cracking down on the \"DJI front companies\" suspe",
+      "url": "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-20T22:16:14+00:00"
+    },
+    {
+      "title": "DA: Cop covered bodycam to snap nude prisoners on his iPhone—but other cams caught him",
+      "description": "Pennsylvania cop charged with oppression and obstruction.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-20T22:15:51+00:00"
+    },
+    {
+      "title": "The 20-somethings betting big on tech stocks",
+      "description": "The BBC hears from people about the risks and rewards of investing in technology shares.",
+      "url": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-20T22:00:41+00:00"
+    },
+    {
+      "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
+      "description": "California and XPRIZE competition tests whether drones can stop wildfires early.",
+      "url": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-20T21:55:52+00:00"
+    },
     {
       "title": "New Metal Alloy Is up to 10 Times Stronger Than Structural Steel",
       "description": "A cobalt aluminum nanolaminate has shattered the usual tradeoff between strength and flexibility, emerging up to 10 times stronger than structural steel without becoming dangerously brittle. Jet engines demand materials that can survive tremendous heat and force without bending, cracking, or slowly ",
@@ -8,22 +232,6 @@
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-07-20T21:54:24+00:00"
-    },
-    {
-      "title": "Trump imposes 50% tariff on Canadian imports",
-      "description": "The duties take effect within 30 days and mark a major escalation in trade tensions between the North American neighbours.",
-      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-20T21:51:55+00:00"
-    },
-    {
-      "title": "Gallery: Spain celebrate World Cup triumph in Madrid",
-      "description": "Thousands of fans take to the streets of Madrid as the Spain squad enjoy a bus parade after winning the World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgje79d6q64o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-20T21:50:12+00:00"
     },
     {
       "title": "The Odyssey turned me into an IMAX believer",
@@ -34,20 +242,12 @@
       "publishedAt": "2026-07-20T21:47:37+00:00"
     },
     {
-      "title": "Burnham has big ideas - but what will they cost?",
-      "description": "Every tricky decision and trade off is being watched by the country and the markets at the same time",
-      "url": "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-20T21:47:14+00:00"
-    },
-    {
-      "title": "Humphries suffers shock first-round exit at Matchplay",
-      "description": "World number two Luke Humphries is out of the World Matchplay after a shock first-round loss to Scotland's Cameron Menzies.",
-      "url": "https://www.bbc.co.uk/sport/darts/articles/cx2jn8p1v1yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-20T21:36:03+00:00"
+      "title": "Judge halts Paramount's $111B purchase of Warner Bros. in win for US states",
+      "description": "Judge grants restraining order, saying merger \"likely to violate antitrust laws.\"",
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-20T21:10:14+00:00"
     },
     {
       "title": "SpaceX in your index fund, explained",
@@ -76,7 +276,7 @@
     {
       "title": "The Space Force is now seeking to buy up to $30 billion in rocket launches",
       "description": "The Trump administration is asking the Space Force to do a lot. This will require more launches.",
-      "url": "https://arstechnica.com/science/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
+      "url": "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-07-20T20:30:25+00:00"
@@ -146,20 +346,12 @@
       "publishedAt": "2026-07-20T18:46:04+00:00"
     },
     {
-      "title": "John Healey becomes chancellor weeks after shock resignation from defence job",
+      "title": "Who is new chancellor John Healey? Labour veteran who quit as defence secretary",
       "description": "The former defence secretary is seen as a safe pair of hands - and is now in charge of the government's finances.",
       "url": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-07-20T18:44:55+00:00"
-    },
-    {
-      "title": "Burnham promises help with your money. How could it affect you?",
-      "description": "The new PM says he will look at how much people can earn before paying tax but admitted changing it would be difficult.",
-      "url": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-20T18:22:46+00:00"
     },
     {
       "title": "Scientists Discover Four Chameleons Found Nowhere Else on Earth",
@@ -178,20 +370,20 @@
       "publishedAt": "2026-07-20T18:06:05+00:00"
     },
     {
-      "title": "'If only people knew what a tick could do' - the deadly meat allergies caused by tick bites",
+      "title": "Judge orders pause on Paramount-Warner merger after challenge from 12 states",
+      "description": "$81bn merger halted for at least two weeks after US states sued to block deal, saying it would ‘extinguish competition’A federal judge on Monday ordered Paramount and Warner Bros Discovery to halt their $81bn merger for at least two weeks, allowing states that are challenging the deal more time to s",
+      "url": "https://www.theguardian.com/film/2026/jul/20/judge-pause-paramount-warner-bros-merger",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-07-20T18:03:21+00:00"
+    },
+    {
+      "title": "'If only people knew what a tick could do' - the deadly meat allergy caused by tick bites",
       "description": "Mammalian meat allergy is a growing problem along Australia's east coast - and it's caused by tick bites.",
       "url": "https://www.bbc.co.uk/news/articles/cj6g03567edo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-07-20T18:01:00+00:00"
-    },
-    {
-      "title": "Judge pauses Paramount’s attempt to buy Warner Bros. Discovery",
-      "description": "A judge partially granted the request from a dozen state attorneys general to temporarily place the $110 billion merger of Paramount and Warner Bros. Discovery on hold, as reported by Variety and Reuters. US District Judge Araceli Mart&#237;nez-Olgu&#237;n said that based on the new company's market",
-      "url": "https://www.theverge.com/business/968055/paramount-wbd-merger-pause-tro",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-20T17:37:53+00:00"
     },
     {
       "title": "Bees Have a Hidden Nutritional Superpower, Oxford Study Reveals",
@@ -202,60 +394,12 @@
       "publishedAt": "2026-07-20T17:36:06+00:00"
     },
     {
-      "title": "Guardiola in reported talks with Italy - would England come calling?",
-      "description": "Former Manchester City manager Pep Guardiola, a fluent Italian speaker, is a contender for the vacant Italy head coach job.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20dn5j0lj0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-20T17:20:11+00:00"
-    },
-    {
-      "title": "LG&#8217;s glossy OLED gaming monitor is rare to find under $400",
-      "description": "If you&#8217;ve been thinking about upgrading your gaming monitor, LG&#8217;s 27-inch 27GX704A-B pairs a glossy WOLED panel with a fast refresh rate, and it’s currently on sale for $379.99 (about $70 off) at Amazon and directly from LG, marking a new low price.&#160;It originally launched at $799.99",
-      "url": "https://www.theverge.com/gadgets/967993/lg-27-inch-ultragear-glossy-oled-gaming-monitor-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-20T16:34:24+00:00"
-    },
-    {
-      "title": "What did England learn during ODI series win over India?",
-      "description": "After beating India 2-1, BBC Sport asks if England are finally building momentum one year out from the World Cup.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cq5626gq3gdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-20T16:17:43+00:00"
-    },
-    {
-      "title": "LG’s monitors come with an unwanted addition for Windows: McAfee pop-up ads",
-      "description": "A video from Gamers Nexus explains how, after connecting a new LG UltraGear monitor to a PC running Windows 11 for the first time, Windows Update is silently installing LG driver updates and the LG Monitor App Installer, without so much as a permission pop-up or notification. The app doesn't appear ",
-      "url": "https://www.theverge.com/tech/967983/lg-monitors-mcafee-adware-gamers-nexus",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-20T16:14:58+00:00"
-    },
-    {
       "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
       "description": "Many will say Spa is the best racetrack on earth, but not for these F1 cars.",
       "url": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-07-20T15:59:18+00:00"
-    },
-    {
-      "title": "West Africa signs off $25bn mega gas-pipeline plan",
-      "description": "A 6,000km pipeline running along the Atlantic coast of 14 countries is to be built starting in 2028.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyr5rpglngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-20T15:52:55+00:00"
-    },
-    {
-      "title": "Rodri's stock at all-time high as he adds to trophy collection",
-      "description": "Rodri cements status as one of the world's best midfielders after World Cup and Golden Ball triumphs.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj03j6yzq20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-20T15:52:37+00:00"
     },
     {
       "title": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
@@ -266,14 +410,6 @@
       "publishedAt": "2026-07-20T15:32:45+00:00"
     },
     {
-      "title": "AliExpress fined record €550m by EU for allowing sale of illegal goods",
-      "description": "The Chinese retailer allowed unsafe toys and counterfeit clothes to be sold on its site, says the EU.",
-      "url": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-20T15:22:54+00:00"
-    },
-    {
       "title": "Einstein’s “Greatest Blunder” May Be Breaking Cosmology",
       "description": "Dark energy revived Einstein’s discarded cosmological constant and reshaped the leading model of the universe. In 1917, Albert Einstein had recently completed his general theory of relativity, the framework that transformed how physics understands gravity. He soon applied those equations to a much l",
       "url": "https://scitechdaily.com/einsteins-greatest-blunder-may-be-breaking-cosmology/",
@@ -282,116 +418,12 @@
       "publishedAt": "2026-07-20T15:21:05+00:00"
     },
     {
-      "title": "Gifted, charismatic and passionate amid highs and lows - Keegan obituary",
-      "description": "The positivity and vibrancy Kevin Keegan brought made him a cherished figure within the game, writes chief football writer Phil McNulty.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20z4d87vp3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-20T15:00:33+00:00"
-    },
-    {
-      "title": "What will Rogers bring to Alonso's Chelsea?",
-      "description": "Chelsea's £117m move for Aston Villa forward Morgan Rogers is a genuine transfer window shock, but how did they do it and what does it mean for the rest of the squad?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-20T14:57:39+00:00"
-    },
-    {
-      "title": "A Century-Old Belief About Diamond Has Just Been Overturned",
-      "description": "Researchers have uncovered an unexpected electrical response in ultrathin diamond membranes, challenging a century-old assumption about the material. Diamond is renowned for resisting pressure, heat, chemicals, and wear. But researchers have now shown that, when made thin enough, it can also generat",
-      "url": "https://scitechdaily.com/a-century-old-belief-about-diamond-has-just-been-overturned/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-20T14:46:03+00:00"
-    },
-    {
-      "title": "The first trailer for Avengers: Doomsday is finally here",
-      "description": "\"Something's coming. Something we may not be able to deter.\"",
-      "url": "https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-20T14:33:46+00:00"
-    },
-    {
-      "title": "The Universe Can Expand Faster Than Light Without Breaking Physics",
-      "description": "The universe’s expansion makes cosmic distance far less intuitive than simply measuring how long light has traveled. An expanding universe makes distance harder to define because space keeps growing while light is in transit. Objects continue to emit light, but as that light travels toward us, the a",
-      "url": "https://scitechdaily.com/the-universe-can-expand-faster-than-light-without-breaking-physics/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-20T14:11:06+00:00"
-    },
-    {
-      "title": "Pay up or not? Ransomware surge has victims facing tough choices.",
-      "description": "Governments look at banning ransom payments in face of increasingly sophisticated threats.",
-      "url": "https://arstechnica.com/security/2026/07/pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-20T14:00:50+00:00"
-    },
-    {
       "title": "Rare identical quadruplets born in Australia",
-      "description": "The parents of the four naturally-conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said.",
+      "description": "The parents of the four naturally conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said.",
       "url": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-07-20T12:57:32+00:00"
-    },
-    {
-      "title": "Healthier Eating Could Trigger a $630 Billion Farming Shake-Up",
-      "description": "A worldwide move toward healthier diets, more efficient farming, and less food waste could dramatically reorganize global agriculture by 2050. Following global recommendations to adopt healthier diets, make farms more productive, and cut food waste in half could dramatically alter agriculture by 205",
-      "url": "https://scitechdaily.com/healthier-eating-could-trigger-a-630-billion-farming-shake-up/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-20T11:35:24+00:00"
-    },
-    {
-      "title": "Beyond grep: The case for a context-rich AI coding harness",
-      "description": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
-      "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-20T11:20:10+00:00"
-    },
-    {
-      "title": "The 35 Best Board Games for Family Game Night",
-      "description": "From monsters to kittens to strategy games, these sets will liven things up on nights when everyone is tired of screens.",
-      "url": "https://www.wired.com/gallery/best-family-board-games/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-20T11:00:00+00:00"
-    },
-    {
-      "title": "A Beginner’s Guide to Growing Mushrooms at Home (2026)",
-      "description": "From countertop kits to a bathroom bucket full of straw and beyond, I spent a year testing popular mushroom-growing methods. Here’s what fruited—and what just grew mold.",
-      "url": "https://www.wired.com/story/mushroom-growing-methods/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-20T10:31:00+00:00"
-    },
-    {
-      "title": "An Ebike Company Was Sued for Misleading Info on Safety. It Points to a Big Problem",
-      "description": "Several Chinese businesses associated with the ebike brand Aipas settled a lawsuit with Amazon and the safety certification company UL in July.",
-      "url": "https://www.wired.com/story/an-ebike-company-was-sued-for-misleading-on-safety-it-points-to-a-big-problem/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-20T10:15:00+00:00"
-    },
-    {
-      "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
-      "description": "The Irish airline said oil prices had increased costs meanwhile Brent crude surpassed $90.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-20T10:12:36+00:00"
-    },
-    {
-      "title": "Elite Young Runners Are Becoming Freakishly Fast. Welcome to ‘Trackflation’",
-      "description": "Four-minute miles are almost routine. Middle schoolers are beating college runners. Inside the youth track boom that’s turning kids and teens into speed machines.",
-      "url": "https://www.wired.com/story/teenagers-running-trackflation/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-20T10:00:00+00:00"
     },
     {
       "title": "Granny wins care home Happy Hour law change",
@@ -400,14 +432,6 @@
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-07-20T06:57:55+00:00"
-    },
-    {
-      "title": "This farmer wanted to quit the cocaine industry - he couldn't",
-      "description": "Colombians who grow cocaine's raw material bemoan a lack of support to help them switch crops.",
-      "url": "https://www.bbc.co.uk/news/articles/c0kyml1zxz4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-19T23:18:03+00:00"
     },
     {
       "title": "My fitness tracker knew I was pregnant before I did",
