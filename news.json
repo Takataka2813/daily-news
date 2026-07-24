@@ -1,45 +1,237 @@
 {
-  "updatedAt": "2026-07-23T22:02:22.616807+00:00",
+  "updatedAt": "2026-07-24T10:51:56.394922+00:00",
   "articles": [
     {
-      "title": "King's Tardis entrance as Commonwealth Games begin",
-      "description": "King Charles III emerges from a Tardis and a Loch Ness Monster takes the stage at the Commonwealth Games opening ceremony in Glasgow.",
-      "url": "https://www.bbc.co.uk/sport/articles/cvg79z237yvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-23T21:53:02+00:00"
+      "title": "James Webb Telescope Discovers Hidden Giant Planet in Famous Star System",
+      "description": "Webb found a hidden giant planet by detecting its atmospheric chemistry through a bright debris disk. For years, a third giant planet remained concealed within the bright dust surrounding Beta Pictoris, one of the most closely observed planetary systems in the Milky Way. NASA&#8217;s James Webb Spac",
+      "url": "https://scitechdaily.com/james-webb-telescope-discovers-hidden-giant-planet-in-famous-star-system/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-24T10:44:05+00:00"
     },
     {
-      "title": "US announces tariffs on dozens of countries over forced labour concerns",
-      "description": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+      "title": "Klopp starts Germany reign by threatening to quit",
+      "description": "Jurgen Klopp starts his reign as Germany's head coach by threatening to quit if the media invades his family's privacy.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqjxd0n4gd2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-24T10:40:05+00:00"
+    },
+    {
+      "title": "Some of Our Favorite Brain-Boosting Toys for Kids of All Ages",
+      "description": "From musical instruments and games to play pieces that encourage balance and dexterity, these toys will engage your child’s mind and body.",
+      "url": "https://www.wired.com/story/these-are-some-of-our-favorite-brain-boosting-toys-for-kids-of-all-ages/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-24T10:30:00+00:00"
+    },
+    {
+      "title": "Some Kids Will Never Think AI Is Cool",
+      "description": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
+      "url": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-24T10:00:00+00:00"
+    },
+    {
+      "title": "Satellite Images Reveal How Suspected Scam Compounds Appear Out of Nowhere",
+      "description": "Analysis of satellite images of Myanmar shows dozens of alleged scam compounds have appeared in recent months, despite a purported crackdown on the criminal organizations.",
+      "url": "https://www.wired.com/story/satellite-images-reveal-how-giant-scam-compounds-keep-on-expanding/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-24T10:00:00+00:00"
+    },
+    {
+      "title": "Guardiola turns down Italy manager job",
+      "description": "Former Manchester City manager Pep Guardiola turns down the chance to coach Italy.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd7len4lvy9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-24T09:47:25+00:00"
+    },
+    {
+      "title": "UK mortgage rates rise to highest level for a month",
+      "description": "Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs.",
+      "url": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-24T09:44:53+00:00"
+    },
+    {
+      "title": "Messiah or papering over cracks? Klopp must sway doubters in Germany rebuild",
+      "description": "Jurgen Klopp is a legend at his former clubs, but he will need to convince his critics if he is to succeed in his toughest managerial challenge yet.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8k8llpz2mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-24T09:33:22+00:00"
+    },
+    {
+      "title": "Newcastle seal £34m move for Monaco's Bamba",
+      "description": "Newcastle United have signed Monaco midfielder Aladji Bamba for a fee which could rise to £34m.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr593z81lqno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-24T09:30:06+00:00"
+    },
+    {
+      "title": "Kagi Brings Back Old-School Search, One Human-Made Website at a Time",
+      "description": "If you’re tired of sponsored and AI-summarized search results, Kagi gives you a curated—and human-centric—way to find what you’re looking for.",
+      "url": "https://www.wired.com/story/kagi-brings-back-old-school-search-one-human-made-website-at-a-time/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-24T09:30:00+00:00"
+    },
+    {
+      "title": "Microsoft pressures LG into killing unwanted McAfee ads",
+      "description": "Microsoft has intervened to stop Windows 11 users with LG monitors from being bombarded with annoying McAfee trial pop-ups. In response to complaints about the LG bloatware, Microsoft's Windows chief, Pavan Davuluri, said that LG has agreed to immediately disable the McAfee pop-up from its LG Monito",
+      "url": "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-24T09:20:09+00:00"
+    },
+    {
+      "title": "Chelsea agree deal to sign Palace defender Lacroix",
+      "description": "Chelsea agree deal to sign France defender Maxence Lacroix from Crystal Palace after two impressive seasons.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp9eyz14y7jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-24T09:14:32+00:00"
+    },
+    {
+      "title": "Trump Endorsed the MyPillow Guy as Minnesota Governor. The State GOP Isn’t Buying It",
+      "description": "After Trump publicly backed pillow salesman turned election denier Mike Lindell for governor of Minnesota, the local GOP pushed back strongly.",
+      "url": "https://www.wired.com/story/trump-endorsed-the-mypillow-guy-as-minnesota-governor-the-state-gop-isnt-buying-it/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-24T09:00:00+00:00"
+    },
+    {
+      "title": "US hits dozens of countries with new wave of tariffs",
+      "description": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
       "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "publishedAt": "2026-07-23T21:46:34+00:00"
+      "publishedAt": "2026-07-24T08:59:31+00:00"
+    },
+    {
+      "title": "Socceroos star allegedly tests positive for cocaine after speeding",
+      "description": "Socceroos World Cup star Cristian Volpato allegedly tests positive for cocaine after being twice caught for speeding in Sydney.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2gdnz5x50o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-24T08:59:12+00:00"
+    },
+    {
+      "title": "European researchers want to study social media’s harms but can’t get the data",
+      "description": "EU law gives researchers unprecedented rights to scrutinize Big Tech. Researchers say Tik Tok, X, and Meta are still deciding who gets to look inside.",
+      "url": "https://www.wired.com/story/european-researchers-want-to-study-social-medias-harms-but-cant-get-the-data/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-24T08:49:52+00:00"
+    },
+    {
+      "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
+      "description": "The divorce, involving the chairman of one of South Korea's biggest companies, has gripped the nation.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg68jky65eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-24T08:30:58+00:00"
+    },
+    {
+      "title": "The two days which could make or break Fury-AJ",
+      "description": "BBC Sport looks at how a proposed bout between Tyson Fury and Anthony Joshua hinges on a 24-hour-period between Friday and Saturday.",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/c2k758w1xdzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-24T05:56:01+00:00"
+    },
+    {
+      "title": "What's working - and what's not - for WSL fans?",
+      "description": "BBC Sport spoke to fans of the Women's Super League and England Lionesses to learn about their experiences in the game and discuss what could be improved.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj0plpe7eq6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-24T05:45:20+00:00"
+    },
+    {
+      "title": "'Evidence lacking' for mental health monitoring tech",
+      "description": "The Lampard Inquiry hears from experts about Oxevision technology.",
+      "url": "https://www.bbc.co.uk/news/articles/c7vgd11d60do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-07-24T04:48:36+00:00"
+    },
+    {
+      "title": "Scientists Watch Chemistry Unfold Atom by Atom",
+      "description": "Study suggests a new method for tracking electronic and vibrational dynamics in real time. Within a few trillionths of a second after absorbing light, a molecule bends out of shape, shifts its electrons, and converts electronic energy into vibrations. These changes happen too quickly for ordinary in",
+      "url": "https://scitechdaily.com/scientists-watch-chemistry-unfold-atom-by-atom/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-24T00:27:37+00:00"
+    },
+    {
+      "title": "Heatwave anxiety can make you feel 'incredibly helpless' - here's how to manage it",
+      "description": "Extreme heat can take a toll on mental health - and young people and women are among the groups most at risk, according to one study.",
+      "url": "https://www.bbc.co.uk/news/articles/cgk4xrznxn5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-07-24T00:05:55+00:00"
+    },
+    {
+      "title": "20 Years in the Making: Physicists Confirm Long-Standing Quantum Prediction",
+      "description": "ISTA physicists have confirmed a theory proposed 20 years ago that could advance quantum technology. A future quantum computer may need separate modules to behave as one machine, even when they are physically apart. That requires distributed entanglement, a quantum connection between distant compone",
+      "url": "https://scitechdaily.com/20-years-in-the-making-physicists-confirm-long-standing-quantum-prediction/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-23T23:52:44+00:00"
+    },
+    {
+      "title": "An FDA Panel Just Endorsed These Unproven Peptides",
+      "description": "Outside experts—some with a vested interest in peptides—recommended adding a number of the amino acids to the FDA’s bulks list, including the “Wolverine stack” touted by Joe Rogan and other influencers.",
+      "url": "https://www.wired.com/story/fda-panel-endorses-unproven-peptides/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-23T23:45:12+00:00"
+    },
+    {
+      "title": "Scientists Build the First 3D Cloak That Makes Objects Invisible To Heat",
+      "description": "A new 3D material can guide heat around complex objects while shielding them from extreme temperatures and infrared detection. On an infrared camera, a warm object normally stands out clearly against cooler surroundings. Researchers have now built a three-dimensional cloak that bends heat around an ",
+      "url": "https://scitechdaily.com/scientists-build-the-first-3d-cloak-that-makes-objects-invisible-to-heat/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-23T23:17:38+00:00"
+    },
+    {
+      "title": "UK complacent about war threat, warns BAE boss",
+      "description": "The threat of attack has never been higher, the boss of Europe's biggest defence contractor has warned. Dr Charles Woodburn",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-23T23:04:19+00:00"
+    },
+    {
+      "title": "We split bills equally even when one of us earned a lot more",
+      "description": "Hannah and Max continued to pool finances after Max was made redundant but took \"drastic measures\" to cut spending.",
+      "url": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-23T23:01:08+00:00"
+    },
+    {
+      "title": "Tourist tax introduced in Edinburgh: How much is it and who pays?",
+      "description": "The Scottish capital has become the first city in the country to introduce a charge for overnight stays.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl8j37839o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-23T21:46:48+00:00"
     },
     {
       "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
-      "description": "Amazon is previewing an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to the ",
+      "description": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automati",
       "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-07-23T21:15:06+00:00"
-    },
-    {
-      "title": "Defoe leaves Woking after 'eye-opening' first managerial role",
-      "description": "Former England and Tottenham striker Jermain Defoe has described his first managerial job as an \"eye-opening experience\" following his departure from National League side Woking after just four months and nine matches in charge.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c304d47ql6jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-23T21:02:11+00:00"
-    },
-    {
-      "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
-      "description": "A new bill would let the US government order the shutdown AI models that pose a major public threat.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-23T20:58:35+00:00"
     },
     {
       "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
@@ -50,28 +242,12 @@
       "publishedAt": "2026-07-23T20:47:33+00:00"
     },
     {
-      "title": "Google and Tesla shares plunge as AI spending rattles markets",
-      "description": "As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.",
-      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-23T20:42:33+00:00"
-    },
-    {
       "title": "The Echo Show 21 is a great smart home hub that’s $80 off",
       "description": "Split between buying a smart calendar, a kitchen TV, a smart home hub, and a smart display? Amazon’s Echo Show 21 is all of those things in one, with a huge 21-inch screen. You can use it to control your smart lights, glance at recipes, watch TV shows, and more. Currently, Best Buy and Home [&#8230;",
       "url": "https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale",
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-07-23T20:36:40+00:00"
-    },
-    {
-      "title": "'What's happened there?!' - Buttler and Dawson's moment to forget",
-      "description": "Manchester Super Giants fielders Jos Buttler and Liam Dawson inadvertently teach a vital lesson in communication after a huge fielding mix-up, missing a simple catch that would have removed London Spirit's Kiran Carlson in the men's Hundred.",
-      "url": "https://www.bbc.co.uk/sport/cricket/videos/c20ekyq6g62o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-23T19:59:23+00:00"
     },
     {
       "title": "Researchers Warn Women About Viral Exercise Myths",
@@ -88,14 +264,6 @@
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-07-23T19:46:11+00:00"
-    },
-    {
-      "title": "Burnham says 20% business rates cut for English pubs 'a first step'",
-      "description": "Some hospitality firms will get a discount from next April but hotels and restaurants won't get a cut.",
-      "url": "https://www.bbc.co.uk/news/articles/cq6dg816464o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-23T19:33:09+00:00"
     },
     {
       "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
@@ -138,14 +306,6 @@
       "publishedAt": "2026-07-23T19:00:00+00:00"
     },
     {
-      "title": "Italy confirm Ancelotti approach before Guardiola",
-      "description": "Italy held discussions with Carlo Ancelotti to become their national team manager before opening talks with Pep Guardiola.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c36d0291z6no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-23T18:57:04+00:00"
-    },
-    {
       "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
       "description": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
       "url": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
@@ -170,14 +330,6 @@
       "publishedAt": "2026-07-23T18:20:30+00:00"
     },
     {
-      "title": "For Taylor Swift, Madison Square Garden’s Controversial Cameras Briefly Went Dark",
-      "description": "MSG’s sprawling surveillance system can monitor guests down to the second. Its owners made an exception for the pop star’s rehearsal dinner.",
-      "url": "https://www.wired.com/story/for-taylor-swift-madison-square-gardens-controversial-cameras-briefly-went-dark/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-23T18:18:46+00:00"
-    },
-    {
       "title": "Final Coyote vs. Acme trailer drops at SDCC",
       "description": "Also, the full trailer for Zach Cregger's Resident Evil features a likable everyman.",
       "url": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
@@ -194,14 +346,6 @@
       "publishedAt": "2026-07-23T17:20:00+00:00"
     },
     {
-      "title": "Anderson's journey to England star and Man City record signing",
-      "description": "Elliot Anderson was a key part of England's World Cup side and is now Manchester City's record signing.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-23T17:16:34+00:00"
-    },
-    {
       "title": "Tesla’s robotaxi promises are clashing with reality",
       "description": "In an earnings call yesterday, Tesla CEO Elon Musk did his best to paint a positive portrait of the company's robotaxi program. New cities are being added, more miles are being driven, and more people are experiencing Tesla's unsupervised vehicles. But Musk's typical bullishness seemed to be absent ",
       "url": "https://www.theverge.com/transportation/970003/tesla-robotaxi-mileage-waymo-cities-earnings-musk",
@@ -210,36 +354,12 @@
       "publishedAt": "2026-07-23T17:09:31+00:00"
     },
     {
-      "title": "Geekbench 7 will push your computer or phone even harder for better benchmarking",
-      "description": "Primate Labs is releasing Geekbench 7, the latest generation of its popular benchmarking tool. Geekbench 7 features new video and audio encoding / decoding tests, a redesigned multi-core test, and larger, more demanding datasets for CPUs and GPUs to crunch through. It otherwise looks and acts just l",
-      "url": "https://www.theverge.com/gadgets/970012/primate-labs-geekbench-7-benchmark-test-software-update",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-23T17:00:00+00:00"
-    },
-    {
       "title": "A woman got a UTI. Two years later, the bacteria had evolved, invaded her brain.",
       "description": "The case provides a novel report of the emergence of heterovirulence.",
       "url": "https://arstechnica.com/health/2026/07/woman-loses-vision-in-one-eye-after-uti-bacteria-evolves-to-invade-her-brain/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-07-23T16:58:26+00:00"
-    },
-    {
-      "title": "Arsenal set to make £70m bid for Newcastle's Guimaraes",
-      "description": "Arsenal are set to make a £70m offer for Newcastle captain Bruno Guimaraes.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpq8lpj530po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-23T16:56:18+00:00"
-    },
-    {
-      "title": "The EU Fines Google $1 Billion for Prioritizing Its Own Services in Search",
-      "description": "The European Commission claims that Google boosted its own apps and products to the top of search rankings to the detriment of its competitors.",
-      "url": "https://www.wired.com/story/eu-fines-google-billion-prioritizing-own-services-in-search/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-23T16:51:52+00:00"
     },
     {
       "title": "Google hit with $1 billion in fines as EU braces for Trump battle",
@@ -258,28 +378,12 @@
       "publishedAt": "2026-07-23T16:25:46+00:00"
     },
     {
-      "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
-      "description": "A group including the former England footballer write to the new PM telling him \"we can afford it\".",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-23T16:20:45+00:00"
-    },
-    {
       "title": "A Powerful Cosmic Accelerator Has Been Confirmed in the Milky Way",
       "description": "Scientists have identified an accelerator that produces the highest-energy protons in our galaxy, a finding that could clarify the nature of the fast-moving particles filling the space between stars. Across the Milky Way, charged particles race through space with energies beyond the reach of even th",
       "url": "https://scitechdaily.com/a-powerful-cosmic-accelerator-has-been-confirmed-in-the-milky-way/",
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-07-23T16:11:02+00:00"
-    },
-    {
-      "title": "These Nearby Alien Planets Are Stranger – and More Hostile – Than Expected",
-      "description": "Barnard’s Star hosts four hostile small planets whose unusual chemistry and orbital rhythm reveal how compact planetary systems can form and survive. Just under six light-years from Earth, Barnard’s Star hosts four small worlds unlike any planet in our own Solar System. The nearby star, second only ",
-      "url": "https://scitechdaily.com/these-nearby-alien-planets-are-stranger-and-more-hostile-than-expected/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-23T15:36:58+00:00"
     },
     {
       "title": "Oil prices hit $100 for the first time since May",
@@ -290,60 +394,12 @@
       "publishedAt": "2026-07-23T15:31:00+00:00"
     },
     {
-      "title": "Black Hole Collisions May Follow a Surprisingly Simple Rule",
-      "description": "The size of a black hole formed by the merger of two orbiting black holes can be predicted using simple thermodynamics. Two black holes locked in orbit do not remain apart forever. As they spiral closer, they eventually collide in an extraordinarily energetic event that warps the surrounding univers",
-      "url": "https://scitechdaily.com/black-hole-collisions-may-follow-a-surprisingly-simple-rule/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-23T15:01:55+00:00"
-    },
-    {
       "title": "Pubs cheer business rates relief while other firms 'left out in the cold'",
       "description": "Pubs welcomed the support package, while other High Street firms asked why they were left out.",
       "url": "https://www.bbc.co.uk/news/articles/clyvnz4489wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-07-23T14:27:37+00:00"
-    },
-    {
-      "title": "JJ Gabriel, 15, gets senior Man Utd call-up",
-      "description": "Manchester United teenager JJ Gabriel, 15, could make senior debut on Friday after receiving call-up for Rosenborg friendly.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce85j3mgl06o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-23T13:36:37+00:00"
-    },
-    {
-      "title": "Can Emery work his magic again at Villa?",
-      "description": "Aston Villa are back in the Champions League but must now cope with the loss of key players Morgan Rogers and Youri Tielemans.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czxevl7vgz6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-23T12:35:35+00:00"
-    },
-    {
-      "title": "22 Back-to-School College Dorm Room Essentials (2026)",
-      "description": "Deck out your room and make class a cinch with these WIRED-tested favorites.",
-      "url": "https://www.wired.com/gallery/best-college-and-dorm-essentials-gear/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-23T12:01:00+00:00"
-    },
-    {
-      "title": "Could Young Stem Cells Be the Key to Healthier Aging?",
-      "description": "A gentler stem cell transplant rejuvenated aging blood and immune systems in mice. Imagine storing your own healthy blood stem cells while young, then receiving them decades later to refresh the systems that produce blood and support immunity. That possibility remains speculative for people, but res",
-      "url": "https://scitechdaily.com/could-young-stem-cells-be-the-key-to-healthier-aging/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-23T11:49:36+00:00"
-    },
-    {
-      "title": "The Best Vacuum for Pet Hair—We Tested Many to Find Which Ones Work Best (2026)",
-      "description": "Cordless, handheld, robot, and traditional—we tested them all to find the vacuum that’s fantastic for fur.",
-      "url": "https://www.wired.com/gallery/best-pet-hair-vacuums/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-23T11:33:00+00:00"
     },
     {
       "title": "Oil prices near $100 a barrel after US attacks Iran and Houthis hit tankers in Red Sea – as it happened",
@@ -354,52 +410,12 @@
       "publishedAt": "2026-07-23T11:27:00+00:00"
     },
     {
-      "title": "Feeling Lonely May Take a Bigger Toll on Health Than Expected",
-      "description": "Loneliness appears closely tied to poorer mental health, well-being and overall health. Feeling lonely is closely associated with poorer mental health, reduced well-being and worse overall health, according to collaborative research led by the University of Bristol, Nesta and Amsterdam UMC. Social i",
-      "url": "https://scitechdaily.com/feeling-lonely-may-take-a-bigger-toll-on-health-than-expected/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-23T11:14:49+00:00"
-    },
-    {
-      "title": "The Best MagSafe Wallets for Your Everyday Carry (2026)",
-      "description": "The slim and convenient magnetic wallets you’ll actually want stuck to the back of your phone.",
-      "url": "https://www.wired.com/gallery/best-magsafe-wallets/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-23T11:01:00+00:00"
-    },
-    {
-      "title": "The Trump Administration Wants to Change Public Engagement Rules for Polluters",
-      "description": "The EPA has proposed a rule change that would let states decide how much input the public has on air pollution permits. It would be a huge boon for data centers increasingly reliant on fossil fuels.",
-      "url": "https://www.wired.com/story/trump-administration-change-polluter-public-engagement-rules/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-23T11:00:00+00:00"
-    },
-    {
-      "title": "America’s Hot Hybrid Summer",
-      "description": "Gas prices are up, and US car dealerships are full of hybrids. Customers are going for it.",
-      "url": "https://www.wired.com/story/america-hot-hybrid-summer/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-23T10:45:00+00:00"
-    },
-    {
       "title": "US senator accuses Barclays of ‘failure’ to investigate ex-CEO’s ties to Epstein",
       "description": "Exclusive: Elizabeth Warren claims bank did not ‘meaningfully investigate’ Jes Staley’s links with sex offenderThe leading US senator Elizabeth Warren has called for urgent answers from Barclays over what she claimed was its “apparent failure to meaningfully investigate” ties between the bank’s form",
       "url": "https://www.theguardian.com/business/2026/jul/23/us-senator-barclays-jes-staley-jeffrey-epstein-failure-links-elizabeth-warren",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-07-23T10:22:15+00:00"
-    },
-    {
-      "title": "Big bosses reveal the secret to getting hired",
-      "description": "Business leaders share their best career advice and the qualities they look for when recruiting new staff.",
-      "url": "https://www.bbc.co.uk/news/videos/cvgxelx3y78o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-23T05:22:34+00:00"
     },
     {
       "title": "'Life-changing' MS drug to help people walk now on NHS in England",
@@ -432,22 +448,6 @@
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-07-22T13:28:09+00:00"
-    },
-    {
-      "title": "UK humanitarian worker monitored for Ebola in London hospital",
-      "description": "The health worker was evacuated to the UK from the DR Congo after being potentially exposed to the virus.",
-      "url": "https://www.bbc.co.uk/news/articles/cdewk5r308jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-07-22T00:52:35+00:00"
-    },
-    {
-      "title": "More young women in their 20s are getting type 2 diabetes",
-      "description": "England is seeing \"a worrying increase\" in women in their 20s developing type 2 diabetes, say experts. Here's what to look out for.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-07-22T00:03:43+00:00"
     }
   ]
 }
