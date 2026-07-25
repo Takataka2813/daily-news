@@ -1,6 +1,190 @@
 {
-  "updatedAt": "2026-07-24T22:02:50.860316+00:00",
+  "updatedAt": "2026-07-25T10:18:55.844947+00:00",
   "articles": [
+    {
+      "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
+      "description": "I’ve been reviewing laptops for over a decade, and here's my advice on how to find the right laptop for you.",
+      "url": "https://www.wired.com/story/best-laptops/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-25T10:00:00+00:00"
+    },
+    {
+      "title": "‘The Odyssey’ Was Made for Imax 70mm. Good Luck Watching It That Way",
+      "description": "Over the last several years, the Imax format has taken on a few different forms—but only a few dozen theaters are capable of screening it in its full glory.",
+      "url": "https://www.wired.com/story/the-odyssey-was-made-for-imax-70mm-good-luck-watching-it-that-way/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-25T10:00:00+00:00"
+    },
+    {
+      "title": "GoPro Mission 1 Pro Review: The Best Action Camera You Can Buy",
+      "description": "GoPro’s New Mission 1 cameras bring action cameras to a higher level with a larger sensor and more cinematic footage.",
+      "url": "https://www.wired.com/review/gopro-mission-1-pro/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-25T09:30:00+00:00"
+    },
+    {
+      "title": "Contagious Cancer Found in North American Catfish",
+      "description": "Scientists identified the first known cancer transmissible among freshwater fish in a lake that spans the US and Canada.",
+      "url": "https://www.wired.com/story/contagious-cancer-found-in-north-american-catfish/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-25T09:00:00+00:00"
+    },
+    {
+      "title": "How Many Electrolytes Should You Be Taking, and Can You Have Too Many?",
+      "description": "Electrolyte powders promise better hydration, energy, and recovery. But unless you’re losing serious fluid, water and food probably have you covered.",
+      "url": "https://www.wired.com/story/how-many-electrolytes-should-you-be-taking-and-can-you-have-too-many/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-25T09:00:00+00:00"
+    },
+    {
+      "title": "Changes called for as Sinner and Djokovic withdraw from Canadian Open",
+      "description": "The tournament director of the Canadian Open says changes need to be made to the \"demanding schedule\" of players after Jannik Sinner and Novak Djokovic pull out of the Masters 1000 event.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cz641eng5l9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-25T08:39:57+00:00"
+    },
+    {
+      "title": "On the move - football's youngest journeymen",
+      "description": "The players who had appeared for a remarkable number of clubs by their 23rd birthday.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39e1789j8po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-25T07:35:48+00:00"
+    },
+    {
+      "title": "Forget expensive sleepbuds. Buy this pillow instead",
+      "description": "Tech companies love to sell us expensive gadgets to solve all of life's little problems. Sleepbuds sold by the likes of Anker and Ozlo are a good example. These miniature marvels of engineering sit flush in the ear, and allow side-sleepers to doze off listening to podcasts, audiobooks, music, or whi",
+      "url": "https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-25T07:00:00+00:00"
+    },
+    {
+      "title": "Lyles wins 100m in world-leading 9.79 seconds",
+      "description": "Noah Lyles runs a world-leading 9.79 seconds as he claims an impressive victory in the 100m at the US athletics championships.",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/c3d38zkx59jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-25T06:59:48+00:00"
+    },
+    {
+      "title": "'Maybe he's a racist' - Trump critical of James",
+      "description": "United States President Donald Trump said LeBron James might be \"a racist\" when asked if the basketball star is the \"best ever\" to play the sport.",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/c04kz397nv1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-25T06:36:52+00:00"
+    },
+    {
+      "title": "How do Manchester City manage the Rodri dilemma?",
+      "description": "BBC Sport looks at what City's new-look midfield could be like and whether it is time to cash in on Rodri.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd9w2qp8pwxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-25T05:36:46+00:00"
+    },
+    {
+      "title": "Sean McCann - brother of Madeleine - to swim at Commonwealths",
+      "description": "Sean McCann, the younger brother of Madeleine McCann, will swim for Scotland at the Commonwealth Games in Glasgow on Saturday.",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/c4gw7pzg70yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-25T05:15:28+00:00"
+    },
+    {
+      "title": "World’s First Room-Temperature Quantum Material Sorts Light in an Unprecedented Way",
+      "description": "Quantum materials could transform technologies ranging from powerful computers and highly secure communications to advanced energy systems, but one major obstacle has long stood in the way. Most quantum materials reveal their unusual properties only when chilled to temperatures near absolute zero. A",
+      "url": "https://scitechdaily.com/worlds-first-room-temperature-quantum-material-sorts-light-in-an-unprecedented-way/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-25T00:46:09+00:00"
+    },
+    {
+      "title": "Mathematician Offers New Solution to a Fundamental Cosmic Paradox",
+      "description": "New research examines how gravity can be reconciled with thermodynamics through the Gravity from Entropy theory. Galaxies, stars, planets, and life emerged as the Universe expanded and became more complex. Yet the second law of thermodynamics says that the total entropy of an isolated system should ",
+      "url": "https://scitechdaily.com/mathematician-offers-new-solution-to-a-fundamental-cosmic-paradox/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-25T00:11:49+00:00"
+    },
+    {
+      "title": "Scientists Turn Plastic Waste Into Clean Hydrogen Fuel",
+      "description": "The advance could provide a scalable route to clean energy while making plastic recycling more effective. A discarded bottle, shopping bag or car part can remain in the waste stream long after its useful life ends. Although plastic is everywhere in modern society, recycling it remains difficult beca",
+      "url": "https://scitechdaily.com/scientists-turn-plastic-waste-into-clean-hydrogen-fuel/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-24T23:36:04+00:00"
+    },
+    {
+      "title": "Long overdue, life-changing or frivolous? Your thoughts on wedding rule changes",
+      "description": "The government wants to relax wedding laws so couples can get married almost anywhere.",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8wlwzjx9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-24T23:31:11+00:00"
+    },
+    {
+      "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
+      "description": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
+      "url": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-24T23:23:53+00:00"
+    },
+    {
+      "title": "'I love a good scrap' - Ramsay-Peaty ready for his apprentice",
+      "description": "Adam Ramsay-Peaty says he expects a \"good scrap\" as master meets apprentice in the Glasgow swimming pool at the Commonwealth Games on Saturday.",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/c98v4l5vmq3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-24T22:58:34+00:00"
+    },
+    {
+      "title": "One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires",
+      "description": "Flames burned through the Deep Space Communications Complex near Madrid, but NASA has been unable to assess the damage as a wildfire emergency grips the region.",
+      "url": "https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-24T22:30:26+00:00"
+    },
+    {
+      "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
+      "description": "\"Any potential damage will be assessed when it is safe to do so.\"",
+      "url": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-24T22:28:20+00:00"
+    },
+    {
+      "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
+      "description": "Remember when Meta was planning to charge a $20 monthly subscription fee for the smart glasses feature that lets people hear each other more clearly - even though that feature runs locally on your glasses and doesn't require the cloud? Meta has paused those plans, spokesperson Tyler Yee confirms to ",
+      "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-24T22:27:46+00:00"
+    },
+    {
+      "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
+      "description": "“Halting this merger while our case proceeds is a critical victory,\" NY AG said.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-24T21:56:02+00:00"
+    },
+    {
+      "title": "Horror injury overshadows gymnastics silver at Commonwealths",
+      "description": "A horror fall from England gymnast Gabriel Langton overshadows his team's silver medal in the team event on the opening night of action at Glasgow 2026.",
+      "url": "https://www.bbc.co.uk/sport/articles/c151qlnzw05o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-24T21:53:49+00:00"
+    },
     {
       "title": "Canadian legislator reads out apparent LLM response in floor speech",
       "description": "\"Here’s a more natural, flowing version of that section...\"",
@@ -42,14 +226,6 @@
       "publishedAt": "2026-07-24T20:23:58+00:00"
     },
     {
-      "title": "Scotland win three medals in 45 minutes to kick-start Glasgow 2026",
-      "description": "Scotland claim three medals in a magnificent 45 minutes in the pool to kick-start the hosts' Commonwealth Games in fine style in Glasgow.",
-      "url": "https://www.bbc.co.uk/sport/swimming/articles/cy5dnelqyyzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-24T20:20:25+00:00"
-    },
-    {
       "title": "Long COVID Brain Scans Reveal Damage to Dopamine Neurons",
       "description": "New PET imaging findings suggest that some of long COVID’s most disabling symptoms may stem from disruption of the brain’s dopamine system. For many people with long COVID, the infection ends but the exhaustion, slowed thinking, memory problems, and loss of motivation do not. Researchers have strugg",
       "url": "https://scitechdaily.com/long-covid-brain-scans-reveal-damage-to-dopamine-neurons/",
@@ -74,14 +250,6 @@
       "publishedAt": "2026-07-24T19:23:44+00:00"
     },
     {
-      "title": "Kim feels 'pretty cool' after carding historic 59",
-      "description": "Michael Kim is thrilled to be \"part of the history books\" after a superb 12-under par round of 59 at the 3M Open in Minnesota.",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cpvw4kev14mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-24T19:17:21+00:00"
-    },
-    {
       "title": "Qualcomm is about to raise prices and that&#8217;s bad news for everyone",
       "description": "Qualcomm sent a letter to customers on Friday warning of plans to increase its prices by \"a percentage in the double digits,\" Bloomberg reports. The price hikes will go into effect starting with products shipped after September 1st. Qualcomm claims it has \"exhausted its ability to absorb higher cost",
       "url": "https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg",
@@ -98,7 +266,7 @@
       "publishedAt": "2026-07-24T19:14:04+00:00"
     },
     {
-      "title": "RFK Jr.'s hand-picked committee approves manufacture of peptides he uses",
+      "title": "RFK Jr.'s handpicked committee approves manufacture of peptides he uses",
       "description": "There's no human safety or efficacy data, but that no longer seems to matter.",
       "url": "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
       "source": "Ars Technica",
@@ -146,14 +314,6 @@
       "publishedAt": "2026-07-24T18:07:19+00:00"
     },
     {
-      "title": "Hamilton fastest as new Aston Martin makes encouraging debut",
-      "description": "Lewis Hamilton leads team-mate Charles Leclerc to a Ferrari one-two in Friday practice at the Hungarian Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c3v0wp9yvdgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-24T18:03:56+00:00"
-    },
-    {
       "title": "Judge rebuffs Trump admin demand for phone records from NYT reporters",
       "description": "\"We can quash the subpoenas, or you could withdraw the subpoenas,” judge told US.",
       "url": "https://arstechnica.com/tech-policy/2026/07/judge-rebuffs-trump-admin-demand-for-phone-records-from-nyt-reporters/",
@@ -162,68 +322,12 @@
       "publishedAt": "2026-07-24T18:02:21+00:00"
     },
     {
-      "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
-      "description": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-24T17:53:01+00:00"
-    },
-    {
       "title": "European Union grants US request to restrict satellite images of Iran War region",
       "description": "New delay on Copernicus satellite pics comes as US ramps up war with Iran again.",
       "url": "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-07-24T17:45:05+00:00"
-    },
-    {
-      "title": "Blade Runner 2099’s moody dystopia streams on Amazon in November",
-      "description": "After teasing the series with some first-look images yesterday, Amazon is finally properly unveiling its Blade Runner streaming series. Called Blade Runner 2099, the show hits Prime Video on November 25th with all eight episodes dropping at once. We also got the first trailer for the series, which i",
-      "url": "https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-24T17:40:00+00:00"
-    },
-    {
-      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-      "description": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
-      "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-24T17:31:26+00:00"
-    },
-    {
-      "title": "You can’t ignore Google Zero anymore",
-      "description": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the [",
-      "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-24T17:29:48+00:00"
-    },
-    {
-      "title": "Pogacar on verge of fifth Tour title after Alpe d'Huez win",
-      "description": "Defending Tour de France champion Tadej Pogacar is on the verge of winning a record-equalling fifth Tour de France after taking a storming victory on stage 19 to Alpe d'Huez.",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/c2elrwxe941o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-24T17:17:42+00:00"
-    },
-    {
-      "title": "Fury wins low-key warm-up to keep Joshua fight on track",
-      "description": "British heavyweight Tyson Fury stops Mariusz Wach in a low-key bout in Thailand to keep a potential blockbuster fight with Anthony Joshua on track.",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/cy5dnnq1l0po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-24T17:17:38+00:00"
-    },
-    {
-      "title": "NBA superstar James, 41, to join Philadelphia 76ers",
-      "description": "Basketball superstar LeBron James announces he will join the Philadelphia 76ers for what he says will be his final contract in the NBA.",
-      "url": "https://www.bbc.co.uk/sport/articles/cx27r0me3zno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-24T16:07:33+00:00"
     },
     {
       "title": "Scientists Are Turning Empty Roadsides Into Butterfly Habitats",
@@ -242,44 +346,12 @@
       "publishedAt": "2026-07-24T15:27:41+00:00"
     },
     {
-      "title": "This is the world's most advanced robotic servicing satellite—that we know about",
-      "description": "\"These are things that tend to be really hard.\"",
-      "url": "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-24T15:23:06+00:00"
-    },
-    {
-      "title": "Silicon Valley Is Completely Divided Over Chinese AI",
-      "description": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
-      "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-24T15:00:00+00:00"
-    },
-    {
-      "title": "Scientists Warn a Silent Oxygen Crisis Is Spreading Through Earth’s Waters",
-      "description": "New research calls for aquatic deoxygenation to be recognized as a critical planetary process under threat. Oxygen is declining across oceans, coastal waters, rivers, lakes and streams, threatening the organisms and chemical processes that depend on it. A review led by researchers at UC San Diego’s ",
-      "url": "https://scitechdaily.com/scientists-warn-a-silent-oxygen-crisis-is-spreading-through-earths-waters/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-24T14:52:37+00:00"
-    },
-    {
       "title": "First person gets new experimental vaccine for Ebola",
       "description": "Ed Hunt, 37 and from the UK, voluteered after seeing news reports of the deadly Ebola outbreak in DR Congo.",
       "url": "https://www.bbc.co.uk/news/articles/c8jn007gmpzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-07-24T14:43:51+00:00"
-    },
-    {
-      "title": "Rodri to have back surgery but Maresca brushes off transfer speculation",
-      "description": "World Cup winner Rodri is to have back surgery, says new Manchester City boss Enzo Maresca.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c36dw0nwexxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-24T14:24:53+00:00"
     },
     {
       "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
@@ -290,84 +362,12 @@
       "publishedAt": "2026-07-24T14:02:26+00:00"
     },
     {
-      "title": "We split money equally even when one of us earned a lot more",
-      "description": "Hannah and Max continued to pool finances after Max was made redundant but took \"drastic measures\" to cut spending.",
-      "url": "https://www.bbc.co.uk/news/articles/cz05rdn1n80o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-24T13:33:02+00:00"
-    },
-    {
       "title": "US hits dozens of countries with new wave of tariffs",
       "description": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
       "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-07-24T12:40:44+00:00"
-    },
-    {
-      "title": "Rare “Super-Jupiter” Discovered on an Extraordinary 180-Day Orbit",
-      "description": "Scientists discovered a rare planet larger than Jupiter orbiting a distant star once every 180 days. A planet nearly five times as massive as Jupiter circles a distant star once every 180 days. Known as NGTS-38 b, it is an exoplanet, meaning a world that orbits a star outside our solar system. NGTS-",
-      "url": "https://scitechdaily.com/rare-super-jupiter-discovered-on-an-extraordinary-180-day-orbit/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-24T11:54:48+00:00"
-    },
-    {
-      "title": "Best Window Air Conditioners of 2026: Midea, Zafro, GE",
-      "description": "These are the AC units we’ve trusted to cool our homes for months, if not years.",
-      "url": "https://www.wired.com/gallery/best-window-air-conditioners/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-24T11:37:00+00:00"
-    },
-    {
-      "title": "First Sugar Ever Found in Interstellar Space Could Help Explain Life’s Origins",
-      "description": "Researchers have detected a sugar in the interstellar medium for the first time. Sugars are central to life. They help form the structural backbone of DNA and RNA and participate in essential metabolic reactions. They are also thought to have been necessary for the formation of the earliest nucleic ",
-      "url": "https://scitechdaily.com/first-sugar-ever-found-in-interstellar-space-could-help-explain-lifes-origins/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-24T11:19:51+00:00"
-    },
-    {
-      "title": "BenQ TK705STi 4K Projector Review: A Midrange Pick for Gamers",
-      "description": "The TK705STi’s highly responsive, low-latency performance makes gameplay ultra-realistic. For movies and TV? It’s a purely average home projector.",
-      "url": "https://www.wired.com/review/benq-tk705sti-4k-projector/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-24T11:01:00+00:00"
-    },
-    {
-      "title": "What Is Entropy, Really?",
-      "description": "Never mind the “heat death of the universe.” Entropy is just a bridge between two levels of reality.",
-      "url": "https://www.wired.com/story/what-is-entropy-really/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-24T11:00:00+00:00"
-    },
-    {
-      "title": "Why are UK fuel prices rising again?",
-      "description": "UK petrol and diesel prices are going up again as the price of oil returns to around $100 a barrel.",
-      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-24T10:45:41+00:00"
-    },
-    {
-      "title": "Klopp starts Germany reign by threatening to quit",
-      "description": "Jurgen Klopp starts his reign as Germany's head coach by threatening to quit if the media invades his family's privacy.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqjxd0n4gd2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-24T10:40:05+00:00"
-    },
-    {
-      "title": "Some of Our Favorite Brain-Boosting Toys for Kids of All Ages",
-      "description": "From musical instruments and games to play pieces that encourage balance and dexterity, these toys will engage your child’s mind and body.",
-      "url": "https://www.wired.com/story/these-are-some-of-our-favorite-brain-boosting-toys-for-kids-of-all-ages/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-24T10:30:00+00:00"
     },
     {
       "title": "Watch: Another day, more Trump tariffs - but are they working?",
@@ -424,22 +424,6 @@
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-07-23T10:22:15+00:00"
-    },
-    {
-      "title": "'Life-changing' MS drug to help people walk now on NHS in England",
-      "description": "Fampridine boosts nerve signals to make it easier to walk, with up to 5,000 eligible.",
-      "url": "https://www.bbc.co.uk/news/articles/cgmkygjk9g2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-07-22T23:38:58+00:00"
-    },
-    {
-      "title": "Tesla’s profits slide despite growing revenue as it pivots to robotics and AI",
-      "description": "Shares in Elon Musk company fall more 3% in after-hours trading, as earnings per share miss Wall Street expectationsTesla reported its second-quarter earnings on Wednesday, disclosing far lower profits than expected. The company’s already beleaguered stock, which had fallen about 14% this year to da",
-      "url": "https://www.theguardian.com/technology/2026/jul/22/tesla-profits-earnings",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-07-22T23:00:17+00:00"
     }
   ]
 }
