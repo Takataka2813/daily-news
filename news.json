@@ -1,6 +1,254 @@
 {
-  "updatedAt": "2026-07-26T21:57:30.565340+00:00",
+  "updatedAt": "2026-07-27T12:08:17.272526+00:00",
   "articles": [
+    {
+      "title": "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic",
+      "description": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct respo",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-27T12:06:22+00:00"
+    },
+    {
+      "title": "With smart glasses, Meta holds all the cards but fails to play them well",
+      "description": "Across New York City, London, and Washington, DC, ads for Meta's smart glasses have been plastered over with satirical posters from activist groups. One guerrilla ad calls these \"the biggest advancement in pervert technology since the trenchcoat.\" Another transposes the words \"mass surveillance pred",
+      "url": "https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-27T12:00:00+00:00"
+    },
+    {
+      "title": "Scientists Test Natural Compounds Against Sarcoma: Which One Shows the Most Promise?",
+      "description": "A laboratory study identified curcumin as the plant compound offering the best balance of anticancer activity and safety against fibrosarcoma cells. A plant compound can damage cancer cells in the laboratory yet still prove too toxic to become a useful treatment. That distinction emerged when resear",
+      "url": "https://scitechdaily.com/scientists-test-natural-compounds-against-sarcoma-which-one-shows-the-most-promise/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-27T11:52:00+00:00"
+    },
+    {
+      "title": "Oil price dives as US and Iran pause attacks",
+      "description": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
+      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-27T11:50:23+00:00"
+    },
+    {
+      "title": "Fury v Joshua closer but hurdles still to clear",
+      "description": "The long-awaited heavyweight fight between Britons Tyson Fury and Anthony Joshua moves a step closer after they won their respective warm-up fights.",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/ckg3xj2j27mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-27T11:49:49+00:00"
+    },
+    {
+      "title": "England's Langton feared for gymnastics future after fall",
+      "description": "England's Gabriel Langton says he feared for his future in gymnastics after his horror fall at the Commonwealth Games.",
+      "url": "https://www.bbc.co.uk/sport/gymnastics/articles/c20exv1q74vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-27T11:28:32+00:00"
+    },
+    {
+      "title": "Singapore Has the World’s Longest, Healthiest Lives – but It Comes With a Hidden Cost",
+      "description": "Singapore now leads the world in both lifespan and healthy lifespan, but its remarkable longevity gains reveal a growing divide between years lived and years lived well. Singaporeans live longer and remain healthy longer than people anywhere else, yet they are also spending an increasing number of y",
+      "url": "https://scitechdaily.com/singapore-has-the-worlds-longest-healthiest-lives-but-it-comes-with-a-hidden-cost/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-27T11:17:36+00:00"
+    },
+    {
+      "title": "The 10 Best WIRED-Tested Handheld Vacuums of 2026",
+      "description": "Lightweight, powerful, and generally inexpensive, the handheld vacuum is the perfect household helper.",
+      "url": "https://www.wired.com/gallery/the-best-handheld-vacuum/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-27T11:03:00+00:00"
+    },
+    {
+      "title": "Brighton captain Symonds signs new 'long-term' deal",
+      "description": "Brighton captain Maisie Symonds signs a new contract, described by the club as long-term.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpvwrg0kmgro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-27T11:00:39+00:00"
+    },
+    {
+      "title": "Wellness Influencers Are Pushing ‘Natural’ and Unproven Alternatives to Adderall",
+      "description": "Ads on Instagram, TikTok, and YouTube are painting prescription stimulants in a negative light while promoting supplements for ADHD that lack evidence.",
+      "url": "https://www.wired.com/story/wellness-influencers-are-pushing-natural-and-unproven-alternatives-to-adderall/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-27T11:00:00+00:00"
+    },
+    {
+      "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
+      "description": "Meme generator may have screwed up by using templates in outputs, expert says.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-27T10:50:37+00:00"
+    },
+    {
+      "title": "Scientists Discover the First Contagious Cancer in a Freshwater Animal",
+      "description": "Vermont scientists were surprised to discover a melanoma that spreads from one catfish to another like a parasite, marking the first known transmissible cancer in a freshwater animal. Raised black lesions have appeared on brown bullhead catfish across Lake Memphremagog and other waters in New Englan",
+      "url": "https://scitechdaily.com/scientists-discover-the-first-contagious-cancer-in-a-freshwater-animal/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-27T10:42:21+00:00"
+    },
+    {
+      "title": "3 Best Smart Ring Models: Oura, RingConn, and Samsung (2026)",
+      "description": "A svelte smart ring can track important activity, sleep, and health metrics. Plus, unlike most smartwatches, it doesn’t need to be charged every day.",
+      "url": "https://www.wired.com/gallery/best-smart-rings/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-27T10:35:00+00:00"
+    },
+    {
+      "title": "Businessman and philanthropist Sir Ian Wood dies aged 84",
+      "description": "The Aberdeen-based businessman turned his family's boat repair firm into an oil and gas engineering giant.",
+      "url": "https://www.bbc.co.uk/news/articles/ce3qv0p9105o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-27T10:33:08+00:00"
+    },
+    {
+      "title": "Real Madrid contract talks and Arsenal interest - what is Vinicius Jr's future?",
+      "description": "With Real Madrid renewing contract talks and Arsenal showing interest, there may be no more intriguing transfer situation right now than Vinicius Jr's future.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-27T10:26:36+00:00"
+    },
+    {
+      "title": "Chinese chipmaker shares surge nearly 470% in blockbuster stock market debut",
+      "description": "The company's shares soared by nearly 470% in its market debut, as the AI boom drives chip demand.",
+      "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-27T10:19:36+00:00"
+    },
+    {
+      "title": "This Is Donald Trump’s AI Brain Trust",
+      "description": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.",
+      "url": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-27T10:00:00+00:00"
+    },
+    {
+      "title": "Best Laptops for College Students (2026): MacBooks and Beyond",
+      "description": "Laptops for college should be portable, offer long battery life, and be well priced. Based on testing hundreds of laptops, these are my top picks.",
+      "url": "https://www.wired.com/story/best-college-laptops/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-27T09:31:00+00:00"
+    },
+    {
+      "title": "Measles Is Becoming So Common That Treatments May Soon Be Needed",
+      "description": "As the US sees its highest number of measles cases in decades and vaccination rates fall, researchers are developing drugs to help those who contract the virus or who are particularly vulnerable.",
+      "url": "https://www.wired.com/story/measles-treatments-soon-needed/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-27T09:30:00+00:00"
+    },
+    {
+      "title": "Ferrari must 'do better' after errors in Hungary",
+      "description": "The BBC F1 team discuss Ferrari's performance at the Hungarian Grand Prix as, despite appearing to be the car to beat in practice, Charles Leclerc and Lewis Hamilton finish the race in fourth and fifth respectively.",
+      "url": "https://www.bbc.co.uk/sport/formula1/videos/c4gkrd4e8kno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-27T09:00:38+00:00"
+    },
+    {
+      "title": "Soundcore Nebula P1i Projector Review: New Design, Classic Pitfalls",
+      "description": "I tested the Soundcore Nebula P1i, an affordable projector, to see if it could overcome the typical drawbacks that most budget projectors suffer from.",
+      "url": "https://www.wired.com/review/soundcore-nebula-p1i-projector/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-27T09:00:00+00:00"
+    },
+    {
+      "title": "It’s Becoming Clear Why Black Holes Never Run Out of Fuel",
+      "description": "Black holes eject powerful energy jets that blow away the surrounding gas to great distances. So how can they continue to grow?",
+      "url": "https://www.wired.com/story/its-becoming-clear-why-black-holes-never-run-out-of-fuel/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-27T09:00:00+00:00"
+    },
+    {
+      "title": "Meditate, pray or watch football instead of spreading hate - Infantino",
+      "description": "Fifa president Gianni Infantino tells critics to \"meditate, pray or watch a football match\" instead of \"spreading hate and false rumours\" about him and the World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-27T08:07:28+00:00"
+    },
+    {
+      "title": "Record Spurs spend shows new ambition - Van de Ven",
+      "description": "Micky van de Ven says Tottenham's record spending highlights a \"new ambition\" after an \"unacceptable\" season.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gw34l26xzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-27T07:00:41+00:00"
+    },
+    {
+      "title": "NASA Astronaut Comes Home After 3,856 Orbits of Earth",
+      "description": "After 3,856 orbits and more than 102 million miles, Chris Williams returned from a mission advancing science and preparing humanity for the Moon and Mars. NASA astronaut Chris Williams returned to Earth on Sunday after completing an eight-month science mission aboard the International Space Station.",
+      "url": "https://scitechdaily.com/nasa-astronaut-comes-home-after-3856-orbits-of-earth/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-27T06:01:52+00:00"
+    },
+    {
+      "title": "Diomande agrees Real Madrid terms as PSG step away",
+      "description": "RB Leipzig winger Yan Diomande agrees personal terms with Real Madrid after Paris St-Germain withdraw their interest.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx74lpprd7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-27T05:46:37+00:00"
+    },
+    {
+      "title": "Shein swings to $99m loss as Trump tariffs hit sales",
+      "description": "The announcement comes as the fast fashion giant prepares for its stock market debut in Hong Kong.",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-27T02:08:36+00:00"
+    },
+    {
+      "title": "A Rare and Deadly Cancer May Have an Unexpected New Vulnerability",
+      "description": "A Vermont research team achieved disease control in 67% of patients by targeting cancer’s energy system. Mesothelioma often begins with an exposure that happened decades earlier. Asbestos fibers inhaled into the lungs can remain trapped there, causing chronic inflammation that eventually contributes",
+      "url": "https://scitechdaily.com/a-rare-and-deadly-cancer-may-have-an-unexpected-new-vulnerability/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-27T00:16:49+00:00"
+    },
+    {
+      "title": "Sleep Disorders Don’t Just Exhaust You. New Research Shows They Change Your Brain",
+      "description": "Sleep disorders are associated with shared and distinct structural changes in brain systems that support attention, decisions and emotional control. A poor night’s sleep can affect far more than energy the next day. Research from Florida International University links sleep disorders with structural",
+      "url": "https://scitechdaily.com/sleep-disorders-dont-just-exhaust-you-new-research-shows-they-change-your-brain/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-26T23:41:47+00:00"
+    },
+    {
+      "title": "Would you choose £50,000 over the chance of £1m?",
+      "description": "The vast majority of people - particularly women - answer a survey saying they'd take the certainty over chance.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-26T23:11:36+00:00"
+    },
+    {
+      "title": "THC-CBD Treatment Dramatically Reduces Agitation in Dementia Trial",
+      "description": "A medically formulated THC and CBD treatment reduced agitation in a blinded trial involving people with late-stage dementia. Restlessness, aggression, and emotional distress can make late-stage dementia especially difficult for patients and caregivers. In a first-of-its-kind U.S. clinical trial, a s",
+      "url": "https://scitechdaily.com/thc-cbd-treatment-dramatically-reduces-agitation-in-dementia-trial/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-26T23:06:46+00:00"
+    },
     {
       "title": "Champagne and Bullets belongs on the Mount Rushmore of bad movies",
       "description": "There's something about a movie like The Room, Troll 2, or Fateful Findings that I find irresistible. These sorts of \"so bad they're good\" films are marvelous curiosities where ambition far outstrips resources, ability, and self-awareness to become something much greater than the sum of their parts.",
@@ -18,22 +266,6 @@
       "publishedAt": "2026-07-26T21:15:21+00:00"
     },
     {
-      "title": "PSG want £145m for Barcola - Monday's gossip",
-      "description": "Paris St-Germain want £145m for Bradley Barcola, Real Madrid set Vinicius Jr price and Arsenal to accelerate Bruno Guimaraes talks, plus more.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly5189yjgdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-26T21:06:05+00:00"
-    },
-    {
-      "title": "Littler wins Matchplay and smashes Taylor record",
-      "description": "Luke Littler sets a new record for the tournament average and final average in a World Matchplay as he defends his title in Blackpool by beating Gerwyn Price 18-9.",
-      "url": "https://www.bbc.co.uk/sport/darts/articles/cwym032rlkvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-26T21:03:39+00:00"
-    },
-    {
       "title": "Badenoch says PM must rule out tax rises to fund social care reform",
       "description": "In a letter to the PM, the Conservative leader offers to work with him on adult social care reform.",
       "url": "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo?at_medium=RSS&at_campaign=rss",
@@ -42,36 +274,12 @@
       "publishedAt": "2026-07-26T21:00:27+00:00"
     },
     {
-      "title": "Japan legend Miura, 59, scores first goal since 2022",
-      "description": "Kazuyoshi Miura, the world's oldest professional footballer, scores his first goal in nearly four years at the age of 59 for Japanese third-tier side Fukushima United.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3r087181ndo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-26T20:57:04+00:00"
-    },
-    {
-      "title": "Craig Overton hits twin Jamie for decisive six",
-      "description": "Craig Overton wins the battle against his twin brother as Trent Rockets beat London Spirit, while Jos Buttler stars for Manchester Super Giants.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cgk4ggvk25mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-26T20:32:52+00:00"
-    },
-    {
-      "title": "Evans steps out of shadows into spotlight with Scotland's fourth gold",
-      "description": "Angharad Evans was overlooked before these Commonwealth Games. But now the Scotland swimmer is a gold medallist.",
-      "url": "https://www.bbc.co.uk/sport/swimming/articles/cn9n17vy25wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-26T19:55:15+00:00"
-    },
-    {
-      "title": "Pogacar wins fifth Tour title amid Paris finish drama",
-      "description": "Slovenian Tadej Pogacar wins the Tour de France for a record-equalling fifth time.",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/c07r8d4d2z5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-26T19:43:56+00:00"
+      "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
+      "description": "Plus Mike Flanagan's Carrie teaser, trailers for Dark Matter S2 and Matchbox the Movie, and Marvel news.",
+      "url": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-26T19:48:43+00:00"
     },
     {
       "title": "Apple is banking on privacy to set its smart glasses apart",
@@ -90,22 +298,6 @@
       "publishedAt": "2026-07-26T19:32:57+00:00"
     },
     {
-      "title": "Norris and McLaren almost perfect as Ferrari flounder in Hungary",
-      "description": "Lando Norris' first grand prix win of 2026 was a long time coming as the mistakes piled up for Ferrari in Hungary, writes Andrew Benson.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cz7d9p3yplno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-26T19:19:43+00:00"
-    },
-    {
-      "title": "The Lost “Golden Age” of Human Language",
-      "description": "New modeling suggests that tens of thousands of languages were spoken between 1,000 and 3,000 years ago, and that their decline began long before European colonial expansion. Around 7,500 languages are spoken or signed today, but that number captures only one moment in a much longer and less visible",
-      "url": "https://scitechdaily.com/the-lost-golden-age-of-human-language/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-26T18:57:56+00:00"
-    },
-    {
       "title": "The US is charging an American citizen for wiping his phone at the border",
       "description": "The government is prosecuting US citizen Sam Tunick for allegedly providing authorities with a \"duress password\" that wiped his phone when they tried to seize it at Atlanta's Hartsfield-Jackson airport on January 24th, 2025. Federal agents detained Tunick at the airport, allegedly questioning him ab",
       "url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
@@ -114,44 +306,12 @@
       "publishedAt": "2026-07-26T18:45:50+00:00"
     },
     {
-      "title": "Scientists Say Love Follows Mathematical Patterns",
-      "description": "By expanding dynamical systems theories to account for forgetting rates, attraction levels, and reaction patterns, math can now identify ‘relationship danger zones’. Could the course of a romantic relationship be traced through equations? Three decades of research suggest that love can follow recogn",
-      "url": "https://scitechdaily.com/scientists-say-love-follows-mathematical-patterns/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-26T18:22:54+00:00"
-    },
-    {
-      "title": "Chiesa happy but wants new chapter at Liverpool",
-      "description": "Liverpool forward Federico Chiesa says he is \"happy\" at the club amid speculation over his future.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70gzrx034ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-26T16:02:26+00:00"
-    },
-    {
-      "title": "Long-Term Money Problems May Accelerate Brain Aging",
-      "description": "Decades of financial hardship were associated with poorer cognition and brain health later in life. Years of persistent financial strain may leave measurable effects on cognitive performance by middle age and on brain health decades later. Research led by University College London (UCL) linked long-",
-      "url": "https://scitechdaily.com/long-term-money-problems-may-accelerate-brain-aging/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-26T15:51:23+00:00"
-    },
-    {
       "title": "Carrie is just trying to make a friend in the new trailer",
-      "description": "Mike Flanagan's latest Stephen King adaptation, Carrie (this will be his fourth), is slated to make its debut on Amazon Prime on October 7th. The new trailer dropped at Comic-Con 2026 and doesn't contain many surprises. If you're familiar with Carrie at all, it hits all the expected notes. Though it",
+      "description": "Mike Flanagan's latest Stephen King adaptation, Carrie (this will be his fourth), is slated to make its debut on Amazon Prime on October 7th. The new trailer dropped at Comic-Con 2026 and doesn't contain many surprises. If you're familiar with Carrie at all, it hits all the expected notes, though it",
       "url": "https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con",
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-07-26T15:33:27+00:00"
-    },
-    {
-      "title": "The Surprising Brain Chemistry That Turns Ants Into Caregivers",
-      "description": "Parenting may have evolved by repurposing the brain’s ancient hunger circuits. Long before parenting became widespread, many animals simply laid eggs and left their offspring to survive alone. A new study published in Nature reveals how evolution may have turned that lack of care into nurturing beha",
-      "url": "https://scitechdaily.com/the-surprising-brain-chemistry-that-turns-ants-into-caregivers/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-26T15:15:53+00:00"
     },
     {
       "title": "You can get three months of Xbox Game Pass Ultimate for almost half off",
@@ -168,86 +328,6 @@
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-07-26T14:51:33+00:00"
-    },
-    {
-      "title": "“Zombie Cells” Reveal a Hidden Weakness That Could Help Fight Aging",
-      "description": "Researchers found that the enzyme acid ceramidase can make aging cells more vulnerable to ferroptosis, a form of cell death, and may be a promising target for promoting healthy aging. As more people live into advanced age, the challenge is no longer simply extending life but preserving health for as",
-      "url": "https://scitechdaily.com/zombie-cells-reveal-a-hidden-weakness-that-could-help-fight-aging/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-26T14:40:43+00:00"
-    },
-    {
-      "title": "A Fiber Frozen at -196°C Unlocks a New Way To Store Light",
-      "description": "A frozen-core optical fiber has revealed a powerful new way to control interactions between light and sound. Molten lava hardens into rock as it cools, much as the surface of a lake freezes during a cold winter. In both cases, a liquid becomes a solid, changing physical properties such as density an",
-      "url": "https://scitechdaily.com/a-fiber-frozen-at-196c-unlocks-a-new-way-to-store-light/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-26T12:07:35+00:00"
-    },
-    {
-      "title": "The vertical video takeover is here",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on all things vertical video, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started For a while, every social an",
-      "url": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-26T12:00:00+00:00"
-    },
-    {
-      "title": "Scientists Solve a Decades-Old Mystery Inside Atomic Nuclei",
-      "description": "Results from an experiment at the Facility for Rare Isotope Beams answer a fundamental question about the structure of atomic nuclei and help explain how different elements formed in space. For decades, some atomic nuclei have emitted more low-energy gamma rays than theory could explain. A collabora",
-      "url": "https://scitechdaily.com/scientists-solve-a-decades-old-mystery-inside-atomic-nuclei/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-26T11:32:29+00:00"
-    },
-    {
-      "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
-      "description": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
-      "url": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-26T11:09:00+00:00"
-    },
-    {
-      "title": "All the Ways You Can Make Reading on Your Phone Easier",
-      "description": "Tired of eye strain? These tips will help optimize your smartphone for marathon reading sessions.",
-      "url": "https://www.wired.com/story/all-the-ways-you-can-make-reading-easier-on-your-phone/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-26T11:00:00+00:00"
-    },
-    {
-      "title": "The Solution to the Power Grid's Woes Might Just Be Sitting in Your Driveway",
-      "description": "More electric vehicles are becoming capable of providing backup power at a time when the US is increasingly in need of more electrons.",
-      "url": "https://www.wired.com/story/ev-bidirectional-charging-solution-to-power-grid-woes/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-26T10:45:00+00:00"
-    },
-    {
-      "title": "The Best Motorola Phones, From Razr to Moto G (2026)",
-      "description": "Motorola phones may seem old-school, but their reasonable prices, colorful designs, and simple software make them good, wallet-friendly Android smartphones.",
-      "url": "https://www.wired.com/story/best-motorola-phones/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-26T10:34:00+00:00"
-    },
-    {
-      "title": "The Best Subscription-Free Home Security Cameras I’ve Tried",
-      "description": "You don’t have to upload your video to the cloud or pay a monthly fee to secure your home. These security cameras record locally.",
-      "url": "https://www.wired.com/story/best-subscription-free-security-cameras/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-26T10:00:00+00:00"
-    },
-    {
-      "title": "Best GoPro Camera (2026): Compact, Budget, Accessories",
-      "description": "You’re an action hero, and you need a camera to match. We guide you through all the models, plus accessory recommendations and hidden software tricks to try.",
-      "url": "https://www.wired.com/gallery/best-gopro-hero-camera/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-26T10:00:00+00:00"
     },
     {
       "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
@@ -282,76 +362,12 @@
       "publishedAt": "2026-07-25T20:00:26+00:00"
     },
     {
-      "title": "Google basically confirms the Pixel 11 is getting a price hike",
-      "description": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion of AI data centers, the rumored price hike is not a complete ",
-      "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-25T18:13:36+00:00"
-    },
-    {
       "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
       "description": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
       "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-07-25T17:47:22+00:00"
-    },
-    {
-      "title": "Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026)",
-      "description": "Friendly hobby machine or serious production tool? Here’s how to know which one is for you.",
-      "url": "https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-25T11:06:00+00:00"
-    },
-    {
-      "title": "With help from data, art museums are reframing the visitor experience",
-      "description": "Museums are embracing data-driven curation and a shifting technology landscape.",
-      "url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-25T11:00:32+00:00"
-    },
-    {
-      "title": "3 Clever Things You Can Do With an Old Amazon Kindle",
-      "description": "These e-readers are more useful in their old age than you might think.",
-      "url": "https://www.wired.com/story/3-clever-things-you-can-do-with-an-old-amazon-kindle/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-25T11:00:00+00:00"
-    },
-    {
-      "title": "Big Tech accused of stonewalling European social media researchers",
-      "description": "Researchers say TikTok, X, and Meta aren't providing data they're legally required to.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-25T10:45:32+00:00"
-    },
-    {
-      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-      "description": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-25T10:14:41+00:00"
-    },
-    {
-      "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
-      "description": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
-      "url": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-24T23:23:53+00:00"
-    },
-    {
-      "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
-      "description": "\"Any potential damage will be assessed when it is safe to do so.\"",
-      "url": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-24T22:28:20+00:00"
     }
   ]
 }
