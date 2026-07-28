@@ -1,6 +1,342 @@
 {
-  "updatedAt": "2026-07-28T11:07:11.730097+00:00",
+  "updatedAt": "2026-07-28T22:02:41.839470+00:00",
   "articles": [
+    {
+      "title": "eBay agrees $56m settlement with bloggers over harassment case",
+      "description": "Former eBay executives carried out \"unprecedented\" harassment over a critical newsletter.",
+      "url": "https://www.bbc.co.uk/news/articles/cj039p238r5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-28T21:49:16+00:00"
+    },
+    {
+      "title": "Ariana Grande is suing the hackers who&#8217;ve been leaking her songs and videos for years",
+      "description": "Ariana Grande filed a lawsuit on Monday in the Los Angeles County Superior Court against the currently unidentified hackers who allegedly stole and leaked private content. It aims to \"uncover the identities of these currently unknown and unscrupulous individuals,\" referred to as \"John Doe 1 and John",
+      "url": "https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-28T21:48:50+00:00"
+    },
+    {
+      "title": "The union drive at the Wikimedia Foundation is expanding",
+      "description": "In June, UK staff at the nonprofit that runs Wikipedia became the first to announce their intentions to form a union. Now, US-based employees at the Wikimedia Foundation are joining the union drive, but management at the nonprofit have declined to voluntarily recognize their union. \"While the Wikime",
+      "url": "https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-28T21:11:11+00:00"
+    },
+    {
+      "title": "eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement",
+      "description": "eBay and three former executives will pay $55.7 million as part of a settlement with a Massachusetts couple targeted with a bizarre harassment and cyberstalking campaign in 2019, as reported earlier by CNBC. The settlement will resolve a lengthy legal saga that revealed how eBay's former executives ",
+      "url": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-28T21:11:11+00:00"
+    },
+    {
+      "title": "Apple becomes second $5tn company as investors flee AI stocks",
+      "description": "Share price rally driven by strong product demand as well as decision to sit out AI spending race, amid wider tech sell-offApple has become only the second company to pass the $5tn valuation mark, as it benefited from investors fleeing AI and semiconductor stocks amid a wider tech sell-off.The iPhon",
+      "url": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-07-28T20:33:14+00:00"
+    },
+    {
+      "title": "Ebay Has to Pay $55.7 Million in Settlement for Its Unhinged Harassment Campaign",
+      "description": "For months on end, eBay employees and contractors made life hell for a couple that had criticized the company. Six years later, the company is finally paying up.",
+      "url": "https://www.wired.com/story/ebay-has-to-pay-dollar557-million-in-settlement-for-its-unhinged-harassment-campaign/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-28T20:15:19+00:00"
+    },
+    {
+      "title": "'Mariah Cleggy' channels Messi to swim to gold for Scotland",
+      "description": "Para-swimmer Stephen Clegg adds Commonwealth Games gold to his earlier silver to take Scotland's tally to seven.",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/cx25j65x4g8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-28T20:03:53+00:00"
+    },
+    {
+      "title": "Despair to delight for Wales' golden girl Evans",
+      "description": "Gymnast Ruby Evans goes from despair to gold in Glasgow after glory in the floor final at the Commonwealth Games.",
+      "url": "https://www.bbc.co.uk/sport/gymnastics/articles/c3r088n0wlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-28T20:00:36+00:00"
+    },
+    {
+      "title": "AI leaders sign statement asking the government to do something about automated AI",
+      "description": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance e",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-28T19:46:43+00:00"
+    },
+    {
+      "title": "Savinho open to leaving Man City amid Spurs interest",
+      "description": "Manchester City winger Savinho is open to leaving the club and is keen to join Premier League rivals Tottenham.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2kqvkwz17o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-28T19:37:04+00:00"
+    },
+    {
+      "title": "Is it illegal to trick the US government into wiping your phone during a questionably legal search?",
+      "description": "A Georgia man was charged with a felony for allegedly wiping his phone while being questioned by Customs and Border Protection. Samuel Tunick had something in common with others who have had their devices searched at airports: He was an activist. Unlike others who have had their phones seized with n",
+      "url": "https://www.theverge.com/report/972146/cbp-phone-search-airport-duress-password",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-28T19:35:00+00:00"
+    },
+    {
+      "title": "AI’s finally expensive enough to make Wall Street nervous",
+      "description": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected range - $195 billion - is much more than the company h",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-28T19:33:03+00:00"
+    },
+    {
+      "title": "Laura Loomer’s Reversal on Ukraine Stirs Up the MAGA Civil War",
+      "description": "Donald Trump’s base has been increasingly spilt. Laura Loomer’s sudden embrace of Ukraine has only widened that divide.",
+      "url": "https://www.wired.com/story/laura-loomer-ukraine/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-28T19:30:33+00:00"
+    },
+    {
+      "title": "Screen Time at Ages 1 and 6 Linked to Lasting Learning and Memory Effects",
+      "description": "Screen use at certain stages of childhood was linked to subtle differences in later academic and cognitive performance. Screens are now a routine part of life for many young children, but their possible effects on later learning remain uncertain. A study that tracked children from age 1 through age ",
+      "url": "https://scitechdaily.com/screen-time-at-ages-1-and-6-linked-to-lasting-learning-and-memory-effects/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-28T19:24:17+00:00"
+    },
+    {
+      "title": "This comfy gaming headset that can play audio from two sources is $25",
+      "description": "While most gaming headsets have moved towards low-latency wireless connections, there’s something to be said for a budget-friendly, capable wired headset. The EPOS H3 Hybrid is on sale for just $24.99 at Woot, a whopping 75 percent off its original price of $99.99. It has an unorthodox batch of feat",
+      "url": "https://www.theverge.com/gadgets/972021/epos-h3-hybrid-wired-gaming-headset-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-28T19:18:15+00:00"
+    },
+    {
+      "title": "Logitech will pull a Nintendo — only European mice will come with replaceable batteries",
+      "description": "In June, Nintendo announced a new version of the Switch 2 that should let you easily replace its battery pack - but only for Europe. Logitech will do much the same. User-replaceable batteries will be the law in Europe in February 2027, but instead of bringing them to the rest of the world, Logitech ",
+      "url": "https://www.theverge.com/tech/971963/logitech-user-replacable-batteries-europe",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-28T19:12:48+00:00"
+    },
+    {
+      "title": "Brain Scans Reveal Which Disorders May Accelerate Brain Aging",
+      "description": "Accelerated brain aging was associated with dementia, addiction, and psychiatric disorders such as schizophrenia. A brain scan can make a person’s brain appear older or younger than their actual age. Across tens of thousands of scans, researchers found that dementia, mild cognitive impairment, alcoh",
+      "url": "https://scitechdaily.com/brain-scans-reveal-which-disorders-may-accelerate-brain-aging/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-28T18:49:48+00:00"
+    },
+    {
+      "title": "New airliner sets record flying 24 hrs nonstop from Australia to France",
+      "description": "Record flight shows viability of Qantas Airways’ Project Sunrise routes in 2027.",
+      "url": "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-28T18:43:36+00:00"
+    },
+    {
+      "title": "Judge blocks first state law that would have banned prediction markets",
+      "description": "Judge may allow Minnesota to ban some types of bets, but not all of them.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-28T18:31:13+00:00"
+    },
+    {
+      "title": "Viagra May Block a Hidden Pathway Cancer Cells Need To Spread",
+      "description": "A familiar drug may influence an unexpected cellular pathway that controls how cholesterol moves inside cancer cells. A medication now closely associated with erectile dysfunction began as a treatment for high blood pressure and chest pain caused by limited blood flow to the heart. Three decades lat",
+      "url": "https://scitechdaily.com/viagra-may-block-a-hidden-pathway-cancer-cells-need-to-spread/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-28T18:14:31+00:00"
+    },
+    {
+      "title": "South Korean stock market at three-month low as AI sell-off intensifies",
+      "description": "Samsung and SK Hynix fall by more than 10% amid renewed fears over AI spending and Chinese competitionBusiness live – latest updatesThe sell-off in AI stocks has intensified, driving South Korea’s stock market down to its lowest level in three months.Investors continued to ditch chip stocks on Tuesd",
+      "url": "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-07-28T17:43:46+00:00"
+    },
+    {
+      "title": "Some parents on benefits to get up to £4,500 for child starting apprenticeship",
+      "description": "Some parents on benefits lose income if their children take on apprenticeships.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-28T17:32:56+00:00"
+    },
+    {
+      "title": "Zidane waited for France - now can he harness their star power?",
+      "description": "Zinedine Zidane says he waited for the France job, but what will he bring to the role after after five years out of management?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20dxgpjng3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-28T17:04:09+00:00"
+    },
+    {
+      "title": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
+      "description": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-28T16:35:05+00:00"
+    },
+    {
+      "title": "Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link",
+      "description": "Trump is fixated on the false, long-debunked claim that vaccines cause autism.",
+      "url": "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-28T16:16:25+00:00"
+    },
+    {
+      "title": "Uefa and PM criticise Infantino World Cup plan",
+      "description": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-28T15:36:29+00:00"
+    },
+    {
+      "title": "Underwater Drones Find “Dead” Coral Reefs Teeming With Life",
+      "description": "Researchers used sonar and underwater imaging systems to locate a mesophotic coral garden that scientists in the 1960s had assumed was dead. More than 50 meters beneath the waters off Benin, cameras revealed a coral community that scientists had once presumed dead. Fishing surveys conducted in the 1",
+      "url": "https://scitechdaily.com/underwater-drones-find-dead-coral-reefs-teeming-with-life/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-28T15:05:37+00:00"
+    },
+    {
+      "title": "Celtic 'a really good match' for record signing Hogh",
+      "description": "Celtic break their transfer record to sign Denmark striker Kasper Hogh from Bodo/Glimt on a four-year contract.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwymjrm0xlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-28T14:43:18+00:00"
+    },
+    {
+      "title": "How Brown Tree Snakes Became an Unstoppable Invasive Species",
+      "description": "Biologists have long wondered how such a small number of individuals from the invasive species managed to colonize the island so successfully. Few invasive animals have reshaped an ecosystem as dramatically as the brown tree snake, a species commonly used in textbooks to illustrate the damage biolog",
+      "url": "https://scitechdaily.com/how-brown-tree-snakes-became-an-unstoppable-invasive-species/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-28T14:30:34+00:00"
+    },
+    {
+      "title": "After 16 days of chaos, can Italian football reset for new era?",
+      "description": "Chaos consumed Italian football as Paolo Maldini and Leonardo resigned during the search for a manager – can Roberto Mancini now bring calm on being given the role?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cddj2m5m0p0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-28T14:19:01+00:00"
+    },
+    {
+      "title": "The 10 most overcrowded commuter trains revealed",
+      "description": "Overall, overcrowding in England and Wales fell slightly last year due to increased capacity, the government says.",
+      "url": "https://www.bbc.co.uk/news/articles/c20dxevjlvxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-28T14:17:57+00:00"
+    },
+    {
+      "title": "Ex-FCC officials warn agency sending ‘chilling message’ with ABC license review",
+      "description": "Ex-officials ask FCC to reject petitions to deny renewal of broadcast licenses for eight stations owned by ABCA group of prominent former Federal Communications Commission (FCC) officials, including key staffers and commissioners appointed by both Democratic and Republican presidents, issued a filin",
+      "url": "https://www.theguardian.com/us-news/2026/jul/28/fcc-former-officials-abc-licenses",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-07-28T14:00:05+00:00"
+    },
+    {
+      "title": "Is the Electric Trike the Next Big Thing in Shared Micromobility?",
+      "description": "Veo is launching accessibility-focused electric tricycles in Denver, with plans to put its e-trikes on the streets nationwide.",
+      "url": "https://www.wired.com/story/is-the-electric-trike-the-next-big-thing-in-shared-micromobility-veo-rover/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-28T14:00:00+00:00"
+    },
+    {
+      "title": "Horror maestro Mike Flanagan joins Henry Cavill on Warhammer adaptations",
+      "description": "The director is due to work on scripts based on the popular tabletop hobby, Games Workshop says.",
+      "url": "https://www.bbc.co.uk/news/articles/c62v8exggjeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-28T13:59:24+00:00"
+    },
+    {
+      "title": "Scientists Discover the Brain Is Not Always Ready To Make Memories",
+      "description": "Your brain may have brief windows when it is primed to transform a passing moment into a lasting memory. Researchers at the University of Tübingen found that natural shifts in alertness can briefly change the hippocampus, making its memory circuits more receptive to new information. The findings sug",
+      "url": "https://scitechdaily.com/scientists-discover-the-brain-is-not-always-ready-to-make-memories/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-28T13:55:19+00:00"
+    },
+    {
+      "title": "Is it safe to travel to France and Spain right now?",
+      "description": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+      "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-28T13:54:20+00:00"
+    },
+    {
+      "title": "As US measles cases rise, biotech firms start developing new treatments",
+      "description": "The US is making measles great again, so treatment options are needed for the most vulnerable.",
+      "url": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-28T13:32:23+00:00"
+    },
+    {
+      "title": "Alonso's first Chelsea match a tale of four strikers",
+      "description": "Xabi Alonso's first game as Chelsea manager is defined by four strikers - from one who scored a hat-trick to one who could leave.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1w13ddr4ejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-28T13:28:28+00:00"
+    },
+    {
+      "title": "Best Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders",
+      "description": "Your mom never gets you a thoughtless gift, so you shouldn’t get her one, either. Here’s every cool gift WIRED writers would give their mothers.",
+      "url": "https://www.wired.com/story/best-gifts-for-mom-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-28T12:04:00+00:00"
+    },
+    {
+      "title": "Best Apple Watch (2026): Series 11, SE 3, and Ultra 3",
+      "description": "Should you splurge on the new Series 11, or will the SE 3 do? Let us help you figure out which version to get (and which to avoid).",
+      "url": "https://www.wired.com/gallery/best-apple-watch/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-28T11:34:00+00:00"
+    },
+    {
+      "title": "Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)",
+      "description": "Let them pick out their own hiking boots. Instead, try gifting a useful blade or a nature journal to delight your outdoorsy friend.",
+      "url": "https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-outdoorsy-people/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-28T11:33:00+00:00"
+    },
+    {
+      "title": "What you wear can help you get a job - here's how",
+      "description": "While you need to answer the questions in an interview, your appearance and mannerisms are also crucial.",
+      "url": "https://www.bbc.co.uk/news/articles/c80neg5rd81o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-28T11:07:13+00:00"
+    },
     {
       "title": "A Two-Person Startup Has Fixed One of the Most Hated Sounds in Modern Life",
       "description": "Beeeep. Beeeep. Beeeeeeeeeeeeeeeep.",
@@ -26,30 +362,6 @@
       "publishedAt": "2026-07-28T10:30:00+00:00"
     },
     {
-      "title": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
-      "description": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-28T10:25:52+00:00"
-    },
-    {
-      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
-      "description": "Trading on South Korea's Kospi index was paused temporarily on Tuesday morning after slumping by 8%.",
-      "url": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-28T10:15:47+00:00"
-    },
-    {
-      "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
-      "description": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
-      "url": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-28T10:00:00+00:00"
-    },
-    {
       "title": "Dark Matter’s Secret Force Could Reshape Our Understanding of the Universe",
       "description": "Why giving dark matter an additional attractive force does not necessarily produce &#8220;clumpier matter.” Dark matter shapes galaxies and the large structure of the Universe through gravity, yet no one knows whether gravity is its only influence. Dark matter particles might also pull on one anothe",
       "url": "https://scitechdaily.com/dark-matters-secret-force-could-reshape-our-understanding-of-the-universe/",
@@ -58,140 +370,20 @@
       "publishedAt": "2026-07-28T09:57:33+00:00"
     },
     {
-      "title": "Dyson V16 Piston Animal Submarine Review: Powerful but Pricey",
-      "description": "Dyson’s new stick vacuum can vacuum and mop in a single cordless device—if you’re willing to really splurge.",
-      "url": "https://www.wired.com/review/dyson-v16-piston-animal-submarine/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-28T09:31:00+00:00"
-    },
-    {
-      "title": "7-OH Users Are Stockpiling and Doing Reddit Detoxes to Prep for Ban",
-      "description": "The opioid-like compound, which is found in kratom, can cause brutal withdrawal symptoms and will soon be a controlled substance. Some users tell WIRED it has relieved their pain and anxiety.",
-      "url": "https://www.wired.com/story/7-oh-users-brace-for-dea-ban/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-28T09:30:00+00:00"
-    },
-    {
-      "title": "This Star Is Racing Around the Milky Way’s Black Hole at 8% the Speed of Light",
-      "description": "A fast-moving star near the Milky Way’s central black hole could test gravity under unusually extreme conditions. General relativity provides a remarkably precise description of gravity, but most everyday calculations do not require it. Newton’s law of universal gravitation is accurate enough to gui",
-      "url": "https://scitechdaily.com/this-star-is-racing-around-the-milky-ways-black-hole-at-8-the-speed-of-light/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-28T09:22:38+00:00"
-    },
-    {
-      "title": "Local match goes viral over 'finger-clicking' cheating claim",
-      "description": "A viral video appears to show a fielder in a local match clicking his fingers as the ball passes the bat, before the batter is given out caught behind.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c86n10548yeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-28T09:11:45+00:00"
-    },
-    {
-      "title": "Hugging Face is being used to easily undress women and children",
-      "description": "Hugging Face is being used to make nonconsensual deepfakes, and the popular open-source AI model repository is doing very little to prevent it. That's according to a new report published by the European nonprofit AI Forensics, which found that seven out of the top nine image editing models hosted by",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-28T09:07:14+00:00"
-    },
-    {
-      "title": "Zidane confirmed as France head coach",
-      "description": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-28T09:03:49+00:00"
-    },
-    {
-      "title": "An Extreme Solar Storm May Be Even More Devastating Than Previously Imagined",
-      "description": "Scientists have long assumed that there’s an upper limit to the intensity of the solar winds that reach Earth. New research suggests there’s not—and the implications are alarming.",
-      "url": "https://www.wired.com/story/an-extreme-solar-storm-may-be-even-more-devastating-than-previously-imagined/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-28T09:00:00+00:00"
-    },
-    {
-      "title": "Is it safe to travel to France and Spain right now?",
-      "description": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
-      "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
+      "title": "ICE-linked security firm reports UK revenue slump after asylum contract ends",
+      "description": "MTC provided security at heavily criticised Manston centre in Kent – and could now make £500m managing arrivals at siteA private security company linked to Donald Trump’s immigration crackdown reported a slump in UK revenues after an asylum centre contract ended but could make £500m managing the sam",
+      "url": "https://www.theguardian.com/business/2026/jul/28/mtc-security-uk-ice-trump-manston-asylum-centre",
+      "source": "The Guardian",
       "category": "Business",
-      "publishedAt": "2026-07-28T08:50:39+00:00"
+      "publishedAt": "2026-07-28T09:00:35+00:00"
     },
     {
-      "title": "No excuses for Rangers as McInnes era is poised to begin",
-      "description": "An experienced figurehead in the dugout, Lawrence Shankland spearheading the attack and further financial backing - there are few excuses for Rangers this season.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzvnk92gko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-28T08:29:55+00:00"
-    },
-    {
-      "title": "Is struggling Ramsay-Peaty nearing the end?",
-      "description": "Can Adam Ramsay-Peaty return to the top after a disappointing Commonwealth Games or is the end nigh for Britain's former Olympic champion?",
-      "url": "https://www.bbc.co.uk/sport/swimming/articles/cddj2ynlmpro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-28T08:23:50+00:00"
-    },
-    {
-      "title": "'I needed this summer' - what next for Arsenal's Kelly?",
-      "description": "Chloe Kelly found 2025-26 hard, but is optimistic about hers and Arsenal's prospects this season.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgk4gk5xd2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-28T08:01:34+00:00"
-    },
-    {
-      "title": "Champions Northampton to open Prem season against Newcastle",
-      "description": "Prem champions Northampton host Newcastle on the opening weekend of the 2026-27 season, with Exeter at home to Gloucester.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c2k7xkpqpexo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-28T07:35:32+00:00"
-    },
-    {
-      "title": "Some people's chats with Claude AI found to be publicly available online",
-      "description": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
-      "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
+      "title": "Johnson & Johnson to pay $5.5bn settlement in talc cancer lawsuit",
+      "description": "Landmark deal covers about 76,000 claims and could end contentious, decade-long legal battleJohnson & Johnson said it would pay an estimated $5.5bn to resolve tens of thousands of lawsuits alleging its baby ⁠powder and other talc products caused ⁠ovarian cancer, in a landmark ​deal that could end a ",
+      "url": "https://www.theguardian.com/business/2026/jul/28/johnson-johnson-5bn-settlement-talc-cancer-lawsuit",
+      "source": "The Guardian",
       "category": "Business",
-      "publishedAt": "2026-07-28T07:10:37+00:00"
-    },
-    {
-      "title": "The way you look can help you get a job - here's how",
-      "description": "While you need to answer the questions in an interview, your appearance and mannerisms are also crucial.",
-      "url": "https://www.bbc.co.uk/news/articles/c80neg5rd81o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-28T06:53:59+00:00"
-    },
-    {
-      "title": "Why is Hamilton getting so many penalties? - F1 Q&A",
-      "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Hungarian Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cp9e188m751o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-28T06:42:23+00:00"
-    },
-    {
-      "title": "Hugging Face Has a Deepfake Nudes Problem",
-      "description": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
-      "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-28T05:30:00+00:00"
-    },
-    {
-      "title": "Ulta Promo Codes: Up to 50% Off in July 2026",
-      "description": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "url": "https://www.wired.com/story/ulta-coupon/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-28T05:02:00+00:00"
+      "publishedAt": "2026-07-28T05:03:39+00:00"
     },
     {
       "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
@@ -202,60 +394,12 @@
       "publishedAt": "2026-07-28T01:53:58+00:00"
     },
     {
-      "title": "Where on Earth Was This Fossil 200 Million Years Ago?",
-      "description": "Researchers have created an open-access interface that turns present-day locations into ancient coordinates with near-desktop-level accuracy. A fossil’s modern coordinates reveal where it was found, but not where that location sat millions of years ago as tectonic plates shifted across the planet. R",
-      "url": "https://scitechdaily.com/where-on-earth-was-this-fossil-200-million-years-ago/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-28T00:18:56+00:00"
-    },
-    {
       "title": "Hundreds of thousands of women get morning-after pill via free pharmacy service",
       "description": "Since October, the morning-after pill has been made available free-of-charge at high street pharmacies under a new scheme in England.",
       "url": "https://www.bbc.co.uk/news/articles/cn9n1rg3n81o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-07-28T00:14:41+00:00"
-    },
-    {
-      "title": "A 25,000-Year-Old Ritual Tradition Was Hidden Beneath This Cave Floor",
-      "description": "Perfectly preserved ‘phytolith’ plant crystals reveal that Indigenous Australians brought grasses into a cave for ritual burning as far back as the last Ice Age. Layer after layer of ash lies buried inside Cloggs Cave, preserving evidence that people repeatedly carried whole grasses underground and ",
-      "url": "https://scitechdaily.com/a-25000-year-old-ritual-tradition-was-hidden-beneath-this-cave-floor/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-27T23:43:47+00:00"
-    },
-    {
-      "title": "A Hidden Source of Metal-Mining Emissions Could Be 10x Larger Than Estimated",
-      "description": "The first comprehensive peer-reviewed academic assessment of CO2 emissions from neutralizing acid mine drainage in metal mining produced a startling result. Long after a metal mine stops operating, exposed minerals can continue reacting with water and releasing carbon dioxide for centuries or even m",
-      "url": "https://scitechdaily.com/a-hidden-source-of-metal-mining-emissions-could-be-10x-larger-than-estimated/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-27T23:08:02+00:00"
-    },
-    {
-      "title": "Is it time to stop using glue and labels on paper?",
-      "description": "Labels and adhesives can prevent paper from being recycled but there's new tech aimed at changing that.",
-      "url": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-27T23:00:06+00:00"
-    },
-    {
-      "title": "Greaves takes 5-0 in incredible Test bowling spell",
-      "description": "West Indies all-rounder Justin Greaves takes five wickets without conceding a run during an incredible spell of bowling on day three of the first Test against Pakistan.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cx2rjv5599go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-27T22:27:14+00:00"
-    },
-    {
-      "title": "X Money is launching in the US starting today",
-      "description": "X Money, a core part of Elon Musk's mission to turn X into an \"everything app,\" is rolling out starting today, 9to5Mac reports. The payment platform offers a digital wallet and peer-to-peer payments similar to Venmo, along with a metal Visa card users can emblazon with their X username. Other perks ",
-      "url": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-27T22:10:18+00:00"
     },
     {
       "title": "Microsoft unveils AI security tools it says outperform competing platforms",
@@ -274,22 +418,6 @@
       "publishedAt": "2026-07-27T21:40:27+00:00"
     },
     {
-      "title": "Razer’s analog Huntsman V3 Pro is over 20 percent off",
-      "description": "Gaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That’s slowly changing, with brands introducing adjustable optical switches that are more customizable and have a faster respons",
-      "url": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-27T21:29:22+00:00"
-    },
-    {
-      "title": "Plant Compounds in Berries, Tea, and Cocoa May Support Healthy Brain Aging",
-      "description": "Polyphenol-rich foods may support healthy brain aging, but no single food or diet has been shown to prevent dementia. A cup of tea, a handful of berries, or a drizzle of extra virgin olive oil contains plant compounds that may influence processes tied to brain aging. A review by Semmelweis Universit",
-      "url": "https://scitechdaily.com/plant-compounds-in-berries-tea-and-cocoa-may-support-healthy-brain-aging/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-27T20:52:27+00:00"
-    },
-    {
       "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
       "description": "Kennedy has focused on nutrition but has neglected food safety, critics say.",
       "url": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
@@ -304,70 +432,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-07-27T20:32:45+00:00"
-    },
-    {
-      "title": "A missing underscore sent innocent man to prison for 18 months",
-      "description": "When the first step goes wrong, bad results follow.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-27T20:22:03+00:00"
-    },
-    {
-      "title": "Scientists Find a Way To Keep Cancer-Fighting T Cells From Burning Out",
-      "description": "A study suggests that exhausted T cells may be burning energy too aggressively rather than simply running out of it. Cancer immunotherapy can activate T cells, the immune system’s specialized killers, and direct them against tumors. Yet these cells often lose momentum before the cancer is controlled",
-      "url": "https://scitechdaily.com/scientists-find-a-way-to-keep-cancer-fighting-t-cells-from-burning-out/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-27T20:17:25+00:00"
-    },
-    {
-      "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
-      "description": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-27T20:12:42+00:00"
-    },
-    {
-      "title": "Xbox’s huge outage even blocked games on disc",
-      "description": "An extended Xbox outage that began Sunday evening didn't just cause issues for people trying to play digital games - it blocked people from playing their disc-based games, too. Xbox's status page initially reported the outage on Sunday at about 11PM ET, and it also prevented people from logging in, ",
-      "url": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-27T19:53:50+00:00"
-    },
-    {
-      "title": "Nanoleaf&#8217;s colorful pegboard and shelf kit is half off",
-      "description": "Nanoleaf&#8217;s Blocks Combo XL Smarter Kit is a fun back-to-school buy that can add pops of customizable light and storage to your wall. It combines colorful smart lighting panels with a low-profile shelf and pegboard, and right now you can buy the kit for half off at $99.99 from Nanoleaf, which m",
-      "url": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-27T19:24:55+00:00"
-    },
-    {
-      "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
-      "description": "Age verification is okay, but filtering is preempted by Section 230, judges find.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-27T19:18:02+00:00"
-    },
-    {
-      "title": "Cracker Barrel chief executive steps down a year after rebrand chaos",
-      "description": "Cracker Barrel CEO Julie Masino will exit following customer backlash over modern logo redesign.",
-      "url": "https://www.bbc.co.uk/news/articles/cr49z0r54nko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-27T18:49:54+00:00"
-    },
-    {
-      "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
-      "description": "Telecom expects AI revenue from dark fiber deals and retrofitted data centers.",
-      "url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-27T18:48:41+00:00"
     },
     {
       "title": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz",
@@ -386,52 +450,12 @@
       "publishedAt": "2026-07-27T17:28:12+00:00"
     },
     {
-      "title": "Why China is giving away its best AI models",
-      "description": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry betw",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-27T16:51:50+00:00"
-    },
-    {
-      "title": "YouTube Premium will include Peacock starting next year",
-      "description": "YouTube's ad-free Premium subscription is getting another perk: access to Peacock. In an announcement on Monday, NBCUniversal says the multi-year agreement will allow Premium subscribers to stream Peacock's ad-supported shows, movies, and live sports directly through the YouTube app in 2027. YouTube",
-      "url": "https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-27T16:18:52+00:00"
-    },
-    {
-      "title": "Amazon&#8217;s trying to launch a global satellite cellphone network in 2028",
-      "description": "Amazon filed an FCC application on Saturday to launch a new Leo satellite constellation that will provide direct-to-device satellite service for \"voice, messaging, data, and emergency services.\" If approved, Amazon will begin deploying the new constellation of 5,105 satellites in 2028. It says it pl",
-      "url": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-27T15:40:38+00:00"
-    },
-    {
       "title": "Tariffs are Trump’s favorite plaything – and his justifications are absurd | Steven Greenhouse",
       "description": "The president is using forced labor as a pretext to slap tariffs on countries around the worldWith the midterm elections less than four months away, it’s a precarious time for Donald Trump and Republicans: Trump’s war against Iran is going badly, his approval ratings are in the toilet, gas prices ar",
       "url": "https://www.theguardian.com/commentisfree/2026/jul/27/tariffs-are-trumps-favorite-plaything-and-his-justifications-are-absurd",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-07-27T14:00:11+00:00"
-    },
-    {
-      "title": "Badenoch says PM must rule out tax rises to fund social care reform",
-      "description": "In a letter to the PM, the Conservative leader offers to work with him on adult social care reform.",
-      "url": "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-07-26T21:00:27+00:00"
-    },
-    {
-      "title": "Corporate America may be using AI to cut jobs, but small businesses are using it to keep them | Gene Marks",
-      "description": "Reports of wide-scale replacement of workers by AI are overblown. Small businesses use it to help workersI recently met the owner of a company that sells windows and doors. He told me he invested about $10,000 in an AI application that is used by his salespeople in his showroom. The application list",
-      "url": "https://www.theguardian.com/business/2026/jul/26/small-businesses-ai",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-07-26T12:00:11+00:00"
     }
   ]
 }
