@@ -1,6 +1,246 @@
 {
-  "updatedAt": "2026-07-29T21:59:05.162167+00:00",
+  "updatedAt": "2026-07-30T10:56:24.090050+00:00",
   "articles": [
+    {
+      "title": "Don’t Get Too Attached to Jimothy",
+      "description": "Urban wildlife biologists say the stumpy raccoon seems to have adapted well to his environment and spinal condition—but his internet fame presents a new threat.",
+      "url": "https://www.wired.com/story/dont-get-too-attached-to-jimothy/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-30T10:45:00+00:00"
+    },
+    {
+      "title": "Earth May Be Twice As Vulnerable to Extreme Solar Storms As Scientists Thought",
+      "description": "Earth may be far more vulnerable to powerful solar storms than scientists realized, with extreme events potentially hitting modern technology twice as hard as previous models predicted. Earth’s magnetic shield may not have the safety limit scientists once thought it did. New research suggests that t",
+      "url": "https://scitechdaily.com/earth-may-be-twice-as-vulnerable-to-extreme-solar-storms-as-scientists-thought/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-30T10:37:44+00:00"
+    },
+    {
+      "title": "SwitchBot makes a better fan",
+      "description": "I was already a big fan of SwitchBot's big circulator fan I recently reviewed, and now we're getting the SwitchBot Battery Circulator Fan 2 Pro. Priced at $119.99, it ditches the height-adjustable stand but increases battery life, throw distance, and wind speed while adding native Matter-over-Wi-Fi,",
+      "url": "https://www.theverge.com/tech/972986/switchbot-makes-a-better-fan",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-30T10:30:55+00:00"
+    },
+    {
+      "title": "OpenAI’s Hacking Debacle Was a Human Mistake",
+      "description": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
+      "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-30T10:30:00+00:00"
+    },
+    {
+      "title": "Fleming new England Test coach with Root captain",
+      "description": "Former New Zealand captain Stephen Fleming is appointed as England Test coach, with Joe Root as captain.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cx2mjk24lymo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-30T10:28:13+00:00"
+    },
+    {
+      "title": "LinkedIn Won’t Be Expanding Its Data Centers in the Next Year",
+      "description": "Despite the ongoing AI boom, LinkedIn is holding the line on compute spending. Instead, it’s challenging engineers to make every GPU count.",
+      "url": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-30T10:15:00+00:00"
+    },
+    {
+      "title": "Howe to leave Newcastle with Jaissle expected to replace him",
+      "description": "Newcastle manager Eddie Howe is set to leave the club with immediate effect, sources tell BBC Sport.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yd23l95vgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-30T10:11:52+00:00"
+    },
+    {
+      "title": "'Ready to write Chelsea story' - Lacroix makes £52m move",
+      "description": "Chelsea sign France World Cup defender Maxence Lacroix from Crystal Palace for £52m.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg4d11g46lpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-30T10:03:45+00:00"
+    },
+    {
+      "title": "A Civilian Plane Crashed in New Mexico. Was the Military’s Tech to Blame?",
+      "description": "Drone warfare is making the skies more dangerous, even for airplanes far from the battlefield.",
+      "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-30T10:00:00+00:00"
+    },
+    {
+      "title": "TCL Tab A1 Plus Review (2026): Cheap Tablet That Doesn’t Feel It",
+      "description": "For most people, the Tab A1 Plus checks all the boxes and is the best budget tablet you can buy, but don’t expect power or long-term Android support.",
+      "url": "https://www.wired.com/review/tcl-tab-a1-plus-tablet/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-30T10:00:00+00:00"
+    },
+    {
+      "title": "Virtual interviews don't show bosses your personality, says Burnham",
+      "description": "Interviews online may not allow young people to \"shine\" and communicate their \"passion\", the prime minister says.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4dkr40deo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-30T09:48:21+00:00"
+    },
+    {
+      "title": "AI Scammers Are Better at Building Trust Than Humans",
+      "description": "Researchers pitted a person against a Claude agent and found that, after a week of texting, the AI chatbot was more effective at creating “exploitable trust” with others.",
+      "url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-30T09:30:00+00:00"
+    },
+    {
+      "title": "Shell profits double as oil prices rise due to Iran war",
+      "description": "Disruption to global supplies of oil and liquid natural gas through the Strait of Hormuz has pushed up prices.",
+      "url": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-30T09:16:29+00:00"
+    },
+    {
+      "title": "London City host Man Utd to kick off WSL season",
+      "description": "London City Lionesses are handed a Women's Super League opener against Manchester United as the Women's Super League fixtures are announced.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2dk0xxwgyno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-30T09:00:23+00:00"
+    },
+    {
+      "title": "De Zerbi wants to convince Spence to stay at Spurs",
+      "description": "Tottenham manager Roberto de Zerbi says he wants to convince England defender Djed Spence to stay at the club.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0jl4e40vwdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-30T09:00:06+00:00"
+    },
+    {
+      "title": "I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots",
+      "description": "A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.",
+      "url": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-30T09:00:00+00:00"
+    },
+    {
+      "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
+      "description": "Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the economic benefits of defence spending.",
+      "url": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-30T08:02:17+00:00"
+    },
+    {
+      "title": "Four pointers to most open Premier League title race in years",
+      "description": "Three of the Premier League's \"big six\" have new managers, the champions have a key injury issue and Tottenham and Chelsea are breaking transfer records - and that might mean a very open title race.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1e163xpzz2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-30T07:01:01+00:00"
+    },
+    {
+      "title": "Phillips' struggles are a cautionary tale for Anderson",
+      "description": "As Kalvin Phillips nears a fourth loan move away from Manchester City, what can record signing Elliot Anderson learn from his struggles at the Etihad?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyl1354z3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-30T06:36:56+00:00"
+    },
+    {
+      "title": "The phone call that made Briton an NFL trailblazer",
+      "description": "Seydou Traore is the first graduate of the UK-based NFL Academy to be drafted in the NFL. This is how he beat the odds.",
+      "url": "https://www.bbc.co.uk/sport/american-football/articles/c4gd01l443wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-07-30T05:42:12+00:00"
+    },
+    {
+      "title": "Nike Promo Codes and Discounts: 30% for August 2026",
+      "description": "Check out our deals for Nike this August 2026, including 15% off select purchases.",
+      "url": "https://www.wired.com/story/nike-promo-code/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-07-30T05:00:00+00:00"
+    },
+    {
+      "title": "Tiny Divers Challenge a Major Theory About Ocean Insects",
+      "description": "Pressure-resistant air sacs allow lake fly larvae to dive hundreds of meters and complicate a long-standing theory about ocean insects. Each day, billions of lake fly larvae vanish into the oxygen-deprived depths of Lake Malawi, surviving pressures once thought capable of crushing an insect’s respir",
+      "url": "https://scitechdaily.com/tiny-divers-challenge-a-major-theory-about-ocean-insects/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-30T00:22:52+00:00"
+    },
+    {
+      "title": "More Than 1,500 Ships Could Carry a Marine Crisis Around the World",
+      "description": "More than 1,500 stranded ships could soon carry an ecological crisis from the Persian/Arabian Gulf to coastlines around the world. More than 1,500 commercial ships stranded in the Persian/Arabian Gulf may be turning into floating habitats for invasive marine life. As algae, barnacles, mussels, micro",
+      "url": "https://scitechdaily.com/more-than-1500-ships-could-carry-a-marine-crisis-around-the-world/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-29T23:47:17+00:00"
+    },
+    {
+      "title": "New Compound Could Help Aging Muscles Repair Themselves",
+      "description": "A sulfur-containing compound may shield one of the body’s most important muscle repair signals from the chemical damage that drives age-related decline. Aging muscles may not lose the signals needed for repair. Instead, those signals may remain in place but become chemically damaged and unable to do",
+      "url": "https://scitechdaily.com/new-compound-could-help-aging-muscles-repair-themselves/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-07-29T23:12:05+00:00"
+    },
+    {
+      "title": "Beauty Pie founder on how she dropped out of university and built five beauty businesses",
+      "description": "Marcia Kilgore, founder of Beauty Pie, shares her top tips on how to create a successful business.",
+      "url": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-29T23:02:18+00:00"
+    },
+    {
+      "title": "Interest rates expected to be held again by Bank of England",
+      "description": "It would be the fifth hold in a row, with the Bank rate standing at 3.75% - the lowest since February 2023.",
+      "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-29T23:01:56+00:00"
+    },
+    {
+      "title": "Meta shares fall as frustration grows over AI spending plans",
+      "description": "CEO Mark Zuckerberg said the firm intends to sell its AI tools to other companies for the first time.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-29T22:44:18+00:00"
+    },
+    {
+      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+      "description": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from ",
+      "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-07-29T22:17:38+00:00"
+    },
+    {
+      "title": "The Chinese robot army transforming the UK's retail industry",
+      "description": "Britain's weak productivity growth and labour shortages are creating an opportunity for China's robotics firms.",
+      "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-29T22:08:29+00:00"
+    },
+    {
+      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+      "description": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
+      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-07-29T22:07:06+00:00"
+    },
     {
       "title": "Mark Zuckerberg is planning a big push into personal AI agents",
       "description": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do",
@@ -8,14 +248,6 @@
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-07-29T21:48:07+00:00"
-    },
-    {
-      "title": "Meta shares fall as frustration grows over AI spending plans",
-      "description": "Mark Zuckerberg said Meta intends to sell for the first time AI tools to other companies",
-      "url": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-29T21:47:21+00:00"
     },
     {
       "title": "Qualcomm is raising phone chip prices starting September 1st",
@@ -34,6 +266,14 @@
       "publishedAt": "2026-07-29T21:06:52+00:00"
     },
     {
+      "title": "Fed holds interest rates steady despite Trump’s renewed calls to lower them",
+      "description": "Rates remain unchanged for fifth time since December as tenuous Iran peace deal pushes energy prices up againThe US Federal Reserve held interest rates steady on Wednesday in a divided vote, indicating growing pressure on the central bank to address heightened inflation.The Fed’s federal open market",
+      "url": "https://www.theguardian.com/business/2026/jul/29/federal-reserve-interest-rates",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-07-29T21:06:08+00:00"
+    },
+    {
       "title": "Cyberpunk 2077 packs a lot of fun into its discounted $20 price",
       "description": "Over the last few years, CD Projekt Red put a ton of work into fixing Cyberpunk 2077, squashing bugs, polishing content, and even launching new DLC in 2023, Phantom Liberty. As a result, this game has gone from a source for funny, glitch-fueled videos to a world I’ve returned to a number of times to",
       "url": "https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale",
@@ -42,36 +282,12 @@
       "publishedAt": "2026-07-29T21:02:50+00:00"
     },
     {
-      "title": "It Looks Like Nothing Can Dent MAGA’s Support for ICE",
-      "description": "Despite weeks of renewed press coverage and controversy around ICE, Donald Trump’s supporters appear to be standing by the agency no matter what.",
-      "url": "https://www.wired.com/story/it-looks-like-nothing-can-dent-magas-support-for-ice/",
-      "source": "Wired",
+      "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
+      "description": "Advertisers agreed to “reset” relationship with X.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
+      "source": "Ars Technica",
       "category": "Technology",
-      "publishedAt": "2026-07-29T21:00:00+00:00"
-    },
-    {
-      "title": "Save Up to $100 on Apple’s Newest AirPods (2026)",
-      "description": "Save up to $100 on Apple’s latest AirPods models before prices go back up.",
-      "url": "https://www.wired.com/story/apple-airpods-deal-july-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-29T20:44:10+00:00"
-    },
-    {
-      "title": "'No magic wand' to tackle high prices, Fed boss says as US interest rates held",
-      "description": "The Federal Reserve's decision, which was broadly expected, means rates remain between the 3.5% and 3.75%.",
-      "url": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-29T20:32:50+00:00"
-    },
-    {
-      "title": "Fleming expected to be named England Test coach",
-      "description": "Former New Zealand captain Stephen Fleming is expected to be appointed as England Test coach after the sacking of Brendon McCullum.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c5yvp474rpro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-29T20:32:47+00:00"
+      "publishedAt": "2026-07-29T20:57:35+00:00"
     },
     {
       "title": "Xbox revenue drops 10 percent as Microsoft&#8217;s cloud and AI business surges",
@@ -98,14 +314,6 @@
       "publishedAt": "2026-07-29T20:03:42+00:00"
     },
     {
-      "title": "Heptathlete O'Connor wins Northern Ireland's first gold of Games",
-      "description": "Kate O'Connor wins Northern Ireland's first gold medal at the Commonwealth Games in the heptathlon at Scotstoun Stadium.",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/c78g7lwwxq8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-29T20:00:15+00:00"
-    },
-    {
       "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
       "description": "Comcast, accused of negligence, says lawsuit mischaracterized alleged events.",
       "url": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
@@ -130,30 +338,6 @@
       "publishedAt": "2026-07-29T19:23:27+00:00"
     },
     {
-      "title": "Rhodes' career-best keeps Durham unbeaten after Stokes duck",
-      "description": "Durham prove they are not a one-man show in the One-Day Cup as Will Rhodes helps maintain their unbeaten start after Ben Stokes' duck.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c4g4dldyx28o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-29T19:20:10+00:00"
-    },
-    {
-      "title": "Which of Dyson’s 2026 Vacuum Models Is the Best?",
-      "description": "Curious if you should get Dyson’s new 2026 stick vacuums or stick to the older ones? I tested five models, old and new, to find out for you.",
-      "url": "https://www.wired.com/story/dyson-vacuum-comparison-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-29T19:08:24+00:00"
-    },
-    {
-      "title": "'Change is inevitable' - Liverpool CEO on FSG, Iraola and consortium talks",
-      "description": "Liverpool Billy Hogan talks to BBC Sport in New York about investment, transition and why FSG aren't done yet.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8xnvqrxv8ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-29T18:54:07+00:00"
-    },
-    {
       "title": "Scientists Tested an 8-Hour Eating Window and Found a Surprising Brain Benefit",
       "description": "Limiting the daily eating window may provide brain benefits beyond those associated with weight loss. Eating within a shorter daily window may provide cognitive benefits beyond those associated with weight loss alone, according to results from a small clinical trial. The pilot study followed older w",
       "url": "https://scitechdaily.com/scientists-tested-an-8-hour-eating-window-and-found-a-surprising-brain-benefit/",
@@ -168,38 +352,6 @@
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-07-29T18:40:06+00:00"
-    },
-    {
-      "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
-      "description": "I watched a new tool try to get around the model safeguards of four major frontier companies. You might be surprised by how they performed.",
-      "url": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-29T18:30:00+00:00"
-    },
-    {
-      "title": "Charities unable to pay staff after fraud alert",
-      "description": "Security fears saw CAF Bank, which serves 14,000 UK charities, suspend its online banking portal.",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dlelz711o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-29T18:17:23+00:00"
-    },
-    {
-      "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
-      "description": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be la",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-29T18:15:02+00:00"
-    },
-    {
-      "title": "The US government just banned Roombas",
-      "description": "When the Trump administration announced yesterday that it was banning \"advanced robotic devices\" from entering the United States, the headlines were all about humanoids. But spying doesn't require legs - and neither does the FCC's robot ban. The robot ban will sweep up robot vacuum cleaners too, FCC",
-      "url": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-07-29T18:13:09+00:00"
     },
     {
       "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
@@ -218,14 +370,6 @@
       "publishedAt": "2026-07-29T17:58:24+00:00"
     },
     {
-      "title": "Why finger-clicking 'scandal' has gripped sporting world - Agnew",
-      "description": "Why the wicketkeeper in the Saltburn Cricket Club 'finger-clicking' scandal is the key voice in any investigation.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c980w3wd370o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-29T17:52:16+00:00"
-    },
-    {
       "title": "Yet more qubit tech: New quantum dot options, diamond vacancies",
       "description": "Companies are making sure we have a surplus of options for building qubits.",
       "url": "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
@@ -234,28 +378,12 @@
       "publishedAt": "2026-07-29T17:37:47+00:00"
     },
     {
-      "title": "Actually, Starliner might fly into space this year",
-      "description": "\"We're feeling pretty good about that,\" Boeing CEO Kelly Ortberg said.",
-      "url": "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-29T17:24:41+00:00"
-    },
-    {
-      "title": "Fifa opens disciplinary proceedings against Argentina",
-      "description": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-29T17:21:57+00:00"
-    },
-    {
-      "title": "Tropical Diseases Like Dengue Fever and Chikungunya Are on the Rise in Europe",
-      "description": "Climate change is helping invasive species to not only establish themselves across the continent but to stay alive for longer. Scientists suggest we get used to it.",
-      "url": "https://www.wired.com/story/tropical-diseases-dengue-fever-and-chikungunya-on-the-rise-in-europe/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-29T16:31:45+00:00"
+      "title": "What happens here has a big impact on your money",
+      "description": "BBC business reporter Dearbail Jordan explains how it works from inside the Bank of England.",
+      "url": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-07-29T16:00:24+00:00"
     },
     {
       "title": "Scientists Reveal the Climate “Perfect Storm” Behind an Ancient Civilizational Collapse",
@@ -266,124 +394,12 @@
       "publishedAt": "2026-07-29T15:56:45+00:00"
     },
     {
-      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
-      "description": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.",
-      "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-29T15:52:48+00:00"
-    },
-    {
-      "title": "Some tech shares are plunging - what does that mean for the AI revolution?",
-      "description": "Sharp falls in the value of chip makers have stoked investor concerns that the euphoria around AI related companies is fading.",
-      "url": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
+      "title": "BMW to cut ‘as many as 8,000 jobs’ under pressure from Chinese rivals",
+      "description": "Layoffs will come in admin and development divisions in Germany, with production operations unaffectedBMW is planning to cut as many as 8,000 jobs in Germany, according to reports, in the latest sign of Europe’s largest carmakers reducing costs under pressure from Chinese rivals.The Munich-headquart",
+      "url": "https://www.theguardian.com/business/2026/jul/29/bmw-cut-jobs-germany-pressure-chinese-rivals",
+      "source": "The Guardian",
       "category": "Business",
-      "publishedAt": "2026-07-29T15:32:28+00:00"
-    },
-    {
-      "title": "Archaeology Students Discover Rare 400-Year-Old Intact Pot",
-      "description": "A rare intact pot is helping archaeologists reconstruct life and cultural exchange at Mission San Francisco de Potano. Four centuries after someone shaped a small clay vessel by hand, University of Florida students lifted it from the soil completely intact. The pot, likely made by a member of the In",
-      "url": "https://scitechdaily.com/archaeology-students-discover-rare-400-year-old-intact-pot/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-29T15:21:42+00:00"
-    },
-    {
-      "title": "Killer Whales Filmed Smashing Giant Sunfish Into Thousands of Pieces, Possibly for Fun",
-      "description": "Orcas in the Gulf of California have revealed a startling new feeding technique: smashing dead sunfish into thousands of pieces. One orca held the enormous sunfish in place. Another charged straight toward it. At the last moment, the first released its grip, and the collision tore the carcass into t",
-      "url": "https://scitechdaily.com/killer-whales-filmed-smashing-giant-sunfish-into-thousands-of-pieces-possibly-for-fun/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-29T14:46:37+00:00"
-    },
-    {
-      "title": "Is World Cup sell-off plan a step too far by Infantino?",
-      "description": "BBC Sport explores why Fifa president Gianni Infantino feels powerful enough to sell off stakes in the World Cup - and what the consequences could be.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjejl274xx8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-29T13:48:10+00:00"
-    },
-    {
-      "title": "X Says Australia’s Under-16 Social Media Ban Risks Interfering With Foreign Law",
-      "description": "Elon Musk’s platform attacked the country’s “invasive” information-gathering powers as it demands the government drop efforts to strengthen its no-children policy.",
-      "url": "https://www.wired.com/story/x-says-australias-under-16s-social-media-bans-risk-interfering-with-foreign-law/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-29T13:47:46+00:00"
-    },
-    {
-      "title": "Saltburn suspend Devine after 'finger-clicking' claim",
-      "description": "The Saltburn player at the centre of an alleged cheating scandal is suspended by the club for the \"foreseeable future\".",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cg7m5grrp7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-07-29T13:36:52+00:00"
-    },
-    {
-      "title": "Festival Must-Haves, Field-Tested at Lost Lands and Electric Forest",
-      "description": "Our field-tested gear includes power banks, electrolytes, outdoor blankets, earplugs, and more.",
-      "url": "https://www.wired.com/story/best-festival-gear/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-29T12:33:00+00:00"
-    },
-    {
-      "title": "Ticket prices set to rise by 15p as Heathrow able to recover runway project money",
-      "description": "UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-29T12:16:16+00:00"
-    },
-    {
-      "title": "The 15 Best Pool Accessories to Upgrade Your Summer (2026)",
-      "description": "These are the cleaning robots, water monitors, and toys actually worth buying for pool season.",
-      "url": "https://www.wired.com/story/the-best-pool-accessories/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-07-29T12:01:00+00:00"
-    },
-    {
-      "title": "New Strategy Shows Promise Against the Deadliest Brain Cancer",
-      "description": "Focused ultrasound helped deliver microRNAs that targeted multiple glioblastoma genes and improved outcomes in animal models. A treatment aimed at glioblastoma must first cross one of the body’s most selective defenses: the blood-brain barrier. Researchers at the University of Virginia Comprehensive",
-      "url": "https://scitechdaily.com/new-strategy-shows-promise-against-the-deadliest-brain-cancer/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-29T11:16:45+00:00"
-    },
-    {
-      "title": "Andy Burnham wants to fix social care - what are the options?",
-      "description": "With Andy Burnham saying he wants to bring \"substantial change\" to social care in England, BBC Verify looks at what could be done.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4k54g0ldjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-29T10:47:08+00:00"
-    },
-    {
-      "title": "Teen Walks Independently After Treatment Targets the Genetic Root of Epilepsy",
-      "description": "A two-year treatment targeting proteins produced by disease-causing mutations dramatically reduced seizures and led to developmental gains, including helping one teenager walk independently. For children with SCN2A-related developmental epileptic encephalopathy (DEE), seizures can begin alongside se",
-      "url": "https://scitechdaily.com/teen-walks-independently-after-treatment-targets-the-genetic-root-of-epilepsy/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-07-29T10:41:47+00:00"
-    },
-    {
-      "title": "Matcha and protein pivot pays off for Greggs as profits rise",
-      "description": "UK's largest fast-food chain says it is changing its menu \"in line with changing tastes and trends\".",
-      "url": "https://www.bbc.co.uk/news/articles/cx2r0nyx99yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-29T10:37:33+00:00"
-    },
-    {
-      "title": "'Don't wait until you want revenge' - why prenups are on the rise",
-      "description": "More young couples are now signing prenups to set out who gets what in the event of divorce.",
-      "url": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-28T23:00:07+00:00"
+      "publishedAt": "2026-07-29T12:02:20+00:00"
     },
     {
       "title": "60 Minutes adds new correspondents and contributors after key departures",
@@ -416,30 +432,6 @@
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-07-28T14:00:05+00:00"
-    },
-    {
-      "title": "ICE-linked security firm reports UK revenue slump after asylum contract ends",
-      "description": "MTC provided security at heavily criticised Manston centre in Kent – and could now make £500m managing arrivals at siteA private security company linked to Donald Trump’s immigration crackdown reported a slump in UK revenues after an asylum centre contract ended but could make £500m managing the sam",
-      "url": "https://www.theguardian.com/business/2026/jul/28/mtc-security-uk-ice-trump-manston-asylum-centre",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-07-28T09:00:35+00:00"
-    },
-    {
-      "title": "Johnson & Johnson to pay $5.5bn settlement in talc cancer lawsuit",
-      "description": "Landmark deal covers about 76,000 claims and could end contentious, decade-long legal battleJohnson & Johnson said it would pay an estimated $5.5bn to resolve tens of thousands of lawsuits alleging its baby ⁠powder and other talc products caused ⁠ovarian cancer, in a landmark ​deal that could end a ",
-      "url": "https://www.theguardian.com/business/2026/jul/28/johnson-johnson-5bn-settlement-talc-cancer-lawsuit",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-07-28T05:03:39+00:00"
-    },
-    {
-      "title": "Hundreds of thousands of women get morning-after pill via free pharmacy service",
-      "description": "Since October, the morning-after pill has been made available free-of-charge at high street pharmacies under a new scheme in England.",
-      "url": "https://www.bbc.co.uk/news/articles/cn9n1rg3n81o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-07-28T00:14:41+00:00"
     }
   ]
 }
