@@ -1,13 +1,261 @@
 {
-  "updatedAt": "2026-08-03T12:09:42.535273+00:00",
+  "updatedAt": "2026-08-03T22:07:03.303482+00:00",
   "articles": [
     {
-      "title": "Pogacar to ride Vuelta a Espana for Grand Tour treble",
-      "description": "Newly crowned five-time Tour de France champion Tadej Pogacar will race in this month's Vuelta a Espana in an attempt to win all three of cycling's Grand Tours.",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/c4gj7geyxjeo?at_medium=RSS&at_campaign=rss",
+      "title": "Your Fitbit data can now connect directly to Apple Health",
+      "description": "Google is rolling out an update that will finally allow you to connect your Fitbit workouts, steps, vitals, and other data to Apple Health, as reported earlier by 9to5Mac. With Google Health's 5.05 update, you can now tap your profile icon, select \"Partner apps,\" and choose Apple Health to link your",
+      "url": "https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T21:24:23+00:00"
+    },
+    {
+      "title": "Samsung’s discounted smart monitor is $349.99, its lowest price yet",
+      "description": "Samsung makes a variety of TVs and computer monitors, but if want both and you’re limited on space, you might want to consider the M80F. This capable 32-inch 4K panel combines features commonly found on both types of screens, and Amazon and B&#38;H Photo both have it discounted to $349.99, where it’",
+      "url": "https://www.theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T21:13:38+00:00"
+    },
+    {
+      "title": "Superb Short half-century guides Fire past Brave",
+      "description": "Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by six wickets in Cardiff.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c39e7k9209ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-08-03T11:54:25+00:00"
+      "publishedAt": "2026-08-03T20:42:20+00:00"
+    },
+    {
+      "title": "Fenerbahce ready huge Rashford offer - Tuesday's gossip",
+      "description": "Fenerbahce prepared to break the bank for Marcus Rashford, RB Leipzig hold out on Real Madrid over Yan Diomande deal, Arsenal open talks for Bruno Guimaraes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5dqynxdezo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-03T20:26:32+00:00"
+    },
+    {
+      "title": "Research roundup: 6 cool science stories we almost missed",
+      "description": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star.",
+      "url": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T20:13:37+00:00"
+    },
+    {
+      "title": "The SpaceX Falcon Lunar Crash Is a Warning for Moon Bases",
+      "description": "The risk of more debris hitting the moon is on the rise as the space race heats up.",
+      "url": "https://www.wired.com/story/spacex-falcon-moon-crash-warning-for-lunar-bases/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T19:58:23+00:00"
+    },
+    {
+      "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
+      "description": "The orbiting observatory in minifigure scale.",
+      "url": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T19:21:16+00:00"
+    },
+    {
+      "title": "These “Good” Immune Cells Could Hold the Key to Spinal Cord Regeneration",
+      "description": "An Il-4 signal from neutrophils helps zebrafish control inflammation and regenerate damaged spinal cords. A damaged human spinal cord rarely repairs itself. The immune response that follows an injury can become excessive, producing lasting scar tissue that prevents nerve cells and their connections ",
+      "url": "https://scitechdaily.com/these-good-immune-cells-could-hold-the-key-to-spinal-cord-regeneration/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-03T19:04:47+00:00"
+    },
+    {
+      "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+      "description": "Top scores increased by 5x.",
+      "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T19:00:50+00:00"
+    },
+    {
+      "title": "New Research Questions Decades of Low-Fat Dairy Advice",
+      "description": "Researchers found that people can consume three daily servings of full-fat dairy without adversely affecting body weight, body composition, energy metabolism, or blood lipid levels. For years, people scanning the dairy aisle have often been steered toward skim milk and reduced-fat products, largely ",
+      "url": "https://scitechdaily.com/new-research-questions-decades-of-low-fat-dairy-advice/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-03T18:29:51+00:00"
+    },
+    {
+      "title": "Researchers Solve Mystery Behind Contradictory Weight-Loss Drug Paradox",
+      "description": "Opposite actions on the same receptor can promote weight loss by targeting different brain circuits. Two obesity drugs can push the same brain receptor in opposite directions and still lead to weight loss. Researchers at the University of Cambridge have now traced that apparent contradiction to two ",
+      "url": "https://scitechdaily.com/researchers-solve-mystery-behind-contradictory-weight-loss-drug-paradox/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-03T17:54:32+00:00"
+    },
+    {
+      "title": "Raducanu to miss US Open to continue recovery",
+      "description": "Emma Raducanu will miss the US Open as she continues her recovery from a stress fracture.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cn4njxg33l7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-03T17:45:48+00:00"
+    },
+    {
+      "title": "Europe’s AI labeling and transparency rules are now in effect",
+      "description": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when people are interacting wi",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T17:38:45+00:00"
+    },
+    {
+      "title": "The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished",
+      "description": "The Kindle Scribe is worth considering if you’re heading back to school, as its large 10.2-inch screen can display textbooks and ebooks, or let you jot down handwritten notes during class. Now through August 8th, the first-gen model (with a Premium Pen) is down to just $149.99 with 16GB of storage i",
+      "url": "https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T17:17:54+00:00"
+    },
+    {
+      "title": "AstraZeneca shares fall 8.9% over merger talks with US cancer drug firm",
+      "description": "Proposed $400bn tie-up with Bristol Myers Squibb would create world’s fourth-largest drugmaker but analysts question rationale More than £17bn was wiped off the value of Britain’s biggest drugmaker, AstraZeneca, on Monday after a report that it was in discussions to take over its US rival Bristol My",
+      "url": "https://www.theguardian.com/business/2026/aug/03/astrazeneca-talks-bristol-myers-squibb-merger-pharmaceuticals",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-08-03T16:32:09+00:00"
+    },
+    {
+      "title": "Microsoft is bringing Xbox 360 games to PC",
+      "description": "Building on its recently announced plans to bring original Xbox games to PC, Microsoft is also planning to let developers bring their Xbox 360 games to PC as well, according to a leaked document, seen by The Verge, that was sent to developers recently. Xbox 360 games will be able to run on the next-",
+      "url": "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T16:31:35+00:00"
+    },
+    {
+      "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
+      "description": "At $25,305, you won't find many new cars for less. But you get what you pay for.",
+      "url": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T16:10:22+00:00"
+    },
+    {
+      "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
+      "description": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-03T15:57:27+00:00"
+    },
+    {
+      "title": "Forgotten Autobiography Rewrites the Story of a War of 1812 Soldier",
+      "description": "A rediscovered memoir reveals the harsh realities faced by a disabled veteran in nineteenth-century Britain. After a musket ball destroyed his left forearm during the War of 1812, Shadrack Byfield retrieved the amputated limb from a refuse pile and buried it himself. He later designed a prosthetic d",
+      "url": "https://scitechdaily.com/forgotten-autobiography-rewrites-the-story-of-a-war-of-1812-soldier/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-03T15:21:10+00:00"
+    },
+    {
+      "title": "England midfielder Henderson joins Chelsea",
+      "description": "Free agent Jordan Henderson signs a two-year deal with Chelsea after his contract with Premier League rivals Brentford is mutually terminated.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62qnnrzqk5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-03T15:17:56+00:00"
+    },
+    {
+      "title": "Bluesky’s new CEO wants a big tent, not a bubble",
+      "description": "Today, I’m talking with Toni Schneider, who is the brand new CEO of the social platform Bluesky — he formally took over after a short stint as interim CEO. This is one of my favorite kinds of interviews to do on Decoder, because a couple years ago, we had Bluesky’s prior CEO, Jay Graber, on [&#8230;",
+      "url": "https://www.theverge.com/podcast/974387/bluesky-toni-schneider-interview-ai-atproto-atmosphere",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T15:00:00+00:00"
+    },
+    {
+      "title": "Palworld’s expanding to mobile with a new MMORPG",
+      "description": "After its 1.0 launch last month, Palworld is coming to iOS and Android with a new open-world MMORPG launching later this year, Polygon reports. Garena, the developer behind the new game, says in its announcement that Palworld Online \"reimagines the depth, freedom, and scale of the original PC surviv",
+      "url": "https://www.theverge.com/games/974450/palworld-online-mobile-mmo",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T14:50:29+00:00"
+    },
+    {
+      "title": "Ancient Egyptian Princesses Were Trained Warriors, Their Bones Reveal",
+      "description": "Strong muscle attachments and healed fractures suggest that royal women could use the weapons buried with them, while also showing that high status did not protect them from hardship. Six royal mummies once considered lost resurfaced in 2020, giving researchers a new opportunity to examine five anci",
+      "url": "https://scitechdaily.com/ancient-egyptian-princesses-were-trained-warriors-their-bones-reveal/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-03T14:46:20+00:00"
+    },
+    {
+      "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
+      "description": "A Louisiana launch site would offer several significant advantages.",
+      "url": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T14:41:46+00:00"
+    },
+    {
+      "title": "Pollock to demand £1m a year at Northampton - Hearn",
+      "description": "Henry Pollock is set to demand a substantial increase on his current Northampton contract to stay at Franklin's Gardens, with agent Eddie Hearn suggesting annual earnings of £1m are his going rate.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c05q1g9v2evo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-03T14:31:50+00:00"
+    },
+    {
+      "title": "Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend",
+      "description": "Spider-Man: Brand New Day is joining The Odyssey in IMAX theaters after both movies led the biggest weekend in box office history. On Monday, IMAX announced that Spider-Man: Brand New Day will be available in select digital IMAX locations across North America starting Thursday, August 6th. The news ",
+      "url": "https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T14:26:47+00:00"
+    },
+    {
+      "title": "Inside Liverpool's summer so far - should fans be worried?",
+      "description": "BBC Sport's Aadam Patel reports on the latest from the Liverpool tour of the United States.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g42rz2y89o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-03T14:12:22+00:00"
+    },
+    {
+      "title": "Long-Lost Megalodon Fossils Found Hiding on a Museum Shelf",
+      "description": "Long-lost Otodus megalodon vertebrae have reopened questions about the giant shark while exposing the vulnerability of museum collections. For decades, several enormous shark vertebrae sat unnoticed on a museum shelf. Once recognized, the long-missing fossils reopened a rare window into the life of ",
+      "url": "https://scitechdaily.com/long-lost-megalodon-fossils-found-hiding-on-a-museum-shelf/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-03T14:11:53+00:00"
+    },
+    {
+      "title": "Trump wants the power to stop the public from suing polluters",
+      "description": "Trump's DOJ says citizens should no longer be able to enforce environmental laws.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T13:33:56+00:00"
+    },
+    {
+      "title": "How Mumbai Indians takeover has affected MI London & Surrey",
+      "description": "BBC Sport takes a look at what has changed, what has stayed the same and what the future holds for MI London after investment from Indian Premier League side Mumbai Indians.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cyvl6n9d2y9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-03T13:00:13+00:00"
+    },
+    {
+      "title": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes",
+      "description": "Brent crude drops by 5% after US president claimed talks on Middle East peace deal would resumeBusiness live – latest updatesCrude oil prices fell sharply while stocks and government bonds rallied on Monday after Donald Trump cancelled planned strikes on Iran and claimed peace talks were about to re",
+      "url": "https://www.theguardian.com/business/2026/aug/03/oil-prices-fall-europe-stock-markets-donald-trump-iran-us-brent-crude",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-08-03T12:10:59+00:00"
+    },
+    {
+      "title": "‘A reminder of why we have unions’: Matewan writer and director on the film’s lessons for the labor movement",
+      "description": "John Sayles’s 1987 film, which dramatizes a 1920 labor conflict, shows how class solidarity can overcome prejudiceWhen John Sayles, a student at Williams College taking time off from his summer factory job, was hitchhiking during the summer of 1970 in West Virginia, it was often coalminers who picke",
+      "url": "https://www.theguardian.com/us-news/2026/aug/03/john-sayles-matewan-unions",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-08-03T12:00:19+00:00"
     },
     {
       "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
@@ -26,12 +274,12 @@
       "publishedAt": "2026-08-03T11:30:00+00:00"
     },
     {
-      "title": "Celtic drawn against LASK as Hearts & Rangers discover opponents",
-      "description": "Celtic will play against Austrian champions LASK in the Champions League play-off round as Heart of Midlothian and Rangers discover their possible opponents in the Europa League.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cddjm88m4vno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-03T11:28:42+00:00"
+      "title": "Xbox Series X price hiked by £170 due to rising memory chip costs",
+      "description": "Xbox consoles now cost significantly more in the UK, with one model increasing in price by 43%.",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvrd9e43o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-03T11:18:10+00:00"
     },
     {
       "title": "Two-Year Lifestyle Program Boosts Cognition 55% More in Older Adults",
@@ -42,12 +290,12 @@
       "publishedAt": "2026-08-03T11:03:55+00:00"
     },
     {
-      "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-      "description": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, wi",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "source": "The Verge",
+      "title": "How headlights got brighter, whiter, and more blinding after dark",
+      "description": "Automotive lights are better than they've ever been, but there's a trade-off.",
+      "url": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
+      "source": "Ars Technica",
       "category": "Technology",
-      "publishedAt": "2026-08-03T11:01:11+00:00"
+      "publishedAt": "2026-08-03T11:00:11+00:00"
     },
     {
       "title": "Alienware 27 QD-OLED (AW2726DM) Review: A $350 Winner",
@@ -90,17 +338,17 @@
       "publishedAt": "2026-08-03T10:09:00+00:00"
     },
     {
-      "title": "AI Conquered Coding. Fast Food Is Next",
-      "description": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
-      "url": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+      "title": "ICE Collected Nearly 1 Million People’s DNA Last Year—Including Young Children",
+      "description": "Internal documents show ICE's DNA collection has skyrocketed in the second Trump administration. Now hundreds of thousands of people never convicted of a crime are in an FBI criminal database forever.",
+      "url": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
       "source": "Wired",
       "category": "Technology",
       "publishedAt": "2026-08-03T10:00:00+00:00"
     },
     {
-      "title": "ICE Collected Nearly 1 Million People’s DNA Last Year—Including Young Children",
-      "description": "Internal documents show ICE's DNA collection has skyrocketed in the second Trump administration. Now hundreds of thousands of people never convicted of a crime are in an FBI criminal database forever.",
-      "url": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
+      "title": "AI Conquered Coding. Fast Food Is Next",
+      "description": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
+      "url": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
       "source": "Wired",
       "category": "Technology",
       "publishedAt": "2026-08-03T10:00:00+00:00"
@@ -114,40 +362,16 @@
       "publishedAt": "2026-08-03T09:55:36+00:00"
     },
     {
-      "title": "Experimental Eye Drops Restore Sight in Blind Mice",
-      "description": "The newly developed compounds mimic the function of photoreceptor cells, which deteriorate in blinding diseases such as age-related macular degeneration (AMD) and retinitis pigmentosa (RP). In many blinding retinal diseases, the cells that first detect light disappear while much of the neural machin",
-      "url": "https://scitechdaily.com/experimental-eye-drops-restore-sight-in-blind-mice/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-03T09:53:34+00:00"
+      "title": "Yen hits three-month high after Trump helps prop up currency",
+      "description": "US and Japanese governments confirm they carried out a rare joint intervention late last weekWhy has Trump stepped in to prop up Japan’s currency?Business live – latest updatesThe yen has hit its highest level in three months after Japan and the US launched a combined operation to support the Japane",
+      "url": "https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-08-03T08:34:06+00:00"
     },
     {
-      "title": "Nothing Ear (3a) Wireless Earbuds Review: Style Meets Value",
-      "description": "The $100 earbuds look and sound better than earbuds nearly twice the price—as long as you can stomach just average noise canceling.",
-      "url": "https://www.wired.com/review/nothing-ear-3a/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-03T09:30:00+00:00"
-    },
-    {
-      "title": "Man Utd boss Skinner leaves role before WSL season",
-      "description": "Manchester United manager Marc Skinner steps down from his position before the start of the Women's Super League season.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdewr8w0r80o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-03T08:05:47+00:00"
-    },
-    {
-      "title": "Newcastle sign Braga keeper Hornicek for £25.7m",
-      "description": "Newcastle United sign goalkeeper Lukas Hornicek from Braga for £25.7m.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3ekzyz1qj8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-03T08:00:39+00:00"
-    },
-    {
-      "title": "English FA set to join Welsh in withdrawing support for Infantino",
-      "description": "The English Football Association is set to write to Fifa president Gianni Infantino withdrawing its support amid the fallout from his scrapped plans to sell off stakes in Fifa competitions to private investors.",
+      "title": "Infantino opponents threaten 'non co-operation' with Fifa",
+      "description": "Opponents of Fifa president Gianni Infantino are threatening \"non co-operation\" with the governing body unless he steps down, according to senior Uefa sources.",
       "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
@@ -160,14 +384,6 @@
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-08-03T07:30:52+00:00"
-    },
-    {
-      "title": "From European hopes to relegation form - will Moyes reignite Everton?",
-      "description": "Everton competed for the European places before falling away last season. BBC Sport examines whether David Moyes is the right man to turn them around this term.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy5dw9xeekvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-03T07:03:44+00:00"
     },
     {
       "title": "Woman has pioneering womb surgery to fix 'miracle' baby with intestines outside its body",
@@ -184,150 +400,6 @@
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-08-03T04:10:16+00:00"
-    },
-    {
-      "title": "Coffee’s Most Destructive Pest Is Accidentally Helping the Ants That Hunt It",
-      "description": "A tiny coffee pest may be building the perfect hideout for its own predators. Coffee berry borers tunnel deep into coffee fruit, where they feed and reproduce beyond the reach of many predators. But after tiny ants force the beetles out, some species appear to claim the abandoned chambers as nurseri",
-      "url": "https://scitechdaily.com/coffees-most-destructive-pest-is-accidentally-helping-the-ants-that-hunt-it/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-03T00:26:00+00:00"
-    },
-    {
-      "title": "Cells Join Forces To Survive Prolonged Mechanical Strain",
-      "description": "When tissues are stretched for hours, their cells rebuild their internal support system. A cell’s nucleus is usually anchored inside a protective web of protein fibers. But when tissue remains stretched for hours, that arrangement can break apart. Researchers have discovered that epithelial cells re",
-      "url": "https://scitechdaily.com/cells-join-forces-to-survive-prolonged-mechanical-strain/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-02T23:51:56+00:00"
-    },
-    {
-      "title": "Liverpool ship four second-half goals to leave Iraola with much to ponder",
-      "description": "Liverpool conclude their pre-season US tour with a 4-2 defeat against Leeds, having held a two-goal half-time lead in Chicago.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr7k03gy028o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-02T23:18:36+00:00"
-    },
-    {
-      "title": "When Gut Bacteria Run Out of Fiber, They May Start Eating You",
-      "description": "When plant nutrients run low, some gut bacteria may turn on their host and begin consuming the intestines’ protective lining. The health effects of a plant-based diet may depend not only on what gut bacteria eat but also on whether they begin feeding on the gut itself. New research suggests that fib",
-      "url": "https://scitechdaily.com/when-gut-bacteria-run-out-of-fiber-they-may-start-eating-you/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-02T23:16:03+00:00"
-    },
-    {
-      "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
-      "description": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven Come Crashing is almost ",
-      "url": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-02T21:53:15+00:00"
-    },
-    {
-      "title": "Scientists Discover the Brain May Enter a New Biological Phase Between 50 and 75",
-      "description": "A single-cell study reveals major changes in immune cells, genome organization, and gene regulation within the aging human hippocampus, offering important insights into brain aging and dementias associated with age. Between roughly ages 50 and 75, the cellular landscape of the human hippocampus begi",
-      "url": "https://scitechdaily.com/scientists-discover-the-brain-may-enter-a-new-biological-phase-between-50-and-75/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-02T20:03:00+00:00"
-    },
-    {
-      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-      "description": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-02T19:36:08+00:00"
-    },
-    {
-      "title": "New Research Reveals Autistic Brains Process Faces Differently",
-      "description": "Autistic children showed earlier and less age-related refinement in the brain signals involved in processing faces. A child looks at a face, and within milliseconds the brain begins sorting its features, expression, and identity. Researchers have now traced that process across the entire scalp in on",
-      "url": "https://scitechdaily.com/new-research-reveals-autistic-brains-process-faces-differently/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-02T19:28:57+00:00"
-    },
-    {
-      "title": "Irish boxer Reeves critical but stable in hospital",
-      "description": "Irish boxer Lee Reeves is in a \"critical but stable\" condition in hospital after he was carried out of the ring on a stretcher in Dublin on Saturday.",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/czxqwp57pvvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-02T19:06:52+00:00"
-    },
-    {
-      "title": "Xbox prices are increasing by up to €200 or £170",
-      "description": "When Microsoft announced its latest round of Xbox price bumps in June, it only gave US pricing. Now we know the pricing increases for the EU and UK, and they're dramatic. Depending on the model, Xbox prices are increasing by up to &#8364;200 or &#163;170. The 1TB Xbox Series X with a disc drive is [",
-      "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-02T16:14:20+00:00"
-    },
-    {
-      "title": "Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale",
-      "description": "The start of a new school year can feel hectic, as parents juggle their kids’ classes, extracurriculars and sports on top of work, appointments, and other responsibilities. It&#8217;s easy for things to slip through the cracks, but Skylight&#8217;s shared smart calendars can help keep everyone on tr",
-      "url": "https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-02T15:00:00+00:00"
-    },
-    {
-      "title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was",
-      "description": "The HP HyperX Omen 15, which I first saw at CES, replaces the HP Victus 15, a longtime bestselling budget gaming laptop. The Victus cost just $800, or less when on sale, and was a good entry point to decent laptop gaming. The Omen 15 has nice little upgrades over the Victus. Its RTX 5050 [&#8230;]",
-      "url": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-02T14:00:00+00:00"
-    },
-    {
-      "title": "Is paying artists enough to convince them to embrace AI?",
-      "description": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the tec",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-02T13:00:00+00:00"
-    },
-    {
-      "title": "Foldables are sort of boring now — and that’s great news for Apple",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and Android, follow Dominic Preston. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Believe it or not, it didn'",
-      "url": "https://www.theverge.com/column/972937/foldable-phones-boring-apple",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-02T12:00:00+00:00"
-    },
-    {
-      "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
-      "description": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
-      "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-01T18:20:11+00:00"
-    },
-    {
-      "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
-      "description": "Christopher Nolan's impressionistic remix of Homer's epic poem finds the man behind the myth.",
-      "url": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-01T15:19:04+00:00"
-    },
-    {
-      "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
-      "description": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
-      "url": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-01T12:41:17+00:00"
-    },
-    {
-      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-      "description": "Reddit may still be considering ending its licensing deal with Google.",
-      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-01T12:30:36+00:00"
     }
   ]
 }
