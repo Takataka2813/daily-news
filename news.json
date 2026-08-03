@@ -1,37 +1,229 @@
 {
-  "updatedAt": "2026-08-02T21:54:03.708887+00:00",
+  "updatedAt": "2026-08-03T12:09:42.535273+00:00",
   "articles": [
     {
+      "title": "Pogacar to ride Vuelta a Espana for Grand Tour treble",
+      "description": "Newly crowned five-time Tour de France champion Tadej Pogacar will race in this month's Vuelta a Espana in an attempt to win all three of cycling's Grand Tours.",
+      "url": "https://www.bbc.co.uk/sport/cycling/articles/c4gj7geyxjeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-03T11:54:25+00:00"
+    },
+    {
+      "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
+      "description": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-03T11:49:41+00:00"
+    },
+    {
+      "title": "Best Robot Lawn Mowers (2026): My Picks After 3 Years of Testing",
+      "description": "Smart mowers are an expensive alternative to old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch a robot tame your lawn.",
+      "url": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T11:30:00+00:00"
+    },
+    {
+      "title": "Celtic drawn against LASK as Hearts & Rangers discover opponents",
+      "description": "Celtic will play against Austrian champions LASK in the Champions League play-off round as Heart of Midlothian and Rangers discover their possible opponents in the Europa League.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cddjm88m4vno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-03T11:28:42+00:00"
+    },
+    {
+      "title": "Two-Year Lifestyle Program Boosts Cognition 55% More in Older Adults",
+      "description": "A culturally tailored lifestyle program with ongoing support produced greater cognitive improvement than flexible health guidance alone. Across 11 Latin American countries, older adults at risk of dementia improved their memory and thinking through lifestyle programs adapted to local cultures. The g",
+      "url": "https://scitechdaily.com/two-year-lifestyle-program-boosts-cognition-55-more-in-older-adults/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-03T11:03:55+00:00"
+    },
+    {
+      "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+      "description": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, wi",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T11:01:11+00:00"
+    },
+    {
+      "title": "Alienware 27 QD-OLED (AW2726DM) Review: A $350 Winner",
+      "description": "We’ve come a long way since exclusively $1,000+ OLED gaming monitors. Alienware’s latest display brings the price down to a shocking $350, though it comes with some important compromises.",
+      "url": "https://www.wired.com/review/alienware-27-qd-oled-aw2726dm/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T11:00:00+00:00"
+    },
+    {
+      "title": "People Are Ghosting Long-Term Partners. Some Don’t Regret It",
+      "description": "The communication-free form of breaking up has become ubiquitous. “I no longer had to bear her energy,” a man who ghosted his partner of four years tells WIRED.",
+      "url": "https://www.wired.com/story/people-are-ghosting-long-term-partners-some-dont-regret-it/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T11:00:00+00:00"
+    },
+    {
+      "title": "The Best Audio Players for Kids: Yoto, Toniebox, and More",
+      "description": "Whether you want an audio player that’ll grow with your kid or one that your toddler can operate independently, I have a recommendation for you.",
+      "url": "https://www.wired.com/story/the-best-kids-audio-players-for-screen-free-story-time/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T10:31:00+00:00"
+    },
+    {
+      "title": "Speaking More Languages May Slow Brain Aging",
+      "description": "Multilingual experience may help preserve youthful patterns of brain connectivity, although further research is needed to establish why. Switching between languages can demand constant attention. A speaker may need to select one vocabulary, suppress another, and adjust to different sounds or grammar",
+      "url": "https://scitechdaily.com/speaking-more-languages-may-slow-brain-aging/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-03T10:28:48+00:00"
+    },
+    {
+      "title": "The Delicate Art of Making a 1907 House Smarter",
+      "description": "I tested modern locks, lights, climate controls, and more in a historic home that I very much wanted to keep historic.",
+      "url": "https://www.wired.com/story/smart-tech-for-a-vintage-home/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T10:09:00+00:00"
+    },
+    {
+      "title": "AI Conquered Coding. Fast Food Is Next",
+      "description": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
+      "url": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T10:00:00+00:00"
+    },
+    {
+      "title": "ICE Collected Nearly 1 Million People’s DNA Last Year—Including Young Children",
+      "description": "Internal documents show ICE's DNA collection has skyrocketed in the second Trump administration. Now hundreds of thousands of people never convicted of a crime are in an FBI criminal database forever.",
+      "url": "https://www.wired.com/story/ice-dna-collection-fbi-codis/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T10:00:00+00:00"
+    },
+    {
+      "title": "It may be easier to get your first mortgage than you think - here's why",
+      "description": "More relaxed mortgage regulation opens the door for some first-time buyers, but it comes with risk.",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-03T09:55:36+00:00"
+    },
+    {
+      "title": "Experimental Eye Drops Restore Sight in Blind Mice",
+      "description": "The newly developed compounds mimic the function of photoreceptor cells, which deteriorate in blinding diseases such as age-related macular degeneration (AMD) and retinitis pigmentosa (RP). In many blinding retinal diseases, the cells that first detect light disappear while much of the neural machin",
+      "url": "https://scitechdaily.com/experimental-eye-drops-restore-sight-in-blind-mice/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-03T09:53:34+00:00"
+    },
+    {
+      "title": "Nothing Ear (3a) Wireless Earbuds Review: Style Meets Value",
+      "description": "The $100 earbuds look and sound better than earbuds nearly twice the price—as long as you can stomach just average noise canceling.",
+      "url": "https://www.wired.com/review/nothing-ear-3a/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-03T09:30:00+00:00"
+    },
+    {
+      "title": "Man Utd boss Skinner leaves role before WSL season",
+      "description": "Manchester United manager Marc Skinner steps down from his position before the start of the Women's Super League season.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdewr8w0r80o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-03T08:05:47+00:00"
+    },
+    {
+      "title": "Newcastle sign Braga keeper Hornicek for £25.7m",
+      "description": "Newcastle United sign goalkeeper Lukas Hornicek from Braga for £25.7m.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3ekzyz1qj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-03T08:00:39+00:00"
+    },
+    {
+      "title": "English FA set to join Welsh in withdrawing support for Infantino",
+      "description": "The English Football Association is set to write to Fifa president Gianni Infantino withdrawing its support amid the fallout from his scrapped plans to sell off stakes in Fifa competitions to private investors.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-03T07:49:33+00:00"
+    },
+    {
+      "title": "US and Japan take action to prop up yen in rare joint move",
+      "description": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-03T07:30:52+00:00"
+    },
+    {
+      "title": "From European hopes to relegation form - will Moyes reignite Everton?",
+      "description": "Everton competed for the European places before falling away last season. BBC Sport examines whether David Moyes is the right man to turn them around this term.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5dw9xeekvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-03T07:03:44+00:00"
+    },
+    {
+      "title": "Woman has pioneering womb surgery to fix 'miracle' baby with intestines outside its body",
+      "description": "Theo became the first British baby to be operated on in the womb to correct complex gastroschisis, as part of a pioneering clinical trial.",
+      "url": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-08-03T05:02:25+00:00"
+    },
+    {
+      "title": "New Spider-Man film sees second-biggest ever global opening weekend",
+      "description": "The strong box office performance gives a boost to Disney ahead of the much-anticipated Avengers: Doomsday.",
+      "url": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-03T04:10:16+00:00"
+    },
+    {
+      "title": "Coffee’s Most Destructive Pest Is Accidentally Helping the Ants That Hunt It",
+      "description": "A tiny coffee pest may be building the perfect hideout for its own predators. Coffee berry borers tunnel deep into coffee fruit, where they feed and reproduce beyond the reach of many predators. But after tiny ants force the beetles out, some species appear to claim the abandoned chambers as nurseri",
+      "url": "https://scitechdaily.com/coffees-most-destructive-pest-is-accidentally-helping-the-ants-that-hunt-it/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-03T00:26:00+00:00"
+    },
+    {
+      "title": "Cells Join Forces To Survive Prolonged Mechanical Strain",
+      "description": "When tissues are stretched for hours, their cells rebuild their internal support system. A cell’s nucleus is usually anchored inside a protective web of protein fibers. But when tissue remains stretched for hours, that arrangement can break apart. Researchers have discovered that epithelial cells re",
+      "url": "https://scitechdaily.com/cells-join-forces-to-survive-prolonged-mechanical-strain/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-02T23:51:56+00:00"
+    },
+    {
+      "title": "Liverpool ship four second-half goals to leave Iraola with much to ponder",
+      "description": "Liverpool conclude their pre-season US tour with a 4-2 defeat against Leeds, having held a two-goal half-time lead in Chicago.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr7k03gy028o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-02T23:18:36+00:00"
+    },
+    {
+      "title": "When Gut Bacteria Run Out of Fiber, They May Start Eating You",
+      "description": "When plant nutrients run low, some gut bacteria may turn on their host and begin consuming the intestines’ protective lining. The health effects of a plant-based diet may depend not only on what gut bacteria eat but also on whether they begin feeding on the gut itself. New research suggests that fib",
+      "url": "https://scitechdaily.com/when-gut-bacteria-run-out-of-fiber-they-may-start-eating-you/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-02T23:16:03+00:00"
+    },
+    {
       "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
-      "description": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven Comes Crashing is almost",
+      "description": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk, it caught me off guard. That album has no percussion on it at all. Heaven Come Crashing is almost ",
       "url": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-08-02T21:53:15+00:00"
-    },
-    {
-      "title": "'No guarantees' - joyful Glasgow cannot banish all Commonwealth doubts",
-      "description": "Glasgow 2026 was a joyful success in isolation but questions and doubts remain about the Commonwealth Games' future.",
-      "url": "https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-02T21:45:22+00:00"
-    },
-    {
-      "title": "Rashid takes five wickets as MI beat Super Giants",
-      "description": "Rashid Khan takes 5-17 as MI London defeat Manchester Super Giants by 45 runs in The Hundred, while Ben Duckett strikes a half-century as Trent Rockets beat Sunrisers Leeds by five runs.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c1l18jr3py9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-02T20:10:40+00:00"
-    },
-    {
-      "title": "Kuwaki wins tense play-off to lift Women's Open title",
-      "description": "Watch Japan's Shiho Kuwaki beat beat Esther Henseleit in a two-hole play-off to win the 2026 Women's Open, her first major title.",
-      "url": "https://www.bbc.co.uk/sport/golf/videos/cp3rq2nnzlxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-02T20:07:28+00:00"
     },
     {
       "title": "Scientists Discover the Brain May Enter a New Biological Phase Between 50 and 75",
@@ -58,52 +250,12 @@
       "publishedAt": "2026-08-02T19:28:57+00:00"
     },
     {
-      "title": "Kuwaki wins Women's Open after Henseleit's ball strikes marshal",
-      "description": "Shiho Kuwaki holds her nerve to beat Esther Henseleit after two play-off holes to become the second consecutive Japanese player to win the Women's Open.",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cgmkz4yxpx3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-02T19:21:47+00:00"
-    },
-    {
-      "title": "Irish boxer Reeves 'critical but stable' in hospital",
-      "description": "Irish boxer Lee Reeves is in a \"critical but stable\" condition in hospital after he was stretchered out of the ring in Dublin on Saturday.",
+      "title": "Irish boxer Reeves critical but stable in hospital",
+      "description": "Irish boxer Lee Reeves is in a \"critical but stable\" condition in hospital after he was carried out of the ring on a stretcher in Dublin on Saturday.",
       "url": "https://www.bbc.co.uk/sport/boxing/articles/czxqwp57pvvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
       "publishedAt": "2026-08-02T19:06:52+00:00"
-    },
-    {
-      "title": "Day to remember for record-breaking Finucane",
-      "description": "Emma Finucane creates history by winning a fourth track cycling Commonwealth Games gold and leads Wales into closing ceremony.",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/cp30v9l3n81o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-02T19:00:13+00:00"
-    },
-    {
-      "title": "Is Sparkling Water Bad for Your Teeth? A New Study Has Answers",
-      "description": "A study found that unsweetened sparkling water lowers oral pH less than soda sweetened with sugar. A sip of sparkling water briefly makes the mouth more acidic, but not nearly as much as sugar-sweetened soda, according to a comparison of several common beverages. The findings suggest that choosing a",
-      "url": "https://scitechdaily.com/is-sparkling-water-bad-for-your-teeth-a-new-study-has-answers/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-02T18:53:56+00:00"
-    },
-    {
-      "title": "Chelsea sign Strasbourg midfielder Barco",
-      "description": "Chelsea complete the signing of Argentina and Strasbourg midfielder Valentin Barco on a seven-year deal.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdrv6e5m87no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-02T18:38:05+00:00"
-    },
-    {
-      "title": "Scientists Discover an Odd Genetic Trait in an Ancient Aboriginal Food Plant",
-      "description": "A native Australian millet may carry the genetic fingerprints of thousands of years of Aboriginal harvesting, storage, and plant management. Seen from the air, Channel Country resembles a vibrant and vast tapestry, with a network of waterways crisscrossing the land. Spread across more than 280,000 s",
-      "url": "https://scitechdaily.com/scientists-discover-an-odd-genetic-trait-in-an-ancient-aboriginal-food-plant/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-02T16:21:09+00:00"
     },
     {
       "title": "Xbox prices are increasing by up to €200 or £170",
@@ -112,30 +264,6 @@
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-08-02T16:14:20+00:00"
-    },
-    {
-      "title": "Alonso heals Real Madrid scars to lead Chelsea's senior revolution",
-      "description": "Xabi Alonso on healing from his Real Madrid exit, his gut feeling to join Chelsea and why he sees his new club as an exciting opportunity.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz7d138ew59o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-02T16:00:36+00:00"
-    },
-    {
-      "title": "Marine Heatwaves Are Hiding Far More Heat Than Scientists Realized",
-      "description": "The first study of its kind shows that ecosystems experience far more cumulative heat than standard measurements reveal. A marine heatwave may have an official beginning and end, but the warm water affecting an ecosystem often does not. Like a pot that continues absorbing heat over time, coastal wat",
-      "url": "https://scitechdaily.com/marine-heatwaves-are-hiding-far-more-heat-than-scientists-realized/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-02T15:46:17+00:00"
-    },
-    {
-      "title": "1.4-Million-Year-Old Footprints Reveal a Giant Human Relative",
-      "description": "A 1.4-million-year-old trail of footprints reveals that a powerful human relative grew nearly as large as us and may have traveled in all-male groups. Eight individuals walked across the wet ground beside an ancient Kenyan lake. Within a short time, sediment buried their footprints and preserved a s",
-      "url": "https://scitechdaily.com/1-4-million-year-old-footprints-reveal-a-giant-human-relative/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-02T15:11:37+00:00"
     },
     {
       "title": "Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale",
@@ -170,94 +298,6 @@
       "publishedAt": "2026-08-02T12:00:00+00:00"
     },
     {
-      "title": "Rocks From the Moon’s Far Side Are Rewriting Lunar History",
-      "description": "The Moon’s far side is overturning a long-held theory, revealing that the early Solar System’s asteroid assault may have faded slowly instead of exploding in one catastrophic burst. For decades, scientists have debated whether the early Solar System endured one sudden, catastrophic wave of asteroid ",
-      "url": "https://scitechdaily.com/rocks-from-the-moons-far-side-are-rewriting-lunar-history/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-02T11:58:42+00:00"
-    },
-    {
-      "title": "8 Best Password Managers (2026), Tested and Reviewed",
-      "description": "Keep your logins locked down with our favorite password management apps for PC, Mac, Android, iPhone, and web browsers.",
-      "url": "https://www.wired.com/story/best-password-managers/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-02T11:30:00+00:00"
-    },
-    {
-      "title": "NASA’s Curiosity Finds a Vast Sea of Mysterious Polygons on Mars",
-      "description": "Curiosity has found a vast sea of Martian polygons that may reveal how water and climate once reshaped the Red Planet. NASA’s Curiosity rover has encountered an enormous field of honeycomb-shaped fractures while climbing through a Martian valley known as “Valle Grande.” Each geometric feature measur",
-      "url": "https://scitechdaily.com/nasas-curiosity-finds-a-vast-sea-of-mysterious-polygons-on-mars/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-02T11:23:49+00:00"
-    },
-    {
-      "title": "The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos",
-      "description": "From how galaxies form to the beginnings of the universe, the images from the space telescope are giving cosmologists new data to explore—and theories to build out.",
-      "url": "https://www.wired.com/story/james-webb-space-telescope-changing-astronomers-universe/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-02T11:00:00+00:00"
-    },
-    {
-      "title": "Best Car Vacuums (2026): Handheld, Cordless, Shopping Tips",
-      "description": "These portable vacuums make quick work of snack crumbs, tracked-in dirt, pet hair, and the mysterious debris beneath your seats.",
-      "url": "https://www.wired.com/story/best-car-vacuums/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-02T10:35:00+00:00"
-    },
-    {
-      "title": "There Are 2 Eclipses This August. Here’s How to See Them",
-      "description": "Everything you need to know about the solar eclipse and lunar eclipse that will occur in August 2026.",
-      "url": "https://www.wired.com/story/two-eclipses-august-how-to-see-them/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-02T10:30:00+00:00"
-    },
-    {
-      "title": "The Best Kids’ Backpacks for the 2026 School Year",
-      "description": "Your kid’s little lunch hauler takes a brutal beating every day. These are the backbacks our own kids have tried and loved.",
-      "url": "https://www.wired.com/gallery/best-kids-backpacks-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-02T10:01:00+00:00"
-    },
-    {
-      "title": "Is It Possible to Make Smart Glasses That Aren’t Creepy?",
-      "description": "As more big companies invest in glasses that record audio and video and pack AI on board, privacy concerns are only getting louder.",
-      "url": "https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-02T10:00:00+00:00"
-    },
-    {
-      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-      "description": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
-      "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-02T10:00:00+00:00"
-    },
-    {
-      "title": "YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline",
-      "description": "AboFlah talks about his new goals, streaming for charity, and when it’s time to log off.",
-      "url": "https://www.wired.com/story/youtube-star-aboflah-made-streaming-his-life-he-wants-his-kids-to-live-offline/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-02T09:00:00+00:00"
-    },
-    {
-      "title": "Pixel 11 specs and price leak with no surprises",
-      "description": "Android Headlines claims to have the specs and price for the entire Pixel 11 lineup. What the site shared basically lines up with everything else that we've heard in the lead-up to the August 12th event. The Pixel 11 is expected to get a $100 price hike, starting at $899, but will come with 256GB [&",
-      "url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-01T21:31:24+00:00"
-    },
-    {
       "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
       "description": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
       "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
@@ -288,54 +328,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-08-01T12:30:36+00:00"
-    },
-    {
-      "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
-      "description": "Autonomous vehicle giant disturbs residents' sleep.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-01T11:30:54+00:00"
-    },
-    {
-      "title": "Defcon's new badge is a security key you can see inside",
-      "description": "A removable chip lets hackers inspect their badge—and keep using it after Defcon.",
-      "url": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-01T10:05:21+00:00"
-    },
-    {
-      "title": "How fruit flies chase invisible ribbons of smell to get to their source",
-      "description": "Tracking smells in turbulent air takes a keen sense of direction and sharp memory.",
-      "url": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-01T10:00:19+00:00"
-    },
-    {
-      "title": "Stick to spending limits, PM and chancellor tell ministers in joint memo",
-      "description": "The Chancellor said the Budget on 28 October would “meet our fiscal rules” and give families \"stability\" to plan for the future.",
-      "url": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-01T07:48:01+00:00"
-    },
-    {
-      "title": "Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA",
-      "description": "Some group with no modern descendants contributed a lot to our genomes.",
-      "url": "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-07-31T22:17:05+00:00"
-    },
-    {
-      "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
-      "description": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
-      "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-07-31T21:57:59+00:00"
     }
   ]
 }
