@@ -1,13 +1,221 @@
 {
-  "updatedAt": "2026-08-11T21:43:02.886650+00:00",
+  "updatedAt": "2026-08-12T09:52:18.739191+00:00",
   "articles": [
     {
-      "title": "GB's Glave and Azu claim European 100m one-two",
+      "title": "You’re Thinking About Online Trends All Wrong",
+      "description": "From pessimism around dating to AI reshaping culture, cyber-ethnographer Ruby J. Thelot tells WIRED why people are putting too much stock into things that go viral.",
+      "url": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-12T09:30:00+00:00"
+    },
+    {
+      "title": "8 Great Deals From Patagonia’s Past-Season Sale",
+      "description": "Summer’s not over yet; pick up some new gear for that last Labor Day trip. Save up to 40 percent on some of our favorite Patagonia items at the company’s past-season sale.",
+      "url": "https://www.wired.com/story/patagonia-past-season-sale-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-12T09:09:00+00:00"
+    },
+    {
+      "title": "Nonu, 44, performs solo haka in response to All Blacks",
+      "description": "Former All Blacks star Ma'a Nonu responds to the haka by performing one of his own before his club side's game with New Zealanders in Durban.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/crl7p3e8xj5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-12T09:01:38+00:00"
+    },
+    {
+      "title": "A Candidate Named ‘Count Binface’ Is the Most Normal Part of This Pivotal UK Election",
+      "description": "Clacton's parliamentary race has it all: Nigel Farage, a man dressed as a trash can, a Union Jack bikini, white nationalist conspiracy theories, and 34 candidates on the ballot.",
+      "url": "https://www.wired.com/story/a-candidate-named-count-binface-is-the-most-normal-part-of-this-pivotal-uk-election/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-12T09:01:14+00:00"
+    },
+    {
+      "title": "Jaguar Land Rover owner Tata Group's chairman to step down",
+      "description": "Chandrasekaran said he would not seek reappointment when his term ends due to a lack of support from the Tata Sons board.",
+      "url": "https://www.bbc.co.uk/news/articles/c1512909pgpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-12T08:50:52+00:00"
+    },
+    {
+      "title": "The late-bloomer left-back joining Chelsea for £16m",
+      "description": "Pep Chavarria joins Chelsea on a five-year deal, having played in the Spanish lower leagues until he was 24.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0rw84xk9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-12T08:29:22+00:00"
+    },
+    {
+      "title": "Ipswich agree fee for Paraguay forward Enciso",
+      "description": "Ipswich Town reach an agreement to sign Paraguay forward Julio Enciso from Strasbourg.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gj4zvdn0ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-12T08:25:12+00:00"
+    },
+    {
+      "title": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
+      "description": "Households living within 1,600ft of upgraded pylons will get £250 a year off their electricity bills.",
+      "url": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-12T07:30:16+00:00"
+    },
+    {
+      "title": "Depay says Corinthians 'unacceptable' as contract ends",
+      "description": "Memphis Depay accuses Corinthians of \"unacceptable behaviour\" and of breaching an agreement after the Brazilian club decide against renewing his contract.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwym29gnkzdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-12T06:35:01+00:00"
+    },
+    {
+      "title": "Slot to stay in club football after Netherlands talks",
+      "description": "Former Liverpool head coach Arne Slot confirms talks for Netherlands managerial vacancy but says his next job will be in club football.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c980rd5njneo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-12T06:20:53+00:00"
+    },
+    {
+      "title": "Why is the women's 800m record so tough to break?",
+      "description": "The world record for the women's 800m is the longest standing in athletics. No-one has managed to break it for 43 years. Why is it such a tough task?",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cgr7lk1kndro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-12T06:13:39+00:00"
+    },
+    {
+      "title": "Emery chases first Super Cup - but does it matter?",
+      "description": "Aston Villa are competing in the Super Cup for the first time since 1982, but manager Unai Emery has much more recent experience of the match.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq6dj2jn277o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-12T05:26:48+00:00"
+    },
+    {
+      "title": "How affordable are Edinburgh's festivals?",
+      "description": "The city is no stranger to complaints about soaring prices during August - but are costs on the rise?",
+      "url": "https://www.bbc.co.uk/news/articles/czdmn1re7zgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-12T05:04:59+00:00"
+    },
+    {
+      "title": "OnePlus Promo Codes: 30% Off August 2026",
+      "description": "Save 30% with a OnePlus coupon in August 2026, plus save up to 10% on earbuds, phones, and more.",
+      "url": "https://www.wired.com/story/oneplus-promo-code/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-12T05:00:00+00:00"
+    },
+    {
+      "title": "Chegg Coupon Codes August 2026: Save on Study, Textbooks, & More",
+      "description": "Unlock Chegg promo codes, student discounts, and free trials for Chegg Study and Chegg Writing.",
+      "url": "https://www.wired.com/story/chegg-coupon-code/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-12T05:00:00+00:00"
+    },
+    {
+      "title": "Paramount+ Coupon Codes and Deals for August 2026",
+      "description": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-12T05:00:00+00:00"
+    },
+    {
+      "title": "Walmart Promo Codes: Up to 65% Off for August 2026",
+      "description": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
+      "url": "https://www.wired.com/story/top-walmart-promo-codes/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-12T05:00:00+00:00"
+    },
+    {
+      "title": "20% Off Brooks Promo Code | August 2026",
+      "description": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+      "url": "https://www.wired.com/story/brooks-promo-code/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-12T05:00:00+00:00"
+    },
+    {
+      "title": "PM admits cost of living help is not enough and hints at further support",
+      "description": "The PM has announced a rake of measures to help people since taking office three weeks ago.",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkee248vdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-12T04:13:45+00:00"
+    },
+    {
+      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "description": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posti",
+      "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-12T00:39:26+00:00"
+    },
+    {
+      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "description": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
+      "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-12T00:08:40+00:00"
+    },
+    {
+      "title": "Children as young as nine hurt in growing number of e-scooter crashes",
+      "description": "Three trauma centres - Liverpool, Manchester and Sheffield - say they have treated nearly 500 casualties under the age of 16.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rdggr304o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-08-11T23:31:02+00:00"
+    },
+    {
+      "title": "Tokenomics: Why making AI pay is tricky",
+      "description": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
+      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-11T23:03:52+00:00"
+    },
+    {
+      "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
+      "description": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-11T23:00:26+00:00"
+    },
+    {
+      "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
+      "description": "Did a prototype Microsoft gamepad fall off the back of a truck? We can't say, but a Redditor has legit-looking photos of a prototype Xbox controller that's almost certainly the Xbox Elite Series 3. Incredibly, they claim they bought the pad for $200 on OfferUp. In May, a Brazilian regulator's leaked",
+      "url": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-11T22:36:35+00:00"
+    },
+    {
+      "title": "Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic",
+      "description": "It took just hours for the leading pharma group to reject the recommendations.",
+      "url": "https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-11T22:31:45+00:00"
+    },
+    {
+      "title": "'Total domination' - GB's Glave & Azu claim European 100m one-two",
       "description": "Great Britain's Romell Glave and Jeremiah Azu claim a sensational European 100m one-two for the hosts in Birmingham.",
       "url": "https://www.bbc.co.uk/sport/athletics/articles/cvg70y30x5go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-08-11T21:24:19+00:00"
+      "publishedAt": "2026-08-11T22:03:51+00:00"
     },
     {
       "title": "An FCC filing points to new Sonos headphones coming soon",
@@ -18,20 +226,20 @@
       "publishedAt": "2026-08-11T21:23:30+00:00"
     },
     {
-      "title": "Coventry eye Mudryk on loan - Wednesday's gossip",
-      "description": "Coventry City interested in signing Chelsea winger Mykhaylo Mudryk on loan, Barcelona still chasing Manchester City midfielder Rodri and Manchester United make a move for Real Madrid striker Endrick.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy5d127gv0go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-11T21:16:52+00:00"
+      "title": "Russian drones found near vital European offshore gas site, get blown up",
+      "description": "This follows many drone incursions into Romania and a failed attack in Germany.",
+      "url": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-11T21:20:11+00:00"
     },
     {
-      "title": "Super Giants deny Sunrisers and boost knockout bid",
-      "description": "Manchester Super Giants gave themselves a huge chance of qualifying for the knockout stages of The Hundred with a 10-wicket win over Sunrisers Leeds.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/clyj0je7vm4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-11T20:27:32+00:00"
+      "title": "Chrome adopts what may be the best protection yet against account takeovers",
+      "description": "Device-bound session credentials thwart an increasingly common form of account takeover.",
+      "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-11T20:59:52+00:00"
     },
     {
       "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
@@ -42,36 +250,12 @@
       "publishedAt": "2026-08-11T20:27:16+00:00"
     },
     {
-      "title": "Is It Safe to Eat Lettuce Yet?",
-      "description": "“That product is off the market, so I think there’s absolutely lower risk for cyclospora in terms of eating lettuce,” one professor of food safety tells WIRED.",
-      "url": "https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-11T20:26:01+00:00"
-    },
-    {
       "title": "Tributes to co-founder of John Pye auction house",
       "description": "A statement issued by the firm said \"John lived a fantastic life full of laughter and hard work\".",
       "url": "https://www.bbc.co.uk/news/articles/c8xn7k2ldzxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-08-11T20:22:40+00:00"
-    },
-    {
-      "title": "Scientists Find a Smarter Way To Turn Used Coffee Grounds Into Clean Fuel",
-      "description": "Every cup of coffee leaves behind a hidden reservoir of energy. Damp coffee grounds discarded after brewing still contain valuable oils that can be converted into biodiesel, while their carbohydrates and other compounds could be used to produce renewable fuels, bioplastics, and industrial chemicals.",
-      "url": "https://scitechdaily.com/scientists-find-a-smarter-way-to-turn-used-coffee-grounds-into-clean-fuel/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-11T20:03:49+00:00"
-    },
-    {
-      "title": "Criticism of empty seats and ticket prices at Europeans",
-      "description": "Nearly 10,000 seats were empty at Birmingham's Alexander Stadium on Monday.",
-      "url": "https://www.bbc.co.uk/news/articles/c0jl66j9yjpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-11T19:59:05+00:00"
     },
     {
       "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
@@ -90,36 +274,12 @@
       "publishedAt": "2026-08-11T19:41:42+00:00"
     },
     {
-      "title": "A Rare Look Inside the Dodo’s Skull Challenges Centuries of Myths",
-      "description": "CT scans reveal new clues to how the dodo sensed its environment and challenge its reputation as an unintelligent bird. For centuries, one of the world’s only two complete dodo skulls has been preserved in Copenhagen. Now, that rare specimen is helping researchers investigate a question fossils rare",
-      "url": "https://scitechdaily.com/a-rare-look-inside-the-dodos-skull-challenges-centuries-of-myths/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-11T19:28:52+00:00"
-    },
-    {
-      "title": "How and When to View the Perseid Meteor Shower (August 2026)",
-      "description": "The Perseids will peak between August 12 and 13. Here’s what time—and where—you can get the best view, and why 2026 will be an exceptional year.",
-      "url": "https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-11T19:15:40+00:00"
-    },
-    {
       "title": "Threads has a VR app now",
       "description": "Meta has launched a Threads app for Meta Quest VR headsets, the company announced on Tuesday. The launch follows Meta bringing the app to its Ray-Ban Display AR glasses last month and the recent news that the platform has crossed 500 million monthly active users. It seems like a pretty full-featured",
       "url": "https://www.theverge.com/tech/978181/meta-threads-quest-vr-app",
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-08-11T19:10:14+00:00"
-    },
-    {
-      "title": "Did Cellular Life Begin Twice? New Study Points to Two Independent Origins",
-      "description": "Early metabolism may have begun as a mix of metal and enzyme catalysis before bacteria and archaea independently evolved into free-living cells. Four billion years ago, the chemistry that eventually became life may have been unfolding around hydrothermal vents, where naturally occurring metals helpe",
-      "url": "https://scitechdaily.com/did-cellular-life-begin-twice-new-study-points-to-two-independent-origins/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-11T18:53:00+00:00"
     },
     {
       "title": "Google’s free streaming service now lets you pick shows and movies to watch",
@@ -136,14 +296,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-08-11T18:31:53+00:00"
-    },
-    {
-      "title": "Jaissle 'bit scared' how refs will take 'emotional' touchline style",
-      "description": "Newcastle United head coach Matthias Jaissle cut a measured figure at his unveiling news conference, but Premier League managers will come up against someone very different",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cedje42vgwjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-11T18:10:05+00:00"
     },
     {
       "title": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
@@ -170,204 +322,12 @@
       "publishedAt": "2026-08-11T17:31:06+00:00"
     },
     {
-      "title": "Google’s upcoming Pixel phones are for the fans, even if its launch event isn’t",
-      "description": "Last year's Made by Google event for the Pixel 10 resembled a late night talk show, complete with Jimmy Fallon as host, and it aired an hour after the phones were revealed. Spec dives and executive appearances were replaced with celebrity cameos and awkward skits, to the confusion of many diehard Pi",
-      "url": "https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-11T17:00:00+00:00"
-    },
-    {
-      "title": "Made by Google 2026: all the Pixel news and announcements",
-      "description": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs pointing to a built-in light coming to Pro models. Teasers from Google also indicate that it [&#8230;]",
-      "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-11T17:00:00+00:00"
-    },
-    {
-      "title": "Eclipse chasers scramble for glasses as stocks run low",
-      "description": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.",
-      "url": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-11T16:31:43+00:00"
-    },
-    {
-      "title": "Tracking extreme heat by the hour makes climate change seem even worse",
-      "description": "Hot hours of summer could triple in the coming decades.",
-      "url": "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-11T16:26:38+00:00"
-    },
-    {
-      "title": "A Google insider spills the tea on how the company forsook its founding ideals",
-      "description": "Claire Stapleton's new book, Don't Be Evil, recounts her journey from company cheerleader to outspoken dissident.",
-      "url": "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-11T16:07:34+00:00"
-    },
-    {
-      "title": "A coup for Bezos and a windfall for FSG - where does deal leave Liverpool?",
-      "description": "Why investment by a group including Jeff Bezos would not make a marked difference to Liverpool's spending power - and might sit uneasily with fans.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgx311g1zko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-11T16:00:35+00:00"
-    },
-    {
-      "title": "Trump to give Republicans a 3-1 FCC majority, isn't filling empty Democratic seat",
-      "description": "Trump has resisted urge to fire FCC Democrat despite recent Supreme Court win.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-11T15:28:43+00:00"
-    },
-    {
-      "title": "85% of Atypical Alzheimer’s Patients May Not Qualify for Treatment",
-      "description": "Current treatment criteria may exclude many people with atypical Alzheimer’s disease even when they remain in relatively early stages. For some people with Alzheimer’s disease, memory loss is not the first warning sign. Problems with vision, language, planning, or movement can appear earlier, and ne",
-      "url": "https://scitechdaily.com/85-of-atypical-alzheimers-patients-may-not-qualify-for-treatment/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-11T15:21:58+00:00"
-    },
-    {
-      "title": "Razer Naga V3 Pro Review: Buttons Galore",
-      "description": "The PC gaming world has tried to move on from bulky, heavier mice, but the Naga V3 Pro proves that it still has its place.",
-      "url": "https://www.wired.com/review/razer-naga-v3-pro/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-11T15:00:00+00:00"
-    },
-    {
-      "title": "Sitting Up Straight Could Actually Help You Make Better Decisions",
-      "description": "New research suggests that even a small shift in posture may influence both mood and the ability to take calculated risks. In a McGill University experiment involving nearly 200 participants, people encouraged to sit upright reported stronger feelings of pride and performed better in a game that bal",
-      "url": "https://scitechdaily.com/sitting-up-straight-could-actually-help-you-make-better-decisions/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-11T14:46:00+00:00"
-    },
-    {
-      "title": "France bans unsolicited telemarketing calls",
-      "description": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
-      "url": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-11T14:19:45+00:00"
-    },
-    {
-      "title": "A Cannabis-Based Drug Dramatically Reduced PTSD Nightmares",
-      "description": "A new approach to treating severe sleep disorders. For many people with post-traumatic stress disorder (PTSD), going to sleep can mean reliving a traumatic experience with frightening intensity. These recurring nightmares can cause severe sleep loss and even create fear of going to bed, while existi",
-      "url": "https://scitechdaily.com/a-cannabis-based-drug-dramatically-reduced-ptsd-nightmares/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-11T14:11:03+00:00"
-    },
-    {
-      "title": "Unhappy PSG given extra Super Cup dressing room",
-      "description": "Champions League winners Paris St-Germain were unhappy with the space they were given at Red Bull Arena.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cre41pqy0r7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-11T14:06:50+00:00"
-    },
-    {
-      "title": "AI Could Help Fossil Fuel Companies Create More Emissions",
-      "description": "New research finds that by making the fossil fuel industry more productive, AI could help increase carbon emissions by up to nearly 5 percent—vastly outpacing the impact of data centers.",
-      "url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-11T13:45:02+00:00"
-    },
-    {
-      "title": "New surveillance tech links your phone to your license plate",
-      "description": "Phone and Bluetooth signals could turn roadside cameras into far richer tracking tools.",
-      "url": "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-11T13:15:24+00:00"
-    },
-    {
-      "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
-      "description": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants’ device.",
-      "url": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-11T12:37:12+00:00"
-    },
-    {
-      "title": "AI agent hacks gym to get its user a spot in pilates class",
-      "description": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-11T12:09:26+00:00"
-    },
-    {
-      "title": "Palace co-owner spoke to McNeil's partner before move",
-      "description": "Crystal Palace co-owner and chairman Steve Parish contacts Dwight McNeil's partner before the midfielder's move to the club.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyjxxg5ze5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-11T12:07:28+00:00"
-    },
-    {
-      "title": "Never-Before-Seen Vortices Are Swirling Across the Sun",
-      "description": "The world’s largest solar telescope and advanced computer simulations revealed vortices that are reshaping our understanding of the Sun. Across the Sun’s visible surface, hot plasma is constantly rising, cooling, and sinking. At the edges of these churning regions, researchers have now resolved tiny",
-      "url": "https://scitechdaily.com/never-before-seen-vortices-are-swirling-across-the-sun/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-11T11:38:30+00:00"
-    },
-    {
-      "title": "Ranking the Best Red-Light Therapy Masks and LED Devices of 2026",
-      "description": "I tried the red-light therapy masks flooding my feed and consulted with professionals to find out which ones are worth the splurge.",
-      "url": "https://www.wired.com/story/led-face-masks-and-red-light-therapy/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-11T11:31:00+00:00"
-    },
-    {
-      "title": "6 Best Dehumidifiers to Fight Mold and Muggy Summers (2026)",
-      "description": "If you care about good air, it’s time for a dehumidifier. These are the best ones we’ve tested for everything from basements to drying laundry.",
-      "url": "https://www.wired.com/gallery/best-dehumidifier/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-11T11:07:00+00:00"
-    },
-    {
-      "title": "Something May Be Flowing Beneath Pluto’s Giant Heart-Shaped Glacier",
-      "description": "Researchers used New Horizons images to identify evidence that liquid nitrogen may have flowed from beneath Pluto’s famous heart-shaped glacier. Dark markings across part of Pluto’s enormous heart-shaped glacier may record something unexpected beneath its frozen surface: liquid nitrogen moving upwar",
-      "url": "https://scitechdaily.com/something-may-be-flowing-beneath-plutos-giant-heart-shaped-glacier/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-11T11:03:28+00:00"
-    },
-    {
       "title": "HCA workers push for higher pay and more staffing amid billions in profits: ‘I’m struggling’",
       "description": "Largest for-profit hospital system and operator in the US reported $6.8bn in profits, while employees find it difficult to make ends meetUnion workers with HCA Healthcare, the largest for-profit hospital system and operator in the US, are holding picket protests across the country as they push for p",
       "url": "https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-08-11T11:00:02+00:00"
-    },
-    {
-      "title": "A New Trick Reveals AI Models’ Inner Thoughts",
-      "description": "Researchers devised a way to extract “reasoning traces” from Claude, GPT, and Gemini. What they found, they say, indicates that some Chinese AI may be trained on leading US models.",
-      "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-11T11:00:00+00:00"
-    },
-    {
-      "title": "Mars Bar from 1991 found – and it's 56% bigger than today's",
-      "description": "The woman who found the chocolate bar during a house clearance compares it with today's Mars Bars.",
-      "url": "https://www.bbc.co.uk/news/articles/c1j1kjy7gewo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-11T09:08:46+00:00"
     },
     {
       "title": "England set to be one of the first countries to eliminate hepatitis C",
@@ -378,12 +338,12 @@
       "publishedAt": "2026-08-11T08:54:57+00:00"
     },
     {
-      "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-      "description": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
-      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+      "title": "'I paid £400 for a Prada bag on Vinted - only to find it was fake'",
+      "description": "A woman who paid £400 for a Prada handbag on Vinted later discovered it was a fake.",
+      "url": "https://www.bbc.co.uk/news/articles/cp308wy8zk9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "publishedAt": "2026-08-11T08:44:52+00:00"
+      "publishedAt": "2026-08-11T08:48:58+00:00"
     },
     {
       "title": "Nvidia links with Wall Street firms for $500bn AI financing deal",
@@ -392,22 +352,6 @@
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-08-11T08:34:37+00:00"
-    },
-    {
-      "title": "More than 10 firms pay up to $100,000 a month for fast access to Truth Social posts",
-      "description": "Trump Media expects the controversial service, which launched this month, to provide a new revenue stream, as it posts a quarterly loss.",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-11T08:08:30+00:00"
-    },
-    {
-      "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
-      "description": "Women can make higher returns but only about a quarter of UK women have investments, compared with about 40% of men.",
-      "url": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-10T23:32:10+00:00"
     },
     {
       "title": "US judge drops criminal charges against Indian billionaire Gautam Adani",
