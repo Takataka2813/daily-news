@@ -1,6 +1,414 @@
 {
-  "updatedAt": "2026-08-13T09:51:49.249822+00:00",
+  "updatedAt": "2026-08-13T21:41:44.119192+00:00",
   "articles": [
+    {
+      "title": "Hunt surges to 200m glory to win second European gold",
+      "description": "Britain's Amy Hunt charges to 200m glory to secure her second gold medal of the European Championships as Dina Asher-Smith claims bronze.",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-13T21:39:06+00:00"
+    },
+    {
+      "title": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
+      "description": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
+      "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T21:14:43+00:00"
+    },
+    {
+      "title": "'Dad rang and I was like: What's happening?' - England U20s boss on Uefa threat",
+      "description": "England head coach Lydia Bedford says she has been told to \"just continue as usual\" before next month's Under-20 Women's World Cup, despite the threat of a Uefa boycott over an ongoing row with Fifa.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ydz50jnz3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-13T21:09:51+00:00"
+    },
+    {
+      "title": "'This is her stage!' - Hunt takes 200m gold",
+      "description": "GB sprint star Amy Hunt takes her second gold of the 2026 European Athletics Championships in the women's 200m, with Rhasidat Adeleke second and Dina Asher-Smith in third.",
+      "url": "https://www.bbc.co.uk/sport/athletics/videos/c5yvz902xv5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-13T21:08:59+00:00"
+    },
+    {
+      "title": "Netflix is closing two game studios",
+      "description": "Netflix plans to shut down two of its gaming studios, as reported by Game File and Variety, as it makes a bigger shift toward party games and titles streamed to TVs. One of the studios being shut down is Night School Studio, creators of the Oxenfree series. Netflix bought Night School in 2021, and i",
+      "url": "https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T20:52:58+00:00"
+    },
+    {
+      "title": "GB teenager Nowacki wins dramatic European gold",
+      "description": "British teenager Filip Nowacki claims a dramatic gold in the men's 200m breaststroke final at the European Aquatics Championships in Paris.",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/cre4peze9yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-13T20:08:18+00:00"
+    },
+    {
+      "title": "This school-friendly laptop from HP is $300 off",
+      "description": "With memory prices still high and showing no signs of dropping, we’re always happy to find a good deal on a budget-friendly system with an adequate amount of RAM. Best Buy has the HP OmniBook X Flip discounted by $300, bringing the cost down to $699.99. This model is equipped with an Intel Core Ultr",
+      "url": "https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T20:07:53+00:00"
+    },
+    {
+      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "description": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
+      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T19:38:58+00:00"
+    },
+    {
+      "title": "OpenAI is losing its second executive this week",
+      "description": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, wi",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T19:28:39+00:00"
+    },
+    {
+      "title": "Astronomers Caught a Star Exploding Almost the Instant It Began",
+      "description": "Astronomers witnessed a star’s death almost from the instant it began, catching an extraordinarily rare X-ray flash as a supernova erupted 500 million light-years away. Astronomers rarely get to watch a star die from the beginning. Usually, a supernova is discovered only after the explosion is alrea",
+      "url": "https://scitechdaily.com/astronomers-caught-a-star-exploding-almost-the-instant-it-began/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-13T19:21:34+00:00"
+    },
+    {
+      "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
+      "description": "Will it be the VSS... Horizon, Explorer, Ascend or Apeiron?",
+      "url": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T19:12:15+00:00"
+    },
+    {
+      "title": "The Trump admin will start letting private firms launch international cyberattacks",
+      "description": "The Trump administration is launching a new program that will allow private firms to perform cyberattacks against foreign criminals, as reported earlier by Bloomberg. The private firms would operate \"under the control and oversight\" of the federal government, giving them permission to surveil and di",
+      "url": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T18:56:13+00:00"
+    },
+    {
+      "title": "Empty Space May Not Be Empty After All: Magnetar Reveals a Bizarre Quantum Effect",
+      "description": "Astronomers studying one of the most magnetic objects in the universe have found some of the strongest evidence yet for a bizarre effect predicted by quantum physics nearly 90 years ago. The finding suggests that a powerful magnetic field can change the way light travels through a vacuum, even when ",
+      "url": "https://scitechdaily.com/empty-space-may-not-be-empty-after-all-magnetar-reveals-a-bizarre-quantum-effect/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-13T18:46:08+00:00"
+    },
+    {
+      "title": "Kerr's Europeans absence ruining the sport - Ingebrigtsen",
+      "description": "Jakob Ingebrigtsen says he is \"very\" disappointed by British rival Josh Kerr's decision to miss the European Championships in Birmingham.",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cewrp0np7ppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-13T18:39:26+00:00"
+    },
+    {
+      "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
+      "description": "Ukrainian drone pilots teach the US military and NATO hard battlefield lessons.",
+      "url": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T18:31:56+00:00"
+    },
+    {
+      "title": "I finally found a robot lawnmower I’d trust with my yard",
+      "description": "Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or go roaming in your neighbors’ yard, you’re still going to need to keep an eye on ",
+      "url": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T18:30:00+00:00"
+    },
+    {
+      "title": "Humanity May Soon Have the Technology To Reach Other Star Systems",
+      "description": "Tiny spacecraft riding beams of light could put humanity within reach of another star system in a single lifetime. The recent confirmation of an atmosphere around a rocky exoplanet called LHS 1140b has created a wave of interest within the astronomy community. The planet orbits within the habitable ",
+      "url": "https://scitechdaily.com/humanity-may-soon-have-the-technology-to-reach-other-star-systems/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-13T18:11:54+00:00"
+    },
+    {
+      "title": "Flock “can’t tech its way out” of the stalker cop problem, experts say",
+      "description": "Flock to lock out cops who stalk exes, but agencies can still hide abuse.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T18:10:14+00:00"
+    },
+    {
+      "title": "You can now just point at a mess and this robot vacuum will suck it up",
+      "description": "Matic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk directly to your vacuum to tell it what you want it to do, or just point at a mess to have it spot-clean. The feature [&#8230;]",
+      "url": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T18:00:00+00:00"
+    },
+    {
+      "title": "Pet owners say smart pet feeder outage led to furry ones going unfed",
+      "description": "\"I've lost trust ...\"",
+      "url": "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T17:53:53+00:00"
+    },
+    {
+      "title": "The new Instagram logo is the perfect embodiment of AI slop",
+      "description": "Opinion: Some remarks about the new wordmark accidentally being perfectly awful.",
+      "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T17:32:10+00:00"
+    },
+    {
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "description": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T17:00:13+00:00"
+    },
+    {
+      "title": "2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217;",
+      "description": "2K is launching a new AAA game development studio, Small Axe Studios, with an ambitious goal: to build the company's \"next blockbuster sports franchise,\" according to a LinkedIn post. The post doesn't explicitly say what sport this new game will focus on. But an image included in the post features w",
+      "url": "https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T16:38:15+00:00"
+    },
+    {
+      "title": "LIV set to cancel season-ending Team Championship",
+      "description": "LIV Golf players have been warned that the season-ending Team Championship later this month is set to be cancelled.",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/c1512e13n40o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-13T16:36:15+00:00"
+    },
+    {
+      "title": "Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025",
+      "description": "Tech billionaire’s $158.3bn deal an outlier in report showing widening gap of CEO to worker pay at top companiesElon Musk received over 2.5m times as much compensation at Tesla as the company’s average worker, according to a new report on the growing gap between top corporate executives and their wo",
+      "url": "https://www.theguardian.com/business/2026/aug/13/elon-musk-tesla-pay-workers",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-08-13T16:31:14+00:00"
+    },
+    {
+      "title": "Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul",
+      "description": "Ford said today that its next-generation electric vehicle - recently dubbed Fathom - will go into production at the automaker's recently overhauled Louisville Assembly Plant in the first quarter of 2027. The first Fathoms will be prototypes, with Ford's team in Louisville already in the production-l",
+      "url": "https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T16:23:18+00:00"
+    },
+    {
+      "title": "Rashford, Mainoo & transfers - Carrick calls for more signings",
+      "description": "Before his first full season as Manchester United head coach, Michael Carrick explains why the club need more players, discusses why he is in a privileged position and talks Marcus Rashford and Kobbie Mainoo.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c79g4px5z1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-13T16:21:51+00:00"
+    },
+    {
+      "title": "The Painful Truth of Exactly How ICE’s New Shock Gloves Work",
+      "description": "ICE is spending millions on shock gloves designed to overpower subjects through intense, localized pain.",
+      "url": "https://www.wired.com/story/the-painful-truth-of-exactly-how-ice-new-shock-gloves-actually-work/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T15:57:12+00:00"
+    },
+    {
+      "title": "A “Double Punch” Nanoparticle Could Reveal and Destroy Brain Cancer Cells",
+      "description": "Light-activated nanoparticles could help surgeons see glioblastoma more clearly and destroy cancer cells that remain after surgery. Glioblastoma can spread microscopic cancer cells into healthy brain tissue, making the most aggressive form of brain cancer exceptionally difficult to remove completely",
+      "url": "https://scitechdaily.com/a-double-punch-nanoparticle-could-reveal-and-destroy-brain-cancer-cells/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-13T14:56:08+00:00"
+    },
+    {
+      "title": "Harvey Nichols bought by owner of Sports Direct",
+      "description": "The department store made famous by sitcom Absolutely Fabulous had warned it would cease trading.",
+      "url": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-13T14:27:43+00:00"
+    },
+    {
+      "title": "Popular GLP-1 Weight-Loss Drugs Linked to 30% Lower Breast Cancer Risk",
+      "description": "New research suggests GLP-1 medications may be associated with a lower likelihood of developing breast cancer. GLP-1 medications have transformed the treatment of obesity and type 2 diabetes, but researchers are increasingly exploring whether their benefits extend far beyond weight loss. Now, a stud",
+      "url": "https://scitechdaily.com/popular-glp-1-weight-loss-drugs-linked-to-30-lower-breast-cancer-risk/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-13T14:21:14+00:00"
+    },
+    {
+      "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
+      "description": "The dating app's boss says the move is in response to a successful trial and a change in what users want.",
+      "url": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-13T14:09:05+00:00"
+    },
+    {
+      "title": "Leicester City put up for sale for more than £200m",
+      "description": "Leicester City's Thai owners King Power are hoping to sell the club after 16 years, for more than £200m.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce3qp0yy0j9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-13T14:08:18+00:00"
+    },
+    {
+      "title": "Rivian's 2027 changes include its No. 1 most-requested feature",
+      "description": "Pricing hasn't changed, and now you can get captain's chairs for the R1S.",
+      "url": "https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T14:00:57+00:00"
+    },
+    {
+      "title": "A Deadly Fungus Has Found the Perfect Hiding Place: Human Hair Follicles",
+      "description": "UCSF researchers are beginning to uncover how Candida auris, a skin fungus, threatens the most vulnerable patients. A fungus that can live unnoticed on human skin has become a serious threat in hospitals around the world. First identified in Japan in 2009, Candida auris can become deadly if it enter",
+      "url": "https://scitechdaily.com/a-deadly-fungus-has-found-the-perfect-hiding-place-human-hair-follicles/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-13T13:46:21+00:00"
+    },
+    {
+      "title": "Did the eclipse damage your eyes?",
+      "description": "An eye surgeon says that fewer people have been seeking treatment for eye damage than after the UK's last total solar eclipse in 1999.",
+      "url": "https://www.bbc.co.uk/news/videos/cy452z5j1x1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-08-13T13:39:18+00:00"
+    },
+    {
+      "title": "Water bills set to rise for many after firms permitted extra funding",
+      "description": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-13T13:38:30+00:00"
+    },
+    {
+      "title": "Why This Prediction Market Banned Teens",
+      "description": "Jacob Fortinsky, the CEO and cofounder of the new prediction market Novig, says his outfit isn’t like those other markets. You know the ones.",
+      "url": "https://www.wired.com/story/novig-says-its-not-like-those-other-prediction-markets/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T13:30:00+00:00"
+    },
+    {
+      "title": "Flock boss admits surveillance firm took too long to act over police abuse",
+      "description": "US police officers have quit after using licence plate-reading cameras to track romantic partners.",
+      "url": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-13T13:02:24+00:00"
+    },
+    {
+      "title": "The Best Samsung Galaxy S26 Cases (2026): S26, S26+, and S26 Ultra",
+      "description": "Protect your Samsung phone with these cases and screen protectors.",
+      "url": "https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T12:05:00+00:00"
+    },
+    {
+      "title": "Eclipse warning: The key signs you may have damaged your eyes",
+      "description": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
+      "url": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-08-13T11:57:28+00:00"
+    },
+    {
+      "title": "Tiny Fossil Overlooked for Decades Reveals a New Ice Age Species",
+      "description": "A tiny fossil overlooked for decades at La Brea Tar Pits has turned out to belong to a species previously unknown to science. Researchers have identified Spea labreae, a previously unknown extinct spadefoot toad from La Brea Tar Pits and the first new species of extinct amphibian discovered from Ice",
+      "url": "https://scitechdaily.com/tiny-fossil-overlooked-for-decades-reveals-a-new-ice-age-species/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-13T11:18:46+00:00"
+    },
+    {
+      "title": "Zero hours crackdown could cost firms up to £2.9bn a year",
+      "description": "Labour's employment rights bill crackdown on zero hours contracts could cost businesses up to £2.9bn a year, new official analysis has found.",
+      "url": "https://www.bbc.co.uk/news/articles/c0l525k76d0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-13T11:12:33+00:00"
+    },
+    {
+      "title": "The Google Pixelsnap Charger With Stand Is 50 Percent Off Right Now",
+      "description": "Speedy Qi2 wireless charging in a magnetic puck and stand combo makes Google’s Pixelsnap well worth grabbing at half price.",
+      "url": "https://www.wired.com/story/google-pixelsnap-charger-and-stand-50-percent-off/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T11:00:00+00:00"
+    },
+    {
+      "title": "Melting Sea Ice Could Be Changing the Clouds Above the Arctic",
+      "description": "As Arctic sea ice melts away, it may be doing more than exposing open ocean. Scientists have found that the retreating ice could also help create many of the tiny particles needed to form clouds. Scientists have discovered a previously unknown natural process in the Arctic that can rapidly increase ",
+      "url": "https://scitechdaily.com/melting-sea-ice-could-be-changing-the-clouds-above-the-arctic/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-13T10:43:05+00:00"
+    },
+    {
+      "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
+      "description": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
+      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-13T10:39:02+00:00"
+    },
+    {
+      "title": "UK economy grows but experts warn of challenging months ahead",
+      "description": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
+      "url": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-13T10:17:56+00:00"
+    },
+    {
+      "title": "In a Heat Wave, Schizophrenia Is So Much Deadlier Than Any Other Medical Condition",
+      "description": "People with schizophrenia face a perfect storm of dangers on a hotter planet.",
+      "url": "https://www.wired.com/story/heat-wave-schizophrenia/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T10:16:33+00:00"
+    },
+    {
+      "title": "Trump administration accused of ‘bullying’ union leader at consumer protection agency",
+      "description": "Critic of Consumer Financial Protection Bureau leadership was put under investigation and suspended from jobThe Trump administration has been accused of “bullying and intimidation” after a labor union leader and critic was put under investigation and suspended from his job at the Consumer Financial ",
+      "url": "https://www.theguardian.com/us-news/2026/aug/13/consumer-financial-protection-trump-administration",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-08-13T10:00:55+00:00"
+    },
+    {
+      "title": "5 Best Android Tablets in 2026: Samsung, TCL, Amazon, and More",
+      "description": "Whether you need a portable, around-the-house entertainment center or a full-on laptop replacement, these are the best Android tablets.",
+      "url": "https://www.wired.com/story/the-best-android-tablets/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-13T10:00:00+00:00"
+    },
+    {
+      "title": "South Korean airport becomes busiest in world for global traffic amid Iran war",
+      "description": "Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from Middle East hubsSouth Korea’s Incheon airport has become the world’s busiest airport for international passengers, in part owing to disruption in the Middle East caused by the Iran war.The airport, So",
+      "url": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-08-13T09:45:56+00:00"
+    },
     {
       "title": "The 10 Best Cooling Mattresses for Hot Sleepers (2026)",
       "description": "Nothing ruins a great night of sleep faster than getting too hot. We slept on a myriad of cooling mattresses to find which ones drew the heat away best.",
@@ -8,110 +416,6 @@
       "source": "Wired",
       "category": "Technology",
       "publishedAt": "2026-08-13T09:35:00+00:00"
-    },
-    {
-      "title": "CBP Workers Allegedly Used Government Databases to Spy on Exes, Crushes, and Colleagues",
-      "description": "Records obtained by WIRED detail hundreds of allegations of Customs and Border Protection workers misusing internal tools to look up romantic interests and track colleagues’ cell phones.",
-      "url": "https://www.wired.com/story/cbp-workers-allegedly-used-government-databases-to-spy-on-exes-crushes-and-colleagues/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-13T09:30:00+00:00"
-    },
-    {
-      "title": "Fulham leave pitch as Malaga take penalty into empty net",
-      "description": "Fulham's pre-season friendly against Malaga ends in chaotic fashion as the Premier League side leave the pitch before a penalty shootout.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz052j8x9x1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-13T09:17:34+00:00"
-    },
-    {
-      "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
-      "description": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
-      "url": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-13T09:00:00+00:00"
-    },
-    {
-      "title": "UK economy grows between April and June but experts warn of challenges in coming months",
-      "description": "The UK economy grew by 0.4% with some firms reporting hot weather and sports helped growth in June.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-13T08:21:42+00:00"
-    },
-    {
-      "title": "Twitch faces backlash over Amazon using content to train AI",
-      "description": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
-      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-13T07:32:07+00:00"
-    },
-    {
-      "title": "Messi plays for Inter Miami after father's death",
-      "description": "Lionel Messi makes a substitute appearance for Inter Miami on Wednesday following the death of his father and hinting he may retire.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz9722y1ee7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-13T07:19:46+00:00"
-    },
-    {
-      "title": "Jones turns to geese to inspire Japan",
-      "description": "Before their second Test against Australia, Eddie Jones reveals an interesting method he uses to coach Japan - watching videos of geese fly in formation.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cgq5pk5gpyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-13T06:37:23+00:00"
-    },
-    {
-      "title": "Only wins can stop curfew hokey-cokey for England's 'grown adults'",
-      "description": "England have scrapped their midnight curfew seven months after introducing it. Now, only wins will repair the reputational damage they have sustained, says Stephan Shemilt.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/czjl2pelp1go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-13T05:22:07+00:00"
-    },
-    {
-      "title": "Priceline Promo Codes & Coupons: 10% Off August 2026",
-      "description": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
-      "url": "https://www.wired.com/story/priceline-promo-code/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-13T05:00:00+00:00"
-    },
-    {
-      "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
-      "description": "Shop the Naturepedic sale this 2026.",
-      "url": "https://www.wired.com/story/naturepedic-promo-code/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-13T05:00:00+00:00"
-    },
-    {
-      "title": "Bose Promo Code: 40% Off for August 2026",
-      "description": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
-      "url": "https://www.wired.com/story/bose-coupon-code/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-13T05:00:00+00:00"
-    },
-    {
-      "title": "Herman Miller Promo Codes: 40% Off August 2026",
-      "description": "Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture in August 2026.",
-      "url": "https://www.wired.com/story/herman-miller-promo-code/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-13T05:00:00+00:00"
-    },
-    {
-      "title": "Braun Promo Codes: 15% Off August",
-      "description": "Unlock exclusive savings on Braun IPL, shavers, and grooming products. Find verified Braun promo codes and expert tips to maximize your discounts.",
-      "url": "https://www.wired.com/story/braun-promo-code/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-13T05:00:00+00:00"
     },
     {
       "title": "Leading doctor rebukes NHS chiefs over transplant failings",
@@ -122,196 +426,12 @@
       "publishedAt": "2026-08-13T01:03:15+00:00"
     },
     {
-      "title": "These Overlooked Immune Cells Supercharge the Fight Against Cancer",
-      "description": "Researchers found that a little-known group of immune cells is crucial for keeping cancer-fighting T cells active during immunotherapy. A small and difficult-to-study population of immune cells may play a much larger role in fighting cancer than previously understood. Researchers at the University o",
-      "url": "https://scitechdaily.com/these-overlooked-immune-cells-supercharge-the-fight-against-cancer/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-12T23:44:45+00:00"
-    },
-    {
-      "title": "Fearless Madjo, 17, ends eight-month wait with eye-catching Villa debut",
-      "description": "Teenage striker Brian Madjo scores on his Aston Villa debut in Uefa Super Cup defeat by Paris St-Germain to end eight-month wait for a chance to play in competitive games.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg4dp23z5z7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-12T23:16:57+00:00"
-    },
-    {
-      "title": "The Surprising Reason a UTI Hurts So Much – and Why That Might Be a Good Thing",
-      "description": "A hidden group of bladder nerves may detect UTIs and trigger symptoms that help the body clear bacteria. The pain and urgent need to urinate during a urinary tract infection (UTI) may be more than unpleasant symptoms. Australian researchers have identified a little-understood group of nerves near th",
-      "url": "https://scitechdaily.com/the-surprising-reason-a-uti-hurts-so-much-and-why-that-might-be-a-good-thing/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-12T23:09:41+00:00"
-    },
-    {
       "title": "Why Japanese firms are being so slow to use AI",
       "description": "Japanese risk aversion and conservatism blamed for slow AI take-up by the country's business sector.",
       "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-08-12T23:00:47+00:00"
-    },
-    {
-      "title": "GB's Hudson-Smith wins historic 400m gold on home track - highlights & report",
-      "description": "Great Britain's Matthew Hudson-Smith makes history as the joint-most decorated man of all-time at European Championships by claiming 400m gold in Birmingham.",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-12T22:41:22+00:00"
-    },
-    {
-      "title": "How a Low-Fat Vegan Diet Helped People Lose Weight Without Counting Calories",
-      "description": "A low-fat vegan diet helped people consume fewer calories and lose more weight without intentionally eating less. People trying to lose weight are often told to eat less. But in a randomized clinical trial, adults following a low-fat vegan diet lost weight while continuing to eat roughly the same am",
-      "url": "https://scitechdaily.com/how-a-low-fat-vegan-diet-helped-people-lose-weight-without-counting-calories/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-12T22:34:43+00:00"
-    },
-    {
-      "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
-      "description": "Boy's unusual symptoms could help identify the next case sooner.",
-      "url": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-12T22:31:19+00:00"
-    },
-    {
-      "title": "The web’s newest weapon against AI scrapers is a font",
-      "description": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
-      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-12T22:02:25+00:00"
-    },
-    {
-      "title": "Terabytes of credentials leaked in massive supply-chain attack",
-      "description": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
-      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-12T21:43:21+00:00"
-    },
-    {
-      "title": "Fernandes the centre of attention - but what next for Man Utd captain?",
-      "description": "Manchester United skipper Bruno Fernandes is attracting attention on and off the pitch.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgwzegz9ggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-12T21:40:45+00:00"
-    },
-    {
-      "title": "Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones",
-      "description": "It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevor Noah is hosting instead of Jimmy Fallon. If the 2025 show was any indication, today's broadcast might",
-      "url": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-12T21:30:00+00:00"
-    },
-    {
-      "title": "This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off",
-      "description": "If you’re looking for a mechanical keyboard that can give your desk a touch of retro flair, Amazon has 8BitDo’s Retro Mechanical Keyboard with Dual Super Buttons on sale for $69.99, one of the lowest prices we’ve seen for the bundle. The styling on this keyboard is thorough, with blocky retro legend",
-      "url": "https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-12T21:21:09+00:00"
-    },
-    {
-      "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
-      "description": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”",
-      "url": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-12T21:13:39+00:00"
-    },
-    {
-      "title": "Cats and dogs are missing meals after a popular smart feeder went down",
-      "description": "A Petlibro outage is preventing its smart pet feeders and other devices from performing scheduled tasks, like dispensing food. The outage began on Tuesday, with users across Reddit reporting that their smart feeders, litter boxes, and water fountains have gone offline. Though Petlibro maintains that",
-      "url": "https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-12T21:07:17+00:00"
-    },
-    {
-      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "description": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
-      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-12T21:00:30+00:00"
-    },
-    {
-      "title": "Scientists Discover a Hidden Problem in Decades of Spacecraft Data",
-      "description": "Different processes can produce similar spacecraft observations, making it difficult to determine how particles move through Earth&#8217;s radiation belt. A spacecraft passing through Earth’s radiation belts can record particle behavior that looks random even when the underlying motion is highly org",
-      "url": "https://scitechdaily.com/scientists-discover-a-hidden-problem-in-decades-of-spacecraft-data/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-12T20:28:36+00:00"
-    },
-    {
-      "title": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
-      "description": "With Truth API, Trump is \"selling priority access to news he himself generates.\"",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-12T20:20:52+00:00"
-    },
-    {
-      "title": "Scientists Detect a Nuclear Reactor’s Ghostly Signal After Shutdown",
-      "description": "Antineutrinos from residual radioactive decay can reveal activity inside nuclear reactors even after they have been shut down. A nuclear reactor does not become completely silent when it shuts down. Long after power production stops, radioactive, long-lived fission products continue decaying for mon",
-      "url": "https://scitechdaily.com/scientists-detect-a-nuclear-reactors-ghostly-signal-after-shutdown/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-12T19:43:34+00:00"
-    },
-    {
-      "title": "US boosts drone surveillance as flesh-eating screwworms spread in Texas",
-      "description": "Hundreds of Homeland Security drones retasked to survey wildlife and livestock.",
-      "url": "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-12T19:40:46+00:00"
-    },
-    {
-      "title": "The next big indie game publisher is taking some exciting swings",
-      "description": "Kinetic Publishing, a new indie publisher from the development team behind the co-op horror game Phasmophobia, just hosted its first games showcase, and it includes five ambitious new titles set to release in 2027 and 2028. Perhaps the most significant announcement from Kinetic's show is that it's p",
-      "url": "https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-12T19:30:00+00:00"
-    },
-    {
-      "title": "It looks like Apple&#8217;s iPhone 18 really will skip the fall launch this year",
-      "description": "According to an Economic Daily News report spotted by MacRumors, executives for Apple supplier Pegatron confirmed during an earnings call that the iPhone 18 Pro series phones will launch this fall, but the base iPhone 18 won't arrive until the first quarter of next year. The more affordable iPhone 1",
-      "url": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-12T19:27:47+00:00"
-    },
-    {
-      "title": "MIT Physicists Zapped a Quantum Crystal With Lasers – and Discovered Something Surprising",
-      "description": "MIT physicists have uncovered a surprising split in the behavior of electrons inside a quantum material: two nearly identical electronic patterns rebuild themselves in fundamentally different ways. Electrons inside a solid do not always behave like independent particles. Under the right conditions, ",
-      "url": "https://scitechdaily.com/mit-physicists-zapped-a-quantum-crystal-with-lasers-and-discovered-something-surprising/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-12T19:18:31+00:00"
-    },
-    {
-      "title": "Trump sued over Truth Social's $100,000 early access service",
-      "description": "The suit challenges Truth Social plan selling early access to Trump's market-moving posts.",
-      "url": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-12T17:48:56+00:00"
-    },
-    {
-      "title": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
-      "description": "Looking to get your hands on the latest Pixel devices? After weeks of leaks and rumors, Google has officially announced its next generation of Pixel phones and watches. The base Pixel 11 starts at $899, the Pro and Pro XL are $1,099 and $1,299 respectively, and the Pro Fold starts at $1,899. The wat",
-      "url": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-12T17:47:54+00:00"
     },
     {
       "title": "Trump sued over $100,000-a-month early-access offer to Truth Social posts",
@@ -322,84 +442,12 @@
       "publishedAt": "2026-08-12T17:30:21+00:00"
     },
     {
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "description": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or s",
-      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-12T17:29:10+00:00"
-    },
-    {
-      "title": "Discord ordered to suspend livestreams in Brazil",
-      "description": "Discord told the BBC it was \"thoughtfully reviewing\" the order by Brazil's data protection agency and it was \"committed to user safety\"",
-      "url": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-12T17:10:31+00:00"
-    },
-    {
-      "title": "US inflation eases as food and fuel costs cool",
-      "description": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-12T17:03:05+00:00"
-    },
-    {
-      "title": "Two hydrogen-burning engines powered this car to a new land speed record",
-      "description": "JCB has invested heavily in hydrogen to power its diggers and other machinery.",
-      "url": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-12T17:01:11+00:00"
-    },
-    {
-      "title": "How Google’s new Pixel 11 phones compare to last year’s models",
-      "description": "Google just added four new phones to the Pixel family: the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and the Pixel 11 Pro Fold. They're slightly more expensive than their predecessors, but they come with some notable upgrades, including improved cameras and a new Tensor G6 chip that should deliver fa",
-      "url": "https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-12T17:00:00+00:00"
-    },
-    {
-      "title": "LA Lakers to be sold in record $12.5bn deal",
-      "description": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise.",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-12T16:11:04+00:00"
-    },
-    {
-      "title": "A Key Atlantic Ocean Current Did the Opposite of What Scientists Expected",
-      "description": "Scientists thought they knew what helped keep the Atlantic’s vast circulation system running, but evidence from millions of years ago has revealed a surprising exception. Sediments deposited on the seafloor millions of years ago reveal an unexpected episode in Earth’s climate history. As the flow of",
-      "url": "https://scitechdaily.com/a-key-atlantic-ocean-current-did-the-opposite-of-what-scientists-expected/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-12T16:01:07+00:00"
-    },
-    {
-      "title": "The Brain Signal That Gets Stronger as Tasks Get Harder",
-      "description": "What makes the brain keep chasing a reward when the effort starts to outweigh the payoff? A small group of cells may help decide when to persist and when to give up. Researchers at Nagoya University in Japan found that orexin neurons became increasingly active as rats worked harder to obtain food. S",
-      "url": "https://scitechdaily.com/the-brain-signal-that-gets-stronger-as-tasks-get-harder/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-12T15:26:03+00:00"
-    },
-    {
       "title": "US credit card debt climbs to $1.26tn, nearing last year’s record high",
       "description": "Mortgage and student loan balances saw ‘small decline’ with increases elsewhere, says post alongside Fed reportCredit card debt in the United States is growing close to a record high, having crept up from $54bn to $1.26tn between April and June compared with the same period last year, according to a",
       "url": "https://www.theguardian.com/business/2026/aug/12/credit-card-debt-increase-fed-report",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-08-12T14:58:36+00:00"
-    },
-    {
-      "title": "Burnham warned Iran war could hit UK growth next year",
-      "description": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-12T14:17:26+00:00"
     },
     {
       "title": "Lucy Davis urges women to check their breasts for cancer - here's how",
@@ -432,22 +480,6 @@
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-08-11T23:31:02+00:00"
-    },
-    {
-      "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
-      "description": "British shoppers should expect to see more wonky vegetables due to repeated heatwaves.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-11T23:00:26+00:00"
-    },
-    {
-      "title": "HCA workers push for higher pay and more staffing amid billions in profits: ‘I’m struggling’",
-      "description": "Largest for-profit hospital system and operator in the US reported $6.8bn in profits, while employees find it difficult to make ends meetUnion workers with HCA Healthcare, the largest for-profit hospital system and operator in the US, are holding picket protests across the country as they push for p",
-      "url": "https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-08-11T11:00:02+00:00"
     }
   ]
 }
