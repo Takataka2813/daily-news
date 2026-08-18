@@ -1,6 +1,246 @@
 {
-  "updatedAt": "2026-08-17T21:22:57.694894+00:00",
+  "updatedAt": "2026-08-18T09:19:51.702796+00:00",
   "articles": [
+    {
+      "title": "Ferguson shipyard to cut a quarter of its workforce",
+      "description": "The state-owned yard on the Clyde will lose 70 of its 283 staff through a voluntary redundancy process.",
+      "url": "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-18T09:01:57+00:00"
+    },
+    {
+      "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
+      "description": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
+      "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-18T09:00:33+00:00"
+    },
+    {
+      "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+      "description": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence c",
+      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T09:00:01+00:00"
+    },
+    {
+      "title": "The Powerful Chinese Model Experts Warned About—and Waited for—Is Here",
+      "description": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
+      "url": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T09:00:00+00:00"
+    },
+    {
+      "title": "Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets",
+      "description": "Merino is one of the best fabrics you can wear. We explain the different blends, what “GSM” means, and how to care for your clothes.",
+      "url": "https://www.wired.com/story/best-merino-wool-clothes/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T09:00:00+00:00"
+    },
+    {
+      "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
+      "description": "Small firms cite labour and operating costs as reasons for scaling back hiring, the UK's statistics body says.",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-18T08:59:28+00:00"
+    },
+    {
+      "title": "Newcastle complete £30m move for Benfica's Dedic",
+      "description": "Newcastle United sign defender Amar Dedic from Benfica for around £30m.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czekzxd09zlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-18T08:33:04+00:00"
+    },
+    {
+      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+      "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
+      "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-08-18T08:07:37+00:00"
+    },
+    {
+      "title": "'I'm in Barbados': The dos and don'ts of writing an out-of-office reply",
+      "description": "As we hit peak holiday season, the BBC looks at the dos and don'ts of composing a good out-of-office message.",
+      "url": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-18T07:52:24+00:00"
+    },
+    {
+      "title": "Is Haaland worth the price? Pick Rogers or Palmer? Five key FPL questions",
+      "description": "BBC Sport's team of Fantasy Premier League experts debate some of the new season's big talking points to help you select your team before Friday's deadline.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn0np755k4wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-18T07:23:59+00:00"
+    },
+    {
+      "title": "Could refreshed Odegaard be like a new signing?",
+      "description": "The Arsenal captain had a hugely frustrating 2025-26 season despite leading his team to the title - but now appears fit and refreshed.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2lq80lwwpdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-18T07:14:06+00:00"
+    },
+    {
+      "title": "What's going on at Cadillac and Haas? F1 Q&A",
+      "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the season resumes with the Dutch Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c1w1ypg102po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-18T06:57:33+00:00"
+    },
+    {
+      "title": "Williams sisters lose on doubles return",
+      "description": "Serena and Venus Williams lose a thriller at the Cincinnati Open in their first doubles match together for four years.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c4g6m08nnn8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-18T06:33:17+00:00"
+    },
+    {
+      "title": "Disabled people in England to get 24-hour free bus travel",
+      "description": "The change, which has been welcomed by campaign groups, will come into effect in England from April.",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-18T06:11:30+00:00"
+    },
+    {
+      "title": "Breakouts & wildcards - 13 surprise stars for new season",
+      "description": "BBC Sport TV and radio commentators identify the players they think could be the breakout stars of the new Premier League season.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1l197j4gvro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-18T05:49:00+00:00"
+    },
+    {
+      "title": "SteelSeries Coupon Codes: 15% Off in August 2026",
+      "description": "Unlock exclusive discounts on SteelSeries' award-winning gaming headsets, keyboards, and accessories.",
+      "url": "https://www.wired.com/story/steelseries-coupon-code/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T05:00:00+00:00"
+    },
+    {
+      "title": "Noom Promo Codes: 50% Off Best Deals & Free Trials for August 2026",
+      "description": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
+      "url": "https://www.wired.com/story/noom-promo-code/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T05:00:00+00:00"
+    },
+    {
+      "title": "Hydrow Discount Code: Save Up to $150 | August 2026",
+      "description": "Save on rowers and accessories with Hydrow coupons, including an exclusive discount of $50.",
+      "url": "https://www.wired.com/story/hydrow-discount-code/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T05:00:00+00:00"
+    },
+    {
+      "title": "1Password Coupon: Score a Free Trial in August 2026",
+      "description": "Save up to 28% on business and personal memberships with 1Password promo codes and deals.",
+      "url": "https://www.wired.com/story/1password-coupon/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T05:00:00+00:00"
+    },
+    {
+      "title": "Womanizer Coupons: Save 15% in August",
+      "description": "Save on the Womanizer Duo Premium and more with our latest Womanizer discount codes.",
+      "url": "https://www.wired.com/story/womanizer-coupon/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T05:00:00+00:00"
+    },
+    {
+      "title": "Vivid Seats Promo Codes and Deals: Get 10% Off",
+      "description": "Whether you are heading to a sold-out concert or a championship game, use a Vivid Seats discount code to secure your seats for less this August 2026.",
+      "url": "https://www.wired.com/story/vivid-seats-promo-code/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T05:00:00+00:00"
+    },
+    {
+      "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
+      "description": "Practices shifted from individuals buried in coffins to reusing sites for later mummy interments.",
+      "url": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T04:00:40+00:00"
+    },
+    {
+      "title": "Light Reveals the Hidden Quantum Motion Inside an Exotic Crystal",
+      "description": "Optical measurements can reveal the hidden collective motion and quantum dynamics of electrons inside a Wigner crystal. In a Wigner crystal, electrons behave in an unusual way. Rather than moving independently, strongly interacting electrons confined to a two-dimensional plane can arrange themselves",
+      "url": "https://scitechdaily.com/light-reveals-the-hidden-quantum-motion-inside-an-exotic-crystal/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-18T00:28:27+00:00"
+    },
+    {
+      "title": "US-Canada trade talks 'intense' as new tariff deadline looms",
+      "description": "Mark Carney will need to sell Canadians on any concessions made to the US as negotiators scramble to reach a deal to avoid Trump’s latest tariffs.",
+      "url": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-18T00:02:31+00:00"
+    },
+    {
+      "title": "CERN Experiment Finds Gluons Behaving Strangely Deep Inside Atomic Nuclei",
+      "description": "ALICE measurements suggest that gluons inside nuclei begin behaving collectively at very small scales, favoring gluon saturation over conventional nuclear shadowing alone. Deep inside atomic nuclei, gluons bind quarks together and help determine the structure of visible matter. A CERN study, with a ",
+      "url": "https://scitechdaily.com/cern-experiment-finds-gluons-behaving-strangely-deep-inside-atomic-nuclei/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-17T23:53:44+00:00"
+    },
+    {
+      "title": "Reddit’s AI is turning posts into podcasts and short videos",
+      "description": "Reddit is trying out a new way for people to take in content on Reddit: by turning text posts into audio / video content. As part of an experiment, some posts are being adapted into videos that use AI voices to read the text of the main post and some comments. The video highlights the [&#8230;]",
+      "url": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-17T23:46:01+00:00"
+    },
+    {
+      "title": "Quantum Computer Solves a Problem in 15 Minutes That Classical Methods Can’t Practically Compute",
+      "description": "Researchers have demonstrated a quantum computation that appears to exceed the practical capabilities of leading classical simulation methods while also addressing a longstanding problem: how to verify the result. A quantum computer completed a difficult calculation in about 15 minutes, while leadin",
+      "url": "https://scitechdaily.com/quantum-computer-solves-a-problem-in-15-minutes-that-classical-methods-cant-practically-compute/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-17T23:18:51+00:00"
+    },
+    {
+      "title": "Guardiola-Walker fallout revealed in new documentary",
+      "description": "A new documentary series about Pep Guardiola's final two seasons at Manchester City reveals the bust-up he had with former captain Kyle Walker.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-17T23:00:04+00:00"
+    },
+    {
+      "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
+      "description": "Again, the CDC did not publish a full report and instead simply put the data online.",
+      "url": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-17T22:08:47+00:00"
+    },
+    {
+      "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
+      "description": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”",
+      "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-17T21:18:49+00:00"
+    },
     {
       "title": "ABC&#8217;s livestreamed news show is powered by trending topics",
       "description": "ABC News has officially introduced Searched, a livestreamed show that highlights stories people are discussing on social media and searching on the web, as reported earlier by Variety. Though the network just announced the show now, Searched began airing on the ABC News Live streaming channel in Apr",
@@ -11,7 +251,7 @@
     },
     {
       "title": "Top Fifa official sacked after Infantino plan criticism",
-      "description": "Senior Fifa figure Kevin Lamour is sacked football's world governing body three weeks after criticising its president Gianni Infantino.",
+      "description": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
       "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
@@ -24,14 +264,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-08-17T20:23:09+00:00"
-    },
-    {
-      "title": "This R-Rated Film Studio Wants to Be the HBO of AI",
-      "description": "Rogue Studios, a new cinematic adult AI-generator, is betting big on the future of “sophisticated” spicy content.",
-      "url": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T20:18:17+00:00"
     },
     {
       "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
@@ -50,14 +282,6 @@
       "publishedAt": "2026-08-17T20:04:19+00:00"
     },
     {
-      "title": "Rodri lands in Barcelona to complete 'dream' move",
-      "description": "Spain midfielder Rodri says it is his \"dream\" to play for Barcelona as he arrives in the city to complete his move from Manchester City.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cevmw02j4nyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-17T20:02:27+00:00"
-    },
-    {
       "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
       "description": "Despite loss, carriers still claim selling device-location data isn't illegal.",
       "url": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
@@ -66,12 +290,12 @@
       "publishedAt": "2026-08-17T20:00:20+00:00"
     },
     {
-      "title": "LIV cancels final event to focus on 'next chapter'",
-      "description": "LIV Golf cancels its Team Championships in Michigan after weeks of speculation, saying it needs to focus on \"building its next chapter\".",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/c7vg4rn7v6ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-17T19:33:13+00:00"
+      "title": "Does Reform's plan to cut £50bn in welfare spending add up?",
+      "description": "BBC Verify breaks down what the party says it wants to do to cut the benefits bill - and how realistic it is.",
+      "url": "https://www.bbc.co.uk/news/articles/crl76jkxel3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-17T19:54:08+00:00"
     },
     {
       "title": "Researchers Discover Rheumatoid Arthritis Vulnerability May Begin Before Birth",
@@ -122,6 +346,14 @@
       "publishedAt": "2026-08-17T18:13:47+00:00"
     },
     {
+      "title": "Film commission backs Amazon MGM expansion of Berkshire studios",
+      "description": "The Berkshire film studio was previously home to iconic horror studio Hammer Films.",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8wjvd2q4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-17T18:03:39+00:00"
+    },
+    {
       "title": "YouTube is changing how it counts views to give the numbers a boost",
       "description": "YouTube will soon count a view as soon as a video starts to play, lining up with the system used by Instagram, TikTok, and its Shorts videos. The update will go into effect on August 24th, \"which means creators will likely see their total view counts increase faster moving forward,\" the platform say",
       "url": "https://www.theverge.com/streaming/981105/youtube-video-view-counting-update",
@@ -146,28 +378,12 @@
       "publishedAt": "2026-08-17T16:38:35+00:00"
     },
     {
-      "title": "Trump’s dumb border wall",
-      "description": "About 22 miles south of the former mining town of Patagonia, Arizona, down a winding, unpaved mountain road that passes cows grazing on open range, stands a cottonwood tree believed to be at least 200 years old. The \"grandmother\" tree, as some locals call it, is imperiled and already showing signs o",
-      "url": "https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T16:30:00+00:00"
-    },
-    {
       "title": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
       "description": "Vegetable and grain growers call for urgent action, warning of ‘catastrophic’ harvests due to continent-wide droughtSuccessive intense heatwaves and an increasingly severe, continent-wide drought have left many of Europe’s farmers in an “unprecedented” crisis, with vegetable and grain growers in par",
       "url": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-08-17T16:01:47+00:00"
-    },
-    {
-      "title": "Youthful Pocognoli the brave choice for Scotland job",
-      "description": "The Scottish FA are all-in on Sebastien Pocognoli, 39, showing bravery and ambition - what everybody wanted, writes Tom English.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8dn39n6np2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-17T16:01:05+00:00"
     },
     {
       "title": "Textbooks May Be Wrong: Satellite Data Challenge the Two-Bulge Tide Model",
@@ -202,110 +418,6 @@
       "publishedAt": "2026-08-17T15:22:23+00:00"
     },
     {
-      "title": "Apple ordered to stop scaring iPhone and iPad users away from third-party apps",
-      "description": "Apple's changing its rules for data collection consent prompts after Germany's Federal Cartel Office accused Apple of giving the prompts a design that favored its own apps. Apple's App Tracking Transparency prompts reportedly cost social media apps nearly $10 billion when they launched with iOS 14.5",
-      "url": "https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T15:10:25+00:00"
-    },
-    {
-      "title": "This sub-$7,000 sportscar might be just what the future needs",
-      "description": "The Gasolini AR1 uses 2-cylinder Honda bike engine, and an EV is underway, too.",
-      "url": "https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T15:01:25+00:00"
-    },
-    {
-      "title": "Scientists Uncover a Surprising New Route for Stonehenge’s Most Mysterious Stone",
-      "description": "Stonehenge’s Altar Stone may have traveled south through a combination of glacial transport and deliberate human movement. Stonehenge was assembled from stones weighing between 2 and 25 tons, an astonishing construction effort for people living before the wheel was invented. Yet the puzzle extends b",
-      "url": "https://scitechdaily.com/scientists-uncover-a-surprising-new-route-for-stonehenges-most-mysterious-stone/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-17T14:47:17+00:00"
-    },
-    {
-      "title": "Nvidia discloses $21B stake in SpaceX",
-      "description": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
-      "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T14:22:54+00:00"
-    },
-    {
-      "title": "Man City move for £85m Bouaddi and still want Fernandez",
-      "description": "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-17T13:50:22+00:00"
-    },
-    {
-      "title": "Meet the only known trebuchet casualty in history",
-      "description": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
-      "url": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T13:41:35+00:00"
-    },
-    {
-      "title": "£2.14bn and counting - why Premier League spending could set new record",
-      "description": "Premier League clubs have spent £2.14bn this summer, with huge sums moving between top-flight rivals. BBC Sport examines the possibility of a new spending record.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30kw3q08ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-17T13:07:16+00:00"
-    },
-    {
-      "title": "Virgin takes step towards running Channel Tunnel rail services",
-      "description": "Firm wants to run up to 20 daily journeys to Europe but it must get additional approval for overseas tracks.",
-      "url": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-17T12:46:25+00:00"
-    },
-    {
-      "title": "Viral vodka brand Au set to sell for £500m to BuzzBallz owner",
-      "description": "The distinctive gold Au bottles have become a staple of poolside parties in Ibiza and Dubai.",
-      "url": "https://www.bbc.co.uk/news/articles/cp8e0nny6zzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-17T12:43:09+00:00"
-    },
-    {
-      "title": "NASA’s James Webb Telescope Captures a Dying Star Sculpting a Cosmic Lion",
-      "description": "The James Webb Space Telescope has captured new images of NGC 2392, a planetary nebula commonly known as the Lion Nebula, revealing the cosmic object in striking infrared detail. The Hubble Space Telescope previously observed the nebula in 2000, imaging the lion face-shaped target in visible light. ",
-      "url": "https://scitechdaily.com/nasas-james-webb-telescope-captures-a-dying-star-sculpting-a-cosmic-lion/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-17T11:43:36+00:00"
-    },
-    {
-      "title": "7 Best Cheap Laptops to Buy in 2026 (and Some to Avoid)",
-      "description": "From surprisingly good $300 Chromebooks to excellent $650 Windows notebooks and more, these are the best budget laptops I’ve tested.",
-      "url": "https://www.wired.com/gallery/best-cheap-laptops/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T11:31:00+00:00"
-    },
-    {
-      "title": "A Star Near the Milky Way’s Black Hole Is Losing Mass at an Astonishing Rate",
-      "description": "New observations from the James Webb Space Telescope show that IRS 3, a star near the center of the Milky Way, is losing vast amounts of mass, causing its surrounding envelope to expand continuously. Near the supermassive black hole at the center of the Milky Way, a mature star is shedding enormous ",
-      "url": "https://scitechdaily.com/a-star-near-the-milky-ways-black-hole-is-losing-mass-at-an-astonishing-rate/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-17T11:08:43+00:00"
-    },
-    {
-      "title": "CookUnity Prepared Meal Delivery Review (2026): Chef-Centric Meals",
-      "description": "I’ve tried most of the ready-to-eat meal delivery services in the country. CookUnity is the one that feels like real cooking, from real chefs.",
-      "url": "https://www.wired.com/review/cookunity-prepared-meal-delivery-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T11:01:00+00:00"
-    },
-    {
       "title": "New Mexico’s attorney general pushes new social media safety laws after $900m court victory over Meta",
       "description": "Exclusive: Raúl Torrez is drafting two bills with state lawmakers to bolster consumer protections and child safety online, building on state’s landmark case against MetaNew Mexico’s attorney general is mounting a full-court press against technology companies to improve their child safety measures, c",
       "url": "https://www.theguardian.com/technology/2026/aug/17/raul-torrez-new-mexico-meta-social-media-safety-laws",
@@ -314,108 +426,12 @@
       "publishedAt": "2026-08-17T11:00:53+00:00"
     },
     {
-      "title": "Skylight Buddy Review (2026): Kid Routines Just Got Easy",
-      "description": "This kid-friendly version of Skylight’s digital calendar actually gets my son to complete his nighttime routine in a timely fashion.",
-      "url": "https://www.wired.com/review/skylight-buddy/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T10:31:00+00:00"
-    },
-    {
-      "title": "El Niño and Saharan Dust Silence Atlantic Hurricane Season",
-      "description": "El Niño coupled with Saharan dust is making this year’s hurricane season a dud. But there’s still potential for dangerous storms.",
-      "url": "https://www.wired.com/story/el-nino-quiets-atlantic-hurricane-season/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T10:00:00+00:00"
-    },
-    {
-      "title": "Election Officials Are Preparing for Prediction Markets to Sow Chaos in the Midterms",
-      "description": "From threats to the safety of poll workers to voters who can’t distinguish between odds and results, prediction markets are already scrambling the political process.",
-      "url": "https://www.wired.com/story/election-officials-are-preparing-for-prediction-markets-to-sow-chaos-in-the-midterms/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T09:30:00+00:00"
-    },
-    {
-      "title": "There’s a New Link Between Gut Health and Alzheimer’s Disease",
-      "description": "Researchers found that a metabolite produced by gut bacteria can weaken the barrier that protects the brain and promote changes associated with the cognitive disease.",
-      "url": "https://www.wired.com/story/new-link-between-gut-health-and-alzheimers/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T09:00:00+00:00"
-    },
-    {
-      "title": "These eight players will help you win FPL",
-      "description": "Our Fantasy Premier League experts pick eight players they think will help you have a successful FPL season.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g305xwdr4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-17T07:49:52+00:00"
-    },
-    {
-      "title": "Changing pubs into homes to be made harder under new rules",
-      "description": "The rules will come into force on Monday along with other changes to planning policy.",
-      "url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-17T07:04:21+00:00"
-    },
-    {
-      "title": "'Are you not entertained?' - Hunt enters stardom with iconic quadruple",
-      "description": "Amy Hunt asserts herself as Great Britain's new track sensation after winning an unprecedented four gold medals at the European Athletics Championships.",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-17T07:02:43+00:00"
-    },
-    {
-      "title": "Instagram and Facebook could change forever if Meta loses child privacy trial",
-      "description": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
-      "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-17T05:00:25+00:00"
-    },
-    {
-      "title": "Sainsbury's branch halts AI use as shopper ejected",
-      "description": "Matt Arnold says he was asked to leave the store after being wrongly flagged as a shoplifter.",
-      "url": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-17T04:57:21+00:00"
-    },
-    {
       "title": "Are Microsoft’s AI plans being held back by a shortage of chips?",
       "description": "Guardian investigation finds apparent discrepancy between what tech company has said about its AI capacity – and the number of advanced chips it has in operationThe chips are quite small and some can be held in the palm of a hand. They are fundamental to the development of artificial intelligence mo",
       "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-08-17T04:00:46+00:00"
-    },
-    {
-      "title": "Ferrari's first ever electric car sold for record $40m",
-      "description": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
-      "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-17T02:22:04+00:00"
-    },
-    {
-      "title": "How switching your bank account could earn you up to £220",
-      "description": "New research suggests staying put is costing British savers billions in missed interest every year.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-16T23:14:47+00:00"
-    },
-    {
-      "title": "Astronomers Discover the Existence of a Black Hole Star",
-      "description": "An object observed by the James Webb Space Telescope lends credence to a strange explanation for the mysterious red spots in the early universe.",
-      "url": "https://www.wired.com/story/black-hole-stars-are-becoming-less-hypothetical/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-16T11:00:00+00:00"
     }
   ]
 }
