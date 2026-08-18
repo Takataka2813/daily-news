@@ -1,45 +1,333 @@
 {
-  "updatedAt": "2026-08-18T09:19:51.702796+00:00",
+  "updatedAt": "2026-08-18T21:21:05.568322+00:00",
   "articles": [
     {
-      "title": "Ferguson shipyard to cut a quarter of its workforce",
-      "description": "The state-owned yard on the Clyde will lose 70 of its 283 staff through a voluntary redundancy process.",
-      "url": "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-18T09:01:57+00:00"
+      "title": "Former world champion Dott goes on trial over child abuse allegations",
+      "description": "The 2006 world champion is accused of lewd and libidinous behaviour towards a girl and a boy in Glasgow and South Lanarkshire.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0njnw6rdgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-18T20:41:44+00:00"
     },
     {
-      "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
-      "description": "US states are suing the social media giant to force an overhaul of its platforms for young users.",
-      "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
+      "description": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "publishedAt": "2026-08-18T09:00:33+00:00"
+      "publishedAt": "2026-08-18T20:39:36+00:00"
     },
     {
-      "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
-      "description": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence c",
-      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+      "title": "American Airlines to bring back TV screens on US flights",
+      "description": "It is also adding more premium seats, with the changes aimed at improving the travel experience and boosting revenue.",
+      "url": "https://www.bbc.co.uk/news/articles/c70glp55y95o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-18T20:17:33+00:00"
+    },
+    {
+      "title": "A 2-Billion-Year-Old Clue Challenges a Popular Earth Science Theory",
+      "description": "A key geological clue to a global disruption in Earth’s ancient carbon cycle may have a more local origin. Between roughly 2.5 and 2 billion years ago, Earth underwent the greatest chemical transformation known from its surface history as oxygen accumulated in the atmosphere. That shift ultimately h",
+      "url": "https://scitechdaily.com/a-2-billion-year-old-clue-challenges-a-popular-earth-science-theory/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-18T20:15:14+00:00"
+    },
+    {
+      "title": "Squeeze More Juice Out of a Dead Battery!",
+      "description": "How the joule thief circuit “steals” energy from seemingly depleted power cells.",
+      "url": "https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T20:11:03+00:00"
+    },
+    {
+      "title": "SteelSeries’ comfy wireless gaming headset is nearly half off",
+      "description": "While many gaming headsets come with extra features, the tradeoff is that they’re often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunch of platforms is available at Woot. The SteelSeries Arctis Nova 3P in cyan is on sale for $59.99, a 45 percent discount fr",
+      "url": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale",
       "source": "The Verge",
       "category": "Technology",
-      "publishedAt": "2026-08-18T09:00:01+00:00"
+      "publishedAt": "2026-08-18T20:01:01+00:00"
     },
     {
-      "title": "The Powerful Chinese Model Experts Warned About—and Waited for—Is Here",
-      "description": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
-      "url": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-18T09:00:00+00:00"
+      "title": "Musiala collapses during match for second time in four-day period",
+      "description": "Bayern Munich midfielder Jamal Musiala says he is being treated for a \"neurological dysfunction\" after collapsing during a match for the second time in a four-day period.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c330kg5xm8no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-18T19:57:08+00:00"
     },
     {
-      "title": "Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets",
-      "description": "Merino is one of the best fabrics you can wear. We explain the different blends, what “GSM” means, and how to care for your clothes.",
-      "url": "https://www.wired.com/story/best-merino-wool-clothes/",
+      "title": "Paleontologists Reconstruct 56-Million-Year-Old Forests – and Find a Chilling Warning for Today",
+      "description": "A study finds that during the PETM, Earth&#8217;s landscapes became widely browner amid elevated atmospheric CO2, global warming, and reduced rainfall caused by volcanically driven carbon release, with trees playing a central role in these dramatic changes. Fifty-six million years ago, a massive pul",
+      "url": "https://scitechdaily.com/paleontologists-reconstruct-56-million-year-old-forests-and-find-a-chilling-warning-for-today/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-18T19:50:11+00:00"
+    },
+    {
+      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+      "description": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trust",
+      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T19:48:26+00:00"
+    },
+    {
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "description": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T19:28:30+00:00"
+    },
+    {
+      "title": "Scientists Identify a Surprising 129-Day Limit for Predicting the Weather",
+      "description": "A new study suggests the atmosphere may retain enough information for weather to remain theoretically predictable for roughly 129 days under ideal conditions. How far into the future could weather ever be predicted, even if forecasters knew the atmosphere perfectly? Meteorologists have wrestled with",
+      "url": "https://scitechdaily.com/scientists-identify-a-surprising-129-day-limit-for-predicting-the-weather/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-18T19:05:12+00:00"
+    },
+    {
+      "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
+      "description": "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\"",
+      "url": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T19:01:09+00:00"
+    },
+    {
+      "title": "Garmin Watches Are Up to $250 Off Right Now On Amazon (2026)",
+      "description": "Save $250 off the Garmin Fenix 8, plus discounts on other popular fitness trackers from the brand.",
+      "url": "https://www.wired.com/story/garmin-deals-august-2026/",
       "source": "Wired",
       "category": "Technology",
-      "publishedAt": "2026-08-18T09:00:00+00:00"
+      "publishedAt": "2026-08-18T18:42:17+00:00"
+    },
+    {
+      "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+      "description": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
+      "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T18:33:11+00:00"
+    },
+    {
+      "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
+      "description": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
+      "url": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-18T18:20:08+00:00"
+    },
+    {
+      "title": "Rodri ready for 'excitement again' after Barca complete £65m deal",
+      "description": "Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years with the Premier League club.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-18T18:14:01+00:00"
+    },
+    {
+      "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
+      "description": "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T18:11:26+00:00"
+    },
+    {
+      "title": "Aston Villa agree deal for West Ham's Wan-Bissaka",
+      "description": "Aston Villa agree to sign West Ham defender Aaron Wan-Bissaka on an initial loan deal with an obligation to buy at the end of the season.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgr7vvpkw0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-18T17:56:13+00:00"
+    },
+    {
+      "title": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
+      "description": "If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, and a big discount from their original retail price of $249.99. These well-equipped earbuds feature exc",
+      "url": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T17:47:04+00:00"
+    },
+    {
+      "title": "PlayStation&#8217;s wireless gaming speakers launch in November",
+      "description": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac, and they include \"studio-inspired planar magnetic drivers\" that ",
+      "url": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T17:18:57+00:00"
+    },
+    {
+      "title": "Apple squashes EU beef with new App Store rules",
+      "description": "Apple is once again overhauling App Store rules in the European Union, which the company says will resolve its \"disagreements with the Commission over business terms and alternative distribution.\" As part of the changes, every developer that distributes apps will be moved to a single set of business",
+      "url": "https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T16:48:26+00:00"
+    },
+    {
+      "title": "Peacock raises prices by 18 percent after becoming profitable",
+      "description": "Peacock's quarterly profitability isn't guaranteed.",
+      "url": "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T16:42:30+00:00"
+    },
+    {
+      "title": "Root's great challenge to finish captaincy story",
+      "description": "Joe Root has an unexpected chance to address some unfinished business as England captain, but it is one of the biggest challenges of his stellar career.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cd69881454vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-18T16:41:31+00:00"
+    },
+    {
+      "title": "The United States is about to wake up to the threat from China's space program",
+      "description": "One big question: Will China assert territorial rights where its rover explores?",
+      "url": "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T16:30:07+00:00"
+    },
+    {
+      "title": "Tesla is finally launching the Cybercab — let’s hope it’s ready",
+      "description": "The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing it's public launch. Whether or not the no-steering wheel and no-pedal vehicle is actually ready for public roads, let alone customers, remains very much in doubt. According to The Informa",
+      "url": "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T16:26:29+00:00"
+    },
+    {
+      "title": "Premier League chief says Fifa self-destructed over World Cup plan",
+      "description": "Premier League chief executive Richard Masters has criticised Fifa president Gianni Infantino's World Cup sell-off plan, saying the organisation has \"pressed the self-destruct button\" by delivering \"a self-inflicted wound\".",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjeqez58wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-18T16:18:37+00:00"
+    },
+    {
+      "title": "Fairphone's latest repairable phone is finally available in the US for $650",
+      "description": "Fairphone sells components like the USB port and screen, all swappable with a single torx driver.",
+      "url": "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T16:05:00+00:00"
+    },
+    {
+      "title": "Ford hopes this Hypercar will be its next Le Mans winner",
+      "description": "The American automaker returns to the top category of endurance racing next year.",
+      "url": "https://arstechnica.com/cars/2026/08/ford-hopes-this-hypercar-will-be-its-next-le-mans-winner/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T15:52:50+00:00"
+    },
+    {
+      "title": "One dead and hundreds ill in UK salmonella outbreak",
+      "description": "Most of the cases were in England in recent weeks, linked to eating imported eggs, experts believe.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-08-18T15:52:12+00:00"
+    },
+    {
+      "title": "Viral Disneyland Content Creator Defends Her ‘Special Friendship’ With Peter Pan",
+      "description": "Disney superfan Toni Kulusich has been accused of stalking her favorite character, sparking discourse about boundaries with park actors. She tells WIRED the backlash is unfair.",
+      "url": "https://www.wired.com/story/viral-disneyland-content-creator-defends-her-special-friendship-with-peter-pan/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T15:50:29+00:00"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma takes pains to deliver a slasher fan’s dream",
+      "description": "Matte paintings—not CGI—warp a world designed to hit a nerve for slasher fans.",
+      "url": "https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T15:36:47+00:00"
+    },
+    {
+      "title": "The Ancient Mediterranean Diet Wasn’t What You Think",
+      "description": "The ancient Mediterranean diet was not one fixed menu but a collection of regional diets dominated by bread and shaped by wealth and availability. For Roman emperor Julian (332–363 CE), bread occupied a central place at the table. He described it as the food that “among us is thought to be the most ",
+      "url": "https://scitechdaily.com/the-ancient-mediterranean-diet-wasnt-what-you-think/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-18T15:28:42+00:00"
+    },
+    {
+      "title": "Wetherspoons bans customers playing music from phones in pubs",
+      "description": "The pub chain says the decision follows complaints about \"other people's videos and amplified phone conversations\".",
+      "url": "https://www.bbc.co.uk/news/articles/cnvnl8gy22lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-18T15:23:31+00:00"
+    },
+    {
+      "title": "X-rays add new twist to narwhal's spiral tusk",
+      "description": "New study finds that the tusks have not one but two spirals, twisting in opposite directions.",
+      "url": "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T15:00:51+00:00"
+    },
+    {
+      "title": "11,000-Year-Old Grains Reveal a Surprise About the Origins of Agriculture",
+      "description": "A new integrated isotope study suggests that early increases in cereal grain size were driven by growing conditions rather than human selection. About 11,000 years ago, communities across southwest Asia began cultivating wild cereals, legumes, and fruit-bearing plants as they increasingly produced t",
+      "url": "https://scitechdaily.com/11000-year-old-grains-reveal-a-surprise-about-the-origins-of-agriculture/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-18T14:53:00+00:00"
+    },
+    {
+      "title": "Meta Ran Ads for an App That Promised to Nudify Female Politicians",
+      "description": "One advertisement featured a pornographic video with a deepfake closely resembling a prominent US politician. Apple removed the app from the App Store after an inquiry from WIRED.",
+      "url": "https://www.wired.com/story/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T14:45:33+00:00"
+    },
+    {
+      "title": "Lost Vatican Letter Recasts 1066 as a Holy War Against “Followers of Satan”",
+      "description": "A lost papal letter suggests King Harold’s support for a rival pope may have helped turn the Norman Conquest into part of a wider European power struggle. For generations, the story of 1066 has seemed straightforward: a disputed crown, an invading duke, and a decisive battle that ended Anglo-Saxon r",
+      "url": "https://scitechdaily.com/lost-vatican-letter-recasts-1066-as-a-holy-war-against-followers-of-satan/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-18T14:18:26+00:00"
+    },
+    {
+      "title": "Peacock is raising prices by up to $3",
+      "description": "Peacock is raising prices across its streaming plans once again, with the company's cheapest ad-supported Select tier going from $7.99 to $8.99 / month, as reported earlier by Variety. The Premium plan with ads is increasing from $10.99 to $12.99 / month, while the ad-free Premium Plus plan is getti",
+      "url": "https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T14:11:39+00:00"
+    },
+    {
+      "title": "Buss trying to block her siblings' sale of family stake in Lakers",
+      "description": "Los Angeles Lakers governor Jeanie Buss is trying to stop her siblings' sale of the family's remaining stake in the NBA franchise.",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/c5yvdz79w11o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-18T13:39:42+00:00"
+    },
+    {
+      "title": "ABC sues Trump’s media regulator over demand for TV license renewals",
+      "description": "Network alleges FCC is trying to send ‘chilling message’ in retaliation for content the administration disapproves ofABC has sued the Federal Communications Commission (FCC), arguing that it is being retaliated against for content-based reasons in a move it warns threatens the independence of the pr",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/abc-sues-trump-federal-communications-commission",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-08-18T13:38:23+00:00"
+    },
+    {
+      "title": "Can the Upcoming ‘Expanse’ Game Avoid the Biggest Mistake of ‘Mass Effect’?",
+      "description": "The universe may never tell you if your choices mattered. Owlcat’s Osiris Reborn might not either.",
+      "url": "https://www.wired.com/story/the-upcoming-expanse-game-has-to-make-some-hard-choices/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T13:00:00+00:00"
     },
     {
       "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
@@ -47,15 +335,79 @@
       "url": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "publishedAt": "2026-08-18T08:59:28+00:00"
+      "publishedAt": "2026-08-18T12:52:26+00:00"
     },
     {
-      "title": "Newcastle complete £30m move for Benfica's Dedic",
-      "description": "Newcastle United sign defender Amar Dedic from Benfica for around £30m.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czekzxd09zlo?at_medium=RSS&at_campaign=rss",
+      "title": "Carney's final chance to convince Trump as US-Canada trade deadline looms",
+      "description": "Negotiators want a deal to avoid fresh US tariffs - though Canadians are not in the mood to offer many concessions.",
+      "url": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-18T12:27:47+00:00"
+    },
+    {
+      "title": "Oil prices jump after US-Iran ceasefire expires and Trump threatens Oman",
+      "description": "Brent crude rises above $90 a barrel for the first time since 30 July after US president tells Tehran to surrenderBusiness live – latest updatesOil prices have risen again after the two-month window to negotiate a peace deal in the US-Israel war on Iran expired on Monday with no end to the conflict ",
+      "url": "https://www.theguardian.com/business/2026/aug/18/oil-prices-rise-us-iran-brent-crude-donald-trump",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-08-18T11:50:40+00:00"
+    },
+    {
+      "title": "From jumpers to slug pellets - how British wool is back in demand",
+      "description": "An increased demand in wool has meant prices have increased more than 70% in the last year.",
+      "url": "https://www.bbc.co.uk/news/articles/c8xnkjwdn5wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-18T11:18:39+00:00"
+    },
+    {
+      "title": "I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)",
+      "description": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
+      "url": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T11:08:00+00:00"
+    },
+    {
+      "title": "This Common Gut-Bacteria Compound May Be Linked to Alzheimer’s Disease",
+      "description": "Gut bacteria produce a common compound called imidazole propionate, and a study found that higher levels are associated with dementia related changes in the brain. A molecule made by gut bacteria could help explain why changes in the intestinal microbiome are connected to Alzheimer’s disease. Resear",
+      "url": "https://scitechdaily.com/this-common-gut-bacteria-compound-may-be-linked-to-alzheimers-disease/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-18T11:01:26+00:00"
+    },
+    {
+      "title": "Governments’ borrowing costs hit further multi-decade highs as US-Iran peace hopes fade",
+      "description": "Bond yields in US, UK, Germany France and Japan rise after ceasefire ends and Trump threatens to bomb OmanBusiness live – latest updatesGovernment borrowing costs in several advanced economies continued to rise to levels not seen in decades on Tuesday, as hopes of an end to the US-Iran war faded.Con",
+      "url": "https://www.theguardian.com/business/2026/aug/18/governments-borrowing-costs-us-iran-bond-yields-trump",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-08-18T10:54:43+00:00"
+    },
+    {
+      "title": "Why Fernandez uncertainty has echoes of Isak saga",
+      "description": "Enzo Fernandez's possible Manchester City move is following the pattern of Alexander Isak's transfer last summer - and creating headaches for Chelsea.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2dzj2w25vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-08-18T08:33:04+00:00"
+      "publishedAt": "2026-08-18T10:46:17+00:00"
+    },
+    {
+      "title": "Exclusive: You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US",
+      "description": "More than a decade after launching in Europe, the Netherlands company is now selling its repairable phones in the US, starting with the Fairphone (Gen 6+).",
+      "url": "https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-18T10:30:00+00:00"
+    },
+    {
+      "title": "Scientists Are Discovering Unexpected Benefits of GLP-1 Drugs",
+      "description": "New research examines the emerging benefits and unanswered questions surrounding this rapidly expanding class of medications. Millions of people are now using GLP-1 receptor agonists and dual agonists to treat obesity and other metabolic diseases, giving researchers a much broader view of what these",
+      "url": "https://scitechdaily.com/scientists-are-discovering-unexpected-benefits-of-glp-1-drugs/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-18T10:26:23+00:00"
     },
     {
       "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
@@ -74,310 +426,6 @@
       "publishedAt": "2026-08-18T07:52:24+00:00"
     },
     {
-      "title": "Is Haaland worth the price? Pick Rogers or Palmer? Five key FPL questions",
-      "description": "BBC Sport's team of Fantasy Premier League experts debate some of the new season's big talking points to help you select your team before Friday's deadline.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn0np755k4wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-18T07:23:59+00:00"
-    },
-    {
-      "title": "Could refreshed Odegaard be like a new signing?",
-      "description": "The Arsenal captain had a hugely frustrating 2025-26 season despite leading his team to the title - but now appears fit and refreshed.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2lq80lwwpdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-18T07:14:06+00:00"
-    },
-    {
-      "title": "What's going on at Cadillac and Haas? F1 Q&A",
-      "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the season resumes with the Dutch Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c1w1ypg102po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-18T06:57:33+00:00"
-    },
-    {
-      "title": "Williams sisters lose on doubles return",
-      "description": "Serena and Venus Williams lose a thriller at the Cincinnati Open in their first doubles match together for four years.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c4g6m08nnn8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-18T06:33:17+00:00"
-    },
-    {
-      "title": "Disabled people in England to get 24-hour free bus travel",
-      "description": "The change, which has been welcomed by campaign groups, will come into effect in England from April.",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx5vx21y2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-18T06:11:30+00:00"
-    },
-    {
-      "title": "Breakouts & wildcards - 13 surprise stars for new season",
-      "description": "BBC Sport TV and radio commentators identify the players they think could be the breakout stars of the new Premier League season.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1l197j4gvro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-18T05:49:00+00:00"
-    },
-    {
-      "title": "SteelSeries Coupon Codes: 15% Off in August 2026",
-      "description": "Unlock exclusive discounts on SteelSeries' award-winning gaming headsets, keyboards, and accessories.",
-      "url": "https://www.wired.com/story/steelseries-coupon-code/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-18T05:00:00+00:00"
-    },
-    {
-      "title": "Noom Promo Codes: 50% Off Best Deals & Free Trials for August 2026",
-      "description": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
-      "url": "https://www.wired.com/story/noom-promo-code/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-18T05:00:00+00:00"
-    },
-    {
-      "title": "Hydrow Discount Code: Save Up to $150 | August 2026",
-      "description": "Save on rowers and accessories with Hydrow coupons, including an exclusive discount of $50.",
-      "url": "https://www.wired.com/story/hydrow-discount-code/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-18T05:00:00+00:00"
-    },
-    {
-      "title": "1Password Coupon: Score a Free Trial in August 2026",
-      "description": "Save up to 28% on business and personal memberships with 1Password promo codes and deals.",
-      "url": "https://www.wired.com/story/1password-coupon/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-18T05:00:00+00:00"
-    },
-    {
-      "title": "Womanizer Coupons: Save 15% in August",
-      "description": "Save on the Womanizer Duo Premium and more with our latest Womanizer discount codes.",
-      "url": "https://www.wired.com/story/womanizer-coupon/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-18T05:00:00+00:00"
-    },
-    {
-      "title": "Vivid Seats Promo Codes and Deals: Get 10% Off",
-      "description": "Whether you are heading to a sold-out concert or a championship game, use a Vivid Seats discount code to secure your seats for less this August 2026.",
-      "url": "https://www.wired.com/story/vivid-seats-promo-code/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-18T05:00:00+00:00"
-    },
-    {
-      "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
-      "description": "Practices shifted from individuals buried in coffins to reusing sites for later mummy interments.",
-      "url": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-18T04:00:40+00:00"
-    },
-    {
-      "title": "Light Reveals the Hidden Quantum Motion Inside an Exotic Crystal",
-      "description": "Optical measurements can reveal the hidden collective motion and quantum dynamics of electrons inside a Wigner crystal. In a Wigner crystal, electrons behave in an unusual way. Rather than moving independently, strongly interacting electrons confined to a two-dimensional plane can arrange themselves",
-      "url": "https://scitechdaily.com/light-reveals-the-hidden-quantum-motion-inside-an-exotic-crystal/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-18T00:28:27+00:00"
-    },
-    {
-      "title": "US-Canada trade talks 'intense' as new tariff deadline looms",
-      "description": "Mark Carney will need to sell Canadians on any concessions made to the US as negotiators scramble to reach a deal to avoid Trump’s latest tariffs.",
-      "url": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-18T00:02:31+00:00"
-    },
-    {
-      "title": "CERN Experiment Finds Gluons Behaving Strangely Deep Inside Atomic Nuclei",
-      "description": "ALICE measurements suggest that gluons inside nuclei begin behaving collectively at very small scales, favoring gluon saturation over conventional nuclear shadowing alone. Deep inside atomic nuclei, gluons bind quarks together and help determine the structure of visible matter. A CERN study, with a ",
-      "url": "https://scitechdaily.com/cern-experiment-finds-gluons-behaving-strangely-deep-inside-atomic-nuclei/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-17T23:53:44+00:00"
-    },
-    {
-      "title": "Reddit’s AI is turning posts into podcasts and short videos",
-      "description": "Reddit is trying out a new way for people to take in content on Reddit: by turning text posts into audio / video content. As part of an experiment, some posts are being adapted into videos that use AI voices to read the text of the main post and some comments. The video highlights the [&#8230;]",
-      "url": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T23:46:01+00:00"
-    },
-    {
-      "title": "Quantum Computer Solves a Problem in 15 Minutes That Classical Methods Can’t Practically Compute",
-      "description": "Researchers have demonstrated a quantum computation that appears to exceed the practical capabilities of leading classical simulation methods while also addressing a longstanding problem: how to verify the result. A quantum computer completed a difficult calculation in about 15 minutes, while leadin",
-      "url": "https://scitechdaily.com/quantum-computer-solves-a-problem-in-15-minutes-that-classical-methods-cant-practically-compute/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-17T23:18:51+00:00"
-    },
-    {
-      "title": "Guardiola-Walker fallout revealed in new documentary",
-      "description": "A new documentary series about Pep Guardiola's final two seasons at Manchester City reveals the bust-up he had with former captain Kyle Walker.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-17T23:00:04+00:00"
-    },
-    {
-      "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
-      "description": "Again, the CDC did not publish a full report and instead simply put the data online.",
-      "url": "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T22:08:47+00:00"
-    },
-    {
-      "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
-      "description": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”",
-      "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T21:18:49+00:00"
-    },
-    {
-      "title": "ABC&#8217;s livestreamed news show is powered by trending topics",
-      "description": "ABC News has officially introduced Searched, a livestreamed show that highlights stories people are discussing on social media and searching on the web, as reported earlier by Variety. Though the network just announced the show now, Searched began airing on the ABC News Live streaming channel in Apr",
-      "url": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T20:59:23+00:00"
-    },
-    {
-      "title": "Top Fifa official sacked after Infantino plan criticism",
-      "description": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-17T20:46:08+00:00"
-    },
-    {
-      "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
-      "description": "Here's what it was like watching a total solar eclipse 90 minutes north of Madrid.",
-      "url": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T20:23:09+00:00"
-    },
-    {
-      "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
-      "description": "\"Network effect\" can run in reverse.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T20:14:23+00:00"
-    },
-    {
-      "title": "New Imaging Technology Tracks Cancer From the Whole Body to Single Cells",
-      "description": "For the first time, new imaging technology in Scotland allows scientists to track cancer from the whole body down to individual cells, providing new insights into the disease. A medical scan can show where cancer is growing, but not what individual cells inside each tumor are doing. Microscopy can r",
-      "url": "https://scitechdaily.com/new-imaging-technology-tracks-cancer-from-the-whole-body-to-single-cells/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-17T20:04:19+00:00"
-    },
-    {
-      "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-      "description": "Despite loss, carriers still claim selling device-location data isn't illegal.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T20:00:20+00:00"
-    },
-    {
-      "title": "Does Reform's plan to cut £50bn in welfare spending add up?",
-      "description": "BBC Verify breaks down what the party says it wants to do to cut the benefits bill - and how realistic it is.",
-      "url": "https://www.bbc.co.uk/news/articles/crl76jkxel3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-17T19:54:08+00:00"
-    },
-    {
-      "title": "Researchers Discover Rheumatoid Arthritis Vulnerability May Begin Before Birth",
-      "description": "Some joints may be predisposed to rheumatoid arthritis by cellular and structural differences established before birth. Some joints may be predisposed to inflammatory arthritis before a person is even born. Researchers at the Kennedy Institute have identified developmental differences that could hel",
-      "url": "https://scitechdaily.com/researchers-discover-rheumatoid-arthritis-vulnerability-may-begin-before-birth/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-17T19:29:12+00:00"
-    },
-    {
-      "title": "This compact Glorious mechanical keyboard is just $35",
-      "description": "Are you curious about custom mechanical keyboards, but don’t want to spend hundreds just to get started without being sure you’ll enjoy the hobby? You can grab the 65-percent Glorious GMMK 3 mechanical keyboard at Woot for $34.99 (usually $139.99) by entering the coupon code WOOTGAMING at checkout, ",
-      "url": "https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T19:27:49+00:00"
-    },
-    {
-      "title": "Wordle meets Clippy in this new word game",
-      "description": "Like many of us, Sam Rosenthal plays games like Wordle every day, chasing after good scores and sharing the results with friends and family. But he's also a game designer, the creative director at Blaseball developer The Game Band, and so this regular habit got him thinking about what else could be ",
-      "url": "https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T19:03:41+00:00"
-    },
-    {
-      "title": "Taking the Stairs Could Cut Your Risk of Heart-Related Death by 39%",
-      "description": "Regular stair climbing was associated with substantially lower risks of cardiovascular death and death from any cause. Choosing the stairs instead of an elevator may be one of the simplest ways to add heart-healthy movement to an ordinary day. Research published on August 12, 2026, from the Universi",
-      "url": "https://scitechdaily.com/taking-the-stairs-could-cut-your-risk-of-heart-related-death-by-39/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-17T18:54:10+00:00"
-    },
-    {
-      "title": "Petlibro accused of “gaslighting” users over smart pet feeder outage",
-      "description": "Petlibro says feeders perform scheduled feedings offline. Users report otherwise.",
-      "url": "https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T18:43:51+00:00"
-    },
-    {
-      "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-      "description": "Amazon’s team uses a T. rex preparing to devour a book as its logo.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T18:13:47+00:00"
-    },
-    {
-      "title": "Film commission backs Amazon MGM expansion of Berkshire studios",
-      "description": "The Berkshire film studio was previously home to iconic horror studio Hammer Films.",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8wjvd2q4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-17T18:03:39+00:00"
-    },
-    {
-      "title": "YouTube is changing how it counts views to give the numbers a boost",
-      "description": "YouTube will soon count a view as soon as a video starts to play, lining up with the system used by Instagram, TikTok, and its Shorts videos. The update will go into effect on August 24th, \"which means creators will likely see their total view counts increase faster moving forward,\" the platform say",
-      "url": "https://www.theverge.com/streaming/981105/youtube-video-view-counting-update",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T17:13:03+00:00"
-    },
-    {
-      "title": "The Analogue Pocket gets a Supreme makeover in red or gold",
-      "description": "Analogue and Supreme are teaming up to release metallic versions of the Analogue Pocket handheld in red and gold as part of Supreme's fall / winter 2026 collection. Here's how they're described on Supreme's website: Metallic portable handheld multi-video-game-system. Unibody aluminum with 24K Gold-p",
-      "url": "https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T16:40:32+00:00"
-    },
-    {
-      "title": "Sonos finally added Live Activities controls for your iPhone lockscreen",
-      "description": "Sonos released an update to its mobile app that finally introduces support for iOS' Live Activities, giving iPhone users quick access to playback controls on their lockscreen. The added functionality is a \"much requested, anticipated, and needed feature,\" according to a post Sonos shared to Reddit t",
-      "url": "https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-17T16:38:35+00:00"
-    },
-    {
       "title": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
       "description": "Vegetable and grain growers call for urgent action, warning of ‘catastrophic’ harvests due to continent-wide droughtSuccessive intense heatwaves and an increasingly severe, continent-wide drought have left many of Europe’s farmers in an “unprecedented” crisis, with vegetable and grain growers in par",
       "url": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves",
@@ -386,36 +434,12 @@
       "publishedAt": "2026-08-17T16:01:47+00:00"
     },
     {
-      "title": "Textbooks May Be Wrong: Satellite Data Challenge the Two-Bulge Tide Model",
-      "description": "Large-scale tidal observations challenge the textbook idea that two symmetric water bulges physically form on opposite sides of Earth. For generations, students have learned to picture Earth’s oceans forming two broad bulges on opposite sides of the planet under the Moon’s gravitational influence. R",
-      "url": "https://scitechdaily.com/textbooks-may-be-wrong-satellite-data-challenge-the-two-bulge-tide-model/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-17T15:57:38+00:00"
-    },
-    {
-      "title": "US gas prices reach highest ever recorded for August amid stalled talks with Iran",
-      "description": "Energy prices have been high since the US-Israel war with Iran began and the strait of Hormuz was blockedUS gas prices this month are so far the highest ever recorded for August as peace talks between the US and Iran have stalled and Donald Trump launched fresh threats against Oman.The national aver",
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-08-17T15:51:46+00:00"
-    },
-    {
       "title": "China’s economy showing signs that slowdown may be extending",
       "description": "Industrial output and retail sales slump in July after one of the country’s weakest quarterly growth rates everChina’s economy is showing signs of extending a slowdown with a slump in industrial output and retail sales in July, adding to pressure on Beijing to intervene with measures to support acti",
       "url": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-08-17T15:36:25+00:00"
-    },
-    {
-      "title": "Tiny New “Dragon” Discovered High in Thailand’s Mountain Forests",
-      "description": "High in the forests of western Thailand, scientists have discovered a tiny new lizard whose striking appearance and unique biology earned it a name worthy of a fantasy dragon. A newly discovered mountain horned dragon, Acanthosaura syrax, was named after Syrax, the yellow dragon ridden by Queen Rhae",
-      "url": "https://scitechdaily.com/tiny-new-dragon-discovered-high-in-thailands-mountain-forests/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-17T15:22:23+00:00"
     },
     {
       "title": "New Mexico’s attorney general pushes new social media safety laws after $900m court victory over Meta",
