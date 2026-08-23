@@ -1,6 +1,110 @@
 {
-  "updatedAt": "2026-08-22T21:18:57.309645+00:00",
+  "updatedAt": "2026-08-23T09:15:18.627079+00:00",
   "articles": [
+    {
+      "title": "Is Expensive Bottled Water Actually Better for You?",
+      "description": "Luxury water can contain different minerals and taste noticeably different. But a remote source, alkaline pH, and high price do not necessarily mean better hydration.",
+      "url": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-23T09:00:00+00:00"
+    },
+    {
+      "title": "Struggling households need more help with bills, energy industry says",
+      "description": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-23T08:03:52+00:00"
+    },
+    {
+      "title": "What does Savinho's £75m move reveal about Man City's multi-club model?",
+      "description": "Does Savinho's £75m move from Manchester City to Tottenham represent a sporting success for the Abu Dhabi-owned club?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3w0wpy86z7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-23T07:43:38+00:00"
+    },
+    {
+      "title": "Australia beat Bangladesh in two days",
+      "description": "Mitchell Starc takes 10 wickets in the match as Australia bounce back to win the second Test against Bangladesh by an innings and 51 runs and draw the series.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c9989723r7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-23T07:39:21+00:00"
+    },
+    {
+      "title": "Heroic effort needed to catch Clark - McIlroy",
+      "description": "Rory McIlroy shoots a five-under-par 65 to move into a share of second place after three rounds of the BMW Championship in St Louis.",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/c0m7mrp9pd7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-23T07:07:11+00:00"
+    },
+    {
+      "title": "Life after Salah - why Isak and Wirtz must step up for Liverpool",
+      "description": "Liverpool are preparing to begin a season without Mohamed Salah for the first time in a decade - but they haven't replaced him yet. This is why.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd69dd1q4qlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-23T06:31:21+00:00"
+    },
+    {
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-23T05:46:43+00:00"
+    },
+    {
+      "title": "Mayors to get powers to overrule local councils on planning decisions",
+      "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+      "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-23T03:10:51+00:00"
+    },
+    {
+      "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
+      "description": "The government says at no point was there a risk to the UK's energy system during the attack in July.",
+      "url": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-23T02:48:41+00:00"
+    },
+    {
+      "title": "Strange Quantum Oscillations Reveal New Physics in an Exotic Material",
+      "description": "Experiments and theoretical analysis show that under extreme magnetic fields, electrons in zirconium pentatelluride behave in an unusual way that points to a topological origin rather than interactions among many particles. Under magnetic fields strong enough to push electrons toward their quantum l",
+      "url": "https://scitechdaily.com/strange-quantum-oscillations-reveal-new-physics-in-an-exotic-material/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-23T01:54:34+00:00"
+    },
+    {
+      "title": "Quantum Experiment Breaks a Long-Standing X-Ray Energy Limit",
+      "description": "An experiment by researchers at the University of California San Diego and TU Wien has revealed a new quantum regime that generates coherent X-rays at higher energies than conventional rules predict. When intense laser light strikes certain atoms, the atoms can respond by producing laser pulses at f",
+      "url": "https://scitechdaily.com/quantum-experiment-breaks-a-long-standing-x-ray-energy-limit/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-23T01:19:41+00:00"
+    },
+    {
+      "title": "Astronomers Detect a Record-Breaking “Cosmic Laser” From 8 Billion Light-Years Away",
+      "description": "MeerKAT has detected a record-breaking hydroxyl megamaser from a merging galaxy more than 8 billion light-years away, opening a new way to study the early universe. Using South Africa’s MeerKAT radio telescope, astronomers have identified the farthest hydroxyl megamaser ever observed, marking a majo",
+      "url": "https://scitechdaily.com/astronomers-detect-a-record-breaking-cosmic-laser-from-8-billion-light-years-away/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-23T00:44:25+00:00"
+    },
+    {
+      "title": "Scientists Supercharge Natural Killer Cells To Attack Solid Tumors",
+      "description": "Stanford Medicine researchers and colleagues found a way to make natural killer cells better at attacking cancer. In mice, the enhanced cells entered solid tumors and slowed their growth. One of the biggest successes of modern cancer treatment has been learning how to turn the immune system into a w",
+      "url": "https://scitechdaily.com/scientists-supercharge-natural-killer-cells-to-attack-solid-tumors/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-22T21:28:30+00:00"
+    },
     {
       "title": "Scientists Find a Youth-Associated Protein That Rejuvenates Brain Immune Cells in Mice",
       "description": "Researchers found that TIMP2 supports microglial function and reduces age-related cellular changes associated with inflammation in mice. As the brain grows older, its immune cells can become less effective at clearing debris and controlling potentially harmful responses. Researchers at The Icahn Sch",
@@ -26,44 +130,20 @@
       "publishedAt": "2026-08-22T20:16:00+00:00"
     },
     {
-      "title": "Brentford beat lacklustre Spurs in comfortable opening day win",
-      "description": "Tottenham Hotspur's Premier League season under Roberto De Zerbi gets off to a dismal start as they lose 3-0 to a dominant Brentford side at the Gtech Community Stadium.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqx75yq28rwo?at_medium=RSS&at_campaign=rss",
+      "title": "Stokes stars as leaders Durham hammer Derbyshire",
+      "description": "Ben Stokes hits 66 not out and takes 5-17 as Durham wrap up a 338-run victory at Derbyshire inside three days in Division Two of the County Championship.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c3d3gd39y49o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-08-22T19:02:31+00:00"
+      "publishedAt": "2026-08-22T19:09:08+00:00"
     },
     {
-      "title": "Late drama as Ipswich stun Sunderland",
-      "description": "Ipswich Town beat Sunderland as Jack Clarke scores a 90th minute winner to open their account on their return to the Premier League.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cvg0214evlmo?at_medium=RSS&at_campaign=rss",
+      "title": "Mateta claims final year of Palace deal is invalid",
+      "description": "Jean-Philippe Mateta is challenging the validity of the final 10 months on his Crystal Palace contract.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx7x90dxywo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-08-22T19:01:50+00:00"
-    },
-    {
-      "title": "Leeds score late winner to silence Forest fans",
-      "description": "Anton Stach scores in the 88th minute to give Leeds United a win in Oliver Glasner's first game in charge of Nottingham Forest in the Premier League.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwyr0n7vyrgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-22T19:01:04+00:00"
-    },
-    {
-      "title": "Wasteful Palace punished by Everton in Sage's first game",
-      "description": "Everton beat Crystal Palace 2–0 to win their opening game of the Premier League season for the first time in five years, with goals from Kiernan Dewsbury‑Hall and Thierno.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c0m7dk4z82ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-22T19:00:58+00:00"
-    },
-    {
-      "title": "Hull shock Man Utd with dream Premier League return",
-      "description": "Watch highlights as Hull City make a dream start to their return to the Premier League, beating Manchester United 2-0 on the opening weekend at the MKM Stadium.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/clyl5ejxj2wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-22T19:00:18+00:00"
+      "publishedAt": "2026-08-22T17:49:41+00:00"
     },
     {
       "title": "Norris expects challenge after back-to-back poles",
@@ -106,16 +186,8 @@
       "publishedAt": "2026-08-22T15:00:00+00:00"
     },
     {
-      "title": "Construction Crew Uncovers Giant 20-Meter Dinosaur in Brazil",
-      "description": "Dasosaurus tocantinensis was about 20 meters long and lived roughly 120 million years ago. Its closest known relative inhabited what is now Spain. About 120 million years ago, a 20-meter-long dinosaur roamed what is now northeastern Brazil, leaving behind fossils that would remain buried until moder",
-      "url": "https://scitechdaily.com/construction-crew-uncovers-giant-20-meter-dinosaur-in-brazil/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-22T14:52:32+00:00"
-    },
-    {
       "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
-      "description": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The trade row is the biggest rupture in recent relations between Washington and one of its closest allies and trading partners as Donald Trump’s bellicose foreign policy angered off",
+      "description": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country’s prime minister, has vowed to match them “dollar for dollar” after the collapse of trade talk",
       "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
       "source": "The Guardian",
       "category": "Business",
@@ -146,28 +218,12 @@
       "publishedAt": "2026-08-22T13:00:00+00:00"
     },
     {
-      "title": "New Soil Test Could Improve Our Understanding of a Vital but Limited Nutrient",
-      "description": "A simpler method for measuring DNA-bound phosphorus could improve understanding of soil microbes and nutrient cycling. Scientists have created a simpler, more cost-effective way to measure a biologically important form of phosphorus in soil. The method offers a clearer view of how nutrients move thr",
-      "url": "https://scitechdaily.com/new-soil-test-could-improve-our-understanding-of-a-vital-but-limited-nutrient/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-22T12:14:34+00:00"
-    },
-    {
       "title": "Two great new repairable gadgets",
       "description": "Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at the Installer homepage.) This week, I've been getting back into the Installer groove, trying out some ",
       "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-08-22T12:00:00+00:00"
-    },
-    {
-      "title": "A Manhattan-Sized Ice Island Just Broke Off Greenland",
-      "description": "Researchers say two more major calving events are likely. A massive slab of floating ice broke away from Petermann Glacier in northwest Greenland on August 4, 2026, creating a 76.4 km² ice island. An international research group led in part by the University of Ottawa says it was Petermann’s largest",
-      "url": "https://scitechdaily.com/a-manhattan-sized-ice-island-just-broke-off-greenland/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-22T11:39:41+00:00"
     },
     {
       "title": "Putting mice into hibernation causes a major loss of synapses",
@@ -184,14 +240,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-08-22T11:08:53+00:00"
-    },
-    {
-      "title": "30 Years of Hurricane Data Reveal 4 Warning Signs Before Storms Strengthen",
-      "description": "Nearly three decades of airborne radar observations have identified four features that help storms become organized before they intensify. A tropical cyclone can look powerful from above yet still struggle to strengthen if its circulation is leaning through the atmosphere. Before substantial intensi",
-      "url": "https://scitechdaily.com/30-years-of-hurricane-data-reveal-4-warning-signs-before-storms-strengthen/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-22T11:04:48+00:00"
     },
     {
       "title": "The 4 Best Monitor Arms to Clear Up Your Desk Space (2026)",
@@ -234,14 +282,6 @@
       "publishedAt": "2026-08-22T09:00:00+00:00"
     },
     {
-      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-      "description": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
-      "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-22T00:40:47+00:00"
-    },
-    {
       "title": "Trump's space transportation policy calls for new spaceport on federal land",
       "description": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
       "url": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
@@ -258,12 +298,12 @@
       "publishedAt": "2026-08-21T23:25:32+00:00"
     },
     {
-      "title": "Tesla’s Door Handles Lead to Its Biggest Recall Yet",
-      "description": "A Chinese agency says the two recalls affecting some 3 million vehicles can mostly be fixed by over-the-air updates—but they will also require physical warning stickers and camera-related updates.",
-      "url": "https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-21T23:10:00+00:00"
+      "title": "More students planning to live at home for university over 'insane' living costs",
+      "description": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.",
+      "url": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-21T23:01:58+00:00"
     },
     {
       "title": "HoverAir’s transforming modular drone has already been halted in the US",
@@ -280,14 +320,6 @@
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-08-21T22:13:34+00:00"
-    },
-    {
-      "title": "Arsenal start title defence with comfortable win over Coventry",
-      "description": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-21T21:35:28+00:00"
     },
     {
       "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
@@ -338,14 +370,6 @@
       "publishedAt": "2026-08-21T18:07:15+00:00"
     },
     {
-      "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
-      "description": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
-      "url": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-21T16:45:09+00:00"
-    },
-    {
       "title": "What does Tyson’s shutdown of two US beef plants mean for grocery costs?",
       "description": "Meat producer closes facilities in Utah and Illinois as beef prices rise for consumers amid historic cattle shortagePeople in the US: how much do you spend on food per month?Tyson Foods, the largest meatpacking company in the US, announced last week that it is closing two of its facilities in Illino",
       "url": "https://www.theguardian.com/business/2026/aug/21/tyson-foods-close-facilities-beef-prices-cattle-shortage",
@@ -368,46 +392,6 @@
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-08-21T10:02:03+00:00"
-    },
-    {
-      "title": "UK borrows more than expected in July as Healey prepares for first Budget",
-      "description": "Chancellor John Healey said the government is 'committed to meeting our fiscal rules'",
-      "url": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-21T09:45:11+00:00"
-    },
-    {
-      "title": "Why the US economy is ringing alarm bells",
-      "description": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-21T08:38:18+00:00"
-    },
-    {
-      "title": "How landscape gardening is being electrified",
-      "description": "The switch to quieter electric equipment is not going as fast as some would like.",
-      "url": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-20T23:12:38+00:00"
-    },
-    {
-      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-      "description": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
-      "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-20T22:59:35+00:00"
-    },
-    {
-      "title": "Fashion tech founder sentenced to prison for $300m fraud scheme",
-      "description": "Christine Hunsicker, former CEO of CaaStle, gave investors falsified documents that overstated profit and cash reservesA fashion tech founder was sentenced to five years in federal prison for her involvement in a $300m “fraud scheme” spanning from 2019 to 2025, the Manhattan US attorney’s office ann",
-      "url": "https://www.theguardian.com/business/2026/aug/20/christine-hunsicker-caastle-sentenced-prison",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-08-20T22:27:41+00:00"
     }
   ]
 }
