@@ -1,40 +1,384 @@
 {
-  "updatedAt": "2026-08-27T00:26:46.801640+00:00",
+  "updatedAt": "2026-08-27T19:17:49.442404+00:00",
   "articles": [
     {
-      "title": "Scientists Reveal How Cells Tame One of Biology’s Most Dangerous Metals",
-      "description": "Polyamines may protect cells from toxic iron buildup by keeping reactive iron under control. Iron keeps cells alive, but when too much of it remains chemically reactive, the same metal can become destructive. Excess free iron can drive reactions that damage DNA, proteins, and cell membranes, creatin",
-      "url": "https://scitechdaily.com/scientists-reveal-how-cells-tame-one-of-biologys-most-dangerous-metals/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-27T00:23:46+00:00"
+      "title": "Google Engineer Accused of Polymarket Insider Trading Says He Was Just ‘Gambling’",
+      "description": "Michele Spagnuolo was arrested for alleged insider trading on Polymarket, but the Switzerland-based engineer says he was simply gambling, activity that is beyond the reach of US law.",
+      "url": "https://www.wired.com/story/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T19:12:39+00:00"
     },
     {
-      "title": "Hurricane Forecast Maps Are Getting Better – but One Big Problem Remains",
-      "description": "Adding inland information improved recognition of hurricane watches but did not fully solve how people understand and respond to storm risk. Hurricane forecasts can only protect people if the danger shown on the screen is clear enough to understand and act on. Researchers at Florida State University",
-      "url": "https://scitechdaily.com/hurricane-forecast-maps-are-getting-better-but-one-big-problem-remains/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-26T23:48:35+00:00"
-    },
-    {
-      "title": "Blackbirds Somehow Know When a Snake Is Too Dangerous To Attack",
-      "description": "Red-winged blackbirds largely avoided striking rattlesnakes while aggressively attacking gopher snakes, revealing a striking difference in nest defense behavior. At nests across western Oregon, red-winged blackbirds readily confronted many threats to their young, but rattlesnakes prompted a striking",
-      "url": "https://scitechdaily.com/blackbirds-somehow-know-when-a-snake-is-too-dangerous-to-attack/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-26T23:13:38+00:00"
-    },
-    {
-      "title": "Fearnley among Britons closing in on US Open place",
-      "description": "Jacob Fearnley is among the British players who stand one win away from a place in the US Open main draw in New York.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/czjz9g1g9v8o?at_medium=RSS&at_campaign=rss",
+      "title": "Dos Santos shatters 400m hurdles world record",
+      "description": "Brazil's Alison dos Santos smashes the 400m hurdles world record with an astonishing run at the Zurich Diamond League meeting.",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cgmrvyjn1nvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-08-26T23:08:57+00:00"
+      "publishedAt": "2026-08-27T19:09:26+00:00"
     },
     {
-      "title": "Experts' five tips to make a rented property feel like home",
+      "title": "Google tells Android app developers to cool it on memory use, or else",
+      "description": "Google will start policing memory-hungry Android apps as a direct response to the RAM crisis. Spotted by TechCrunch, the company yesterday published a memo addressing the Play Store's role in enforcing new memory-usage restrictions. The post emphasizes the importance of meeting new memory usage limi",
+      "url": "https://www.theverge.com/tech/985679/google-play-android-17-memory-limit",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T18:33:11+00:00"
+    },
+    {
+      "title": "Chelsea agree £7.5m fee for Villa's Martinez",
+      "description": "Chelsea agree a £7.5m fee to sign Aston Villa goalkeeper Emiliano Martinez.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4r033wxzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-27T18:28:09+00:00"
+    },
+    {
+      "title": "Labor Day 2026 Deals Got Me a Complete Starter Tool Kit for Under $375",
+      "description": "I combed through the Labor Day sales to find the power tools and other essentials that cover nearly every household repair.",
+      "url": "https://www.wired.com/story/labor-day-2026-home-tool-kit-essentials/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T18:25:30+00:00"
+    },
+    {
+      "title": "Pogacar fights off Mas challenge to win stage six",
+      "description": "Tadej Pogacar recovers from a brief off-road excursion to claim his third victory at the Vuelta a Espana but he is made to fight all the way to the line by Enric Mas.",
+      "url": "https://www.bbc.co.uk/sport/cycling/articles/cn74mm407llo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-27T18:24:51+00:00"
+    },
+    {
+      "title": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend",
+      "description": "After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements—and those of a man whose vehicle often showed up near hers, internal investigation records show.",
+      "url": "https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T18:12:17+00:00"
+    },
+    {
+      "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+      "description": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
+      "url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T18:06:52+00:00"
+    },
+    {
+      "title": "Smith & Cox help England to 248-9 on truncated day one",
+      "description": "Jamie Smith and Jordan Cox battle difficult conditions and an improved Pakistan performance to take England to a competitive total on the opening day of the second Test.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cddv00z4609o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-27T17:54:31+00:00"
+    },
+    {
+      "title": "A Relentless Storm Pattern Is Making Arctic Sea Ice Disappear Faster",
+      "description": "A rapid series of low-pressure systems can create weather conditions that make it difficult for ice to recover, affecting Arctic coastlines and the global climate system. Sea ice in the Arctic can recover from a single storm, but repeated cyclones can make that recovery much harder. When several low",
+      "url": "https://scitechdaily.com/a-relentless-storm-pattern-is-making-arctic-sea-ice-disappear-faster/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-27T17:45:05+00:00"
+    },
+    {
+      "title": "Man City and Aston Villa to face holders PSG in Champions League",
+      "description": "European champions Paris St-Germain will face Premier League duo Manchester City and Aston Villa in the league phase of this season's Champions League.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ywxxll10jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-27T17:32:55+00:00"
+    },
+    {
+      "title": "The iconic T-38 jets flown by astronauts just got a spiffy new look",
+      "description": "\"Everyone wants to take that aircraft up now...\"",
+      "url": "https://arstechnica.com/space/2026/08/nasa-t-38-astronaut-training-jet-gets-new-artemis-look/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T17:26:25+00:00"
+    },
+    {
+      "title": "Netflix Failed at Video Games. Now It’s Trying to Promote Them",
+      "description": "Netflix has walked back plans to put AAA games on its streaming platform. Instead, it's pivoting to marketing highly anticipated titles like Grand Theft Auto VI.",
+      "url": "https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T17:25:30+00:00"
+    },
+    {
+      "title": "Monkeys Just Challenged a Major Assumption About How Human Ancestors Climbed",
+      "description": "A study shows that monkeys use their feet to climb trees as skillfully as chimpanzees. The way a primate climbs a tree can offer clues about how our own ancestors once moved. New research suggests that whatever scientists eventually determine about the last common ancestor of humans and chimpanzees,",
+      "url": "https://scitechdaily.com/monkeys-just-challenged-a-major-assumption-about-how-human-ancestors-climbed/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-27T17:10:23+00:00"
+    },
+    {
+      "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
+      "description": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
+      "url": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T16:52:42+00:00"
+    },
+    {
+      "title": "Why tough US Open draw will be true test of Alcaraz's fitness",
+      "description": "Carlos Alcaraz starts his US Open title defence against Russia's Roman Safiullin in the first serious examination of his fitness following a long-term wrist injury.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c986dyn1l7wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-27T16:36:49+00:00"
+    },
+    {
+      "title": "RFK Jr. goes full anti-vaccine bananas over two measles deaths—one was a newborn",
+      "description": "Kennedy and his allies have a history of downplaying vaccine-preventable deaths.",
+      "url": "https://arstechnica.com/health/2026/08/rfk-jr-spews-anti-vaccine-rubbish-as-newborn-revealed-to-have-died-from-measles/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T16:36:16+00:00"
+    },
+    {
+      "title": "A Billion Years Before the Grand Canyon, a Giant Cliff May Have Stretched Across America",
+      "description": "A new study suggests that the Grand Canyon’s oldest and deepest rocks were exposed by a massive ancient cliff that stretched across the United States. Long before the Colorado River carved the Grand Canyon, an enormous wall of cliffs may have been exposing some of the ancient rocks that now lie at i",
+      "url": "https://scitechdaily.com/a-billion-years-before-the-grand-canyon-a-giant-cliff-may-have-stretched-across-america/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-27T16:35:17+00:00"
+    },
+    {
+      "title": "Speedo’s new smart goggles module can track all four swim strokes",
+      "description": "Speedo is launching a removable smart module for its Vanquisher goggles that can analyze a swimmer's performance across all four swim strokes: freestyle, backstroke, breaststroke, and butterfly. The new Speedo iQ system uses swim-specific sensors to analyze head movement in the water, time breaths, ",
+      "url": "https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T16:18:51+00:00"
+    },
+    {
+      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+      "description": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have spent years chasing. Almost immediately, Huang dismissed the coveted milestone as \"senseless.\" He's right. For the suppo",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T16:15:52+00:00"
+    },
+    {
+      "title": "Hackers steal data from millions of airport customers",
+      "description": "About 8.7 million customers had their data accessed and a ransom was demanded.",
+      "url": "https://www.bbc.co.uk/news/articles/c7v4353rry7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-27T16:07:26+00:00"
+    },
+    {
+      "title": "Sony finally has a cheaper OLED to compete with midrange Samsung and LG TVs",
+      "description": "After unexpectedly showing up on a wall-mounting compatibility chart on Sony's site back in June, the company has announced the Sony Bravia 6 OLED TV. The TV sits below its other OLED TVs - the Bravia 8 and Bravia 8 II - as well as its Bravia 9 II and Bravia 7 II RGB LED [&#8230;]",
+      "url": "https://www.theverge.com/tech/985363/sony-releases-cheaper-bravia-6-oled-tv",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T16:00:00+00:00"
+    },
+    {
+      "title": "Americans are cheering for vigilantes who take down Flock cameras",
+      "description": "Americans have declared war on Flock cameras. They've protested them, damaged them, and destroyed them. This is only the beginning. The spontaneous and decentralized nature of the vigilante protests is also what makes them difficult to suppress. There isn't a uniform method of disruption; people hav",
+      "url": "https://www.theverge.com/tech/985155/flock-camera-destruction-vigilantes",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T15:49:47+00:00"
+    },
+    {
+      "title": "Villa sign Goretzka - what went wrong at Bayern and what will he bring?",
+      "description": "Aston Villa complete the signing of former Bayern Munich midfielder Leon Goretzka on a free transfer.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20vm630grxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-27T15:39:49+00:00"
+    },
+    {
+      "title": "Why did 1,000 world citizens bury their underpants?",
+      "description": "Study: Land use is the biggest factor in determining decomposition rates of organic cotton underpants.",
+      "url": "https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T15:39:42+00:00"
+    },
+    {
+      "title": "One in eight young people still out of work or education ahead of major review",
+      "description": "Just under one million young people in the UK are not in education, employment or training (Neet).",
+      "url": "https://www.bbc.co.uk/news/articles/c93epy2yev0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-27T15:33:36+00:00"
+    },
+    {
+      "title": "Google launches Pokémon Sleep special-edition Fitbit Air",
+      "description": "The latest special-edition of Google's Fitbit Air is inspired by the Pok&#233;mon Sleep game, with a \"Sleepy Blue\" band emblazoned with a snoozing Pikachu. It's not exactly Snorlax blue, but matches the classic blue and gold of a Pok&#233;mon card pretty closely. The special-edition is available to ",
+      "url": "https://www.theverge.com/gadgets/985584/google-fitbit-air-pokemon-sleep",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T14:58:33+00:00"
+    },
+    {
+      "title": "In a swipe at Tesla, Waymo says ‘cameras… aren’t enough’",
+      "description": "As Tesla gears up for the official launch of its steering wheel and pedal-less Cybercabs, Waymo is issuing a stark warning about Elon Musk's approach autonomous driving. Srikanth Thirumalai, Waymo's VP of Onboard Software, doesn't specifically call out Musk or Tesla in a blog post, published Wednesd",
+      "url": "https://www.theverge.com/transportation/985503/waymo-tesla-lidar-camera-robotaxi-cybercab-musk",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T14:55:20+00:00"
+    },
+    {
+      "title": "Panic passes Trump tariff refunds back to the Playdate customers who paid them",
+      "description": "\"It just felt like the right thing to do.\"",
+      "url": "https://arstechnica.com/gaming/2026/08/panic-refunds-illegal-tariffs-customers-paid-on-its-playdate-gaming-handheld/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T14:53:17+00:00"
+    },
+    {
+      "title": "Uefa preparing criminal legal action against Infantino",
+      "description": "Uefa is pursuing criminal proceedings against Fifa president Gianni Infantino over the scrapped plan to sell off stakes in the World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-27T14:42:09+00:00"
+    },
+    {
+      "title": "If Meta&#8217;s going down, it’s taking TikTok and YouTube with it",
+      "description": "Meta might be on the hook for $17.1 billion and a host of app changes under a new kids safety settlement, but it's already spinning the deal to its advantage. After years of being the national punching bag for social media harms, Meta has reached a settlement with 47 US states and several districts ",
+      "url": "https://www.theverge.com/policy/985556/meta-settlement-youtube-tiktok-snap",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T14:24:29+00:00"
+    },
+    {
+      "title": "Traders brought Central American cacao to Georgia 1,000 years ago",
+      "description": "\"We built this city on good cacao\" does have a nice ring to it.",
+      "url": "https://arstechnica.com/science/2026/08/traders-brought-central-american-cacao-to-georgia-1000-years-ago/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T14:22:42+00:00"
+    },
+    {
+      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+      "description": "227 install commands were found in corporate docs pointing at code nobody owns.",
+      "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T14:00:13+00:00"
+    },
+    {
+      "title": "How much of a problem is AI’s water use?",
+      "description": "AI’s water footprint is growing, but location and cooling technology make a difference.",
+      "url": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T13:57:08+00:00"
+    },
+    {
+      "title": "What the Meta settlement means for the UK, and other questions after the deal",
+      "description": "Other social media firms are yet to respond, while the debate from campaigners is far from over.",
+      "url": "https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-27T13:24:03+00:00"
+    },
+    {
+      "title": "Longer Breastfeeding Linked to Fewer ADHD Symptoms in Children",
+      "description": "A baby’s first meals may shape attention for years, with longer exclusive breastfeeding linked to fewer ADHD symptoms through age eight. Researchers at the University of Bergen examined data from 37,600 families in the Norwegian Mother, Father, and Child Cohort Study (MoBa). The association appeared",
+      "url": "https://scitechdaily.com/longer-breastfeeding-linked-to-fewer-adhd-symptoms-in-children/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-27T13:19:11+00:00"
+    },
+    {
+      "title": "Alienware AW3926QW Review: 39 Inches of Gaming Glory",
+      "description": "Alienware’s latest gaming monitor explores a new size and resolution for ultrawide monitors, and I have a feeling PC gamers are going to love it.",
+      "url": "https://www.wired.com/review/alienware-aw3926qw-gaming-monitor/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T13:00:00+00:00"
+    },
+    {
+      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+      "description": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T12:58:59+00:00"
+    },
+    {
+      "title": "The Immune Systems of 110-Year-Olds Are Hiding a Remarkable Secret",
+      "description": "Rare cancer-killing T cells expand markedly in some exceptionally old adults, suggesting the immune system may continue adapting even at extreme ages. Among people who live past 100, the immune system may not simply weaken with age. Instead, rare immune cells known as CD4 cytotoxic T lymphocytes (CD",
+      "url": "https://scitechdaily.com/the-immune-systems-of-110-year-olds-are-hiding-a-remarkable-secret/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-27T12:44:46+00:00"
+    },
+    {
+      "title": "Common Osteoarthritis Treatment Fails a Major Test",
+      "description": "Diacerein did not relieve knee osteoarthritis symptoms in a major trial, but patients should speak with their doctor before stopping it. For millions of people living with knee osteoarthritis, medications that can meaningfully ease pain remain frustratingly limited. Now, one drug long valued for its",
+      "url": "https://scitechdaily.com/common-osteoarthritis-treatment-fails-a-major-test/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-27T12:09:40+00:00"
+    },
+    {
+      "title": "Best Posture Correctors for Better Body Alignment (2026)",
+      "description": "You’re hunched over your desk and phone for hours. I rounded up gadgets, a DIY trick, and even some yoga advice to help you straighten up.",
+      "url": "https://www.wired.com/gallery/posture-correctors/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-27T11:05:00+00:00"
+    },
+    {
+      "title": "Salmonella outbreak: What we know so far",
+      "description": "Hundreds have fallen ill with salmonella infections in an outbreak linked to imported eggs.",
+      "url": "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-08-27T11:02:19+00:00"
+    },
+    {
+      "title": "UK salmonella cases nearing 500 as egg investigations continue",
+      "description": "Close to 500 people have become ill with salmonella linked to imported eggs, say UK authorities who are investigating more clusters.",
+      "url": "https://www.bbc.co.uk/news/articles/cn8ej0zvppxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-08-27T11:00:35+00:00"
+    },
+    {
+      "title": "CEOs earn 614 times more than workers at US’s 100 lowest-paying corporations",
+      "description": "Analysis by Institute for Policy Studies found that between 2019 and 2025, CEO compensation increased 41.4%The average CEO of the US’s 100 largest, lowest-paying corporations earned 614 times more than their average worker last year, according to an analysis by the Institute for Policy Studies (IPS)",
+      "url": "https://www.theguardian.com/us-news/2026/aug/27/ceo-worker-pay-ratio-us-analysis",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-08-27T11:00:13+00:00"
+    },
+    {
+      "title": "Plug-in solar panels are coming to a shop near you - here's what to know",
+      "description": "The UK government claimes panels could help homes \"significantly cut\" energy bills.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-27T09:41:14+00:00"
+    },
+    {
+      "title": "Tiny Stars Are Making the Early Universe Much Harder to Explain",
+      "description": "Faint stars hidden inside massive early galaxies suggest some may contain several times more stellar mass than previously estimated. Some of the universe’s earliest massive galaxies may be hiding far more stellar mass than astronomers realized. Their brightest stars dominate what telescopes can see,",
+      "url": "https://scitechdaily.com/tiny-stars-are-making-the-early-universe-much-harder-to-explain/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-27T08:57:35+00:00"
+    },
+    {
+      "title": "Dark Stars May Have Left a Gravitational-Wave Signal We Can Detect Today",
+      "description": "A new study suggests that pulsar timing arrays could help reveal how the Universe’s first supermassive black holes formed. A faint background of extremely low-frequency gravitational waves, detected by monitoring networks of pulsars, may preserve clues from events that began more than 13 billion yea",
+      "url": "https://scitechdaily.com/dark-stars-may-have-left-a-gravitational-wave-signal-we-can-detect-today/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-27T08:22:17+00:00"
+    },
+    {
+      "title": "From lighting to vintage gems: Five ways to spruce up your rental",
       "description": "Experts share tips on how to make a flat or house feel like your own without annoying the landlord.",
       "url": "https://www.bbc.co.uk/news/articles/c3w0972z5d8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -58,22 +402,6 @@
       "publishedAt": "2026-08-26T23:07:22+00:00"
     },
     {
-      "title": "Plug-in solar panels are coming to a shop near you - here's what to know",
-      "description": "The UK government claimes panels could help homes \"significantly cut\" energy bills.",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-26T23:06:41+00:00"
-    },
-    {
-      "title": "Super Bowl champions Seahawks to be sold in record $9.6bn deal",
-      "description": "NFL owners approve the $9.612bn record sale of the reigning Super Bowl champions Seattle Seahawks to a group led by billionaire Vinod Khosla.",
-      "url": "https://www.bbc.co.uk/sport/american-football/articles/cm27yrlrz31o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-26T23:05:51+00:00"
-    },
-    {
       "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
       "description": "Perhaps our days of doomscrolling are numbered, writes the BBC's technology editor Zoe Kleinman.",
       "url": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss",
@@ -90,38 +418,6 @@
       "publishedAt": "2026-08-26T23:03:46+00:00"
     },
     {
-      "title": "'Mini-Rodri' Gonzalez shown he will be loved at Newcastle",
-      "description": "Nico Gonzalez is given a rapturous welcome before Newcastle's Carabao Cup win against West Brom following the £52m midfielder's arrival from Manchester City.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyz3ky2kqdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-26T22:52:36+00:00"
-    },
-    {
-      "title": "How Rising Temperatures Likely Contributed to Nepal’s Deadly Flood",
-      "description": "Climate change is causing glaciers to retreat and become less stable, upping the odds of catastrophic collapses.",
-      "url": "https://www.wired.com/story/rising-temperatures-contributed-nepals-deadly-flood/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T22:19:44+00:00"
-    },
-    {
-      "title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
-      "description": "A dashing pirate, a butler, a killer clown, an alien mad scientist in drag—the man had range.",
-      "url": "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T22:13:15+00:00"
-    },
-    {
-      "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-      "description": "OpenAI's cyber agents banded together to perform a hack during a security test.",
-      "url": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-26T22:03:45+00:00"
-    },
-    {
       "title": "Nvidia revenue doubles on continued AI demand",
       "description": "Chipmaker's $96bn quarter beat forecasts as demand for AI hardware continues to accelerate.",
       "url": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
@@ -130,284 +426,12 @@
       "publishedAt": "2026-08-26T21:49:26+00:00"
     },
     {
-      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-      "description": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its latest earnings report that it brought in a",
-      "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T21:40:53+00:00"
-    },
-    {
-      "title": "OpenAI’s rogue AI model incident was worse than we thought",
-      "description": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for Ope",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T21:36:06+00:00"
-    },
-    {
-      "title": "Liverpool v Spurs & Man Utd v Brighton - full EFL Cup third-round draw",
-      "description": "Liverpool face Tottenham in the third round of the EFL Cup, Manchester United play Brighton and Manchester City draw Norwich.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62mr6pv65zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-26T21:33:31+00:00"
-    },
-    {
-      "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
-      "description": "The deal has been reached during a California federal court trial over claims brought by US states.",
-      "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-26T21:27:23+00:00"
-    },
-    {
-      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-      "description": "Report shows Meta's challenges replacing people with AI agents.",
-      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T21:25:27+00:00"
-    },
-    {
-      "title": "Democrats Just Might Win the Senate",
-      "description": "Strategists in both parties have long thought that everything would need to go right for Democrats to take over Congress this fall. Their map, though, is becoming more forgiving.",
-      "url": "https://www.wired.com/story/democrats-just-might-win-the-senate/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T21:00:00+00:00"
-    },
-    {
-      "title": "The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable",
-      "description": "Child safety groups and former Meta employees welcome proposed changes to how the company’s platforms will work for teens. They also think states should have demanded more.",
-      "url": "https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T20:55:46+00:00"
-    },
-    {
-      "title": "Vrancken's side come of age as Hearts bid goodnight Vienna",
-      "description": "After some early season setbacks, \"proud\" Wouter Vrancken believes Hearts are getting their rewards by securing Conference League progress.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7v468zj6r5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-26T20:54:28+00:00"
-    },
-    {
-      "title": "New Twitter launches, says Musk's X gave up the name",
-      "description": "Judge hasn't ruled on X Corp’s preliminary injunction, but Operation Bluebird plows ahead",
-      "url": "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T20:49:04+00:00"
-    },
-    {
       "title": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn",
       "description": "US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on night-time useMeta agreed to significant changes to its Instagram and Facebook apps in a settlement that ended a landmark lawsuit on Wednesday. Dozens of US states had accused the tech giant of a",
       "url": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-08-26T20:30:49+00:00"
-    },
-    {
-      "title": "Waffle House Teleporter Gregg Phillips Is Still on the Trump Administration’s Payroll",
-      "description": "In June, a FEMA official infamous for claiming to have teleported to a Waffle House was reportedly ousted. He’s still employed by the government, though—and meeting with a Trump fixer.",
-      "url": "https://www.wired.com/story/waffle-house-teleporter-gregg-phillips-is-still-on-the-trump-administrations-payroll/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T20:18:12+00:00"
-    },
-    {
-      "title": "Scientists Find a Clue to Making Brain Stimulation More Reliable",
-      "description": "The brain’s activity immediately before stimulation may help predict its response and improve the consistency of neuromodulation. The same brain stimulation can produce very different responses depending on when it is delivered. A study published in Brain Stimulation, using detailed brain recordings",
-      "url": "https://scitechdaily.com/scientists-find-a-clue-to-making-brain-stimulation-more-reliable/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-26T20:06:40+00:00"
-    },
-    {
-      "title": "All the ways Instagram and Facebook are changing for teens",
-      "description": "Meta just agreed to make sweeping changes for teens as part of a child safety settlement reached with attorneys general across the US. Under the agreement, Meta must apply new safeguards across Instagram and Facebook that will change how teens interact with the social media platforms, as well as res",
-      "url": "https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T20:00:00+00:00"
-    },
-    {
-      "title": "Meta settles states' child-safety claims for $18B; Florida rejects deal as \"peanuts\"",
-      "description": "Meta to impose daily limit on child social media use in deal with nearly every state.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T19:50:52+00:00"
-    },
-    {
-      "title": "Villa close to £65m move for Chelsea's Jackson",
-      "description": "The striker is nearing a move to Villa Park after three years at Chelsea.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cge4y57ygvdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-26T19:46:01+00:00"
-    },
-    {
-      "title": "Florida Catholics slap down state AG by rejecting religious vaccine exemptions",
-      "description": "The bishops' snub comes as the state continues to attack vaccines.",
-      "url": "https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T19:39:24+00:00"
-    },
-    {
-      "title": "A Hidden Gut Reaction May Explain Why Vegetables Are So Good for You",
-      "description": "Gut bacteria may turn dietary nitrate and iron into molecules that support cardiovascular and metabolic health. Vegetables such as beets and leafy greens provide nitrate and iron, but part of their biological effect may depend on what happens after those nutrients reach the gut. Researchers at Karol",
-      "url": "https://scitechdaily.com/a-hidden-gut-reaction-may-explain-why-vegetables-are-so-good-for-you/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-26T19:31:22+00:00"
-    },
-    {
-      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-      "description": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
-      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T19:19:22+00:00"
-    },
-    {
-      "title": "Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards",
-      "description": "If you’ve been on the fence about Google’s latest Pixel phones, this might be your best chance to save some cash. Amazon is offering an extra $150 off the Pixel 11, Pixel 11 Pro, and Pixel 11 Pro XL when you use the coupon code PIXEL11 at checkout. While the discounted price appeared at checkout [&#",
-      "url": "https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T19:18:23+00:00"
-    },
-    {
-      "title": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
-      "description": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
-      "url": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T19:16:42+00:00"
-    },
-    {
-      "title": "New “Invisible” Cell Therapy Could Provide Side-Effect-Free Diabetes Treatment",
-      "description": "Testing in diabetic mice lowered blood sugar levels for more than 100 days. Transplanted cells can help treat disease, but the immune system often sees them as intruders and attacks them. Penn State researchers are testing a way around that problem by wrapping therapeutic cells in an ultrathin prote",
-      "url": "https://scitechdaily.com/new-invisible-cell-therapy-could-provide-side-effect-free-diabetes-treatment/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-26T18:56:47+00:00"
-    },
-    {
-      "title": "There Are No Trans Women in the WNBA, so Right-Wingers Are Making Some Up",
-      "description": "As culture warriors continue to stoke the flames of a gender panic in professional sports, wild conspiracy theories are coming into play.",
-      "url": "https://www.wired.com/story/there-are-no-trans-women-in-the-wnba-so-right-wingers-are-making-some-up/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T18:24:22+00:00"
-    },
-    {
-      "title": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
-      "description": "Beijing’s endlessly delightful Robot Games featured tons of impressive stunts. But the most mind-blowing tricks challenged the humanoid’s brain, not its brawn.",
-      "url": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T18:15:00+00:00"
-    },
-    {
-      "title": "Being a mom is hard — the heat is making it harder",
-      "description": "It's 8:52 AM and 86 degrees Fahrenheit (30 Celsius) where I live in Southern California. My husband just came back from a morning outing with our four-month-old. \"How was the botanic garden?\" I ask him. \"It was okay. It was just too hot,\" he tells me. I didn't expect us to spend so much of [&#8230;]",
-      "url": "https://www.theverge.com/news/985225/heat-stress-children-climate-change-study",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T18:14:08+00:00"
-    },
-    {
-      "title": "The Switch 2’s $50 price increase is happening next week",
-      "description": "This is a friendly reminder that the Nintendo Switch 2 will jump in price by $50 starting on September 1st. That’s next Tuesday! The company gave plenty of notice, but the time has finally come. The base 256GB model that ships without a game will go from $449.99 to $499.99. Nintendo recently announc",
-      "url": "https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T18:00:00+00:00"
-    },
-    {
-      "title": "FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure",
-      "description": "China’s hacking campaign targeted NASA, the Federal Reserve, the US Senate, the Justice Department, and more, according to the DOJ.",
-      "url": "https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T17:57:06+00:00"
-    },
-    {
-      "title": "Apple Maps has ads now",
-      "description": "Ads have started popping up in Apple Maps, following Apple's announcement in March that it would let businesses pay for top spots. They're appearing on my iPhone as the first entry in the \"suggested places\" section in search, but Apple says they'll also show up at the top of search results. Accordin",
-      "url": "https://www.theverge.com/tech/985249/apple-maps-iphone-ads",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T17:34:32+00:00"
-    },
-    {
-      "title": "The Porsche 911 GT3 Touring punches above its weight class",
-      "description": "The \"everyday\" GT3 delivers, despite looming regulations and an ever-inflating price tag.",
-      "url": "https://arstechnica.com/cars/2026/08/driven-the-992-2-porsche-911-gt3-touring-earns-its-keep/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T17:25:53+00:00"
-    },
-    {
-      "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
-      "description": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to rele",
-      "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T17:00:00+00:00"
-    },
-    {
-      "title": "Xbox’s new disc-to-digital program gives physical games a digital future",
-      "description": "\"Most\" Xbox One and Series X games are compatible; discs will still work after being claimed.",
-      "url": "https://arstechnica.com/gaming/2026/08/xboxs-new-disc-to-digital-program-gives-physical-games-a-digital-future/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-26T16:59:41+00:00"
-    },
-    {
-      "title": "Root shows off-field leadership - now for on-field",
-      "description": "Joe Root has shown himself to be the off-field leader England need - now comes a chance to show his credentials as captain on-field.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cly4632zw0lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-26T16:31:10+00:00"
-    },
-    {
-      "title": "'The record will fall' - Werro takes aim at 43-year-old 800m mark",
-      "description": "European 800m champion Audrey Werro backs herself to overhaul one of athletics' oldest and most controversial world records.",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/crerjxyrnp9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-26T15:49:52+00:00"
-    },
-    {
-      "title": "Researchers Solve Two Major Problems Holding Back SiC Electronics",
-      "description": "A new bottom gate design takes advantage of the intrinsic properties of SiC. For more than 20 years, silicon carbide – SiC – has been viewed as a promising material for electronics that must function in extreme environments. Yet despite years of research, that promise has rarely translated into prac",
-      "url": "https://scitechdaily.com/researchers-solve-two-major-problems-holding-back-sic-electronics/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-26T15:48:50+00:00"
-    },
-    {
-      "title": "Physicists Hunted a Mysterious Particle – and Found Two Unexpected Structures Instead",
-      "description": "A first attempt to produce a mysterious strangeonium state using a photon beam yielded important and unexpected results. Physicists have spent decades trying to organize the growing collection of subatomic particles, yet some of the most unusual discoveries still resist simple classification. At the",
-      "url": "https://scitechdaily.com/physicists-hunted-a-mysterious-particle-and-found-two-unexpected-structures-instead/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-26T15:13:38+00:00"
-    },
-    {
-      "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
-      "description": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
-      "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-26T11:03:50+00:00"
     },
     {
       "title": "Bill Gates calls for ‘human-reserved’ jobs in face of AI takeover",
@@ -440,30 +464,6 @@
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-08-25T23:40:38+00:00"
-    },
-    {
-      "title": "Canada announces retaliatory tariffs on wide range of US goods",
-      "description": "Ottawa’s ‘focused response’ to levies imposed by Donald Trump on Canadian products comes after trade talks collapsed last weekUS politics live – latest updatesCanada has announced it will impose tariffs on a wide range of key American industries including cosmetics, dairy, wood products and outdoor ",
-      "url": "https://www.theguardian.com/world/2026/aug/25/canada-retaliatory-tariffs-on-range-of-us-goods",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-08-25T16:17:44+00:00"
-    },
-    {
-      "title": "New York business group sues Mamdani over city-owned grocery stores plan",
-      "description": "Multicultural Business Coalition sues New York City mayor, alleging plan for city-run stores will harm smaller grocersA New York City business group sued mayor Zohran Mamdani on Monday over his plan to create five municipally owned grocery stores.The Multicultural Business Coalition, which says it r",
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/zohran-mamdani-lawsuit-city-owned-grocery-stores",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-08-25T14:48:54+00:00"
-    },
-    {
-      "title": "US Treasury’s Scott Bessent ‘will lose’ battle with bond markets, former mentor warns",
-      "description": "Trump ally should cut budget deficit rather than try to suppress bond yields, says billionaire Stanley DruckenmillerScott Bessent’s attempt to calm the bond markets and push down America’s cost of borrowing have attracted a rebuke from the US Treasury secretary’s former mentor.The billionaire invest",
-      "url": "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-08-25T09:59:16+00:00"
     }
   ]
 }
