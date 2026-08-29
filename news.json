@@ -1,13 +1,117 @@
 {
-  "updatedAt": "2026-08-28T20:27:05.243217+00:00",
+  "updatedAt": "2026-08-29T03:04:23.673945+00:00",
   "articles": [
     {
-      "title": "Injury uncertainty led to 'intrusive thoughts' for Alcaraz",
-      "description": "Seven-time major champion Carlos Alcaraz says not knowing when he would be able to return from a wrist injury was most challenging part of his long absence.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c3rexy3jllyo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-29T02:42:27+00:00"
+    },
+    {
+      "title": "FDA Clears First-of-Its-Kind Nonmedication Treatment for PTSD",
+      "description": "The FDA has cleared a system that uses brain activity data to personalize magnetic stimulation for PTSD, adding a new nonmedication treatment option. Every day in the United States, approximately 17.5 veterans die by suicide, while 7% of veterans are diagnosed each year with post-traumatic stress di",
+      "url": "https://scitechdaily.com/fda-clears-first-of-its-kind-nonmedication-treatment-for-ptsd/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-29T00:14:14+00:00"
+    },
+    {
+      "title": "Quantum Simulators Put a 40-Year-Old Physics Theory to the Test",
+      "description": "Physicists used advanced quantum technologies to test predictions from a decades-old theory. At the point where matter changes from one phase to another, very different materials can suddenly begin following the same mathematical rules. Water approaching a boil and a magnet losing its magnetism are ",
+      "url": "https://scitechdaily.com/quantum-simulators-put-a-40-year-old-physics-theory-to-the-test/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-28T22:59:29+00:00"
+    },
+    {
+      "title": "A magician and a maverick - this could be Cherki's moment for Man City",
+      "description": "After two goals and a swaggering display against Crystal Palace, Phil McNulty asks if this is Rayan Cherki's time to shine for Manchester City.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c24j5jnnr9eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-08-28T20:16:44+00:00"
+      "publishedAt": "2026-08-28T22:56:42+00:00"
+    },
+    {
+      "title": "Google further buries search results under AI mode",
+      "description": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google's results page; instead of seeing part of an ",
+      "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-28T22:48:11+00:00"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands",
+      "description": "The unexpected interruption came hours before the president wrote a congratulatory post on Truth Social about the company’s most recent earnings report.",
+      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-28T22:29:13+00:00"
+    },
+    {
+      "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
+      "description": "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-28T22:14:52+00:00"
+    },
+    {
+      "title": "Xbox CEO calls Project Helix a ‘family of devices’",
+      "description": "According to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\" - phrasing that seemingly implied a singular device - will actually be a \"family\" of devices.\" \"We've been hard at work on a great next generation and a great family",
+      "url": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-28T22:03:13+00:00"
+    },
+    {
+      "title": "125-Million-Year-Old Crocodile Fossil Reveals Astonishing New Secrets",
+      "description": "Ultraviolet imaging of a 125-million-year-old crocodylomorph fossil has revealed unexpectedly detailed traces of skin, sensory structures, and chest cartilage. More than a century after a tiny Early Cretaceous crocodylomorph was unearthed in northeastern Spain, its fossil is revealing details that w",
+      "url": "https://scitechdaily.com/125-million-year-old-crocodile-fossil-reveals-astonishing-new-secrets/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-28T21:44:20+00:00"
+    },
+    {
+      "title": "Cities terminate Flock contracts at record pace in August",
+      "description": "Cancellations have accelerated.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-28T21:33:54+00:00"
+    },
+    {
+      "title": "Haaland and Cherki fire impressive Man City to victory at Palace",
+      "description": "Erling Haaland and Rayan Cherki both score twice as Manchester City cruise to a 4-1 win at Crystal Palace in the Premier League.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8e3k3ww56no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-28T21:30:06+00:00"
+    },
+    {
+      "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
+      "description": "RFK Jr. went to Samoa to spread vaccine fears. The measles outbreak after killed 83.",
+      "url": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-28T21:17:38+00:00"
+    },
+    {
+      "title": "Cherki genius and Wharton excels - Palace v Man City player ratings",
+      "description": "How Crystal Palace and Manchester City's players rated following their Premier League match.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4ryr777yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-28T21:01:24+00:00"
+    },
+    {
+      "title": "Greaves loses thriller to Cross on European debut",
+      "description": "Beau Greaves narrowly loses 6-5 to Rob Cross on her European Tour debut in the Hungarian Darts Trophy.",
+      "url": "https://www.bbc.co.uk/sport/darts/articles/czjz78lwjzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-28T20:35:22+00:00"
     },
     {
       "title": "'I learned from Murray' - Boulter won't make wedding ring mistake",
@@ -19,7 +123,7 @@
     },
     {
       "title": "Milo Yiannopoulos Detained by ICE in Louisiana",
-      "description": "The longtime far-right operator and troll, a UK citizen, is being held in a detention center about 200 miles from New Orleans.",
+      "description": "The longtime far-right operator and troll, a UK citizen, is being held in ICE custody pending his removal from the United States.",
       "url": "https://www.wired.com/story/milo-yiannopoulos-detained-by-ice-in-louisiana/",
       "source": "Wired",
       "category": "Technology",
@@ -32,14 +136,6 @@
       "source": "BBC Sport",
       "category": "Sports",
       "publishedAt": "2026-08-28T19:38:35+00:00"
-    },
-    {
-      "title": "What will Jackson bring to Villa with Watkins set for exit?",
-      "description": "BBC Sport examines what new striker Nicolas Jackson will bring to Aston Villa, with Ollie Watkins looking set to join Al-Hilal.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czjz9j3r8p8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-28T19:14:48+00:00"
     },
     {
       "title": "How England are building an attack to trouble Australia",
@@ -64,14 +160,6 @@
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-08-28T18:29:42+00:00"
-    },
-    {
-      "title": "England enjoy dominant day at Lord's to close in on series win",
-      "description": "England enjoy day of dominance with both bat and ball to put themselves in complete control of the second Test against Pakistan, closing day two on 81-3, giving the hosts a lead of 261 at Lord's.",
-      "url": "https://www.bbc.co.uk/sport/cricket/videos/cwyz10x20p3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-28T18:29:17+00:00"
     },
     {
       "title": "Microsoft Teams Has Become a Haven for Scammers in China",
@@ -106,12 +194,12 @@
       "publishedAt": "2026-08-28T17:54:18+00:00"
     },
     {
-      "title": "Gatwick Airport faced water outage after main burst",
-      "description": "SES Water says it has repaired a burst main which was affecting supply to the airport.",
-      "url": "https://www.bbc.co.uk/news/articles/cjdvl93e10jo?at_medium=RSS&at_campaign=rss",
+      "title": "Wife of man who died after turbulence sues airline",
+      "description": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "publishedAt": "2026-08-28T17:38:37+00:00"
+      "publishedAt": "2026-08-28T17:47:00+00:00"
     },
     {
       "title": "Here's what we know about the \"space academy\" Trump just announced",
@@ -136,14 +224,6 @@
       "source": "Wired",
       "category": "Technology",
       "publishedAt": "2026-08-28T17:14:19+00:00"
-    },
-    {
-      "title": "Hrgovic slaps Itauma after being pushed off stage at weigh-in",
-      "description": "British heavyweight Moses Itauma pushes Filip Hrgovic off the stage before the Croat slaps him as chaos erupts at the weigh-in for Saturday's world-title bout.",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/cly4v9qg7l4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-28T17:04:47+00:00"
     },
     {
       "title": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
@@ -234,14 +314,6 @@
       "publishedAt": "2026-08-28T14:51:11+00:00"
     },
     {
-      "title": "NASA Finds Earth Microbes Could Hide in the Moon’s Deep Shadows",
-      "description": "Microbes carried to space by human explorers could survive in shaded areas near the moon’s south pole, according to researchers from NASA and the University of Maryland. Even on the moon, where extreme temperatures and intense ultraviolet (UV) radiation make the surface deeply hostile to life, some ",
-      "url": "https://scitechdaily.com/nasa-finds-earth-microbes-could-hide-in-the-moons-deep-shadows/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-28T14:16:02+00:00"
-    },
-    {
       "title": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
       "description": "Apple raised the price of its streaming service for new and current subscribers on Friday, bumping it up from $12.99 per month to $14.99, Deadline and Variety are reporting. An annual subscription now costs $119, up from $99. Apple also increased the cost of its individual Apple One subscription, wh",
       "url": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike",
@@ -266,36 +338,12 @@
       "publishedAt": "2026-08-28T12:00:00+00:00"
     },
     {
-      "title": "New Study: Intermittent Fasting Lowers Blood Sugar in Type 1 Diabetes",
-      "description": "A small trial suggests time-restricted eating may help adults with Type 1 diabetes lower blood sugar without increasing major safety risks. For adults with Type 1 diabetes, limiting food intake to a set eight-hour period each day may offer another way to manage blood sugar without counting calories.",
-      "url": "https://scitechdaily.com/new-study-intermittent-fasting-lowers-blood-sugar-in-type-1-diabetes/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-28T11:41:47+00:00"
-    },
-    {
       "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
       "description": "I’ve been reviewing laptops for over a decade, and here's my advice on how to find the right laptop for you.",
       "url": "https://www.wired.com/story/best-laptops/",
       "source": "Wired",
       "category": "Technology",
       "publishedAt": "2026-08-28T11:39:00+00:00"
-    },
-    {
-      "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
-      "description": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
-      "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-28T11:15:05+00:00"
-    },
-    {
-      "title": "This Tiny Wearable Patch Could Automatically Reverse a Fentanyl Overdose",
-      "description": "A wearable patch that can detect fentanyl and automatically release naloxone may offer a new way to prevent unwitnessed opioid overdose deaths. A device smaller than a penny is designed to recognize dangerous fentanyl exposure and release an overdose reversal medication automatically, potentially pr",
-      "url": "https://scitechdaily.com/this-tiny-wearable-patch-could-automatically-reverse-a-fentanyl-overdose/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-28T11:06:39+00:00"
     },
     {
       "title": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city",
@@ -306,36 +354,12 @@
       "publishedAt": "2026-08-28T11:00:56+00:00"
     },
     {
-      "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
-      "description": "\"From here on, Starlink missions out of Florida will fly on Starship.\"",
-      "url": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-28T11:00:39+00:00"
-    },
-    {
       "title": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
       "description": "The art portfolio platform Cara, designed for creators who don’t want their work used to train AI, has been under assault by trolls seizing and publishing its data.",
       "url": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
       "source": "Wired",
       "category": "Technology",
       "publishedAt": "2026-08-28T11:00:00+00:00"
-    },
-    {
-      "title": "Inside Meta’s Push to Put Robots to Work in Data Centers",
-      "description": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk.",
-      "url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-28T10:56:22+00:00"
-    },
-    {
-      "title": "'Not far enough' - US parents and teens on Meta's new limits for young users",
-      "description": "As part of an $18bn settlement in a child-safety lawsuit, Meta announced new restrictions on its apps. We asked families what they thought.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-28T09:32:14+00:00"
     },
     {
       "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
@@ -354,28 +378,12 @@
       "publishedAt": "2026-08-28T03:41:59+00:00"
     },
     {
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "description": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-28T03:14:06+00:00"
-    },
-    {
       "title": "NHS bosses warn of chaos in ADHD and autism care",
       "description": "Costs are spiralling out of control as unregulated private providers capitalise on demand, say managers.",
       "url": "https://www.bbc.co.uk/news/articles/cy4zgpynwdjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-08-28T01:23:09+00:00"
-    },
-    {
-      "title": "The GTA VI ‘extended look’ is now streaming on YouTube",
-      "description": "Rockstar has officially published its \"extended look\" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which \"entirely\" features footage captured from the PS5 version of the game, initially premiered on Netflix at 3PM ET. But because Rockstar allowed creators ",
-      "url": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-28T01:05:18+00:00"
     },
     {
       "title": "Overcooked? Why robotic pizza makers are failing",
@@ -410,14 +418,6 @@
       "publishedAt": "2026-08-27T23:04:21+00:00"
     },
     {
-      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-      "description": "Standardized driver interface aims to let devices talk to AI and each other.",
-      "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-27T22:15:43+00:00"
-    },
-    {
       "title": "Ex-Barclays boss denies having sex with woman dressed as Snow White after Epstein emails",
       "description": "Jes Staley made comments to US lawmakers investigating his links to the convicted sex offenderThe former Barclays boss Jes Staley has denied having sex with a woman dressed as Snow White, after being questioned about an infamous email exchange about Disney princesses with Jeffrey Epstein.The comment",
       "url": "https://www.theguardian.com/business/2026/aug/27/jes-staley-denies-sex-snow-white-barclays",
@@ -448,30 +448,6 @@
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-08-27T11:00:13+00:00"
-    },
-    {
-      "title": "Treatment involving patient's family cuts mental health hospital admissions, study finds",
-      "description": "The approach focuses on the patient priorities, seeing the same clinicians, and involving people close to them.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgydk0vvpyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-08-26T23:07:51+00:00"
-    },
-    {
-      "title": "World's first patient to undergo live AI-assisted brain surgery has tumour removed",
-      "description": "Without brain surgery guided by live AI assistance, Rhys Hibbert could have lost his sight to a tumour.",
-      "url": "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-08-26T23:07:22+00:00"
-    },
-    {
-      "title": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn",
-      "description": "US tech giant agrees to establish further protections for teens such as daily usage limits and blocks on night-time useMeta agreed to significant changes to its Instagram and Facebook apps in a settlement that ended a landmark lawsuit on Wednesday. Dozens of US states had accused the tech giant of a",
-      "url": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-08-26T20:30:49+00:00"
     }
   ]
 }
