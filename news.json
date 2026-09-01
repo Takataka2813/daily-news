@@ -1,29 +1,317 @@
 {
-  "updatedAt": "2026-08-31T16:26:45.257084+00:00",
+  "updatedAt": "2026-09-01T00:23:04.695304+00:00",
   "articles": [
+    {
+      "title": "New super flu vaccine rollout begins as NHS regroups from 'busiest summer'",
+      "description": "This year's jab has a few tweaks, including changes to better combat the Super-K strain.",
+      "url": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-08-31T23:46:48+00:00"
+    },
+    {
+      "title": "This Metallic Green Beetle Is Quietly Killing Ash Trees Across Texas",
+      "description": "The emerald ash borer is an invasive wood-boring beetle that has killed hundreds of millions of ash trees across North America. Emerald ash borer has reached five more Texas counties, extending the range of an invasive beetle that has already killed hundreds of millions of ash trees across North Ame",
+      "url": "https://scitechdaily.com/this-metallic-green-beetle-is-quietly-killing-ash-trees-across-texas/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-31T23:43:46+00:00"
+    },
+    {
+      "title": "Arteta joins elite 250 club - but where does he rank?",
+      "description": "At full-time in Arsenal's 1-0 win at Aston Villa, the travelling supporters sang about how their team will win the league again with Mikel Arteta in charge.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy4z8qjx931o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-31T23:15:36+00:00"
+    },
+    {
+      "title": "A 15-Day Window Could Decide the Fate of California’s Most Endangered Salmon",
+      "description": "Chinook salmon need cold water during the first weeks of development for their eggs to survive. California’s most endangered salmon now survive as a single population in the Sacramento River, far from much of the cold mountain habitat where they once spawned. Sacramento River winter-run Chinook salm",
+      "url": "https://scitechdaily.com/a-15-day-window-could-decide-the-fate-of-californias-most-endangered-salmon/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-31T23:08:42+00:00"
+    },
+    {
+      "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
+      "description": "It's the lightest Bentley in 85 years.",
+      "url": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-31T23:01:16+00:00"
+    },
+    {
+      "title": "Who has made Troy's Premier League team of the week?",
+      "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74em1dx0pjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-31T23:00:03+00:00"
+    },
+    {
+      "title": "Red Meat Helped Build Humanity, Now It May Be Harming Us",
+      "description": "Red meat may have helped shape the human species, but today’s appetite for it is taking a growing toll on human health and the planet. An interdisciplinary review published in The Quarterly Review of Biology examines how red meat changed from a valuable source of concentrated nutrition into a contri",
+      "url": "https://scitechdaily.com/red-meat-helped-build-humanity-now-it-may-be-harming-us/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-31T22:33:03+00:00"
+    },
+    {
+      "title": "The Google TV Streamer now costs $50 more",
+      "description": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price. The price hike comes just a couple of weeks after Google launched its new [&#8230",
+      "url": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-31T22:32:51+00:00"
+    },
+    {
+      "title": "'I felt the love' - how did Alcaraz look on winning singles return?",
+      "description": "After a 139-day wait, Carlos Alcaraz makes a winning return to the singles court as he beats Roman Safuillin in the US Open first round.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cm2m3484v4xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-31T22:28:42+00:00"
+    },
+    {
+      "title": "How Shein lost its shine ahead of long-awaited stock market debut",
+      "description": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-31T22:08:30+00:00"
+    },
+    {
+      "title": "Japan Inc is betting big on India as China risks deepen",
+      "description": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
+      "url": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-31T22:07:19+00:00"
+    },
+    {
+      "title": "The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes",
+      "description": "It’s one of the best times of the year to buy a mattress, and our top tested picks are on sale.",
+      "url": "https://www.wired.com/story/labor-day-mattress-deals-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-31T22:05:42+00:00"
+    },
+    {
+      "title": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
+      "description": "JMGO's 4K 120Hz Iris Ultra Max all-in-one Google TV projector is now available outside China. It gets its name from a new dual-iris system that lets it produce an impressive 10,000:1 native contrast, according to JMGO. It boosts the contrast - always an issue with projectors - by placing two separat",
+      "url": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-31T22:00:00+00:00"
+    },
+    {
+      "title": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
+      "description": "The FTC and 22 state attorneys general are suing Amazon for allegedly using a \"secret ad surcharge\" to drive up prices for ads on its website and app. FTC chairman Andrew Ferguson claims in a blog post on the lawsuit that the higher advertising prices \"were largely passed on to American consumers.\" ",
+      "url": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-31T21:41:42+00:00"
+    },
+    {
+      "title": "Saka earns Arsenal hard-fought win at Aston Villa",
+      "description": "Bukayo Saka's second-half goal is enough to earn Premier League champions Arsenal victory at Aston Villa.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c0lrz74r8l9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-31T21:37:50+00:00"
+    },
     {
       "title": "Pakistan drop seven players and release head coach",
       "description": "Pakistan respond to their series defeat by England by taking the extraordinary step of dropping seven players, calling up five uncapped players and releasing their head coach.",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/cvgy9qqvwzxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-08-31T16:20:16+00:00"
+      "publishedAt": "2026-08-31T21:30:47+00:00"
     },
     {
-      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
-      "description": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible\" use of AI can improve developers' productivity, and goes on to say, \"generative AI is neither exem",
-      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-31T15:34:58+00:00"
+      "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
+      "description": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-31T21:28:49+00:00"
     },
     {
-      "title": "Sony’s WH-1000XM5 headphones are back down to their lowest price",
-      "description": "Sony is one of many companies offering Labor Day discounts on tech products, though its week-long sale on the last-gen WH-1000XM5 is one of the most attractive deals I found upon logging in this morning. The comfy over-ear headphones offer some of the best sound quality and active noise cancelling, ",
-      "url": "https://www.theverge.com/gadgets/986647/sony-wh1000xm5-headphones-nintendo-switch-2-matic-sonos-deal-sale",
+      "title": "Trump admin shelves Cyclospora research despite record-breaking outbreak",
+      "description": "The CDC has tallied nearly 30,000 confirmed and probable cases this summer.",
+      "url": "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-31T21:23:09+00:00"
+    },
+    {
+      "title": "Man City open talks with Chelsea over Fernandez move",
+      "description": "Manchester City open talks with Chelsea in their bid to sign Argentina midfielder Enzo Fernandez.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgvrlme148o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-31T21:20:32+00:00"
+    },
+    {
+      "title": "I went to the loneliest baseball game on Apple Vision Pro",
+      "description": "This weekend, I strapped on an Apple Vision Pro to watch a baseball game in immersive virtual reality for the first time. It was technically impressive, visually pretty remarkable, and also didn't make that much sense. Apple and Major League Baseball chose a classic match-up of the Boston Red Sox an",
+      "url": "https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game",
       "source": "The Verge",
       "category": "Technology",
-      "publishedAt": "2026-08-31T15:31:59+00:00"
+      "publishedAt": "2026-08-31T21:18:27+00:00"
+    },
+    {
+      "title": "Get in on the Ars community that doesn’t fit beneath an article",
+      "description": "You've read the stories. Now check out our forums.",
+      "url": "https://arstechnica.com/staff/2026/08/get-in-on-the-ars-community-that-doesnt-fit-beneath-an-article/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-31T21:12:01+00:00"
+    },
+    {
+      "title": "Best Early Tech Labor Day Sales I’d Shop Myself (2026): AirTags, Dyson, and More",
+      "description": "From the best Dyson vacuum to the best wireless earbuds we’ve tested, you can get some great gadgets on sale already ahead of Labor Day.",
+      "url": "https://www.wired.com/story/early-tech-labor-day-sales-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-31T20:47:46+00:00"
+    },
+    {
+      "title": "Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes",
+      "description": "Director Dave Green's live action/animated hybrid captures smart, subversive weirdness of the classic cartoons.",
+      "url": "https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-31T20:02:16+00:00"
+    },
+    {
+      "title": "Asus ProArt 27 QD-OLED (PA279cdv) Review: HDR for All",
+      "description": "I wouldn’t call it cheap, but this monitor from Asus brings proper HDR-capable video editing to creators who couldn’t previously afford an OLED display.",
+      "url": "https://www.wired.com/review/asus-proart-pa279cdv/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-31T19:48:26+00:00"
+    },
+    {
+      "title": "Alienware’s budget-friendly QD-OLED is discounted for the first time",
+      "description": "While memory and storage prices are still high, there are still good discounts on other gaming-related hardware. Take Alienware’s AW2726DM, for example. Dell is selling it for $319.99, a $30 break from the usual price of $349.99. The 27-inch gaming monitor features an QD-OLED panel for deep, immersi",
+      "url": "https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-31T19:31:59+00:00"
+    },
+    {
+      "title": "Scientists Discover a Brain Signal Linked to Severe Suicidal Thoughts",
+      "description": "P2RX7 may be linked to severe suicidal thoughts and recovery, but researchers still need to confirm the pattern in living people. Severe suicidal thoughts may leave a detectable biological signal in the brain, and that signal could also change when people recover. Researchers at the Netherlands Inst",
+      "url": "https://scitechdaily.com/scientists-discover-a-brain-signal-linked-to-severe-suicidal-thoughts/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-31T19:27:47+00:00"
+    },
+    {
+      "title": "A Tiny Wireless Device Could Transform How Chronic Pain Is Treated",
+      "description": "A seed-sized injectable device could make nerve stimulation therapies simpler, safer, and more accessible. Researchers at NYU Abu Dhabi, working with Cleveland Clinic Abu Dhabi, have created a tiny injectable device that could offer a less invasive way to treat chronic pain and movement disorders. T",
+      "url": "https://scitechdaily.com/a-tiny-wireless-device-could-transform-how-chronic-pain-is-treated/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-31T18:52:07+00:00"
+    },
+    {
+      "title": "Trump tells FCC to punish journalist for calling his election results \"mixed\"",
+      "description": "Trump furious at NBC's Kristen Welker for saying he had mixed results in primary endorsements.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-31T18:39:25+00:00"
+    },
+    {
+      "title": "Kushner states regret over World Cup sell-off plan",
+      "description": "Venture capitalist Joshua Kushner says he would not have got involved in Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup if he had known how the football world reacted.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c780w17lw02o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-31T18:38:55+00:00"
+    },
+    {
+      "title": "How Messi's decade of dominance almost never happened",
+      "description": "Lionel Messi's decade of dominance with Argentina that almost never happened will go down as one of football's greatest ever stories.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20e6wv1pdwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-08-31T18:24:04+00:00"
+    },
+    {
+      "title": "Sugary Drinks Linked to 145% Higher Risk of Gastric Cancer",
+      "description": "Adults who drank sugar-sweetened beverages every day had a higher observed risk of gastric cancer, while artificially sweetened drinks showed no such association. Sugary drinks are part of the daily routine for many Americans, with approximately 65% of U.S. adults reporting that they consume at leas",
+      "url": "https://scitechdaily.com/sugary-drinks-linked-to-145-higher-risk-of-gastric-cancer/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-08-31T18:17:02+00:00"
+    },
+    {
+      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+      "description": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-31T18:10:45+00:00"
+    },
+    {
+      "title": "Tempo Promo Codes: Get up to 60% Off Healthy Meals",
+      "description": "Upgrade your meal prep with these Tempo discount codes and offers. Save on high-protein, ready-to-heat meals delivered to your door.",
+      "url": "https://www.wired.com/story/tempo-meals-promo-code/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-08-31T17:18:20+00:00"
+    },
+    {
+      "title": "Raindrops are tiny lightning bolts, and they’re corroding cars, study finds",
+      "description": "Finding reveals an overlooked way that water can damage surfaces.",
+      "url": "https://arstechnica.com/science/2026/08/raindrops-are-tiny-lightning-bolts-and-theyre-corroding-cars-study-finds/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-31T17:11:48+00:00"
+    },
+    {
+      "title": "Car owners want tech they can ignore",
+      "description": "Automakers keep shoving more tech into their cars, despite evidence that consumers are increasingly fed up with huge screens and glitchy software. In fact, the features that car owners appreciate the most happen to be the ones they barely notice, according to the latest tech survey from JD Power. Th",
+      "url": "https://www.theverge.com/news/986721/car-tech-survey-jd-power-smart-ignition",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-31T17:11:17+00:00"
+    },
+    {
+      "title": "Phil Schiller is leaving his biggest jobs at Apple",
+      "description": "Longtime Apple executive Phil Schiller is stepping down from his role as the head of the App Store and Apple events, according to a report from Bloomberg. Following the change, Schiller will keep his Apple Fellow title and continue \"working on unspecified initiatives,\" Bloomberg reports. Schiller in",
+      "url": "https://www.theverge.com/tech/986869/apple-phil-schiller-stepping-down",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-31T16:54:07+00:00"
+    },
+    {
+      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
+      "description": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
+      "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-08-31T16:49:11+00:00"
+    },
+    {
+      "title": "Markiplier is now GoPro’s biggest shareholder",
+      "description": "YouTuber Mark \"Markiplier\" Fischbach has invested enough in GoPro to become its single largest shareholder, with an 8.5 percent stake in the company, Bloomberg reports. Speaking to Bloomberg, Fischbach said he thought GoPro \"seems undervalued\" and sees his investment as \"part of a larger mission to ",
+      "url": "https://www.theverge.com/tech/986847/markiplier-gopro-investor",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-08-31T16:38:10+00:00"
+    },
+    {
+      "title": "Think twice before installing this device promising free movies",
+      "description": "In exchange for free stuff, devices make home connections part of a proxy network.",
+      "url": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-08-31T16:33:38+00:00"
     },
     {
       "title": "George Santos Just Got Hit With Kalshi’s First-Ever Lifetime Ban",
@@ -50,100 +338,12 @@
       "publishedAt": "2026-08-31T15:04:43+00:00"
     },
     {
-      "title": "'It's an unknown' - Capsey takes England gloves for first time",
-      "description": "Alice Capsey will keep wicket for England this week despite having only done it once in her career, but remains confident of successfully doing the job.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/crl6kz8ggypo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-31T14:49:36+00:00"
-    },
-    {
       "title": "A 250-Year-Old Heat Mystery Leads to a Surprising Discovery About Human Sweat",
       "description": "In extreme heat, sweat can lose much of its cooling power for a reason scientists have largely overlooked: the air directly above the skin can become almost perfectly still. Arizona State University researchers have identified a physical effect that can reduce sweat evaporation by more than half in ",
       "url": "https://scitechdaily.com/a-250-year-old-heat-mystery-leads-to-a-surprising-discovery-about-human-sweat/",
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-08-31T14:29:29+00:00"
-    },
-    {
-      "title": "New York governor to 3D-printed gun leader: &#8216;tell Cody I will get ahead of him&#8217;",
-      "description": "Cody Wilson, the creator of the first 3D-printed gun, announced a tool last week aimed at skirting a New York law that prevents 3D printers from making firearms - and taunting governor Kathy Hochul in the process. But Hochul isn't having it. In this week's episode of Decoder, Hochul responded to Wil",
-      "url": "https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-31T14:20:00+00:00"
-    },
-    {
-      "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
-      "description": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and Governor Hochul has taken strong positions on almost every major tech issue there is. For example, Me",
-      "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-31T14:00:00+00:00"
-    },
-    {
-      "title": "Thousands of Giant Whales Are Suddenly Flooding Into an Arctic “Feeding Frenzy”",
-      "description": "Thousands of enormous whales are turning the waters off East Greenland into an immense feeding ground that barely existed a generation ago. Fin whales, humpback whales, and common minke whales now gather along a coastline where all three were once rarely seen. Researchers say warmer water, retreatin",
-      "url": "https://scitechdaily.com/thousands-of-giant-whales-are-suddenly-flooding-into-an-arctic-feeding-frenzy/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-31T13:54:53+00:00"
-    },
-    {
-      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
-      "description": "Explosive growth comes with a new regulatory burden in the European Union.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-31T13:41:40+00:00"
-    },
-    {
-      "title": "ChatGPT to face tougher regulation in the EU",
-      "description": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-31T13:27:36+00:00"
-    },
-    {
-      "title": "Midnight matches and money disputes - why is tennis schedule such a headache?",
-      "description": "BBC Sport explores the ongoing dispute over scheduling issues and late-night finishes at tennis' Grand Slam events.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cly7kglvn7xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-31T13:10:24+00:00"
-    },
-    {
-      "title": "Barcola joins Liverpool from PSG in £123m move",
-      "description": "Liverpool complete the signing of France forward Bradley Barcola from Paris St-Germain for a fee worth up to £123m.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-31T13:01:22+00:00"
-    },
-    {
-      "title": "NASA's next \"great observatory\" begins mission to widen our view of the Universe",
-      "description": "\"We would need over half a million 4K TVs to fully display the single Roman image from our largest survey.\"",
-      "url": "https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-31T13:01:09+00:00"
-    },
-    {
-      "title": "Instagram cracks down on AI accounts pretending to be human",
-      "description": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being. \"We've heard that p",
-      "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-31T13:00:00+00:00"
-    },
-    {
-      "title": "Man City sign Palmeiras winger Allan for £34m",
-      "description": "Manchester City complete the signing of winger Allan Elias from Palmeiras in a deal worth up to £34.2m.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crer89qjgydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-31T12:00:06+00:00"
     },
     {
       "title": "‘Revenge of the Rust belt’: Starbucks film-maker on Baristas vs Billionaires",
@@ -162,36 +362,12 @@
       "publishedAt": "2026-08-31T11:00:00+00:00"
     },
     {
-      "title": "AI Searched 150 Million Materials – and Found Two Promising Candidates for Future Electronics",
-      "description": "Researchers built a dataset of 1,202 records from 448 papers and screened about 150 million virtual compositions to identify potential materials for future MLCCs and electric vehicle electronics. Finding a new electronic material can mean searching through an almost limitless number of possible chem",
-      "url": "https://scitechdaily.com/ai-searched-150-million-materials-and-found-two-promising-candidates-for-future-electronics/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-31T10:53:32+00:00"
-    },
-    {
       "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
       "description": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
       "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
       "source": "Wired",
       "category": "Technology",
       "publishedAt": "2026-08-31T10:30:00+00:00"
-    },
-    {
-      "title": "A Major Quantum Computing Problem May Finally Have an Answer: Can We Trust the Results?",
-      "description": "Researchers can now put numerical error limits on quantum simulations, showing how much confidence to place in their results. As quantum simulators become powerful enough to tackle problems beyond the reach of conventional computers, a difficult question follows: how can researchers know whether the",
-      "url": "https://scitechdaily.com/a-major-quantum-computing-problem-may-finally-have-an-answer-can-we-trust-the-results/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-31T10:18:24+00:00"
-    },
-    {
-      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
-      "description": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
-      "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-31T10:00:34+00:00"
     },
     {
       "title": "As US-Canada tensions flare, who’s calling the shots in Trump’s trade team?",
@@ -210,44 +386,12 @@
       "publishedAt": "2026-08-31T10:00:00+00:00"
     },
     {
-      "title": "ATM Flaws Reveal Key Weaknesses in the Software Supply Chain",
-      "description": "A security researcher discovered nine vulnerabilities impacting ATM encryption and authentication software. But the problems extend far beyond your local cash machine.",
-      "url": "https://www.wired.com/story/atm-flaws-reveal-key-weaknesses-in-the-software-supply-chain/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-31T10:00:00+00:00"
-    },
-    {
-      "title": "NASA’s Roman Telescope Begins a Million-Mile Journey Into Deep Space",
-      "description": "NASA’s Roman Space Telescope has launched on a million-mile journey to map the hidden universe at a scale and speed astronomers have never had before. NASA’s Nancy Grace Roman Space Telescope is now on its way to deep space, beginning a three-month, million-mile trip to its final orbit. The observat",
-      "url": "https://scitechdaily.com/nasas-roman-telescope-begins-a-million-mile-journey-into-deep-space/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-31T09:43:29+00:00"
-    },
-    {
       "title": "AI could cause global economic downturn, Bank of England governor tells G20",
       "description": "Andrew Bailey, in role as financial stability watchdog chief, warns advanced models risk destabilising systemThe Bank of England’s governor, Andrew Bailey, has joined the throng of figures warning about the global risks posed by the most advanced artificial intelligence technology.In a two-page lett",
       "url": "https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-08-31T09:00:47+00:00"
-    },
-    {
-      "title": "The transfers to watch before window closes",
-      "description": "BBC Sport's football experts pick out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-08-31T08:12:39+00:00"
-    },
-    {
-      "title": "Researchers Have Discovered a New Way To Reduce Chronic Nerve Pain",
-      "description": "A cancer-linked protein called BRAF may help drive chronic nerve pain, and existing cancer drugs targeting it reduced pain sensitivity in preclinical models. Chronic nerve pain can persist long after an injury and often responds poorly to standard pain medications. Researchers at The University of T",
-      "url": "https://scitechdaily.com/researchers-have-discovered-a-new-way-to-reduce-chronic-nerve-pain/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-31T00:33:57+00:00"
     },
     {
       "title": "How the US-Canada trade war is being felt on both sides of the border",
@@ -264,78 +408,6 @@
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-08-30T23:22:24+00:00"
-    },
-    {
-      "title": "Less Sugar Early in Life Linked to Lower Dementia Risk Decades Later",
-      "description": "The study compared people born during and after sugar rationing in the United Kingdom during World War II. People exposed to less sugar before birth and during their first one to two years of life were less likely to develop dementia decades later, according to an observational study of nearly 65,00",
-      "url": "https://scitechdaily.com/less-sugar-early-in-life-linked-to-lower-dementia-risk-decades-later/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-30T23:18:58+00:00"
-    },
-    {
-      "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
-      "description": "Cut content from Portal 2, hints of Half Life 2: Episode 3, and so much more.",
-      "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-30T21:40:56+00:00"
-    },
-    {
-      "title": "Professor Murder Rides the Subway is a forgotten slice of dance punk perfection",
-      "description": "I recently dug out my CDs and started reripping them all. I've found a few forgotten gems in there, but few hit harder for me than the beautifully concise Professor Murder Rides the Subway EP. There was a period of time in the mid-aughts in NYC where it seemed like every indie band wanted you [&#823",
-      "url": "https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-30T21:18:59+00:00"
-    },
-    {
-      "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets",
-      "description": "Over 12 terabytes of data, containing builds of every game uploaded to Steam between 2003 and 2013, has been leaked. We don't know everything in the archives yet because of its massive size. But people have already dug up assets related to the canceled Half-Life 2: Episode 3, content cut from Portal",
-      "url": "https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-08-30T19:14:08+00:00"
-    },
-    {
-      "title": "Why it matters that President Trump just dialed in to a NASA news conference",
-      "description": "With just one more major mission upcoming, NASA's science programs need a boost.",
-      "url": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-30T17:40:30+00:00"
-    },
-    {
-      "title": "Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario",
-      "description": "After Donald Trump’s executive order demanding the name change, Google is the first major online map provider to flip the switch.",
-      "url": "https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-30T16:16:24+00:00"
-    },
-    {
-      "title": "Inside Meta’s push to put robots to work in data centers",
-      "description": "The company is testing robots on tasks that can performed by technicians.",
-      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-30T11:03:47+00:00"
-    },
-    {
-      "title": "Best Mesh Wi-Fi Systems (2026): I Tested Them All",
-      "description": "Forget about patchy internet connections and dead spots in the house. These WIRED-tested, multi-room mesh Wi-Fi systems will keep your whole house online.",
-      "url": "https://www.wired.com/story/best-mesh-wifi-routers/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-30T11:00:00+00:00"
-    },
-    {
-      "title": "Why the Hottest New Wearables Want to Be Ignored",
-      "description": "Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
-      "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-08-30T10:30:00+00:00"
     },
     {
       "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
