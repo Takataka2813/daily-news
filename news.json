@@ -1,117 +1,285 @@
 {
-  "updatedAt": "2026-09-01T13:44:40.556803+00:00",
+  "updatedAt": "2026-09-01T23:00:17.868182+00:00",
   "articles": [
     {
-      "title": "Global bond rout deepens as oil prices jump; wheat prices highest since early 2023 – business live",
-      "description": "European stock markets fall and Brent crude jumps above $92 a barrel amid renewed fighting in Middle EastThe FTSE 100 index is down just over 1%, driven by sharp falls in mining and manufacturing shares.Endeavour Mining is leading the index lower, down 8%, while fellow miners Fresnillo and Antofagas",
-      "url": "https://www.theguardian.com/business/live/2026/sep/01/bond-sell-off-oil-prices-inflation-fears-shein-shares-latest-news-updates",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-09-01T13:34:37+00:00"
+      "title": "Fernandez joins Man City for joint-British record £125m",
+      "description": "Manchester City pay a joint-British transfer record fee of £125m for Chelsea midfielder Enzo Fernandez.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr7deg1ze03o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-01T22:52:22+00:00"
     },
     {
-      "title": "UK long-term borrowing costs hit highest since 1998 ahead of October Budget",
+      "title": "Google needs Hollywood more than the studios need AI",
+      "description": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the ",
+      "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-01T22:50:29+00:00"
+    },
+    {
+      "title": "Study Challenges a Decades-Old Belief About Why Children Struggle To Read",
+      "description": "New research shows children’s reading ability is driven more by auditory processing and comprehension-knowledge than by intelligence or visual skills. For decades, people have largely explained children’s reading struggles the same way. Strong readers were seen as naturally intelligent, while childr",
+      "url": "https://scitechdaily.com/study-challenges-a-decades-old-belief-about-why-children-struggle-to-read/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-01T22:42:25+00:00"
+    },
+    {
+      "title": "Tottenham sign Chelsea pair Mudryk and Tosin",
+      "description": "Tottenham sign Chelsea winger Mykhailo Mudryk on loan until the end of the season and complete a permanent move for Tosin Adarabioyo.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70dkdyd5r9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-01T22:27:24+00:00"
+    },
+    {
+      "title": "Camara's £47.1m move from Monaco to Chelsea collapses",
+      "description": "Lamine Camara is staying at Monaco after the Senegal midfielder's £47.1m move to Chelsea collapses.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-01T22:26:54+00:00"
+    },
+    {
+      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+      "description": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-01T22:01:36+00:00"
+    },
+    {
+      "title": "Everton sign Grealish as Zirkzee stays at Man Utd",
+      "description": "Everton sign Jack Grealish on a season-long loan deal from Manchester City but have missed out on Manchester United's Joshua Zirkzee.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-01T21:54:30+00:00"
+    },
+    {
+      "title": "Apple Maps follows Google in renaming Lake Ontario",
+      "description": "Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg. The company joins Google in re-labeling the Great Lake following an executive order signed by President Donald Trump in the midst of a trade dispute with Canada. The Canadian version of Appl",
+      "url": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-01T21:22:56+00:00"
+    },
+    {
+      "title": "Rybakina makes winning start in race to number one",
+      "description": "Elena Rybakina says she is \"motivated\" by the race to become world number one but is simply taking things \"day by day\" after getting her US Open campaign off to a winning start.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c0m3wv4e7vlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-01T21:18:05+00:00"
+    },
+    {
+      "title": "Ndiaye's journey from non-league football to £65m Man City move",
+      "description": "Manchester City sign winger Iliman Ndiaye from Everton in a deal worth up to £65m.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-01T20:57:48+00:00"
+    },
+    {
+      "title": "Lenovo&#8217;s 2-in-1 Yoga 7i is a great Labor Day deal at $750",
+      "description": "Best Buy is celebrating Labor Day all week long with big deals, including a deep discount on the Lenovo Yoga 7i 2-in-1, taking its original $1,1199.99 price down to $749.99. It’s a capable configuration for the price, with a Core 7 Ultra 256V processor, 16GB of LPDDR5X memory, and a 512GB SSD. The I",
+      "url": "https://www.theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-01T20:54:08+00:00"
+    },
+    {
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "description": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model broke out of its res",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-01T20:45:49+00:00"
+    },
+    {
+      "title": "Premier League breaks transfer record for second straight summer",
+      "description": "Premier League clubs break their all-time summer transfer record after spending reaches £3.198bn.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-01T20:17:17+00:00"
+    },
+    {
+      "title": "On first listen, the Sonos Beam Ultra sounds great",
+      "description": "Sonos unveiled a bunch of new stuff today at its open house event. There's the $699 Beam Ultra soundbar and the $449 Ace Ultra headphones, plus several under-the-hood app updates (some coming sooner than others). While the show floor was a less than ideal venue to judge audio quality of either new p",
+      "url": "https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-01T20:08:38+00:00"
+    },
+    {
+      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+      "description": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
+      "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-01T20:00:00+00:00"
+    },
+    {
+      "title": "The Diamond Moon and Other Astronomical Events to See in September 2026",
+      "description": "September is full of opportunities to expand your knowledge of the night sky. Mark your calendars.",
+      "url": "https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-01T20:00:00+00:00"
+    },
+    {
+      "title": "Best Amazon Labor Day Deals (2026): Sony, Shark, Anker",
+      "description": "These are the 15 best Amazon Labor Day deals on WIRED-tested, WIRED-recommended products in 2026.",
+      "url": "https://www.wired.com/story/amazon-labor-day-deals-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-01T19:45:30+00:00"
+    },
+    {
+      "title": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
+      "description": "As he steps down from his post as Apple CEO today, Tim Cook leaves behind a mostly positive environmental record. As far as billionaire tech moguls and the environment go, Cook will likely be remembered as one of the better ones - certainly far from the worst. But it will become harder for the compa",
+      "url": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-01T19:43:39+00:00"
+    },
+    {
+      "title": "Scientists Discover a “Loose Cannon” Virus Enzyme That Rewires Nearly Every Protein in a Bacterial Cell",
+      "description": "Scientists found that phages, viruses that infect bacteria, trigger widespread protein modifications inside host cells that help them evade bacterial immune defenses. When a phage infects a bacterium, it must overcome the cell’s defenses before those defenses can destroy the invading virus. Research",
+      "url": "https://scitechdaily.com/scientists-discover-a-loose-cannon-virus-enzyme-that-rewires-nearly-every-protein-in-a-bacterial-cell/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-01T19:36:16+00:00"
+    },
+    {
+      "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+      "description": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-01T19:02:54+00:00"
+    },
+    {
+      "title": "Scientists Tracked Galápagos Sea Turtles for Years – What They Found Was Unexpected",
+      "description": "Sea turtles are built for epic ocean journeys, yet some in the Galápagos rarely venture beyond their island neighborhood. Sea turtles are renowned for long migrations between feeding grounds and nesting beaches. They navigate using signals that include Earth’s magnetic field, ocean currents, and the",
+      "url": "https://scitechdaily.com/scientists-tracked-galapagos-sea-turtles-for-years-what-they-found-was-unexpected/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-01T19:01:15+00:00"
+    },
+    {
+      "title": "Superb England crush Ireland with record ODI chase",
+      "description": "Maia Bouchier's stunning century helps England women seal their record one-day international chase of 282 to beat Ireland in the series opener.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdvem7yke9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-01T18:57:53+00:00"
+    },
+    {
+      "title": "Scientists Discover a “New” Frog That Was Hiding in Plain Sight for 100 Years",
+      "description": "Pristimantis milpe is a common and widespread species that was mistaken for another species for more than a century. For more than a century, a common frog living across the forests of western Ecuador and southern Colombia was hiding in plain sight under the wrong scientific name. Researchers at the",
+      "url": "https://scitechdaily.com/scientists-discover-a-new-frog-that-was-hiding-in-plain-sight-for-100-years/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-01T18:26:24+00:00"
+    },
+    {
+      "title": "CDC reported then deleted two measles deaths that were questioned by RFK Jr.",
+      "description": "Historically, state health departments determine cases and deaths, not the CDC.",
+      "url": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-01T18:21:16+00:00"
+    },
+    {
+      "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official",
+      "description": "New features are rolling out across the Android ecosystem starting today.",
+      "url": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-01T18:00:02+00:00"
+    },
+    {
+      "title": "FTC alleges Amazon illegally made $20 billion by rigging billions of ad auctions",
+      "description": "FTC says firm replaces actual ad-auction results \"with higher prices set by Amazon.\"",
+      "url": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-01T17:51:17+00:00"
+    },
+    {
+      "title": "This is what a supercar was like a century ago",
+      "description": "When the average car could only do 40 mph, this Bentley could break 100.",
+      "url": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-01T17:34:16+00:00"
+    },
+    {
+      "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
       "description": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
       "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "publishedAt": "2026-09-01T13:31:06+00:00"
+      "publishedAt": "2026-09-01T16:36:42+00:00"
     },
     {
-      "title": "John Ternus takes over as Apple&#8217;s new CEO",
-      "description": "The multitrillion-dollar home of the iPhone, Mac, and so many other tech gadgets has a new leaader, as Tim Cook has been replaced as CEO as of September 1st by former hardware boss John Ternus. How will we look back on Cook&#8217;s legacy, and what will Apple look like under the leadership of Ternus",
-      "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
-      "source": "The Verge",
+      "title": "US borrowing costs hit fresh highs over inflation fears",
+      "description": "The effective interest rate on 10 years rose to 4.79%, its highest level since January 2025, as oil prices surged.",
+      "url": "https://www.bbc.co.uk/news/articles/c980y8r98y2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-01T15:51:51+00:00"
+    },
+    {
+      "title": "Humanity’s Carbon Signature Is Now Embedded Deep in the Ocean",
+      "description": "Carbon released by the Industrial Revolution has left a chemical fingerprint nearly everywhere scientists looked in the North Atlantic, including waters thousands of feet below the surface. Scientists have traced carbon from fossil fuel emissions deep into the North Atlantic by measuring shifts in t",
+      "url": "https://scitechdaily.com/humanitys-carbon-signature-is-now-embedded-deep-in-the-ocean/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-01T14:54:46+00:00"
+    },
+    {
+      "title": "It turns out that Orion's much-maligned heat shield performed really well",
+      "description": "Independent safety officials also have high praise for changes by NASA leadership.",
+      "url": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
+      "source": "Ars Technica",
       "category": "Technology",
-      "publishedAt": "2026-09-01T13:28:43+00:00"
+      "publishedAt": "2026-09-01T14:46:28+00:00"
     },
     {
-      "title": "Florida blocks Flock cams on state highways",
-      "description": "Florida is banning Flock cameras and other automated license plate readers across state highways, as reported earlier by NBC News and local news outlet WUSF. In a memo on Monday, Florida's Department of Transportation says it's revoking permits for all license plate readers, adding that they must be",
-      "url": "https://www.theverge.com/tech/987353/florida-flock-cam-ban-state-highways",
-      "source": "The Verge",
+      "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+      "description": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.",
+      "url": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
+      "source": "Wired",
       "category": "Technology",
-      "publishedAt": "2026-09-01T13:17:36+00:00"
+      "publishedAt": "2026-09-01T14:40:00+00:00"
     },
     {
-      "title": "Barcelona complete signing of Arsenal striker Jesus",
-      "description": "Barcelona have completed the signing of Gabriel Jesus on a permanent deal.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zpx27l91o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-01T13:08:49+00:00"
+      "title": "Scientists Find TNT Leaking From a 100-Year-Old Submarine Wreck",
+      "description": "Fierce naval battles in the North Sea during both world wars sent many ships to the seafloor. Their wrecks remain there today, leaking toxic chemicals that are absorbed by local plants and animals. In April 1917, the German submarine UC-30 was traveling beneath the North Sea near the Danish island o",
+      "url": "https://scitechdaily.com/scientists-find-tnt-leaking-from-a-100-year-old-submarine-wreck/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-01T14:19:57+00:00"
     },
     {
-      "title": "Get ready for a really busy month of smartphones",
-      "description": "We're not even half a day into September, and two new smartphones have already launched: the Poco F9 Pro and F9 Ultra. We're expecting more this week, as the IFA trade show kicks off in Berlin, before we get new iPhones a week after that. And that's only the beginning of what promises to be [&#8230;",
-      "url": "https://www.theverge.com/tech/986236/smartphones-september-ifa-apple-iphone-oppo-vivo-xiaomi",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-01T13:00:00+00:00"
+      "title": "I climbed the career ladder and got my dream job at 30 - then I hit burnout",
+      "description": "Just after Jo Hooper landed her dream role at 30, she struggled with burnout and had to take time off work.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yvpr0751go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-01T14:19:47+00:00"
     },
     {
-      "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-      "description": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 50-series desktop and",
-      "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-01T13:00:00+00:00"
-    },
-    {
-      "title": "Nvidia’s DLSS 5, explained",
-      "description": "Nvidia knows that DLSS 5 left a bad first impression. In March, many gamers took one look at Resident Evil Requiem protagonist Grace Ashcroft's DLSS 5-ified face and declared it AI slop. So this week, the company's re-introducing its controversial \"neural rendering\" with firm messaging about how it ",
-      "url": "https://www.theverge.com/games/986980/nvidias-dlss-5-explained",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-01T13:00:00+00:00"
-    },
-    {
-      "title": "Roku’s first OLED TVs undercut the midrange competition",
-      "description": "Just a few weeks ago the only midrange OLED options available were from LG and Samsung. But after Sony officially announced the Bravia 6 last week, Roku has now launched its first-ever OLED TV - the Roku Pro Series - which will be followed by the step-up Pro Series LX next month. The Roku Pro [&#823",
-      "url": "https://www.theverge.com/tech/987148/roku-oled-tv-announcement",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-01T13:00:00+00:00"
-    },
-    {
-      "title": "Mozilla launches ad blocking for Firefox on iOS",
-      "description": "Mozilla is officially launching ad blocking for Firefox on iOS today, after testing the feature over the past few weeks. The new built-in option will block most third-party ads and trackers before they load on an iPhone, reducing bandwidth use and decluttering mobile websites. Mozilla is using Apple",
-      "url": "https://www.theverge.com/news/987247/mozilla-firefox-ad-blocker-ios-launch",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-01T13:00:00+00:00"
-    },
-    {
-      "title": "Ahanor announced by two clubs in one day after Chelsea workaround",
-      "description": "Chelsea announce teenage defender Honest Ahanor will join the club in 2027 after the Atalanta player has completed a loan at Crystal Palace.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdj4ev9nmj4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-01T12:47:43+00:00"
-    },
-    {
-      "title": "Poco’s F9 Ultra pairs an ultra-bright display with a glowing Bose subwoofer",
-      "description": "Xiaomi spinoff brand Poco has partnered with Bose for the second year in a row for its flagship F9 Pro and Ultra phones. The F9 phones double down on amped up audio, with a light-up subwoofer built into the Ultra, along with extremely bright displays, enormous batteries, and what should be Poco's be",
-      "url": "https://www.theverge.com/tech/986148/poco-f9-pro-ultra-specs-features-price-bose",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-01T12:45:00+00:00"
-    },
-    {
-      "title": "Everton agree to re-sign Grealish on loan from Man City",
-      "description": "Everton agree a deal for Jack Grealish to return to the club on a season-long loan from Manchester City.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70dkgx1yepo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-01T12:27:37+00:00"
-    },
-    {
-      "title": "Aston Villa sign Mbaye and Harwood-Bellis",
-      "description": "Aston Villa complete the signings of Senegal winger Ibrahim Mbaye from Paris St-Germain and English centre-back Taylor Harwood-Bellis from Southampton.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1kxmjvnl8yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-01T12:24:52+00:00"
+      "title": "Earth’s Inner Core May Hide a Strange State of Matter",
+      "description": "Experiments under extreme conditions suggest that iron hydride can enter a superionic state, allowing hydrogen to move through a solid iron lattice. Far beneath Earth’s surface, the inner core is squeezed and heated to conditions so extreme that some of its ingredients may behave in an unexpected wa",
+      "url": "https://scitechdaily.com/earths-inner-core-may-hide-a-strange-state-of-matter/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-01T13:44:40+00:00"
     },
     {
       "title": "Ikea cuts prices as customers struggle with rising cost of living",
@@ -120,30 +288,6 @@
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-09-01T12:21:52+00:00"
-    },
-    {
-      "title": "Palace and Sunderland battling for £30m Fofana",
-      "description": "Crystal Palace attempt to hijack Sunderland's move for Lyon's Malick Fofana.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0m31e8v9jgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-01T12:16:18+00:00"
-    },
-    {
-      "title": "McTominay to miss Scotland games with minor heart issue",
-      "description": "Scotland midfielder Scott McTominay is to have a minor heart procedure after the discovery of \"a mild benign arrhythmia\", Napoli have announced.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c305dgrdjq6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-01T12:15:19+00:00"
-    },
-    {
-      "title": "What does Norris deal mean for Piastri? F1 Q&A",
-      "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Italian Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckgx017vmjeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-01T12:02:53+00:00"
     },
     {
       "title": "Using High-Energy Laser, US Shoots Down Drones Near Mexico Border",
@@ -194,28 +338,12 @@
       "publishedAt": "2026-09-01T10:39:00+00:00"
     },
     {
-      "title": "The Brain Makes New Neurons Even in Adulthood. Depression May Stop It",
-      "description": "Depression was linked to stalled adult neurogenesis and widespread molecular changes in hippocampal memory circuits. A small stream of new neurons continues to appear in the adult hippocampus even though most of the brain’s roughly 100 billion neurons are formed before birth. Research from Columbia ",
-      "url": "https://scitechdaily.com/the-brain-makes-new-neurons-even-in-adulthood-depression-may-stop-it/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-01T10:37:54+00:00"
-    },
-    {
       "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
       "description": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
       "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-09-01T10:18:47+00:00"
-    },
-    {
-      "title": "Scientists Discover a Hidden “Immune Organ” Inside the Skull",
-      "description": "Researchers discovered lymph node-like immune hubs inside skull bone marrow that appear to act as rapid-response centers for the brain. For decades, the brain was thought to operate largely apart from the immune system. Researchers at Washington University School of Medicine in St. Louis have now id",
-      "url": "https://scitechdaily.com/scientists-discover-a-hidden-immune-organ-inside-the-skull/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-01T10:02:57+00:00"
     },
     {
       "title": "Shein valued at $26bn after long-awaited stock market debut",
@@ -234,68 +362,12 @@
       "publishedAt": "2026-09-01T10:00:33+00:00"
     },
     {
-      "title": "Pakistan changes 'most shocking ever' - Afridi",
-      "description": "Pakistan's decision to make dramatic changes to their squad during the series in England is the \"most shocking decision ever\", according to former captain Shahid Afridi.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c4g5x5n892yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-01T10:00:10+00:00"
-    },
-    {
-      "title": "Inside the Perimenopause Industrial Complex",
-      "description": "How an alliance of tech startups, MAHA operatives, and actual medical experts made millennial women the new face of hormone therapy.",
-      "url": "https://www.wired.com/story/inside-the-perimenopause-industrial-complex/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-01T10:00:00+00:00"
-    },
-    {
-      "title": "Dyson’s Next Act Is an Electric Toothbrush With a Camera",
-      "description": "The company known for stick vacuums and hair dryers is coming for your teeth. The $499 Dyson CameraJet uses a tiny camera to aim streams of rinsing fluid into the gaps between your teeth.",
-      "url": "https://www.wired.com/story/dyson-camerajet-electric-toothbrush-and-flosser/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-01T09:30:00+00:00"
-    },
-    {
       "title": "Flu vaccine rollout begins as NHS regroups from 'busiest summer'",
       "description": "This year's jab has a few tweaks, including changes to better combat last year's Super-K strain.",
       "url": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-09-01T08:55:27+00:00"
-    },
-    {
-      "title": "I climbed the career ladder and got my dream job at 30 - then I hit burnout",
-      "description": "Just after Jo Hooper landed her dream role at 30, she struggled with burnout and had to take time off work.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yvpr0751go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-01T05:23:56+00:00"
-    },
-    {
-      "title": "LG Promo Codes and Coupons for September 2026",
-      "description": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "url": "https://www.wired.com/story/lg-promo-code/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-01T05:00:00+00:00"
-    },
-    {
-      "title": "50% Off DoorDash Promo Code | September 2026",
-      "description": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-      "url": "https://www.wired.com/story/doordash-promo-code/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-01T05:00:00+00:00"
-    },
-    {
-      "title": "This Metallic Green Beetle Is Quietly Killing Ash Trees Across Texas",
-      "description": "The emerald ash borer is an invasive wood-boring beetle that has killed hundreds of millions of ash trees across North America. Emerald ash borer has reached five more Texas counties, extending the range of an invasive beetle that has already killed hundreds of millions of ash trees across North Ame",
-      "url": "https://scitechdaily.com/this-metallic-green-beetle-is-quietly-killing-ash-trees-across-texas/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-31T23:43:46+00:00"
     },
     {
       "title": "Feeling nostalgic for summer? How to beat the back-to-work blues",
@@ -306,28 +378,12 @@
       "publishedAt": "2026-08-31T23:37:35+00:00"
     },
     {
-      "title": "A 15-Day Window Could Decide the Fate of California’s Most Endangered Salmon",
-      "description": "Chinook salmon need cold water during the first weeks of development for their eggs to survive. California’s most endangered salmon now survive as a single population in the Sacramento River, far from much of the cold mountain habitat where they once spawned. Sacramento River winter-run Chinook salm",
-      "url": "https://scitechdaily.com/a-15-day-window-could-decide-the-fate-of-californias-most-endangered-salmon/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-31T23:08:42+00:00"
-    },
-    {
       "title": "The Bentley Supersports: A stripped-out engineer's indulgence",
       "description": "It's the lightest Bentley in 85 years.",
       "url": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-08-31T23:01:16+00:00"
-    },
-    {
-      "title": "Red Meat Helped Build Humanity, Now It May Be Harming Us",
-      "description": "Red meat may have helped shape the human species, but today’s appetite for it is taking a growing toll on human health and the planet. An interdisciplinary review published in The Quarterly Review of Biology examines how red meat changed from a valuable source of concentrated nutrition into a contri",
-      "url": "https://scitechdaily.com/red-meat-helped-build-humanity-now-it-may-be-harming-us/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-31T22:33:03+00:00"
     },
     {
       "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
@@ -338,76 +394,12 @@
       "publishedAt": "2026-08-31T21:28:49+00:00"
     },
     {
-      "title": "Trump admin shelves Cyclospora research despite record-breaking outbreak",
-      "description": "The CDC has tallied nearly 30,000 confirmed and probable cases this summer.",
-      "url": "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-31T21:23:09+00:00"
-    },
-    {
-      "title": "Get in on the Ars community that doesn’t fit beneath an article",
-      "description": "You've read the stories. Now check out our forums.",
-      "url": "https://arstechnica.com/staff/2026/08/get-in-on-the-ars-community-that-doesnt-fit-beneath-an-article/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-31T21:12:01+00:00"
-    },
-    {
-      "title": "Review: Coyote vs. Acme is an unabashed love letter to Looney Tunes",
-      "description": "Director Dave Green's live action/animated hybrid captures smart, subversive weirdness of the classic cartoons.",
-      "url": "https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-31T20:02:16+00:00"
-    },
-    {
       "title": "US trade regulator and 22 states accuse Amazon of taking $20bn with secret surcharges",
       "description": "FTC alleges in lawsuit that online retailer ‘secretly and systematically overcharged’ advertisers for yearsThe US’s main trade regulator and 22 states sued Amazon on Monday, alleging the online retailer “secretly and systematically overcharged” advertisers on Amazon.com.The Federal Trade Commission ",
       "url": "https://www.theguardian.com/technology/2026/aug/31/amazon-advertising-lawsuit",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-08-31T19:41:52+00:00"
-    },
-    {
-      "title": "Scientists Discover a Brain Signal Linked to Severe Suicidal Thoughts",
-      "description": "P2RX7 may be linked to severe suicidal thoughts and recovery, but researchers still need to confirm the pattern in living people. Severe suicidal thoughts may leave a detectable biological signal in the brain, and that signal could also change when people recover. Researchers at the Netherlands Inst",
-      "url": "https://scitechdaily.com/scientists-discover-a-brain-signal-linked-to-severe-suicidal-thoughts/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-31T19:27:47+00:00"
-    },
-    {
-      "title": "A Tiny Wireless Device Could Transform How Chronic Pain Is Treated",
-      "description": "A seed-sized injectable device could make nerve stimulation therapies simpler, safer, and more accessible. Researchers at NYU Abu Dhabi, working with Cleveland Clinic Abu Dhabi, have created a tiny injectable device that could offer a less invasive way to treat chronic pain and movement disorders. T",
-      "url": "https://scitechdaily.com/a-tiny-wireless-device-could-transform-how-chronic-pain-is-treated/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-08-31T18:52:07+00:00"
-    },
-    {
-      "title": "Trump tells FCC to punish journalist for calling his election results \"mixed\"",
-      "description": "Trump furious at NBC's Kristen Welker for saying he had mixed results in primary endorsements.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-31T18:39:25+00:00"
-    },
-    {
-      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-      "description": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
-      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-08-31T18:10:45+00:00"
-    },
-    {
-      "title": "Victoria Beckham's company makes its first profit after 18 years",
-      "description": "Beckham's fashion and beauty business makes a £7.3m operating profit after years of losses.",
-      "url": "https://www.bbc.co.uk/news/articles/cj645yl6d6do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-08-31T17:28:19+00:00"
     },
     {
       "title": "Anthropic sued over alleged theft of ‘tens of thousands’ of songs",
