@@ -1,13 +1,325 @@
 {
-  "updatedAt": "2026-09-02T22:58:16.207973+00:00",
+  "updatedAt": "2026-09-03T13:03:33.680248+00:00",
   "articles": [
     {
-      "title": "Boulter wins one game in 58-minute US Open defeat",
-      "description": "British number one Katie Boulter is dumped out in the second round of the US Open as she wins just one game in a 58-minute demolition by Karolina Muchova.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cjdv3gxl5zgo?at_medium=RSS&at_campaign=rss",
+      "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
+      "description": "More than 600 companies underpaid staff, with £4m returned to workers, according to the government.",
+      "url": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-03T12:50:14+00:00"
+    },
+    {
+      "title": "Ferrari upgrade a step but not all we need - Hamilton",
+      "description": "Lewis Hamilton says an upgraded Ferrari engine for this weekend's Italian Grand Prix is a \"step forward but not the whole amount we need\".",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cvgyqlne25do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-09-02T22:56:24+00:00"
+      "publishedAt": "2026-09-03T12:44:00+00:00"
+    },
+    {
+      "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+      "description": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
+      "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-03T12:43:09+00:00"
+    },
+    {
+      "title": "Janse van Rensburg denies Erasmus' claim of Springbok call-up talks",
+      "description": "Centre Benhard Janse van Rensburg admits he \"probably would have loved to\" play for his native South Africa, but denies Rassie Erasmus' claims he was in talks over a Springboks call-up.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/clyr1247xk9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-03T12:39:12+00:00"
+    },
+    {
+      "title": "Bond market turmoil eases across Europe; UK service sector growth jumps – business live",
+      "description": "Rolling coverage of the latet economic and financial newsOther European government borrowing costs are dipping this morning too.The yield on 10-year German bunds is down 1.5bps to 3.36%, while French 10-year bond yields are 1.5bps lower at 4.23%. Continue reading...",
+      "url": "https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-09-03T12:33:59+00:00"
+    },
+    {
+      "title": "Nvidia is buying Hugging Face for almost $13 billion",
+      "description": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform founded in 2016 that gives AI developers a space to ",
+      "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-03T12:12:06+00:00"
+    },
+    {
+      "title": "TCL’s new Nxtpaper phone offers both e-reader and OLED",
+      "description": "With the P80 Ultra, TCL's E Ink-esque Nxtpaper phones are finally going OLED. Just like previous LCD models, the phone can switch to a low power, monochromatic display mode that replicates the look of paper when you want to read or minimize distractions. Only now you can switch back to what the comp",
+      "url": "https://www.theverge.com/tech/988059/tcls-new-nxtpaper-phone-offers-both-e-reader-and-oled",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-03T12:00:00+00:00"
+    },
+    {
+      "title": "These new robot lawnmowers trim your edges",
+      "description": "Anker's new robot lawnmower might take over for your weedwacker, too. Announced at IFA 2026, the Eufy Robot Lawn Mower S2 Max comes with an extendable trimming arm to clean up the grass around your driveway and flowerbeds. The dual-blade mower offers vSLAM navigation that uses built-in cameras to bu",
+      "url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-03T11:55:00+00:00"
+    },
+    {
+      "title": "I used to play in-match games as a laugh - Dean",
+      "description": "Former Premier League referee Mike Dean says he would stay in the centre circle for as long as he could during a match.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgjql4w604eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-03T11:45:09+00:00"
+    },
+    {
+      "title": "Scientists Can Now See DNA Folding at Near-Molecular Resolution",
+      "description": "The finding could eventually enable the use of DNA packaging in cells for disease diagnosis and treatment. In preserved cells, newly developed fluorescent probes allowed researchers to pinpoint individual dye molecules to within 3 nanometers, close to the width of the DNA double helix itself. The sa",
+      "url": "https://scitechdaily.com/scientists-can-now-see-dna-folding-at-near-molecular-resolution/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-03T11:40:01+00:00"
+    },
+    {
+      "title": "Scientists Have Found the Most Convincing Evidence Yet of a Dark Matter Particle",
+      "description": "An underground detector recorded a strange interaction pointing to a particle with some properties that signify dark matter. The detection is small but promising.",
+      "url": "https://www.wired.com/story/scientists-find-most-convincing-evidence-yet-dark-matter-particle/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-03T11:30:00+00:00"
+    },
+    {
+      "title": "The Premier League premium is £20m - and that worries European clubs",
+      "description": "The old adage used to be that English players came at a premium. Now that appears to simply apply to a player already in the Premier League.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce87v0e868qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-03T11:13:06+00:00"
+    },
+    {
+      "title": "A 100-Year-Old Mushroom Mystery Just Got Much More Complicated",
+      "description": "Scientists found that bacterial blotch in white button mushrooms is caused by multiple bacteria, a discovery that could improve disease detection and lead to more sustainable treatments for growers. A University of Florida study has uncovered an important new clue about a disease that has affected w",
+      "url": "https://scitechdaily.com/a-100-year-old-mushroom-mystery-just-got-much-more-complicated/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-03T11:05:02+00:00"
+    },
+    {
+      "title": "Ugly AI Food Photos Are Only the Beginning",
+      "description": "Restaurant menus with AI-generated food images are going viral for their off-putting aesthetic. But AI’s impact on modern menus runs even deeper.",
+      "url": "https://www.wired.com/story/ugly-ai-food-photos-are-only-the-beginning/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-03T11:00:00+00:00"
+    },
+    {
+      "title": "Iraola happy with signings as Barcola set for debut",
+      "description": "Manager Andoni Iraola discusses Liverpool's transfer business, the arrival of Bradley Barcola and keeping Cody Gakpo.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c14dx8eze1do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-03T10:58:42+00:00"
+    },
+    {
+      "title": "‘The Blood of Dawnwalker’ Is a Bloody Balm for My Completionism",
+      "description": "The game starts as a reheated Witcher 3, but evolves into something much more focused.",
+      "url": "https://www.wired.com/story/the-blood-of-dawnwalker-is-a-bloody-balm-for-my-completionism/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-03T10:45:00+00:00"
+    },
+    {
+      "title": "The Best Air Quality Monitor for Outdoors and Indoors in 2026",
+      "description": "These WIRED-tested indoor and outdoor air quality monitors give you insights into your home’s air quality, warn of potentially harmful pollutant levels, and help keep tabs on your environment.",
+      "url": "https://www.wired.com/story/best-air-quality-monitors/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-03T10:31:00+00:00"
+    },
+    {
+      "title": "A “New” Penguin Species Has Been Discovered on One of Earth’s Most Remote Islands",
+      "description": "Genetic research revealed four distinct gentoo penguin species, including a newly identified species from the Kerguelen Islands. Scientists warn climate change may endanger several isolated island populations. The emperor penguin, which can grow to about 4 feet (1.2 meters) tall, is the best-known p",
+      "url": "https://scitechdaily.com/a-new-penguin-species-has-been-discovered-on-one-of-earths-most-remote-islands/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-03T10:30:58+00:00"
+    },
+    {
+      "title": "DOGE Affiliate Asked for College Credits for Participating in Takeover",
+      "description": "According to new documents obtained through a Freedom of Information Act request, an undergraduate working with DOGE requested that his work for HUD count towards his University of Chicago degree.",
+      "url": "https://www.wired.com/story/doge-affiliate-asked-for-college-credits-for-participating-in-takeover/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-03T10:30:00+00:00"
+    },
+    {
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "description": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
+      "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-03T10:25:43+00:00"
+    },
+    {
+      "title": "Is It Even Possible to Understand Quantum Mechanics?",
+      "description": "Common sense is of no help in studying reality at the atomic scale.",
+      "url": "https://www.wired.com/story/is-it-even-possible-to-understand-quantum-mechanics/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-03T10:00:00+00:00"
+    },
+    {
+      "title": "This Is Flock’s AI Search Tool for Cops",
+      "description": "WIRED rebuilt Flock’s latest search tool from code the company sends to a police officer’s browser. Its AI can keep watch across multiple cameras for anyone fitting a written description.",
+      "url": "https://www.wired.com/story/flock-ai-search-user-interface/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-03T10:00:00+00:00"
+    },
+    {
+      "title": "Osnabruck display tifo with working rollercoaster before Kane ruins fun",
+      "description": "VfL Osnabruck showcase a tifo that took months to plan before their German Cup tie against Bayern Munich.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy1g4800zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-03T09:38:32+00:00"
+    },
+    {
+      "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
+      "description": "Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes are meant to reflect the ongoing impact of AI on Microsoft and how the company now operates. The ",
+      "url": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-03T08:59:09+00:00"
+    },
+    {
+      "title": "Here’s the first 4K 120Hz UST projector with optical lens shift",
+      "description": "Detail-preserving optical lens shift is not something you expect to find on an ultra-short throw projector running Google TV, but that's exactly what you'll find inside of Awol Vision's new LuxVision. It also promises to produce an incredibly bright (6000 ISO Lumens) 4K 120Hz image measuring 120 inc",
+      "url": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-03T08:30:00+00:00"
+    },
+    {
+      "title": "Belkin’s first trackers come ready to attach to your gear.",
+      "description": "After selling accessories for attaching Apple's AirTags to everything from keys to backpacks, Belkin is introducing its own trackers that work with either Apple's Find My or Google's Find Hub tracking networks. In addition to compatibility with Android and iOS, what differentiates these trackers fro",
+      "url": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-03T08:00:00+00:00"
+    },
+    {
+      "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
+      "description": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology. The company claims the new accessories have been \"engineered to last up to 3x longer than other power banks\" with the addition of a \"gel-like layer\" alongside",
+      "url": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-03T08:00:00+00:00"
+    },
+    {
+      "title": "Anker’s sleep speaker uses radar and flower power to help you relax",
+      "description": "Anker's SleepLab speaker promises to track and enhance sleep without a wearable. It uses millimeter-wave radar (60GHz) blasting from your nightstand to track micro-movements in your chest and body to continuously monitor your heart rate and breathing to enhance whatever sleep stage you're in. It als",
+      "url": "https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-03T07:30:00+00:00"
+    },
+    {
+      "title": "Ashes ticket price increase 'really poor' - Vaughan",
+      "description": "Former England captain Michael Vaughan is critical of a 43% ticket price increase for next year's men's Ashes Test at Edgbaston.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/ce87v9ljl8no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-03T06:58:17+00:00"
+    },
+    {
+      "title": "Almost half of households do not see benefits of economic growth, report says",
+      "description": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
+      "url": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-03T05:47:11+00:00"
+    },
+    {
+      "title": "Hundreds of North Sea workers too heavy for new helicopter rules",
+      "description": "Workers should weigh no more than 19.5st fully clothed so that they can be winched to safety in an emergency.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gk2zlv0e6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-03T05:06:55+00:00"
+    },
+    {
+      "title": "Archaeologists Discover 1,200-Year-Old Hairless Dog at Ancient Peruvian Site",
+      "description": "Bone remains and a mummified dog suggest that dogs lived alongside humans. Long before the Inca rose to power, distinctive hairless dogs were already living alongside people on Peru’s northern coast. These medium-sized Indigenous dogs with pointed ears appear frequently in ancient Andean pottery, an",
+      "url": "https://scitechdaily.com/archaeologists-discover-1200-year-old-hairless-dog-at-ancient-peruvian-site/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-03T03:04:26+00:00"
+    },
+    {
+      "title": "'What kind of question is that?' - Sabalenka spiky after ruthless win",
+      "description": "Two-time defending champion Aryna Sabalenka cruises into the US Open third round before a spiky exchange with a journalist.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/ce8emkzpxmmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-03T02:21:11+00:00"
+    },
+    {
+      "title": "The Human Family Tree May Need a Major Rewrite",
+      "description": "Growing evidence that early human relatives do not fit neatly into traditional categories is prompting a proposal to expand the genus Homo. The human family tree is becoming harder to fit into the categories scientists have used for decades. Research from Monash University argues that recent discove",
+      "url": "https://scitechdaily.com/the-human-family-tree-may-need-a-major-rewrite/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-03T01:49:11+00:00"
+    },
+    {
+      "title": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’",
+      "description": "Bank says gold reserves held in London could be traded more easily and the move will allow it to respond more rapidly in a ‘crisis situation’The Dutch central bank says it has moved 86 tonnes of its gold reserves out of the US and Canada to London, citing “increasing geopolitical unrest”.De Nederlan",
+      "url": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-09-02T23:47:15+00:00"
+    },
+    {
+      "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
+      "description": "The ride-hailing app has launched 15 self-driving taxis, but they will have safety drivers inside.",
+      "url": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-02T23:36:49+00:00"
+    },
+    {
+      "title": "Stingy bosses and spare change: How much should you give to the office whip-round?",
+      "description": "Office whip-rounds are a staple of working life but they can raise a lot of awkward questions.",
+      "url": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-02T23:25:50+00:00"
+    },
+    {
+      "title": "How Victoria Beckham turned her fashion firm around and made it profitable",
+      "description": "The pop star formerly known as Posh Spice has taken nearly two decades to turn a profit.",
+      "url": "https://www.bbc.co.uk/articles/cj647xd596xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-02T23:24:06+00:00"
+    },
+    {
+      "title": "Why wait? Business grads buying firms to install themselves as CEO",
+      "description": "Impatient to be the boss of an established company they are borrowing money to fund their purchases.",
+      "url": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-02T23:13:44+00:00"
+    },
+    {
+      "title": "“Lower-Risk” Childhood Cancer May Be More Dangerous Than It Appears",
+      "description": "Researchers have uncovered new clues about why the childhood cancer rhabdomyosarcoma may become aggressive. Some children diagnosed with rhabdomyosarcoma (RMS) appear to have lower-risk disease, yet their cancer can still become dangerously aggressive. Researchers have now uncovered biological simil",
+      "url": "https://scitechdaily.com/lower-risk-childhood-cancer-may-be-more-dangerous-than-it-appears/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-02T23:04:17+00:00"
     },
     {
       "title": "Scientists Warn a Common Eczema Remedy May Offer Little Relief",
@@ -18,44 +330,12 @@
       "publishedAt": "2026-09-02T22:29:04+00:00"
     },
     {
-      "title": "Amazon’s 2026 Holiday Deals Are About to Look Better Than They Are",
-      "description": "Amazon just hiked prices on Kindles, Echo speakers, Eero routers, and Fire TV devices ahead of the holiday shopping season.",
-      "url": "https://www.wired.com/story/amazon-increases-prices-kindle-echo-sept-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-02T22:23:26+00:00"
-    },
-    {
-      "title": "Man City buy costly new midfield - but have they overlooked Haaland cover?",
-      "description": "Manchester City have completed a squad overhaul including a fully revamped midfield to the tune of a Premier League record £458m, but that eyewatering number does not tell the full story.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpq02z298p7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-02T22:07:52+00:00"
-    },
-    {
-      "title": "Celtic sign five in one day after Van den Berg & Lotomba arrive",
-      "description": "Celtic complete loan deals for former England goalkeeper Sam Johnstone and teenage Chelsea duo Shumaira Mheuka and Landon Emenalo.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-02T22:07:25+00:00"
-    },
-    {
       "title": "Scientists Find a Surprising Cancer-Fighting Effect in Dark Sweet Cherries",
       "description": "Researchers found that natural compounds in dark sweet cherries could reduce tumor growth, metastasis, and treatment resistance in triple-negative breast cancer. Natural pigments that give dark sweet cherries their deep red color may also affect how an aggressive form of breast cancer grows and spre",
       "url": "https://scitechdaily.com/scientists-find-a-surprising-cancer-fighting-effect-in-dark-sweet-cherries/",
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-09-02T21:54:44+00:00"
-    },
-    {
-      "title": "LA Clippers fined $30m by NBA over Leonard scandal",
-      "description": "The LA Clippers are fined $30m (£22.2m) by the NBA for violating salary rules over the acquisition of star player Kawhi Leonard.",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-02T21:42:38+00:00"
     },
     {
       "title": "Spending deal comes with a bonus: Blocking political control of grants",
@@ -66,36 +346,12 @@
       "publishedAt": "2026-09-02T21:20:03+00:00"
     },
     {
-      "title": "Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations",
-      "description": "Donald Trump’s West Wing renovations and DC arch could be on the chopping block, should Democrats win the midterms—they could also be leverage.",
-      "url": "https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-02T21:00:00+00:00"
-    },
-    {
-      "title": "Fury calls Joshua a 'coward' as wait for announcement continues",
-      "description": "Tyson Fury says Anthony Joshua is a \"coward\" as the pair face a tense wait to see whether their long-awaited all-British heavyweight blockbuster can be agreed.",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/cx2zg14qzryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-02T20:55:37+00:00"
-    },
-    {
       "title": "I rented a car, and within hours, my driver's license was for sale",
       "description": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
       "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-09-02T20:32:02+00:00"
-    },
-    {
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "description": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per m",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-02T20:11:40+00:00"
     },
     {
       "title": "FCC plans robocall scorecard to grade phone companies on spam call blocking",
@@ -114,76 +370,12 @@
       "publishedAt": "2026-09-02T19:37:08+00:00"
     },
     {
-      "title": "Olympic champion Davis-Woodhall 'lucky to be alive' after car crash",
-      "description": "Olympic long jump champion Tara Davis-Woodhall says she is \"lucky and blessed to be alive\" after being involved in a car crash.",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cwyzdvrrz3yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-02T19:18:45+00:00"
-    },
-    {
-      "title": "Here are some of REI’s best Labor Day sale deals",
-      "description": "Summer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are many, many discounts, from men’s and women’s clothing and REI Co-op gear to equipment for camping and hiking and more. The sal",
-      "url": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-02T18:56:59+00:00"
-    },
-    {
-      "title": "1Password wades into a right-wing mess after funding a Linux project",
-      "description": "1Password faced immediate backlash from customers this week over a $300,000 pledge in support of a Linux distro created by David Heinemeier Hansson, who has regularly published overtly racist blog posts that include comments calling for deportation of ethnic minorities in Europe. The popular passwor",
-      "url": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-02T18:48:14+00:00"
-    },
-    {
-      "title": "Galaxies May Be Mimicking the Dark Matter Signals Astronomers Have Been Hunting",
-      "description": "Galaxies can create many of the same stellar stream distortions that astronomers have looked to as possible signs of dark matter. Astronomers have long hoped that gaps, bends, and other distortions in long bands of stars around the Milky Way could reveal the hidden influence of dark matter. But new ",
-      "url": "https://scitechdaily.com/galaxies-may-be-mimicking-the-dark-matter-signals-astronomers-have-been-hunting/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-02T18:45:04+00:00"
-    },
-    {
-      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-      "description": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
-      "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-02T18:41:02+00:00"
-    },
-    {
-      "title": "ICE Plans to Pay $5 Million to Create National Voting Database",
-      "description": "As part of a broader DHS surge to investigate alleged voter fraud, ICE has announced it plans to pay up to $5 million to create what amounts to a federal voter database.",
-      "url": "https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-02T18:32:01+00:00"
-    },
-    {
-      "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
-      "description": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
-      "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-02T18:20:00+00:00"
-    },
-    {
       "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
       "description": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
       "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-09-02T18:13:54+00:00"
-    },
-    {
-      "title": "New AI Detects Hidden Warning Signs of Solar Eruptions Hours Before They Emerge",
-      "description": "AI detected faint signs of emerging solar active regions about nine hours before they became visible on average. Before a sunspot darkens the Sun’s visible surface, the magnetic activity that creates it is already developing out of sight. Those early changes are faint, but researchers say artificial",
-      "url": "https://scitechdaily.com/new-ai-detects-hidden-warning-signs-of-solar-eruptions-hours-before-they-emerge/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-02T18:10:59+00:00"
     },
     {
       "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
@@ -194,100 +386,12 @@
       "publishedAt": "2026-09-02T17:58:33+00:00"
     },
     {
-      "title": "Amazon’s AI assistant can now spot fake emails from the company",
-      "description": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to com",
-      "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-02T17:52:56+00:00"
-    },
-    {
-      "title": "NASA Breaks the Sound Barrier With New Mars Helicopter Rotors",
-      "description": "NASA’s new Mars helicopter rotors survived supersonic testing, boosting lift by 30% and paving the way for heavier, more capable aerial explorers on the Red Planet. NASA engineers have successfully pushed helicopter rotor blades past the speed of sound during tests designed to support future Mars mi",
-      "url": "https://scitechdaily.com/nasa-breaks-the-sound-barrier-with-new-mars-helicopter-rotors/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-02T17:35:48+00:00"
-    },
-    {
-      "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-      "description": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\".",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-02T17:21:00+00:00"
-    },
-    {
-      "title": "Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing",
-      "description": "I think automakers are finally getting the memo. Rather than try to reinvent the wheel with its new electric vehicle, Range Rover just made one that looks nearly identical to its lineup of gas-powered SUVs. They didn't try to pass off some sleek, spaceship-looking pod as a Range Rover. Sometimes fam",
-      "url": "https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-02T17:01:08+00:00"
-    },
-    {
-      "title": "Uber to cut over 3,000 jobs in major global restructuring",
-      "description": "The company says cutting roles would make its operations \"simpler and faster\".",
-      "url": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-02T16:51:49+00:00"
-    },
-    {
-      "title": "The best tech and gadgets announced at IFA so far",
-      "description": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - in",
-      "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-02T16:43:50+00:00"
-    },
-    {
-      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-      "description": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI secur",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-02T16:40:50+00:00"
-    },
-    {
       "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
       "description": "The DOJ proved to the court that Google acted illegally, but it won't get the big win it wanted.",
       "url": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-09-02T16:30:11+00:00"
-    },
-    {
-      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-      "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"bi",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-02T16:12:25+00:00"
-    },
-    {
-      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
-      "description": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
-      "url": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-02T15:51:46+00:00"
-    },
-    {
-      "title": "“Zombie” Cells Rewire Their Metabolism To Fuel Inflammation As We Age",
-      "description": "A study found a new mitochondrial pathway in senescent cells that alters how DNA is stored, exposing genes linked to inflammation. Inflammation is essential when the body needs to fight an infection or repair an injury. But the same protective response can become harmful when it persists, and with a",
-      "url": "https://scitechdaily.com/zombie-cells-rewire-their-metabolism-to-fuel-inflammation-as-we-age/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-02T15:09:07+00:00"
-    },
-    {
-      "title": "Late-night transfer fallout sparks Chelsea-Monaco row",
-      "description": "How Chelsea, Everton and Monaco all missed out after late-night drama on deadline day. Nizaar Kinsella reports.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1wx0g1npn9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-02T14:48:09+00:00"
     },
     {
       "title": "Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84",
@@ -306,38 +410,6 @@
       "publishedAt": "2026-09-02T14:46:36+00:00"
     },
     {
-      "title": "Lords call for AI 'kill switch' powers in UK",
-      "description": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
-      "url": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-02T14:41:52+00:00"
-    },
-    {
-      "title": "Scientists Discover an Unexpected Mental Health Benefit of Ozempic",
-      "description": "A blockbuster drug that transformed diabetes and weight loss care may hold an unexpected benefit for people with bipolar disorder. Researchers at Griffith University found that people with bipolar disorder were less likely to require psychiatric hospitalization while taking semaglutide, the active i",
-      "url": "https://scitechdaily.com/scientists-discover-an-unexpected-mental-health-benefit-of-ozempic/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-02T13:54:27+00:00"
-    },
-    {
-      "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
-      "description": "Huge AI spending plans and the ongoing war in Iran are driving up borrowing costs around the world.",
-      "url": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-02T13:20:11+00:00"
-    },
-    {
-      "title": "How Everton's deadline day debacle leaves owners facing fan mutiny",
-      "description": "Everton's transfer deadline day debacle over Folarin Balogun leaves owners The Friedkin facing fan mutiny, says chief football writer Phil McNulty.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9861n79kepo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-02T12:33:25+00:00"
-    },
-    {
       "title": "Children as young as six going to A&E in mental health crisis",
       "description": "NHS emergency departments are seeing more cases of self-harm, eating disorders and emotional distress in young people.",
       "url": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss",
@@ -354,36 +426,12 @@
       "publishedAt": "2026-09-02T11:33:07+00:00"
     },
     {
-      "title": "The Cybercab Is Almost Here. Now Comes the Hard Part",
-      "description": "The electric-auto maker will officially debut its steering-wheel-free robotaxi on Thursday. But building the vehicle is the easy part.",
-      "url": "https://www.wired.com/story/here-comes-the-tesla-cybercab/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-02T11:30:00+00:00"
-    },
-    {
-      "title": "Why are UK borrowing costs rising and what does it mean for me?",
-      "description": "Some government borrowing costs have hit their highest level for 28 years - what does it mean for you?",
-      "url": "https://www.bbc.co.uk/news/articles/cwyxydr7gv9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-02T11:05:22+00:00"
-    },
-    {
       "title": "Teamsters union leaders support Republicans despite members endorsing Democrats",
       "description": "Sean O’Brien, president of 1.3 million-strong union, was also first to speak at the Republican national convention in 2024The powerful Teamsters union is backing Republican candidates in the 2026 election cycle even after members have voted to support their Democratic opponents.The 1.3 million-stron",
       "url": "https://www.theguardian.com/us-news/2026/sep/02/teamsters-union-republican-endorsement",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-09-02T11:00:22+00:00"
-    },
-    {
-      "title": "Best Sony Headphone Deals: WH-1000XM5 and More (2026)",
-      "description": "Our favorite Sony headphones are on sale, with discounts of up to 50 percent on top models.",
-      "url": "https://www.wired.com/story/sony-headphone-deals-september-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-02T11:00:00+00:00"
     },
     {
       "title": "Global bond sell-off intensifies as US-Iran tensions stoke inflation fears",
@@ -408,38 +456,6 @@
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-09-02T01:39:17+00:00"
-    },
-    {
-      "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
-      "description": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
-      "url": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-02T01:27:34+00:00"
-    },
-    {
-      "title": "Paleontologists Spent 20 Years Dating Thousands of Fossils – Here’s What They Found",
-      "description": "How quickly sediment accumulates on the seafloor appears to be the key factor determining whether fossils from different time periods become mixed together. A single layer of marine fossils can look like a snapshot of one ancient community even when the organisms preserved side by side actually live",
-      "url": "https://scitechdaily.com/paleontologists-spent-20-years-dating-thousands-of-fossils-heres-what-they-found/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-01T23:52:50+00:00"
-    },
-    {
-      "title": "Will self-flying planes transform the skies?",
-      "description": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
-      "url": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-01T23:27:35+00:00"
-    },
-    {
-      "title": "Kids eat free and loyalty points - six ways to eat out but not break the bank",
-      "description": "The cost of dining out is getting increasingly hard to swallow - but clever planning can get you cheaper deals.",
-      "url": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-01T23:26:38+00:00"
     },
     {
       "title": "Pentagon official overseeing military AI sold millions worth of stock in AI firm",
