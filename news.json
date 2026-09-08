@@ -1,24 +1,256 @@
 {
-  "updatedAt": "2026-09-07T23:16:27.713952+00:00",
+  "updatedAt": "2026-09-08T13:07:31.778347+00:00",
   "articles": [
     {
-      "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
+      "title": "Mac Allister 'sad' at no Liverpool contract offer",
+      "description": "Liverpool midfielder Alexis Mac Allister says he is \"very sad\" not to have been offered a new deal by the club and had \"options\" to leave in the summer.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0542qjvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-08T13:01:12+00:00"
+    },
+    {
+      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+      "description": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the ",
+      "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-08T13:00:00+00:00"
+    },
+    {
+      "title": "Bats May Hold the Secret to Fighting Aging, Cancer, and Infection",
+      "description": "Bats’ remarkable ability to withstand decades of strenuous flight while keeping infections, inflammation, and cancer in check may offer new clues to healthier human aging Bats are unusually long-lived for animals of their size. Small mammals generally burn energy quickly and die relatively young, ye",
+      "url": "https://scitechdaily.com/bats-may-hold-the-secret-to-fighting-aging-cancer-and-infection/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-08T12:40:17+00:00"
+    },
+    {
+      "title": "McTominay's heart procedure 'a complete success'",
+      "description": "Napoli say Scott McTominay's heart surgery \"was a complete success\" and expect the Scotland midfielder to resume training this month.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd79y308yl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-08T12:28:16+00:00"
+    },
+    {
+      "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+      "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
+      "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-08T12:23:22+00:00"
+    },
+    {
+      "title": "Como chiefs giving up seats to older fans for Champions League debut",
+      "description": "Como president Mirwan Suwarso and several directors are giving up their tickets for the club's Champions League debut to allow elderly supporters to attend.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg7kj9r7vzro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-08T12:22:44+00:00"
+    },
+    {
+      "title": "Apple says ‘Fold’ and competitors ask ‘how wide?’",
+      "description": "Apple is almost certain to launch its first foldable iPhone tomorrow, seven years after Samsung's Galaxy Fold initially went on sale. And while Apple might be a few years late to the party, the run-up to this launch proves that new CEO John Ternus has inherited a company that's as influential as it'",
+      "url": "https://www.theverge.com/tech/991141/apple-first-foldable-iphone-launch-influence-john-ternus",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-08T12:00:00+00:00"
+    },
+    {
+      "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads. Some Included Images of Real Kids",
+      "description": "Images of real children—including a member of a European royal family—were used to create some of the 350 ads containing child sexual abuse. Lawmakers say they plan to investigate.",
+      "url": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-08T12:00:00+00:00"
+    },
+    {
+      "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
+      "description": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision.",
+      "url": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-08T11:59:02+00:00"
+    },
+    {
+      "title": "LG TVs caught spying even when offline or on standby",
+      "description": "LG smart TVs are almost constantly logging and uploading data about owners and their homes, even when offline or on standby mode, according to a new report from YouTube channel Gamers Nexus. The company's TV sets scan Wi-Fi networks for nearby devices, record audio logs through their microphones, an",
+      "url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-08T11:30:05+00:00"
+    },
+    {
+      "title": "Argentina to file criminal case against oil company operating in Falklands",
+      "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
+      "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-08T11:09:54+00:00"
+    },
+    {
+      "title": "How NASA Testing Changed US Food Inspection Forever",
+      "description": "In the early 20th century, public outcry following Upton Sinclair’s The Jungle led to stricter food safety protocols. NASA took them a step further.",
+      "url": "https://www.wired.com/story/book-excerpt-alex-davies-kobuk-the-destroyer-nasa-food-testing/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-08T11:00:00+00:00"
+    },
+    {
+      "title": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
+      "description": "Looking to add a smart speaker to your house? Here’s which to choose, whether you’re an Alexa, Siri, or Gemini fan.",
+      "url": "https://www.wired.com/story/best-smart-speakers/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-08T10:35:00+00:00"
+    },
+    {
+      "title": "Insta360 X6 Review (2026): A Great 360 and Action Camera Hybrid",
+      "description": "Insta360’s latest 360-degree camera uses larger sensors for better low-light performance and has a smaller body.",
+      "url": "https://www.wired.com/review/insta360-x6-camera/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-08T10:00:00+00:00"
+    },
+    {
+      "title": "Gen AI Tools Are Now Being Used to Push ‘Slop Jihad’",
+      "description": "A new generation of Islamic terror supporters are using AI to spread ‘Slop Jihad’ to new audiences on TikTok.",
+      "url": "https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-08T10:00:00+00:00"
+    },
+    {
+      "title": "Alcaraz can single-handedly end American dreams",
+      "description": "Three Americans have the chance to become the first home US Open men's champion since 2003. But Carlos Alcaraz stands in the way.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c86xgxenyz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-08T09:56:43+00:00"
+    },
+    {
+      "title": "Public opposed to disability benefit cuts, major survey suggests",
+      "description": "Around 7% of those polled wanted disability benefit cuts, according to the latest British social attitudes survey.",
+      "url": "https://www.bbc.co.uk/news/articles/c4grdk95vgno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-09-08T09:37:44+00:00"
+    },
+    {
+      "title": "UK's third-biggest taxpayer to leave for Greece",
+      "description": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-08T09:33:35+00:00"
+    },
+    {
+      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+      "description": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
+      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-08T09:17:48+00:00"
+    },
+    {
+      "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
+      "description": "The Balkan nation is aiming to become a new centre for medical tourism.",
+      "url": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-08T09:00:28+00:00"
+    },
+    {
+      "title": "The firms turning recruitment into X Factor-style competitions",
       "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
       "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "publishedAt": "2026-09-07T23:06:14+00:00"
+      "publishedAt": "2026-09-08T07:43:15+00:00"
     },
     {
-      "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-      "description": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
-      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
+      "description": "Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the week Apple is expected to do the same. I got to try the 18 Fold behind closed doors at IFA last week, and while it looks and feels similar enough to Samsung's Galaxy Z Fold 8, superior specs make it feel [&#8230;]",
+      "url": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
+      "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
+      "url": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "publishedAt": "2026-09-07T23:05:12+00:00"
+      "publishedAt": "2026-09-08T06:49:56+00:00"
     },
     {
-      "title": "Le Creuset x Star Trek Collection: Prices, availability, release date",
+      "title": "Russell hindered or just Antonelli brilliance? - F1 Q&A",
+      "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Italian Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c8r6e663g1lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-08T06:42:09+00:00"
+    },
+    {
+      "title": "Newcastle were 'preparing for months' for Howe departure",
+      "description": "Newcastle United sporting director Ross Wilson says the club were preparing for former head coach Eddie Howe's departure for up to nine months.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly4lngg6npo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-08T06:21:00+00:00"
+    },
+    {
+      "title": "Canada’s retaliatory US tariffs take effect as trade dispute grows",
+      "description": "Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods Canada’s retaliatory tariffs on billions of dollars’ worth of American imports have come into effect, escalating a trade fight that has been marked by intensifying tensions between the US president, Do",
+      "url": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-09-08T04:00:59+00:00"
+    },
+    {
+      "title": "A&E did not get the basics right - my son's life was ruined at 32",
+      "description": "Oli's experience is one of a growing number of clinical negligence claims being made in England, BBC analysis shows.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-09-08T03:49:39+00:00"
+    },
+    {
+      "title": "Gauff's dominant win completes stacked US Open last eight",
+      "description": "Coco Gauff powers past teenage star Iva Jovic as the top six seeds reach the US Open women's quarter-finals for the first time in 28 years.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/crk368k4e42o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-08T02:59:35+00:00"
+    },
+    {
+      "title": "Phone gaming is getting a huge graphics boost",
+      "description": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's so special about that? After five years of develop",
+      "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-08T02:00:00+00:00"
+    },
+    {
+      "title": "Scientists Discover a Hidden Defect That Could Explain Why IBD Keeps Coming Back",
+      "description": "A hidden molecular defect in inflammatory bowel disease may help explain why flare-ups can return even when patients appear well. Even when inflammatory bowel disease appears under control, intestinal cells may remain primed to die. In a WEHI-led study, researchers found this hidden molecular defect",
+      "url": "https://scitechdaily.com/scientists-discover-a-hidden-defect-that-could-explain-why-ibd-keeps-coming-back/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-08T00:34:20+00:00"
+    },
+    {
+      "title": "Millions Take Blood Pressure Drugs, but Many May Be Missing Their Heart-Protective Benefits",
+      "description": "Blood pressure drugs can prevent heart attacks and strokes, but their protection may fade when too many doses are missed. New research presented at ESC Congress 2026 provides some of the clearest evidence yet that consistently taking antihypertensive medication is essential to receiving its cardiova",
+      "url": "https://scitechdaily.com/millions-take-blood-pressure-drugs-but-many-may-be-missing-their-heart-protective-benefits/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-07T23:19:18+00:00"
+    },
+    {
+      "title": "Le Creuset x Star Trek Collection: Prices, Availability, Release Date",
       "description": "Vulcan oven mitts, spaceship baking dishes, and an out-of-this-world communicator grater—you'll need warp speed to Klingon to this limited edition kitchen kit, ideal for perfecting the broth of Khan.",
       "url": "https://www.wired.com/story/to-boldly-dough-le-creuset-sent-its-new-star-trek-cooking-collection-into-space/",
       "source": "Wired",
@@ -26,32 +258,8 @@
       "publishedAt": "2026-09-07T23:00:00+00:00"
     },
     {
-      "title": "Lines stuns Zhao in English Open first round",
-      "description": "Oliver Lines seals a shock 4-2 win over world number one Zhao Xintong in the first round of the English Open.",
-      "url": "https://www.bbc.co.uk/sport/snooker/articles/c4gkdlgdw5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-07T22:45:18+00:00"
-    },
-    {
-      "title": "Rybakina sweeps past Osaka to close in on number one ranking",
-      "description": "Elena Rybakina sweeps aside two-time champion Naomi Osaka to reach the US Open quarter-finals and close in on becoming world number one.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/crk368k4e42o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-07T22:09:00+00:00"
-    },
-    {
-      "title": "Zheng stuns Swiatek after winning another set from 5-0 down",
-      "description": "Zheng Qinwen wins a set from 5-0 down for the second successive match as she shocks Iga Swiatek to reach the US Open quarter-finals.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cm2ml7xxg80o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-07T21:55:23+00:00"
-    },
-    {
-      "title": "Champions League returns - who are favourites and players to watch?",
-      "description": "The Champions League is back and BBC Sport take a look at who the favourites are to win the title plus predictions from the experts.",
+      "title": "Who are Champions League favourites and players to watch?",
+      "description": "The Champions League is back and BBC Sport takes a look at who the favourites are to win the title plus predictions from the experts.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c17j5lr8kkqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
@@ -82,30 +290,6 @@
       "publishedAt": "2026-09-07T19:04:02+00:00"
     },
     {
-      "title": "Ecclestone stopped by police for taking shotgun into Portugal",
-      "description": "Former Formula 1 boss Bernie Ecclestone says he was stopped by officials at an airport in Portugal after arriving with a shotgun he intended to use in a clay pigeon shooting competition.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-07T17:40:04+00:00"
-    },
-    {
-      "title": "Allow overseas stars to play for England - Lawes",
-      "description": "England selection should no longer be restricted to players based at domestic clubs, according to cap centurion Courtney Lawes.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5y5kd13y99o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-07T17:30:19+00:00"
-    },
-    {
-      "title": "Edu leaves Nottingham Forest after turbulent spell",
-      "description": "Global head of football Edu leaves Nottingham Forest after just over a year at the City Ground.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj06m1e3e75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-07T16:45:43+00:00"
-    },
-    {
       "title": "Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools",
       "description": "The Home Depot Labor Day sale goes hard on grills and tools. Here are our recommendations on what to buy—and what to ignore.",
       "url": "https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/",
@@ -122,32 +306,8 @@
       "publishedAt": "2026-09-07T16:33:37+00:00"
     },
     {
-      "title": "Next wins key appeal to overturn £30m equal pay ruling",
-      "description": "A judge ruled Next can pay warehouse workers more because it is harder to recruit and retain them.",
-      "url": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-07T16:25:41+00:00"
-    },
-    {
-      "title": "Chancellor calls for 'confidence about Britain' despite 'historic high' borrowing costs",
-      "description": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
-      "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-07T16:05:37+00:00"
-    },
-    {
-      "title": "Can Kane buck history and win Ballon d'Or?",
-      "description": "History suggests Ballon d’Or winners come from those who have recently lifted one of football's biggest trophies. Can Harry Kane become a rare exception?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm2gee75vz7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-07T16:03:24+00:00"
-    },
-    {
       "title": "Six years later, Sony revisits its legendary XM4 headphones",
-      "description": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, thanks to their great sound, competitive AN",
+      "description": "Six years ago, Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, thanks to their great sound, competitive A",
       "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
       "source": "The Verge",
       "category": "Technology",
@@ -162,16 +322,8 @@
       "publishedAt": "2026-09-07T15:55:43+00:00"
     },
     {
-      "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
-      "description": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
-      "url": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-07T15:41:52+00:00"
-    },
-    {
       "title": "EcoFlow makes the miniature power station even smaller",
-      "description": "If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh capacity battery while the 520 Gen4 packs in 512Wh - storing about 2.5x and 5x the energy of the largest ",
+      "description": "If you're in the market for a tiny power station that punches well above its size and weight, then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh capacity battery while the 520 Gen4 packs in 512Wh - storing about 2.5x and 5x the energy of the largest",
       "url": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
       "source": "The Verge",
       "category": "Technology",
@@ -186,52 +338,12 @@
       "publishedAt": "2026-09-07T14:40:42+00:00"
     },
     {
-      "title": "Why the 'Temu Range Rover' is such a threat to Jaguar Land Rover",
-      "description": "Job cuts come as JLR faces falling sales and intense Chinese competition while trying to switch to electric vehicles.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4l22p262o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-07T14:36:37+00:00"
-    },
-    {
-      "title": "The 57 Best Deals From the REI Labor Day Sale",
-      "description": "Labor Day already? Say it ain’t so. Today is the last day to shop the best deals on WIRED-tested outdoor gear from REI, Nemo, MSR, Coleman, and more during REI’s Labor Day sale.",
-      "url": "https://www.wired.com/story/rei-labor-day-sale-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-07T13:33:30+00:00"
-    },
-    {
-      "title": "The real reason your phone is getting more expensive",
-      "description": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sight. ",
-      "url": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-07T12:00:00+00:00"
-    },
-    {
-      "title": "Two of the Universe's Great Mysteries May Have Their Own Dimension",
-      "description": "Dark energy might be getting weaker. Scientists are wondering if interactions with dark matter in a “dark dimension” may be responsible.",
-      "url": "https://www.wired.com/story/dark-energy-matter-may-have-own-dimension/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-07T12:00:00+00:00"
-    },
-    {
       "title": "Africa’s Giant Herbivores Were Disappearing Millions of Years Before Humans Could Hunt Them",
       "description": "Africa’s giant herbivores did not simply vanish in a wave of extinctions. Their evolutionary family tree was slowly running out of new branches. A new study suggests that the long decline of animals such as elephants, hippopotamuses, and their extinct relatives was driven primarily by low rates of s",
       "url": "https://scitechdaily.com/africas-giant-herbivores-were-disappearing-millions-of-years-before-humans-could-hunt-them/",
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-09-07T11:31:55+00:00"
-    },
-    {
-      "title": "Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It.",
-      "description": "The intricate, 5.6 trillion-pixel map covers approximately 75 percent of the sky and includes about 4 billion celestial objects.",
-      "url": "https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-07T11:30:00+00:00"
     },
     {
       "title": "‘The most anti-union president’: how Trump turned his back on US workers",
@@ -250,108 +362,12 @@
       "publishedAt": "2026-09-07T11:00:03+00:00"
     },
     {
-      "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
-      "description": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level, and Mercedes has given the EQS the full Maybach t",
-      "url": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-07T11:00:00+00:00"
-    },
-    {
-      "title": "Every Samsung Galaxy Phone Comes With This Unique Add-On",
-      "description": "It’s called the Edge Panel. Here’s how to make the most of it.",
-      "url": "https://www.wired.com/story/every-samsung-galaxy-phone-comes-with-this-unique-add-on/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-07T11:00:00+00:00"
-    },
-    {
-      "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
-      "description": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
-      "url": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-07T10:30:00+00:00"
-    },
-    {
-      "title": "This Utah Mountain Is Hiding Enough Ice To Fill 600 Olympic Pools",
-      "description": "A mountain of loose rock in Utah hides enough ice to fill 600 Olympic swimming pools, revealing that some of the state’s largest frozen water reserves are almost invisible from the surface. Unlike conventional glaciers, which expose broad expanses of ice, rock glaciers resemble slowly shifting field",
-      "url": "https://scitechdaily.com/this-utah-mountain-is-hiding-enough-ice-to-fill-600-olympic-pools/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-07T10:16:31+00:00"
-    },
-    {
-      "title": "Huawei copies Samsung’s privacy display in its latest trifold",
-      "description": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first foldable to include a privacy-enhancing display, m",
-      "url": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-07T10:09:42+00:00"
-    },
-    {
-      "title": "The £70 refund letter that isn't a scam",
-      "description": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
-      "url": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-07T08:50:55+00:00"
-    },
-    {
-      "title": "Vagus Nerve Stimulation Could Unlock the Brain’s Hidden Learning Potential",
-      "description": "Practice may teach the brain a new movement, but what happens immediately afterward could determine whether that skill lasts. Scientists have long known that repetition alone does not guarantee learning. A newly practiced movement must be stabilized through memory consolidation, a process that conti",
-      "url": "https://scitechdaily.com/vagus-nerve-stimulation-could-unlock-the-brains-hidden-learning-potential/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-07T00:11:57+00:00"
-    },
-    {
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "description": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user qu",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-06T23:36:04+00:00"
-    },
-    {
-      "title": "Your Mother’s Age May Leave a Biological Mark That Lasts for Generations",
-      "description": "Maternal age effects may arise from reversible epigenetic changes whose impact depends partly on genetics and evolutionary pressures. A mother’s age can leave a biological imprint on her offspring, influencing physical and behavioral traits across many animal species, including humans. These so-call",
-      "url": "https://scitechdaily.com/your-mothers-age-may-leave-a-biological-mark-that-lasts-for-generations/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-06T22:56:50+00:00"
-    },
-    {
       "title": "BBC News presenter reveals she has blood cancer",
       "description": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
       "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-09-06T22:00:36+00:00"
-    },
-    {
-      "title": "An Amazon cargo plane crashed at Miami International Airport",
-      "description": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the aftermath of the incident",
-      "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-06T20:56:38+00:00"
-    },
-    {
-      "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
-      "description": "\"We achieved within a few years what had taken the European space industry decades before.\"",
-      "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-06T11:55:26+00:00"
-    },
-    {
-      "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
-      "description": "The shift in the fish’s diet is having significant downstream impacts on the environment and climate.",
-      "url": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-06T10:00:35+00:00"
     }
   ]
 }
