@@ -1,6 +1,238 @@
 {
-  "updatedAt": "2026-09-10T22:56:03.572811+00:00",
+  "updatedAt": "2026-09-11T13:03:50.471425+00:00",
   "articles": [
+    {
+      "title": "Assisted dying: How laws differ around the world",
+      "description": "About 400 million people have access to some form of assisted dying - what are the policies of other countries?",
+      "url": "https://www.bbc.co.uk/news/articles/c1dpwg1lq9yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-09-11T12:59:52+00:00"
+    },
+    {
+      "title": "US inflation holds steady as diesel prices pass $6 a gallon",
+      "description": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official figures.",
+      "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-11T12:54:50+00:00"
+    },
+    {
+      "title": "Pacesetter Russell says Madrid 'has less margin than Monaco'",
+      "description": "George Russell goes quickest in first practice for the Spanish Grand Prix - hours after saying the circuit has little margin for error.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cew9nr2kx20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-11T12:46:45+00:00"
+    },
+    {
+      "title": "US consumer prices stayed high in August as Iran war pushed energy costs up",
+      "description": "Annualized inflation rate was 3.4%, same as July, and core inflation, which omits energy and food prices, was up to 2.4%US consumer prices remained stubbornly high in August as the end of the ceasefire between the US and Iran pushed energy prices up, according to data from the US Bureau of Labor Sta",
+      "url": "https://www.theguardian.com/business/2026/sep/11/inflation-august-interest-rates",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-09-11T12:38:12+00:00"
+    },
+    {
+      "title": "I disrupted pre-season travel plans to prepare players - Arteta",
+      "description": "Mikel Arteta says Arsenal were ready for their midweek Champions League flight delay - because he deliberately disrupted their training and travel plans in pre-season to prepare them.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y48zdxv0ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-11T12:32:20+00:00"
+    },
+    {
+      "title": "Arizona’s lifeline for chip manufacturing is drying up",
+      "description": "Arizona, an epicenter for the bipartisan push to revive American chip manufacturing, is about to lose more than a quarter of the water it typically pulls each year from the Colorado River. The 1,400-mile waterway is a crucial lifeline for the region and other western states. A recent federal decisio",
+      "url": "https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-11T12:00:00+00:00"
+    },
+    {
+      "title": "Hull's Thomas unhurt after car crash",
+      "description": "Premier League winger Sorba Thomas's Land Rover overturns in Cottingham.",
+      "url": "https://www.bbc.co.uk/news/articles/cn8m2p4dmjro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-11T11:33:22+00:00"
+    },
+    {
+      "title": "The Worst Fires in Indonesia May Be the Ones You Can’t See",
+      "description": "Indonesia’s underground peat fires are surging under El Niño and drought, raising fears of another destructive fire season. Some fires race across the surface. Indonesia’s peat fires can do something more dangerous: disappear underground and keep burning. Tropical peatland fires develop when carbon-",
+      "url": "https://scitechdaily.com/the-worst-fires-in-indonesia-may-be-the-ones-you-cant-see/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-11T11:26:07+00:00"
+    },
+    {
+      "title": "Insta360 launches a single-lens Osmo Pocket rival you can actually buy in the US",
+      "description": "Insta360's first compact steadycam, the Luna Ultra, made a splash this year by beating DJI to launch with two lenses. Now it's followed the Ultra with a slightly stripped back Pro model, which drops to one lens but has a unique advantage: It can shoot vertical video in 4K. Plus, unlike DJI's Osmo Po",
+      "url": "https://www.theverge.com/gadgets/993837/insta360-luna-pro-steadicam-gimbal-release-price-specs",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-11T11:07:24+00:00"
+    },
+    {
+      "title": "He’s One of Just 50 People With Olive Garden’s Lifetime Pasta Pass. You Choose What He Eats Next",
+      "description": "Braden Sinclair has turned his love affair with the restaurant chain into an interactive trove of dietary data.",
+      "url": "https://www.wired.com/story/this-man-has-a-cult-internet-following-over-his-olive-garden-lifetime-pasta-pass/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-11T11:00:00+00:00"
+    },
+    {
+      "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
+      "description": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
+      "url": "https://www.wired.com/gallery/best-travel-adapters/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-11T11:00:00+00:00"
+    },
+    {
+      "title": "Alstom to build new battery-electric train fleet",
+      "description": "The government says the work will support thousands of jobs across the UK.",
+      "url": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-11T10:53:44+00:00"
+    },
+    {
+      "title": "Scientists Buried 2,000 Pairs of Underwear. What Happened Next Revealed a Hidden World",
+      "description": "By burying thousands of pairs of cotton underwear across Switzerland, scientists uncovered striking differences in biological activity from one type of land to another. The results showed that gardens had especially active soils, while lawns were much quieter underground. Soil supports the global fo",
+      "url": "https://scitechdaily.com/scientists-buried-2000-pairs-of-underwear-what-happened-next-revealed-a-hidden-world/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-11T10:51:11+00:00"
+    },
+    {
+      "title": "I Fixed a Tractor Using John Deere’s Self-Repair Service. Farmers Aren’t Sold on It",
+      "description": "The agricultural machine manufacturer has a subscription service that lets owners repair their own equipment. Why is barely anybody using it?",
+      "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-11T10:45:00+00:00"
+    },
+    {
+      "title": "We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)",
+      "description": "“Coffee” made with functional mushrooms like lion’s mane and chaga is all the rage. We tried the most popular brands to find which were the most palatable.",
+      "url": "https://www.wired.com/gallery/best-mushroom-coffee/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-11T10:33:00+00:00"
+    },
+    {
+      "title": "The Trump Alien ‘Disclosure Speech’ Rumors Are Reaching a Fever Pitch",
+      "description": "The US government has been sharing more information about UFOs. That's fueling excitement over the possibility of the president announcing that humans are not alone.",
+      "url": "https://www.wired.com/story/the-trump-alien-disclosure-speech-rumors-are-reaching-a-fever-pitch/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-11T10:30:00+00:00"
+    },
+    {
+      "title": "AI boom helps drive surprise UK growth in July",
+      "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-11T10:17:28+00:00"
+    },
+    {
+      "title": "One of Earth’s Driest Deserts Just Turned White",
+      "description": "In August 2026, a series of powerful winter storms transformed parts of northern Chile’s Atacama Desert, covering the famously dry landscape in an unusual layer of snow. Snow is not unheard of in the Atacama. Significant falls occurred in 2025 and, before that, in 2011. But one of the August 2026 st",
+      "url": "https://scitechdaily.com/one-of-earths-driest-deserts-just-turned-white/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-11T10:16:08+00:00"
+    },
+    {
+      "title": "Apple addresses iPhone Duo copycats",
+      "description": "Apple was far from the first company to announce a passport-shaped folding phone this year, but that doesn't mean it wasn't copied. As my colleague Dom Preston already explained, it's almost impossible to keep product development secret when Apple and its competitors all share the same global suppli",
+      "url": "https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-11T10:02:58+00:00"
+    },
+    {
+      "title": "How 9/11 Made Everyone a Conspiracy Theorist",
+      "description": "Crackpot theories were once the stuff of shortwave radio, but September 11 unleashed the Age of Alex Jones.",
+      "url": "https://www.wired.com/story/conspiracy-how-9-11-broke-americas-brain/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-11T10:00:00+00:00"
+    },
+    {
+      "title": "The US and Mexico Announce They’re Teaming Up Against Drones",
+      "description": "The new joint operation uses laser-based technology capable of detecting, tracking, and disabling commercial drones linked to human and drug trafficking.",
+      "url": "https://www.wired.com/story/us-and-mexico-announce-teaming-up-against-drones/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-11T09:15:00+00:00"
+    },
+    {
+      "title": "Bed at 6:45am - US Open semi-finalists fight effects of late-night finishes",
+      "description": "New York is known as the city that never sleeps. But that comes at a price for US Open stars - including men's semi-finalists Ben Shelton and Alexander Zverev.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/crk3jjp2l35o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-11T09:09:59+00:00"
+    },
+    {
+      "title": "Samsung Galaxy S26 FE Review: Same as Before, but for More Money",
+      "description": "Samsung is resting on its laurels with the midrange S26 FE, with an unwelcome price bump and only a new processor to show for it.",
+      "url": "https://www.wired.com/review/samsung-galaxy-s26-fe/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-11T09:00:00+00:00"
+    },
+    {
+      "title": "Interest rates could rise again across the world – here's why",
+      "description": "As countries grapple with energy costs pushing up inflation, this month will see how central banks respond.",
+      "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-11T08:28:47+00:00"
+    },
+    {
+      "title": "Hall signs new contract with Newcastle until 2031",
+      "description": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce9e3d5exp8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-11T08:00:07+00:00"
+    },
+    {
+      "title": "Why Nigel Benn can't walk away from Conor",
+      "description": "Nigel Benn vowed to leave son Conor to plough his own path after he beat Chris Eubank Jr, but the retired world champion is back by his side this week as he prepares to face WBC welterweight champion Ryan Garcia.",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/ced7vw99lweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-11T07:08:57+00:00"
+    },
+    {
+      "title": "Puerto Rico Went From No Drought to Extreme Drought in Just Months",
+      "description": "Puerto Rico went from no drought to widespread extreme drought in just months as rainfall collapsed and water shortages spread. Puerto Rico usually enters its wet season in May. In 2026, however, the expected rains largely failed to arrive through late August, leaving much of the U.S. territory in d",
+      "url": "https://scitechdaily.com/puerto-rico-went-from-no-drought-to-extreme-drought-in-just-months/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-10T23:17:47+00:00"
+    },
+    {
+      "title": "Can Europe recharge its battery industry?",
+      "description": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+      "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-10T23:05:47+00:00"
+    },
+    {
+      "title": "I asked my husband to pay into my pension when we had a child - here's why",
+      "description": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
+      "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-10T23:04:30+00:00"
+    },
     {
       "title": "Scientists Just Overturned a 100-Year-Old Belief About Bacteria in the Lungs",
       "description": "New findings raise questions about the role of microbes living in the lungs. More than 35 trillion bacteria live throughout the human body, forming microbiomes in the gut, mouth, lungs, skin, and urogenital tract. Researchers increasingly recognize that these microbial communities are connected to b",
@@ -10,12 +242,12 @@
       "publishedAt": "2026-09-10T22:42:36+00:00"
     },
     {
-      "title": "Two goals in two games - Sesko gives Man Utd a different threat",
-      "description": "Benjamin Sesko's return to Manchester United's starting line-up is well timed ahead of Sunday's Premier League encounter with Manchester City",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c770d63d850o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-10T22:41:17+00:00"
+      "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
+      "description": "Laptops don't usually get hot enough to burn—but they can still be harmful.",
+      "url": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-10T22:16:05+00:00"
     },
     {
       "title": "A Century-Old Mystery in Cat Kidneys May Finally Have an Answer",
@@ -34,36 +266,12 @@
       "publishedAt": "2026-09-10T21:25:21+00:00"
     },
     {
-      "title": "Labour mayors in England vow to cap tourist tax at 5%",
-      "description": "Reform UK and the Conservatives have criticised plans for the new levy on visitors' overnight stays.",
-      "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-10T21:22:06+00:00"
-    },
-    {
-      "title": "England captain Jones calls for fertility support",
-      "description": "England captain Meg Jones wants the Red Roses to have access to fertility support and egg freezing.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ce9er3xdgvdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-10T21:18:57+00:00"
-    },
-    {
-      "title": "Man United put four past Sabah on Champions League return",
+      "title": "Man Utd put four past Sabah on Champions League return",
       "description": "Manchester United recorded their biggest Champions League victory since 2020 as they swept Sabah FK aside at Old Trafford.",
       "url": "https://www.bbc.co.uk/sport/football/videos/crl600nz58lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
       "publishedAt": "2026-09-10T21:01:24+00:00"
-    },
-    {
-      "title": "Alstom to build new battery-electric train fleet",
-      "description": "The government says the work will support thousands of jobs across the UK.",
-      "url": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-10T21:00:33+00:00"
     },
     {
       "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
@@ -72,22 +280,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-09-10T20:55:29+00:00"
-    },
-    {
-      "title": "Is AI Actually Going to Kill Us All?",
-      "description": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-10T20:30:37+00:00"
-    },
-    {
-      "title": "August 2026 Was the Hottest Month Ever Recorded: Copernicus Data",
-      "description": "While the strengthening El Niño helped boost temperatures, climate change is the main culprit for making August so hot.",
-      "url": "https://www.wired.com/story/august-2026-is-hottest-month-ever-recorded/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-10T20:20:23+00:00"
     },
     {
       "title": "Schools are catching on to Big Tech’s playbook",
@@ -106,12 +298,12 @@
       "publishedAt": "2026-09-10T19:09:29+00:00"
     },
     {
-      "title": "2030 Winter Olympics boss departs amid turmoil",
-      "description": "Edgar Grospiron leaves his position as president of the organising committee for the 2030 French Alps Winter Olympics just 18 months after his appointment.",
-      "url": "https://www.bbc.co.uk/sport/articles/c980dgv6vyqo?at_medium=RSS&at_campaign=rss",
+      "title": "Sutton's predictions v Dorking Wanderers manager Marc White",
+      "description": "BBC Sport football expert Chris Sutton takes on Dorking Wanderers manager Marc White, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1dlnq215zeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-09-10T18:50:11+00:00"
+      "publishedAt": "2026-09-10T18:47:34+00:00"
     },
     {
       "title": "Android can now securely migrate your logins between password managers",
@@ -162,44 +354,12 @@
       "publishedAt": "2026-09-10T17:49:32+00:00"
     },
     {
-      "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-      "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-10T17:38:31+00:00"
-    },
-    {
       "title": "Kimmel's ABC show won't air interview with Democrat because of Trump FCC threats",
       "description": "Talarico talk to be on YouTube to save ABC stations the hassle of dealing with FCC.",
       "url": "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-09-10T17:30:09+00:00"
-    },
-    {
-      "title": "Hamilton and Leclerc 'squash' Monza controversy",
-      "description": "Lewis Hamilton says he and Ferrari team-mate Charles Leclerc have \"squashed\" any controversy between them from the Italian Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg825g59l1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-10T17:27:04+00:00"
-    },
-    {
-      "title": "Black Hole Winds Are 100 Times More Powerful Than Astronomers Thought",
-      "description": "Astronomers once thought winds generated by supermassive black holes affected only their host galaxies, but a recent study found that their energy can also reach surrounding galaxies. Winds from a supermassive black hole can carry energy far beyond the galaxy that contains it. New observations show ",
-      "url": "https://scitechdaily.com/black-hole-winds-are-100-times-more-powerful-than-astronomers-thought/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-10T17:14:11+00:00"
-    },
-    {
-      "title": "England march to early win over Pakistan held up by rain",
-      "description": "Harry Brook, Dan Lawrence, Jamie Smith and Ollie Robinson all post half-centuries on day two of the third Test for England, with rain the only respite for a Pakistan side trailing by 268.",
-      "url": "https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-10T17:05:35+00:00"
     },
     {
       "title": "Amazon’s Fire TV Stick 4K is over half off at under $20",
@@ -210,36 +370,12 @@
       "publishedAt": "2026-09-10T16:58:44+00:00"
     },
     {
-      "title": "Drones deliver food and remove bodies after Nepal’s flood disaster",
+      "title": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
       "description": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
       "url": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-09-10T16:53:52+00:00"
-    },
-    {
-      "title": "England's push for two-day win halted by weather",
-      "description": "England's charge towards a two-day victory in the final Test against Pakistan is only halted by rain at Edgbaston.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c980dgvp2qeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-10T16:44:58+00:00"
-    },
-    {
-      "title": "Which iPhone 18 Model Should You Buy?",
-      "description": "Apple’s new folding iPhone Duo is finally here, alongside refreshed Pro models. Our primer has all the details you need to choose the iPhone 18 that’s right for you.",
-      "url": "https://www.wired.com/story/which-apple-iphone-18-models-to-buy/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-10T16:30:00+00:00"
-    },
-    {
-      "title": "Best Robot Lawn Mowers (2026): 12+ Models Tested Over 3 Years",
-      "description": "Smart mowers are an expensive alternative to old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch a robot tame your lawn.",
-      "url": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-10T16:04:02+00:00"
     },
     {
       "title": "Electric air taxis get the green light for test flights in Texas",
@@ -258,54 +394,6 @@
       "publishedAt": "2026-09-10T15:38:19+00:00"
     },
     {
-      "title": "Where to preorder the new Apple Watch Series 12 and Ultra 4",
-      "description": "The iPhone Duo was the unequivocal star of Apple's \"Surprise and shine\" event, but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about its new Apple Watch Series 12 and Ultra 4. There's no update to the SE model for 2026, which isn't nece",
-      "url": "https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-10T15:00:00+00:00"
-    },
-    {
-      "title": "Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game",
-      "description": "Marvel's Wolverine captures just how angry its lead character is. The latest PS5 exclusive from Spider-Man developer Insomniac, Wolverine is a straightforward action game that is at its best when you're (literally) slicing through enemies or thrust into a sequence pulled from a blockbuster movie, li",
-      "url": "https://www.theverge.com/games/992937/wolverine-review-ps5",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-10T15:00:00+00:00"
-    },
-    {
-      "title": "Meta’s Muse AI works and creeps me out",
-      "description": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see ho",
-      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-10T15:00:00+00:00"
-    },
-    {
-      "title": "Charlie Kirk Was Shot a Year Ago. The Conspiracy Theories Are More Rampant Than Ever",
-      "description": "Experts say conspiracy theorizing about the identity and motive of Charlie Kirk’s killer will likely continue for a long time to come.",
-      "url": "https://www.wired.com/story/charlie-kirk-was-shot-a-year-ago-the-conspiracy-theories-are-more-rampant-than-ever/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-10T14:34:36+00:00"
-    },
-    {
-      "title": "GB return after pregnancy 'hard to put into words' - Kinsella",
-      "description": "A year after giving birth, Alice Kinsella takes the latest step on her groundbreaking return to gymnastics at an international meeting for Great Britain.",
-      "url": "https://www.bbc.co.uk/sport/gymnastics/articles/cly59z2yjpjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-10T14:33:10+00:00"
-    },
-    {
-      "title": "Cutting Two Amino Acids Slowed Prostate Cancer in Mice",
-      "description": "A newly identified link between amino acid metabolism and cholesterol production may help prostate tumors adapt to hormone therapy. Prostate cancer can find ways around treatments designed to deprive tumors of the hormones they need to grow. Weill Cornell Medicine investigators have now traced one p",
-      "url": "https://scitechdaily.com/cutting-two-amino-acids-slowed-prostate-cancer-in-mice/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-10T14:05:19+00:00"
-    },
-    {
       "title": "The Odyssey and Spider-Man propel record-breaking summer box office worldwide",
       "description": "The biggest May to September of all time was recorded in US cinemas, with the UK enjoying a 56% rise in audiences, outstripped by an 88% lift in the Middle East and AfricaAs well as celebrating their wedding, the actors Tom Holland and Zendaya have something else to toast: their two summer blockbust",
       "url": "https://www.theguardian.com/film/2026/sep/10/the-odyssey-and-spider-man-make-for-record-breaking-summer-box-office-worldwide",
@@ -322,14 +410,6 @@
       "publishedAt": "2026-09-10T13:34:17+00:00"
     },
     {
-      "title": "Strength Training May Be the Secret to Healthy Aging",
-      "description": "Strength training helps protect independence in aging by preserving the muscle needed for daily movement, balance, and resilience. Healthy aging means staying independent, moving well, and continuing to take part in daily life as the years pass. For many people, the most meaningful signs of good hea",
-      "url": "https://scitechdaily.com/strength-training-may-be-the-secret-to-healthy-aging/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-10T13:30:46+00:00"
-    },
-    {
       "title": "ECB raises interest rates to 2.5% and warns Iran war is fuelling inflation",
       "description": "Borrowing costs climb in Europe and oil tops $105 a barrel as bank says growing price pressures in eurozone will be ‘longer lasting than we had anticipated’Business live – latest updatesThe European Central Bank has raised interest rates to 2.5% and warned that the risk of higher inflation over the ",
       "url": "https://www.theguardian.com/business/2026/sep/10/ecb-raises-interest-rates-to-25-amid-warning-iran-war-is-fuelling-inflation",
@@ -338,60 +418,12 @@
       "publishedAt": "2026-09-10T13:10:15+00:00"
     },
     {
-      "title": "“Cancer Melted Away”: Immunotherapy Delivers Striking Results in Bowel Cancer Trial",
-      "description": "Pre-surgery immunotherapy kept a group of bowel cancer patients cancer-free for nearly three years, while personalized blood tests helped predict treatment response. Patients with a specific form of bowel cancer who received a short course of immunotherapy before surgery, rather than chemotherapy af",
-      "url": "https://scitechdaily.com/cancer-melted-away-immunotherapy-delivers-striking-results-in-bowel-cancer-trial/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-10T12:55:53+00:00"
-    },
-    {
-      "title": "Artemis II commander and pilot become NASA's first astronaut emeriti",
-      "description": "\"Artemis II is done.\"",
-      "url": "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-10T11:30:42+00:00"
-    },
-    {
-      "title": "Best Bluetooth Speaker (2026): JBL, Sonos, Marshall, and More",
-      "description": "I tested portable speakers of all shapes and sizes, from pocket to party-sized.",
-      "url": "https://www.wired.com/story/best-bluetooth-speakers/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-10T11:00:00+00:00"
-    },
-    {
-      "title": "‘Killmonger Locs’ Are Everywhere in Video Games. This Artist Is Sick of It",
-      "description": "The Black Panther villain’s hairstyle has become a default for Black video game characters because it’s easy to code. Danielle Udogaranya is changing that.",
-      "url": "https://www.wired.com/story/killmonger-locs-have-infiltrated-video-games-this-artist-is-sick-of-it/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-10T10:45:00+00:00"
-    },
-    {
-      "title": "Everything New You Can Do With Siri AI",
-      "description": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
-      "url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-10T10:30:00+00:00"
-    },
-    {
       "title": "Primark finally set to launch home deliveries",
       "description": "The retailer launches the service four years after making its first foray into internet shopping.",
       "url": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-09-10T10:02:26+00:00"
-    },
-    {
-      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-      "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
-      "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-10T09:32:34+00:00"
     },
     {
       "title": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
@@ -418,22 +450,6 @@
       "publishedAt": "2026-09-10T00:01:35+00:00"
     },
     {
-      "title": "Why some experts increasingly fear AI will take over",
-      "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-      "url": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-09T23:17:33+00:00"
-    },
-    {
-      "title": "The one thing you need to do to succeed - according to top bosses",
-      "description": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
-      "url": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-09T23:02:20+00:00"
-    },
-    {
       "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
       "description": "Brent crude up by more than 3% after latest fire between US and Iran in Gulf and Houthi attacks on Saudi citiesThe price of oil has risen above $100 a barrel for the first time since July as the escalating conflict in the Middle East threatens further disruption to global supplies.Brent crude, the i",
       "url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
@@ -448,30 +464,6 @@
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-09-09T19:07:53+00:00"
-    },
-    {
-      "title": "Electronic shelf labels likely to cost jobs and drive up grocery prices, US report warns",
-      "description": "AFL-CIO calls for ban on such labels to protect consumers and workers from surveillance pricing and job cutsThe universal adoption of electronic shelf labels in grocery stores across the US could cost tens of thousands of jobs and billions of dollars in lost wages while further driving up grocery co",
-      "url": "https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-09-09T11:00:07+00:00"
-    },
-    {
-      "title": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
-      "description": "Trump responds after Canada imposes $20bn in retaliatory tariffs and Canadian PM vows to diversify trade abroadThe US is banning dairy products, most alcoholic beverages and motorcycles from Canada, the White House said on Tuesday, as the trade war between the two neighbors and longtime allies escal",
-      "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-09-08T23:59:37+00:00"
-    },
-    {
-      "title": "Very hot drinks may damage the food pipe and increase cancer risk",
-      "description": "Steaming hot liquid can damage the cell lining on the way down to the stomach, experts say.",
-      "url": "https://www.bbc.co.uk/news/articles/ce3r77d9n90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-09-08T23:30:39+00:00"
     }
   ]
 }
