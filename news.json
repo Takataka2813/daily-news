@@ -1,6 +1,318 @@
 {
-  "updatedAt": "2026-09-15T13:55:05.740180+00:00",
+  "updatedAt": "2026-09-15T23:23:37.504740+00:00",
   "articles": [
+    {
+      "title": "The extreme engineering of aircraft windows",
+      "description": "Few companies have the technology to make aircraft windows which are getting harder to make.",
+      "url": "https://www.bbc.co.uk/news/articles/c0lr69zeyrwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-15T23:19:38+00:00"
+    },
+    {
+      "title": "We are all new job starters - here's how we got through the first few days",
+      "description": "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-15T23:14:26+00:00"
+    },
+    {
+      "title": "Complaints to watchdog about water firms jump 84%",
+      "description": "Many complaints were about affordability, after customers saw steep hikes to bills.",
+      "url": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-15T23:14:08+00:00"
+    },
+    {
+      "title": "Mysterious Gamma Rays Reveal Hidden Magnetism Inside Atomic Nuclei",
+      "description": "Scientists have traced a decades-old gamma-ray mystery to hidden magnetic transitions inside atomic nuclei. For decades, nuclear physicists have faced a puzzling question: why do some atomic nuclei release far more low-energy gamma rays than expected? A new study led by the Facility for Rare Isotope",
+      "url": "https://scitechdaily.com/mysterious-gamma-rays-reveal-hidden-magnetism-inside-atomic-nuclei/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-15T22:56:04+00:00"
+    },
+    {
+      "title": "Let them ref the games and be humans - Andrews",
+      "description": "After Brentford overcame Reading to reach the Carabao Cup fourth round, head coach Keith Andrews believes the video assistant referee (VAR) is preventing referees from making decisions in matches.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cxj06nmjl3l6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-15T22:50:30+00:00"
+    },
+    {
+      "title": "Messi in Argentina squad for farewell friendly",
+      "description": "Argentina name Lionel Messi in their squad for a friendly against Benin in October in a match which is set to be the forward's farewell to international football.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8ly49lv3vx1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-15T22:50:04+00:00"
+    },
+    {
+      "title": "'Superstar' Dowman shows his class - but Arsenal know caution is needed",
+      "description": "Max Dowman shines with two goals against Ipswich Town - but boss Mikel Arteta warns Arsenal cannot rush his development.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c54g7w2jz77mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-15T22:26:50+00:00"
+    },
+    {
+      "title": "The Physics That Curves a Ping-Pong Ball Just Showed Up in Quantum Light",
+      "description": "Researchers have directly observed the optical Magnus effect for the first time, revealing a tiny shift in laser interactions that could affect the precise control of qubits in quantum computers. Anyone who has watched a spinning soccer ball curve around a defensive wall has seen what happens when s",
+      "url": "https://scitechdaily.com/the-physics-that-curves-a-ping-pong-ball-just-showed-up-in-quantum-light/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-15T22:21:17+00:00"
+    },
+    {
+      "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
+      "description": "Jensen Huang's stance on AI safety contrasts with several current and former employees of AI-focused firm",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-15T22:13:10+00:00"
+    },
+    {
+      "title": "Brook likened to Pietersen in SL win - how do they compare?",
+      "description": "Harry Brook hits a brutal century and draws comparisons with Kevin Pietersen as England thrash Sri Lanka by 119 runs in the first T20 in Southampton.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmd94elvw7wvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-15T21:46:02+00:00"
+    },
+    {
+      "title": "Brook & Baker shine as England crush Sri Lanka",
+      "description": "Harry Brook hit 114 not out in the first innings set up England with a total of 254 proving to difficult for Sri Lanka to chase leading to a England win by 119 runs after bowling out Sri Lanka.",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/cv70dl8301xyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-15T21:15:35+00:00"
+    },
+    {
+      "title": "Letby hospital consultant says inquiry makes for grim reading",
+      "description": "The Thirlwall Inquiry finds some babies could have been saved if action had been taken earlier.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-09-15T20:43:08+00:00"
+    },
+    {
+      "title": "Microsoft announces Windows and Surface event for October 7th",
+      "description": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a \"conversation on how local AI will shape the next chapter of the [&#",
+      "url": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-15T20:36:59+00:00"
+    },
+    {
+      "title": "What if social media isn’t hurting kids?",
+      "description": "Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The book posits that the rise of social media and smartphone use is largely to blame for the prominent decline in teen mental health since 2010. It quickly became a central rallying cry o",
+      "url": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-15T20:13:30+00:00"
+    },
+    {
+      "title": "US treasury secretary hails government’s buy back of bonds a success",
+      "description": "On Tuesday, the 10-year treasury rate yield reached a 19-year high at 5.041%, even as investors wary Iran war falloutScott Bessent, the US treasury secretary, claimed the government’s massive buyback of US bonds was a success.The claim came as the 10-year treasury yield reached a 19-year high on Tue",
+      "url": "https://www.theguardian.com/business/2026/sep/15/scott-bessent-bonds-buyback",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-09-15T19:50:18+00:00"
+    },
+    {
+      "title": "US borrowing costs hit highest level since 2007",
+      "description": "The effective interest rate on US government bonds over 10 years, known as the 10-year Treasury yield, has risen as high as 5.04% but has eased back since.",
+      "url": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-15T19:35:10+00:00"
+    },
+    {
+      "title": "Tuchel regrets not eating Azteca turf after win over Mexico",
+      "description": "Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's epic World Cup win against Mexico.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-15T19:25:48+00:00"
+    },
+    {
+      "title": "Why Your Immune System Weakens With Age Is More Complicated Than Scientists Thought",
+      "description": "A new study reveals how aging changes the immune system in complex ways and identifies potential targets for healthier aging. Why does immunity weaken with age, and does that decline happen the same way throughout the body? Researchers at USC approached that question by looking across the body rathe",
+      "url": "https://scitechdaily.com/why-your-immune-system-weakens-with-age-is-more-complicated-than-scientists-thought/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-15T19:06:40+00:00"
+    },
+    {
+      "title": "18-year-old dies of measles in PA from severe neurological complication",
+      "description": "Teen developed acute disseminated encephalomyelitis, a known measles complication.",
+      "url": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-15T18:58:09+00:00"
+    },
+    {
+      "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
+      "description": "Reaching orbit would mark a significant milestone.",
+      "url": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-15T18:48:08+00:00"
+    },
+    {
+      "title": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
+      "description": "You may not know it, but minivans are making a comeback in the US. Look around, and you'll start to notice an uptick in these breadboxes on wheels. Sales were up 21 percent in 2025, suggesting that the humble minivan is shaking off its \"uncool\" stigma and finding new fans among an SUV-weary public. ",
+      "url": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-15T18:39:44+00:00"
+    },
+    {
+      "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+      "description": "Robots can start working outside physical cages and without safety barriers.",
+      "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-15T18:33:02+00:00"
+    },
+    {
+      "title": "Nighttime Light May Make Your Heart Thicker and Stiffer",
+      "description": "Exposure to light at night may be linked to potentially harmful changes in the heart’s structure and performance, according to a study involving more than 11,000 people. The findings were published in the European Heart Journal on September 9. The research was led by Professor Lu Qi of Tulane Univer",
+      "url": "https://scitechdaily.com/nighttime-light-may-make-your-heart-thicker-and-stiffer/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-15T18:31:04+00:00"
+    },
+    {
+      "title": "Boston dumps Flock, says it shared data nationwide in violation of contract",
+      "description": "City: Flock enabled \"nationwide lookup\" despite contract requiring it to be disabled.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-15T18:14:11+00:00"
+    },
+    {
+      "title": "One of the best 3D printers for beginners is almost $100 off",
+      "description": "If the high price tag of premium 3D printers have kept you from exploring the hobby, this deal is a great entry point. Elegoo has its Centauri Carbon 2 Combo on sale for $369, almost $100 off its usual price of $449. This capable 3D printer can handle four filament rolls at once, with a [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-15T18:02:30+00:00"
+    },
+    {
+      "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
+      "description": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
+      "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-15T18:00:09+00:00"
+    },
+    {
+      "title": "Demand for EV chargers is outstripping supply, says ChargePoint report",
+      "description": "EV growth is happening, even in the US, and those EVs will need plugs to charge.",
+      "url": "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-15T17:58:09+00:00"
+    },
+    {
+      "title": "Scientists Find a Potential “Root” of Alzheimer’s Disease",
+      "description": "Alzheimer’s may begin to unravel the brain when a small group of neurons switches on a receptor it was never meant to use, triggering damage that spreads from synapses to memories. Alzheimer’s disease is often defined by amyloid plaques and tau tangles, but those hallmarks are part of a much wider b",
+      "url": "https://scitechdaily.com/scientists-find-a-potential-root-of-alzheimers-disease/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-15T17:56:54+00:00"
+    },
+    {
+      "title": "Could AI really wipe out humanity – six experts spell out the risks",
+      "description": "We examine claims and counterclaims about the risks and calls to slow down the pace of AI developmentThere have been some shocking claims in recent days about AI safety: we face a 10% chance of doom; AIs are worse than nukes; a “botnet” threatens the entire internet; it’s all a big tech psyop.Below,",
+      "url": "https://www.theguardian.com/technology/2026/sep/15/could-ai-really-wipe-out-humanity-and-hijack-the-internet",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-09-15T17:54:48+00:00"
+    },
+    {
+      "title": "The FBI Doubles Down on Easing ‘Bestiality’ Hiring Standards",
+      "description": "FBI director Kash Patel claimed to US senators that the removal of a bar on hiring people who had engaged in bestiality was aimed at protecting sexual assault survivors.",
+      "url": "https://www.wired.com/story/the-fbi-doubles-down-on-easing-bestiality-hiring-standards/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-15T17:50:40+00:00"
+    },
+    {
+      "title": "VAR did not even consider if Fernandez was offside - Webb",
+      "description": "Referees' chief Howard Webb has admitted that the video assistant referee (VAR) did not even consider whether Enzo Fernandez was offside for Erling Haaland's controversial winner in Sunday's Manchester derby.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv4g5rp56p55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-15T17:42:20+00:00"
+    },
+    {
+      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+      "description": "You can’t always tell if someone is recording you with their smart glasses, but your phone can help.",
+      "url": "https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-15T17:16:01+00:00"
+    },
+    {
+      "title": "Letby failings go beyond one hospital - the whole system has been found lacking",
+      "description": "Inquiry chair Lady Justice Thirlwall set out how the culture of the health system created the conditions that enabled poor care and criminality.",
+      "url": "https://www.bbc.co.uk/news/articles/ckrer2738v8vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-09-15T16:51:43+00:00"
+    },
+    {
+      "title": "How The Oregon Trail became a generational icon",
+      "description": "Whether you played it in the back of your classroom or on your computer at home, if you were a kid in the last 30 years you almost certainly grew up playing The Oregon Trail. On the season 5 premiere of Version History, our fearless wagon leader David Pierce is joined by gaming journalist Chris [&#8",
+      "url": "https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-15T16:18:10+00:00"
+    },
+    {
+      "title": "Vintage Violence is an absurdist crime thriller for phone addicts",
+      "description": "There are a lot of movies that have tried to seamlessly integrate modern tech - text messages, livestreams, etc. - into their storytelling. Some of the most novel attempts have been in the genre space, like the Twitch-style horror flick Deadstream. But the most chaotic to date might just be Vintage ",
+      "url": "https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-15T16:00:00+00:00"
+    },
+    {
+      "title": "Join WIRED@Night for an Uncanny Valley Live Recording on Women, Tech, and Power",
+      "description": "An evening of podcasting in San Francisco (with a discount for WIRED readers).",
+      "url": "https://www.wired.com/story/come-see-uncanny-valley-live/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-15T16:00:00+00:00"
+    },
+    {
+      "title": "Now Light’s minimalist phone can easily call an Uber",
+      "description": "More than a decade after its Kickstarter proposed a \"cell phone designed to be used as little as possible,\" Light is adding a direct connection to Uber and Lyft with a new Rideshare tool. For owners of either the Light Phone III or the upcoming Light Flip, they can use it to find pick up [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-15T15:00:00+00:00"
+    },
+    {
+      "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+      "description": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers",
+      "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-15T15:00:00+00:00"
+    },
+    {
+      "title": "Scientists Turn Sunlight Into Quantum Entanglement",
+      "description": "Scientists have turned ordinary sunlight into a source of quantum entanglement, opening a surprising path toward more energy-efficient quantum technology. Quantum technologies often depend on powerful lasers that consume significant amounts of energy. As these systems grow larger and more widespread",
+      "url": "https://scitechdaily.com/scientists-turn-sunlight-into-quantum-entanglement/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-15T14:23:06+00:00"
+    },
     {
       "title": "Hubble Discovers a Mysterious 10-Sided Wave Forming on Saturn",
       "description": "A giant 10-sided wave is emerging around Saturn’s south pole, giving scientists a rare chance to watch a planetary weather pattern take shape. NASA’s Hubble Space Telescope has detected a huge, evolving atmospheric wave with 10 sides wrapped around Saturn’s south pole. It is the first time scientist",
@@ -10,28 +322,20 @@
       "publishedAt": "2026-09-15T13:48:54+00:00"
     },
     {
-      "title": "Sterling admits dangerous driving after M3 crash",
-      "description": "The former England winger crashed a Lamborghini into motorway barriers in May.",
-      "url": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-15T13:45:12+00:00"
-    },
-    {
-      "title": "This doorbell camera lets a human security guard watch your front door",
-      "description": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This combines AI analysis wit",
-      "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-      "source": "The Verge",
+      "title": "Trump EPA moves to wipe out climate rules for power plants",
+      "description": "EPA says power plant emissions have no material impact on climate change.",
+      "url": "https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/",
+      "source": "Ars Technica",
       "category": "Technology",
-      "publishedAt": "2026-09-15T13:36:45+00:00"
+      "publishedAt": "2026-09-15T13:43:51+00:00"
     },
     {
-      "title": "Youth star JJ Gabriel, 15, on brink of leaving Man Utd",
-      "description": "Manchester United's highly-rated 15-year-old forward JJ Gabriel is on the verge of leaving the club.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c95y4dxr0v6do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-15T13:33:09+00:00"
+      "title": "GM gives its most important trucks a new UI—and includes CarPlay",
+      "description": "The new look debuts in the 2027 Chevrolet Silverado and 2027 GMC Sierra pickup trucks.",
+      "url": "https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-15T13:27:57+00:00"
     },
     {
       "title": "Scientists Discover the Moon May Have Formed in Just Five Hours",
@@ -50,52 +354,12 @@
       "publishedAt": "2026-09-15T13:06:00+00:00"
     },
     {
-      "title": "Voicemod’s new pocket-friendly device brings real-time voice changing to your phone",
-      "description": "Voicemod announced a new mobile device that expands the capabilities of the Voicemod Key dongle it launched in late 2024 as a way to bring the company's real-time voice changing tech to consoles. While the older Voicemod Key only used a smartphone as an interface between the company's mobile app and",
-      "url": "https://www.theverge.com/tech/994828/voicemod-voice-changer-key-pocket-ios-android-soundboard",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-15T13:00:00+00:00"
-    },
-    {
-      "title": "The premium AirPods 5 are the best open-ear earbuds Apple has made",
-      "description": "It's almost a guarantee that the new version of a product will be, at best, the same price as the old one, and often (especially in the past couple years) more expensive. But that's not what Apple did with the AirPods 5. The $149 AirPods 5 with Wireless Charging Case are $30 cheaper than the [&#8230",
-      "url": "https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-15T13:00:00+00:00"
-    },
-    {
-      "title": "London loses bid to host 2029 World Athletics as Nairobi named host",
-      "description": "London has lost to Nairobi in its bid to host the World Athletics Championships in 2029, while the 2031 event will be held in Munich.",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/crwyzvyn0p3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-15T12:39:22+00:00"
-    },
-    {
       "title": "This Atlantic hurricane season is about to do something that hasn't happened in 175 years",
       "description": "But there may be a price to pay for a quiet Atlantic hurricane season.",
       "url": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-09-15T12:36:11+00:00"
-    },
-    {
-      "title": "Pidcock and Backstedt lead GB at Road Worlds",
-      "description": "Great Britain's best cycling talents including Tom Pidcock and Zoe Backstedt will lead the charge at the Road World Championships - live on the BBC.",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/cvkgw997kwgwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-15T12:31:04+00:00"
-    },
-    {
-      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-      "description": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
-      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-15T12:00:41+00:00"
     },
     {
       "title": "Assisted dying: How laws differ around the world",
@@ -106,36 +370,12 @@
       "publishedAt": "2026-09-15T11:29:53+00:00"
     },
     {
-      "title": "McBurnie & seven uncapped players in Scotland squad",
-      "description": "Hull City forward Oli McBurnie is called up to the Scotland squad for the first time in five years while seven uncapped make new head coach Sebastien Pocognoli's first selection.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq770klrzmvyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-15T11:23:30+00:00"
-    },
-    {
-      "title": "Brazilian Tree Compounds Fight COVID-19 on Multiple Fronts",
-      "description": "Scientists found compounds in a Brazilian tree that hit SARS-CoV-2 on multiple fronts, revealing a promising new lead in the search for COVID-19 treatments. Researchers have found that galloylquinic acids extracted from the leaves of Copaifera lucens Dwyer, a tree native to Brazil and found mainly i",
-      "url": "https://scitechdaily.com/brazilian-tree-compounds-fight-covid-19-on-multiple-fronts/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-15T11:16:47+00:00"
-    },
-    {
       "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
       "description": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
       "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-09-15T11:05:42+00:00"
-    },
-    {
-      "title": "GM updates its trucks’ native software to coexist with CarPlay",
-      "description": "General Motors is polishing up the software experience in its bestselling trucks in an effort to reduce the amount of dangerous tapping and swiping that's required to access the most-used controls. It's also giving Apple CarPlay and Android Auto spiffy new picture-in-picture displays - which is nota",
-      "url": "https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-15T11:00:00+00:00"
     },
     {
       "title": "Why the Postpandemic Tech Bust Sent Billionaires to Trump",
@@ -154,60 +394,12 @@
       "publishedAt": "2026-09-15T10:45:00+00:00"
     },
     {
-      "title": "Scientists Reveal Who Really Benefits From a Heart Calcium Scan",
-      "description": "A popular heart scan may be unnecessary for many patients but valuable for those whose risk is difficult to judge. Coronary artery calcium scanning has become an increasingly accessible way to refine estimates of heart attack and stroke risk. Yet a Northwestern Medicine study involving more than 6,0",
-      "url": "https://scitechdaily.com/scientists-reveal-who-really-benefits-from-a-heart-calcium-scan/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-15T10:41:02+00:00"
-    },
-    {
       "title": "Those Viral Bodega Peptides Aren’t Actually Peptides",
       "description": "WIRED tested samples of four types of peptides. The results show how lightly regulated the industry is, even as popularity surges.",
       "url": "https://www.wired.com/story/viral-bodega-peptides-tests-show-they-arent-peptides-oops/",
       "source": "Wired",
       "category": "Technology",
       "publishedAt": "2026-09-15T10:30:00+00:00"
-    },
-    {
-      "title": "The Census Bureau Is Overrun With Staffers From a MAGA Think Tank",
-      "description": "The US Census is home to vast troves of sensitive data on nearly every person living in the country, which is used for apportioning and drawing congressional districts as well as allocating federal funding based on population sizes.",
-      "url": "https://www.wired.com/story/a-trump-aligned-think-tank-focused-on-voting-rights-has-taken-over-the-census-bureau/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-15T10:15:00+00:00"
-    },
-    {
-      "title": "What Really Disappears When You Lose Weight on GLP-1 Drugs?",
-      "description": "Most weight lost with GLP-1 obesity drugs came from fat, while relative muscle mass was largely preserved. GLP-1 obesity drugs can lead to substantial weight loss, but an important question is what the body is actually losing. New research presented at the European Congress on Obesity (ECO2026) sugg",
-      "url": "https://scitechdaily.com/what-really-disappears-when-you-lose-weight-on-glp-1-drugs/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-15T10:06:41+00:00"
-    },
-    {
-      "title": "Lawmakers Want States to Crack Down on Flock Cameras—or Pay the Price",
-      "description": "A new bipartisan effort in Congress to rein in automated license plate readers takes a page from the national drinking age: Comply, or risk losing federal highway funding.",
-      "url": "https://www.wired.com/story/lawmakers-want-states-to-crack-down-on-flock-cameras-or-pay-the-price/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-15T10:00:00+00:00"
-    },
-    {
-      "title": "If the US Collapses Soon, Don’t Blame Emily St. John Mandel",
-      "description": "Emily St. John Mandel’s 2014 novel, Station Eleven, turned her into something of a pandemic prophet. Her new novel, Exit Party, imagines two possible American futures—totalitarian state and post-civil-war chaos.",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-emily-st-john-mandel-exit-party/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-15T10:00:00+00:00"
-    },
-    {
-      "title": "A New Headset to Help With Depression Is Now Available in the US",
-      "description": "The device made by Flow Neuroscience is approved by the FDA and could help people get off antidepressants—but it costs $2,200.",
-      "url": "https://www.wired.com/story/flow-neuroscience-headset-help-depression-available-in-us/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-15T09:30:00+00:00"
     },
     {
       "title": "Sweeney ad a barrier for girls in sport - Hunt",
@@ -218,84 +410,12 @@
       "publishedAt": "2026-09-15T09:22:10+00:00"
     },
     {
-      "title": "Spurs' Richarlison posts crying emoji after being left out of Liverpool tie",
-      "description": "Richarlison publicly expresses his displeasure at Roberto de Zerbi's decision to leave him out of Tottenham's squad for Tuesday's Carabao Cup tie against Liverpool.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmrl6errl1p6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-15T09:12:53+00:00"
-    },
-    {
-      "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
-      "description": "Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this month, but it also introduced some bugs that have affected businesses, developers, ",
-      "url": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-15T08:54:48+00:00"
-    },
-    {
       "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
       "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
       "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-09-15T08:49:31+00:00"
-    },
-    {
-      "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
-      "description": "The refreshed Volvos also get new infotainment systems with Gemini onboard.",
-      "url": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-15T07:00:30+00:00"
-    },
-    {
-      "title": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
-      "description": "Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30-50 miles of battery-only range: decent, but not mind-blowing. With hybrid sales dominating the market today, Volvo is out to prove that its PHEVs can push the limits of what's possible. Today, the Swedish automaker reveal",
-      "url": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-15T07:00:00+00:00"
-    },
-    {
-      "title": "How did they get the Madring track so wrong? - F1 Q&A",
-      "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Spanish Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c4g7pljy4neo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-15T06:49:52+00:00"
-    },
-    {
-      "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
-      "description": "The cuts comes into effect in April, but the largest businesses will pay higher rates to fund the changes.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-15T05:13:08+00:00"
-    },
-    {
-      "title": "For the first time, the US military confirms it has deployed weapons in orbit",
-      "description": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"",
-      "url": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-15T03:47:36+00:00"
-    },
-    {
-      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
-      "description": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
-      "url": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-15T02:50:36+00:00"
-    },
-    {
-      "title": "Nickel Catalysts Don’t Work the Way Scientists Thought",
-      "description": "A hidden atomic structure formed on nickel oxide could enable powerful methane catalysts that use 10 times less nickel. Producing syngas efficiently from methane could become easier with a better understanding of what actually drives the reaction at the atomic level. Partial oxidation of methane (PO",
-      "url": "https://scitechdaily.com/nickel-catalysts-dont-work-the-way-scientists-thought/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-15T00:58:13+00:00"
     },
     {
       "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
@@ -306,54 +426,6 @@
       "publishedAt": "2026-09-15T00:32:21+00:00"
     },
     {
-      "title": "A Material Just a Few Atoms Thick Reveals Strange New Magnetism",
-      "description": "A material once thought to be nonmagnetic may reveal a hidden magnetic side when made just a few atomic layers thick. A newly proposed class of magnetism known as altermagnetism could open new possibilities for making computer memory smaller and more efficient. Now, researchers have found evidence t",
-      "url": "https://scitechdaily.com/a-material-just-a-few-atoms-thick-reveals-strange-new-magnetism/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-15T00:23:17+00:00"
-    },
-    {
-      "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
-      "description": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out \"how and when we can deliver something like that,\" Valv",
-      "url": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-15T00:13:47+00:00"
-    },
-    {
-      "title": "A Quantum Computer Could Make Electron Microscopes Far More Powerful",
-      "description": "A new invention could significantly improve electron microscopy by integrating a small quantum computer directly into the microscope. For delicate samples such as individual proteins, electron microscopy faces a fundamental tradeoff. Producing a clearer image generally requires sending more electron",
-      "url": "https://scitechdaily.com/a-quantum-computer-could-make-electron-microscopes-far-more-powerful/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-14T23:48:11+00:00"
-    },
-    {
-      "title": "I got paid $5,000 to move to a place I'd never heard of",
-      "description": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
-      "url": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-14T23:08:28+00:00"
-    },
-    {
-      "title": "Pubs in England and Wales to allow digital ID apps to prove age",
-      "description": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-14T23:07:56+00:00"
-    },
-    {
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "description": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontie",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-14T22:59:41+00:00"
-    },
-    {
       "title": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
       "description": "Donald Trump dismisses attempts to increase controls on artificial intelligence as ‘sick conspiracy’ AI-linked stocks tumbled on Monday after the bosses of Anthropic, OpenAI and SpaceX called for a slowdown in AI “reckless” development, citing fears the technology could soon run out of control.Share",
       "url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
@@ -362,52 +434,12 @@
       "publishedAt": "2026-09-14T22:10:52+00:00"
     },
     {
-      "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
-      "description": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
-      "url": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-14T22:06:24+00:00"
-    },
-    {
-      "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
-      "description": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
-      "url": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-14T21:32:22+00:00"
-    },
-    {
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "description": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-14T21:04:32+00:00"
-    },
-    {
       "title": "The Pitt is up for 25 Emmys - but the show's biggest fans are real-life doctors",
       "description": "Those in the medical profession say the HBO Max show about a US hospital emergency room is the most realistic medical drama yet.",
       "url": "https://www.bbc.co.uk/news/articles/clyqx0e175ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-09-14T20:39:48+00:00"
-    },
-    {
-      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-      "description": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-14T19:45:13+00:00"
-    },
-    {
-      "title": "Government set to nationalise troubled steel firm",
-      "description": "Production at SSUK sites in South Yorkshire and the West Midlands was paused earlier this year.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-14T19:06:46+00:00"
     },
     {
       "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
@@ -424,14 +456,6 @@
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-09-14T15:19:26+00:00"
-    },
-    {
-      "title": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development",
-      "description": "Rare show of unity from rival developers after safety warnings from Anthropic boss and AI researchersAnalysis: critics perplexed and suspicious of call for a slowdownThe Guardian view: humanity cannot outsource its survivalSam Altman and Elon Musk have backed a call from the head of Anthropic, Dario",
-      "url": "https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-09-13T14:02:24+00:00"
     }
   ]
 }
