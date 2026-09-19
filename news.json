@@ -1,6 +1,158 @@
 {
-  "updatedAt": "2026-09-18T23:01:39.468060+00:00",
+  "updatedAt": "2026-09-19T12:44:02.832055+00:00",
   "articles": [
+    {
+      "title": "Depression May Change What Children Notice in Other People’s Faces",
+      "description": "A new eye-tracking study reveals how depression shapes children’s attention to happy and sad faces. Depression may change which emotions hold a child’s attention, with the pattern differing according to whether their mother has experienced depression. A study from Binghamton University, State Univer",
+      "url": "https://scitechdaily.com/depression-may-change-what-children-notice-in-other-peoples-faces/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-19T12:18:13+00:00"
+    },
+    {
+      "title": "Cancer’s Hidden Antioxidant Shield Helps It Escape the Immune System",
+      "description": "Blocking an antioxidant protein that tumors use to suppress immune attacks improved cancer immunotherapy responses in mice. Cancer cells can release antioxidants that interfere with the immune cells trying to kill them. Researchers have discovered how this chemical defense works, raising the possibi",
+      "url": "https://scitechdaily.com/cancers-hidden-antioxidant-shield-helps-it-escape-the-immune-system/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-19T11:43:07+00:00"
+    },
+    {
+      "title": "Learning another language may be one of the best ways to keep your brain healthy",
+      "description": "Research suggests that bilingualism can offer cognitive benefits.",
+      "url": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-19T11:10:43+00:00"
+    },
+    {
+      "title": "A Little-Known Protein Could Point to a New Way To Treat Alzheimer’s",
+      "description": "A study suggests that increasing SORLA protein levels could help treat Alzheimer’s disease and other disorders involving tau protein. Increasing SORLA, a protein with a protective role in the brain, helped mice withstand damage from tau tangles, the toxic protein clumps associated with Alzheimer’s d",
+      "url": "https://scitechdaily.com/a-little-known-protein-could-point-to-a-new-way-to-treat-alzheimers/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-19T11:08:18+00:00"
+    },
+    {
+      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+      "description": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+      "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-19T11:00:00+00:00"
+    },
+    {
+      "title": "Tired of Cluttered Productivity Apps? This One’s Just a Text Document",
+      "description": "The totally free macOS app Tasks.txt makes up for missing features with sheer elegance.",
+      "url": "https://www.wired.com/story/productivity-app-tasks-txt-is-just-a-text-document/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-19T10:30:00+00:00"
+    },
+    {
+      "title": "Samsung Galaxy Watch9 Review: I Don’t Need Another Health Score",
+      "description": "Samsung’s latest smartwatch offers useful health tracking alongside a growing pile of metrics you may never use.",
+      "url": "https://www.wired.com/review/samsung-galaxy-watch9/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-19T10:08:00+00:00"
+    },
+    {
+      "title": "Rings around a tiny body have changed over the past decade",
+      "description": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
+      "url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-19T10:00:06+00:00"
+    },
+    {
+      "title": "An Editor’s Picks: The Best Gifts for Bird Lovers",
+      "description": "Whether they’re into feeders, field guides, or games, these tried-and-tested picks are sure to land perfectly.",
+      "url": "https://www.wired.com/story/best-gifts-for-bird-lovers-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-19T10:00:00+00:00"
+    },
+    {
+      "title": "Mathematicians Hate AI. They Can’t Quit It",
+      "description": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+      "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-19T10:00:00+00:00"
+    },
+    {
+      "title": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
+      "description": "Amazon Prime Big Deal Days officially begin on October 6 and 7, but I’ve already spotted early discounts on gear our team recommends.",
+      "url": "https://www.wired.com/story/amazon-prime-day-early-deals-09-29-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-19T09:39:00+00:00"
+    },
+    {
+      "title": "Residents Harmed by Oil Drilling May Soon Receive Reparations Under New California Law",
+      "description": "While lawmakers iron out the details, advocates hope this approach could serve as a model for addressing histories of environmental hazards often concentrated in Black and low-income neighborhoods.",
+      "url": "https://www.wired.com/story/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-new-california-law/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-19T09:30:00+00:00"
+    },
+    {
+      "title": "6 Best VPN Services (2026), Tested and Reviewed",
+      "description": "Every VPN says it’s the best, but only some of them are telling the truth.",
+      "url": "https://www.wired.com/gallery/best-vpn/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-19T09:00:00+00:00"
+    },
+    {
+      "title": "Wales deliver performance of serious promise",
+      "description": "Wales have set themselves a new standard after clocking up a half-century of points in their WXV opener against South Africa.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c862e4g7346lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-19T08:40:35+00:00"
+    },
+    {
+      "title": "The man who would be king - the rise and fall of 'the next Prince Naseem'",
+      "description": "Touted as the king to Naseem Hamed's prince, Daniel Teasdale's story is instead a cautionary tale.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ye0l17dnjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-19T06:35:46+00:00"
+    },
+    {
+      "title": "New Membrane Removes Nearly 100% of Ammonia From Wastewater in Minutes",
+      "description": "A new electrically powered filter can strip nearly all ammonia nitrogen from wastewater in just over a minute while also breaking down carbon-based pollution. Researchers have developed an electro-filtration process that uses chlorine oxide radicals (·ClO) generated inside a specialized membrane to ",
+      "url": "https://scitechdaily.com/new-membrane-removes-nearly-100-of-ammonia-from-wastewater-in-minutes/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-19T02:12:17+00:00"
+    },
+    {
+      "title": "The Surprising Reason Snake Embryos Coil to the Right",
+      "description": "A mismatch in growth between a snake embryo’s body and gut may explain why its first coils consistently turn to the right. As a snake embryo grows inside its egg, its increasingly long body curls into a spiral before it has muscles to move. New research suggests that the gut helps shape those first ",
+      "url": "https://scitechdaily.com/the-surprising-reason-snake-embryos-coil-to-the-right/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-19T01:37:35+00:00"
+    },
+    {
+      "title": "Scientists Turn Plastic Waste Into Protein-Rich Cookies",
+      "description": "Specialized microbes convert inedible materials into protein-rich snacks. A cookie made partly from molecules derived from plastic waste sounds more like a warning than a food experiment. But researchers at Southern Illinois University Carbondale are using engineered yeast to transform components of",
+      "url": "https://scitechdaily.com/scientists-turn-plastic-waste-into-protein-rich-cookies/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-19T01:02:21+00:00"
+    },
+    {
+      "title": "Trump bans CNN, MS Now and Politico from White House",
+      "description": "President has overseen an unprecedented restriction of access for major news media since start of second termUS politics live – latest updatesIn his latest attack on the US constitution’s first amendment and the press, Donald Trump abruptly announced that he is banning outlets CNN, MS Now and Politi",
+      "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-bans-cnn-msnow-politico-white-house",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-09-18T23:04:30+00:00"
+    },
     {
       "title": "Hodgkinson powers to Athlos win in speed suit",
       "description": "Keely Hodgkinson powers to victory in a full-body speed suit before being presented with a Tiffany & Co crown as Athlos makes its London debut.",
@@ -10,12 +162,20 @@
       "publishedAt": "2026-09-18T23:00:14+00:00"
     },
     {
-      "title": "Chelsea miss Joao Pedro... and can't stop conceding goals",
-      "description": "Chelsea's problem was defending, but with Joao Pedro ruled out through injury, scoring goals has also become an issue.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm0qx3yv8z42o?at_medium=RSS&at_campaign=rss",
+      "title": "Kane makes history and Olise nets hat-trick as Bayern thrash Union Berlin",
+      "description": "HHarry Kane makes history by becoming the fastest player to reach 100 Bundesliga goals in his 98th game, while Michael Olise nets a hat-trick as Bayern Munich thrash Union Berlin 7-0.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck4gle1ep647o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-09-18T22:39:24+00:00"
+      "publishedAt": "2026-09-18T22:34:20+00:00"
+    },
+    {
+      "title": "Man City strike late to beat Liverpool and maintain perfect start",
+      "description": "Man City come out on top of a thrilling WSL encounter against Liverpool, requiring two goals in the closing stages of the game to seal a 4-2 win, their third victory in three league fixtures so far this season.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvlyl0dg98zpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-18T22:06:52+00:00"
     },
     {
       "title": "Brentford stay unbeaten as they put three past Chelsea",
@@ -26,28 +186,12 @@
       "publishedAt": "2026-09-18T22:00:19+00:00"
     },
     {
-      "title": "Trump bans CNN, MS Now and Politico from the White House",
-      "description": "US president has overseen an unprecedented restriction of access for major traditional news media since start of second termUS politics live – latest updatesIn his latest attack on the US constitution’s first amendment and the press, Donald Trump abruptly announced that he is banning outlets CNN, MS",
-      "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-bans-cnn-msnow-politico-white-house",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-09-18T21:56:13+00:00"
-    },
-    {
-      "title": "Arsenal open to Dowman loan in right circumstances",
-      "description": "Arsenal are open to allowing teenage prodigy Max Dowman to leave the club on loan this term if it aids his development.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go?at_medium=RSS&at_campaign=rss",
+      "title": "Hodgkinson dazzles to win Athlos 800m",
+      "description": "Great Britain's Keely Hodgkinson powers clear of the pack to win the Athlos 800m while sporting a unique, all black custom speed suit.",
+      "url": "https://www.bbc.co.uk/sport/athletics/videos/cmx2zrlyrx1yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-09-18T21:30:38+00:00"
-    },
-    {
-      "title": "Littler survives scare to progress at World Series Finals",
-      "description": "World number one Luke Littler survives a first-round scare to overcome Danny Noppert in a thrilling World Series of Darts Finals match in Amsterdam.",
-      "url": "https://www.bbc.co.uk/sport/darts/articles/c62l8wnd45xpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-18T21:29:55+00:00"
+      "publishedAt": "2026-09-18T21:07:30+00:00"
     },
     {
       "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
@@ -58,28 +202,12 @@
       "publishedAt": "2026-09-18T21:07:24+00:00"
     },
     {
-      "title": "A weight off Igor Thiago's shoulders - Brentford v Chelsea ratings",
-      "description": "Brentford climb to third in the Premier League with a 2-0 victory over Chelsea - here are BBC Sport's player ratings.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm046x9l6d6po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-18T20:57:06+00:00"
-    },
-    {
-      "title": "Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap",
-      "description": "The Ultra 4 gets smarter about health tracking and lasts longer between charges. But for most people, the Series 12 gets close enough.",
-      "url": "https://www.wired.com/review/apple-watch-ultra-4/",
-      "source": "Wired",
+      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "description": "But the military's overall use of AI seems to be accelerating.",
+      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "source": "Ars Technica",
       "category": "Technology",
-      "publishedAt": "2026-09-18T19:36:48+00:00"
-    },
-    {
-      "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
-      "description": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
-      "url": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-18T19:21:09+00:00"
+      "publishedAt": "2026-09-18T20:26:33+00:00"
     },
     {
       "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
@@ -90,12 +218,20 @@
       "publishedAt": "2026-09-18T19:20:50+00:00"
     },
     {
-      "title": "McIlroy in mix heading into weekend at Wentworth",
-      "description": "Rory McIlroy stays in contention with a five-under 67 to sit four strokes behind second-round leader Ryan Gerard at the BMW PGA Championship at Wentworth.",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/c94gm0gg6mm7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-18T19:05:25+00:00"
+      "title": "Computer Scientist Pushes a 1996 Algorithm Beyond Its Longstanding Limit",
+      "description": "A new algorithm solves a blind spot that has challenged computer scientists since 1996, improving distance estimates for nearby points in massive networks. Navigation apps usually solve one route at a time, such as finding the fastest way from a hotel to an airport. Computer scientists face a far la",
+      "url": "https://scitechdaily.com/computer-scientist-pushes-a-1996-algorithm-beyond-its-longstanding-limit/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-18T19:04:40+00:00"
+    },
+    {
+      "title": "New Findings Could Help Build Computers That Think More Like Your Brain",
+      "description": "Scientists have filmed a crystal of tiny magnetic vortices melting and reshaping in real time, a breakthrough that could bring ultra-efficient computers closer to reality. A crystal does not have to be made of atoms. In ultrathin magnetic materials, tiny whirlpools of magnetism known as skyrmions ca",
+      "url": "https://scitechdaily.com/new-findings-could-help-build-computers-that-think-more-like-your-brain/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-18T18:29:57+00:00"
     },
     {
       "title": "Virginia governor creates an AI task force and moves to restrain data centers",
@@ -186,14 +322,6 @@
       "publishedAt": "2026-09-18T16:35:19+00:00"
     },
     {
-      "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
-      "description": "TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle.",
-      "url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-18T16:00:00+00:00"
-    },
-    {
       "title": "Flight chaos caused by 'millisecond' software defect, report says",
       "description": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
       "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
@@ -218,22 +346,6 @@
       "publishedAt": "2026-09-18T15:12:41+00:00"
     },
     {
-      "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
-      "description": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
-      "url": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-18T15:00:08+00:00"
-    },
-    {
-      "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
-      "description": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
-      "url": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-18T15:00:00+00:00"
-    },
-    {
       "title": "Warren Buffett steps down as chair of Berkshire Hathaway after over 50 years",
       "description": "‘Father Time always wins,’ Buffett, 96, says as his son, Howard, steps in as the $1tn conglomerate’s new chairWarren Buffett is stepping down as chair of Berkshire Hathaway, the company that he took from a faltering textile manufacturer into a $1tn conglomerate over the course of 60 years.Buffett’s ",
       "url": "https://www.theguardian.com/business/2026/sep/18/warren-buffett-steps-down-berkshire-hathaway",
@@ -248,38 +360,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-09-18T13:56:57+00:00"
-    },
-    {
-      "title": "Researchers used Claude to hack OpenAI",
-      "description": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
-      "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-18T13:30:12+00:00"
-    },
-    {
-      "title": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
-      "description": "The satirical collaboration between a creative studio and the music producer behind Big Data, “Bezzy” is a cute little doll that spews the sounds of real data centers.",
-      "url": "https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-18T13:30:00+00:00"
-    },
-    {
-      "title": "Oxford apologise for United 93 shirt advert",
-      "description": "Oxford United apologises for the image, which features the call sign of one of the planes used in the 9/11 attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/cmr4v5v3zzr7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-18T13:05:31+00:00"
-    },
-    {
-      "title": "Meta’s Copyright System Is Being Weaponized Against Albanian Protesters",
-      "description": "After three months of daily anti-government protests—dubbed the Flamingo Revolution—the sudden mass suspension of Instagram accounts has led to fears of brigading against demonstrators.",
-      "url": "https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-18T13:00:00+00:00"
     },
     {
       "title": "British Steel plan lacks credibility, MPs say",
@@ -298,28 +378,12 @@
       "publishedAt": "2026-09-18T11:49:46+00:00"
     },
     {
-      "title": "Best Gifts for Mom (2026): E-Readers, Digital Wall Calendar, Smart Bird Feeders",
-      "description": "From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.",
-      "url": "https://www.wired.com/story/best-gifts-for-moms-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-18T11:07:00+00:00"
-    },
-    {
       "title": "Workers in New York seek to create first AutoZone union as company resists",
       "description": "Company may have spent about $200,000 to fight union effort in White Plains, where 11 people can vote to join UAWWorkers at an AutoZone in White Plains, New York, are seeking to become the first store at the US’s largest auto parts retailer to win a union election, set to begin 25 September, despite",
       "url": "https://www.theguardian.com/us-news/2026/sep/18/autozone-new-york-union",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-09-18T11:00:17+00:00"
-    },
-    {
-      "title": "Rocket Report: China wants a Raptor 3 engine; SpaceX set for big Starship test",
-      "description": "“I can tell you SpaceX has already gone captive.\"",
-      "url": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-18T11:00:11+00:00"
     },
     {
       "title": "We bought our £242,000 home without a deposit - here's how",
@@ -346,14 +410,6 @@
       "publishedAt": "2026-09-17T23:00:47+00:00"
     },
     {
-      "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
-      "description": "The USPSTF sets insurance coverage for preventive services, like colonoscopies.",
-      "url": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-17T22:31:28+00:00"
-    },
-    {
       "title": "Andy Burnham urged to set dementia waiting-time target",
       "description": "An 18‑week referral‑to‑treatment target has been backed by England's former national cancer director.",
       "url": "https://www.bbc.co.uk/news/articles/c50m3glzppgpo?at_medium=RSS&at_campaign=rss",
@@ -368,22 +424,6 @@
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-09-17T13:32:00+00:00"
-    },
-    {
-      "title": "Trump and Rubio allies are vying for control of Cuba’s assets if regime falls",
-      "description": "Washington and Florida insiders are exploring lucrative deals for a post-communist Cuba crushed by ever-increasing US sanctionsSpanish hotel chains. A Canadian mining firm. European shipping giants. Visa and Mastercard. Scores of foreign companies have been driven out of Cuba this summer over fear o",
-      "url": "https://www.theguardian.com/us-news/2026/sep/17/trump-marco-rubio-cuba",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-09-17T11:00:48+00:00"
-    },
-    {
-      "title": "Trump threatens to stop trading with EU over ‘laughable’ membership offer to Canada",
-      "description": "US president responds as Mark Carney seeks to move closer to Europe and diversify defence tiesEurope live – latest updatesDonald Trump has threatened the EU with “serious tariffs” and a halt to trade after the bloc proposed making Canada its first ever associate member – an idea he derided as “laugh",
-      "url": "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-09-17T08:25:32+00:00"
     }
   ]
 }
