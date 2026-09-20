@@ -1,6 +1,158 @@
 {
-  "updatedAt": "2026-09-20T13:15:25.526244+00:00",
+  "updatedAt": "2026-09-20T22:58:34.737253+00:00",
   "articles": [
+    {
+      "title": "Match of the Day",
+      "description": "With Man City v Sunderland and Andoni Iraola’s return to Bournemouth with Liverpool",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0031yfv?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-20T22:42:02+00:00"
+    },
+    {
+      "title": "Scientists Discover Trees Have a Hidden “Muscle” That Helps Them Straighten Themselves",
+      "description": "Young poplar trees can sense bends in their stems and straighten them by changing where they grow wood that pulls like a muscle. Young poplar trees can straighten a bent stem even without light or gravity to guide them. In an experiment that removed those directional cues, the trees corrected their ",
+      "url": "https://scitechdaily.com/scientists-discover-trees-have-a-hidden-muscle-that-helps-them-straighten-themselves/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-20T21:01:51+00:00"
+    },
+    {
+      "title": "No Dogs in Space is back to feed your need for obsessive music history",
+      "description": "In August, I wrote about my love of the music history podcast No Dogs in Space, but mourned the fact that there hadn't been a new episode in over two years. Little did I know that hosts Carolina Hidalgo and Marcus Parks were gearing up to announce the show's return with season four, Punk 2.0. [&#823",
+      "url": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-20T20:51:57+00:00"
+    },
+    {
+      "title": "Scientists Digitize One of the World’s Rarest Animals Before It Disappears",
+      "description": "Researchers have turned a fragile vaquita skeleton into freely accessible 3D models, preserving detailed anatomy as the porpoise nears extinction. Only an estimated handful of vaquitas (Phocoena sinus) remain in the shallow waters of Mexico’s northern Gulf of California, the only place this small po",
+      "url": "https://scitechdaily.com/scientists-digitize-one-of-the-worlds-rarest-animals-before-it-disappears/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-20T20:26:44+00:00"
+    },
+    {
+      "title": "Astronomers Expected More Tiny Worlds Beyond Neptune – Webb Found Something Else",
+      "description": "Tiny icy bodies beyond Neptune are scarcer than some models predicted, and their colors suggest they may preserve traces of their formation. Far beyond Neptune, astronomers expected to find more small, icy bodies than their deepest survey revealed. These trans-Neptunian objects, or TNOs, are remnant",
+      "url": "https://scitechdaily.com/astronomers-expected-more-tiny-worlds-beyond-neptune-webb-found-something-else/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-20T19:51:19+00:00"
+    },
+    {
+      "title": "Neville calls Man Utd 'pathetic' - but Carrick maintains belief",
+      "description": "Gary Neville calls Manchester United \"pathetic\", but boss Michael Carrick maintains belief after salvaging draw at Fulham.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmly4pe6yrqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-20T19:44:15+00:00"
+    },
+    {
+      "title": "What have we learned from the Premier League so far?",
+      "description": "BBC Sport takes a look at the opening weeks of the Premier League season as a long international break arrives.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvp8d4116zglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-20T19:08:10+00:00"
+    },
+    {
+      "title": "Cunha's late strike denies Fulham first league win of season",
+      "description": "Matheus Cunha's deflected strike in the 89th minute rescues a point for Manchester United and denies Fulham their first Premier League win of the season.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqpve80lwem9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-20T19:00:29+00:00"
+    },
+    {
+      "title": "Man City beat Sunderland in eight-goal thriller to go three points clear",
+      "description": "Manchester City beat Sunderland 5-3 in a thrilling Etihad encounter, to go three points clear at the top of the Premier League table.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmq5x78j0y1lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-20T19:00:25+00:00"
+    },
+    {
+      "title": "Liverpool boss Iraola makes winning return to Bournemouth",
+      "description": "Liverpool manager Andoni Iraola makes a winning return to his former side Bournemouth, with the Reds securing a 1-0 win at the Vitality Stadium courtesy of a second-half goal from Alexander Isak.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmp3k277095do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-20T19:00:21+00:00"
+    },
+    {
+      "title": "Leeds continue unbeaten start in league with draw against Palace",
+      "description": "Leeds United maintain their unbeaten start to their Premier League campaign thanks to a hard-earned goalless draw at home against Crystal Palace.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c39w4nydl1dzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-20T19:00:17+00:00"
+    },
+    {
+      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "description": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the [&#8230;]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-20T18:50:18+00:00"
+    },
+    {
+      "title": "Kojima Productions disputes reports the studio is in trouble",
+      "description": "After it was announced that Sony was dropping Hideo Kojima's Physint, and that instead the Metal Gear Solid creator's latest title would be coming to Xbox, there were a flurry of rumors about the falling out. Bloomberg reported that the decision was driven by a number of factors, including missed de",
+      "url": "https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-20T18:15:10+00:00"
+    },
+    {
+      "title": "Five Very Different Diseases May Share a Hidden Biological Link",
+      "description": "The findings suggest that chronic fatigue syndrome (ME/CFS), long COVID, posttraumatic stress disorder (PTSD), rheumatoid arthritis, and multiple sclerosis (MS) may share underlying biological mechanisms. An infection and a traumatic experience have little in common, yet both can be followed by last",
+      "url": "https://scitechdaily.com/five-very-different-diseases-may-share-a-hidden-biological-link/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-20T15:47:04+00:00"
+    },
+    {
+      "title": "Trump now says he wants to form an ‘AI Force’",
+      "description": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any w",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-20T15:39:22+00:00"
+    },
+    {
+      "title": "Scientists Link “Lonely” Sleep Waves to Memory Decline With Age",
+      "description": "As tau builds up in the brain, the brain waves that help form memories during non-REM sleep become irregular. You’ve finished grocery shopping and are ready to get home and start dinner. Then you reach the parking lot and realize you cannot remember where you left the car. You parked it only a short",
+      "url": "https://scitechdaily.com/scientists-link-lonely-sleep-waves-to-memory-decline-with-age/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-20T15:12:52+00:00"
+    },
+    {
+      "title": "Ed Davey calls for immediate 10p cut to fuel duty",
+      "description": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
+      "url": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-20T14:42:42+00:00"
+    },
+    {
+      "title": "Scientists Discover New Compound That Burns Fat Without Killing Your Appetite",
+      "description": "Unlike GLP-1 drugs, which suppress appetite and reduce energy intake, a newly identified molecular compound helps cells burn more energy without changing food intake or exercise and has shown promise in mouse models. The most successful new obesity drugs largely work by helping people eat less. Rese",
+      "url": "https://scitechdaily.com/scientists-discover-new-compound-that-burns-fat-without-killing-your-appetite/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-20T14:37:37+00:00"
+    },
+    {
+      "title": "Lib Dems vow to end 'computer says no' economy to boost growth",
+      "description": "Deputy leader Daisy Cooper also proposes a Growth and Defence Partnership with the EU in a speech to her party conference.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrk31k7pprlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-20T14:05:15+00:00"
+    },
     {
       "title": "A24’s reputation is on the line with the SCP Foundation movie",
       "description": "After the success of Backrooms, it looks like A24 is trying to cash in on yet another internet horror craze with a new installment in the V/H/S horror anthology series set in the SCP Foundation universe. But as soon as it was announced, the backlash started, and V/H/S: SCP already appears to be on s",
@@ -34,14 +186,6 @@
       "publishedAt": "2026-09-20T12:00:00+00:00"
     },
     {
-      "title": "All roads lead to cable",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on streaming platforms, FAST channels, and the future of entertainment, follow Charles Pulliam-Moore. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. Ho",
-      "url": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-20T12:00:00+00:00"
-    },
-    {
       "title": "Australia’s Indigenous Population May Have Been Far Larger Before Colonization Than Historians Thought",
       "description": "New estimates suggest Australia’s Indigenous population was much larger before European colonization and declined by roughly 93% between 1788 and 1861. European colonization of Australia began in 1788 with the arrival of Britain’s First Fleet. By the time early censuses counted Indigenous people, di",
       "url": "https://scitechdaily.com/australias-indigenous-population-may-have-been-far-larger-before-colonization-than-historians-thought/",
@@ -66,14 +210,6 @@
       "publishedAt": "2026-09-20T11:22:21+00:00"
     },
     {
-      "title": "Lib Dems vow to end 'computer says no' economy to boost growth",
-      "description": "Deputy leader Daisy Cooper also proposes a Growth and Defence Partnership with the EU in a speech to her party conference.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrk31k7pprlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-20T11:21:34+00:00"
-    },
-    {
       "title": "Thermacell LIV 2.0 Review: Taking My Yard Back",
       "description": "Thermacell LIV 2.0 is expensive and imperfect, but it outperforms nearly every mosquito-control method I’ve tried.",
       "url": "https://www.wired.com/review/thermacell-liv-smart-mosquito-repellent-system-2/",
@@ -90,20 +226,20 @@
       "publishedAt": "2026-09-20T11:07:00+00:00"
     },
     {
+      "title": "‘Do you have to be dead?’: US coalminers plead for benefits as black-lung disease cases surge",
+      "description": "Trump says he digs coal – but pneumoconiosis cases are at a 50-year high, and sick miners are mired in benefit delaysFor 38 years, Josh Armes worked as a coal miner in West Virginia and Virginia.After retirement, Armes, 74, of Grundy, Virginia, was diagnosed with black lung disease, medically known ",
+      "url": "https://www.theguardian.com/us-news/2026/sep/20/us-coalminers-black-lung-disease",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-09-20T11:00:16+00:00"
+    },
+    {
       "title": "Welcome to Dogs Anonymous, the Online Support Group for People With Difficult Dogs",
       "description": "“This is a place where you can come and say, I fucking hate my dog today,” a Dogs Anonymous cofounder tells WIRED. “And there are people who are going to be like, yeah, that was me last Tuesday.”",
       "url": "https://www.wired.com/story/inside-dogs-anonymous-the-online-support-group-for-people-with-difficult-dogs/",
       "source": "Wired",
       "category": "Technology",
       "publishedAt": "2026-09-20T11:00:00+00:00"
-    },
-    {
-      "title": "Mount Vesuvius Buried These Scrolls for 2,000 Years – Now Scientists May Read Them",
-      "description": "Researchers recreated a damaged ancient scroll to test a new way to study the past. Lead in ancient ink could help researchers read the Herculaneum papyri, Roman scrolls buried when Mount Vesuvius erupted in 79 CE. Many are now too brittle to open, and reading them with X-rays poses its own problem.",
-      "url": "https://scitechdaily.com/mount-vesuvius-buried-these-scrolls-for-2000-years-now-scientists-may-read-them/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-20T10:49:31+00:00"
     },
     {
       "title": "Chiltern Railways renationalised after 30 years",
@@ -162,36 +298,12 @@
       "publishedAt": "2026-09-20T09:38:00+00:00"
     },
     {
-      "title": "Ed Davey calls for immediate 10p cut to fuel duty",
-      "description": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
-      "url": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-20T09:32:50+00:00"
-    },
-    {
       "title": "What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That",
       "description": "Understanding how ChatGPT’s latest memory upgrade works will help you get even more out of OpenAI’s productivity tool.",
       "url": "https://www.wired.com/story/how-to-use-memory-in-chatgpt/",
       "source": "Wired",
       "category": "Technology",
       "publishedAt": "2026-09-20T09:30:00+00:00"
-    },
-    {
-      "title": "Townsend run over by pitch roller in Thailand",
-      "description": "Former England winger Andros Townsend jokes that playing Stoke away \"wasn't so bad after all\" following a bizarre incident before a game in Thailand.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr93e70xv21ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-20T09:08:43+00:00"
-    },
-    {
-      "title": "Littler could boycott Dutch events over booing",
-      "description": "Luke Littler threatens a boycott of playing in the Netherlands after being booed and whistled at the World Series of Darts Finals in Amsterdam.",
-      "url": "https://www.bbc.co.uk/sport/darts/articles/cr5ye91l200go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-20T09:03:56+00:00"
     },
     {
       "title": "T. rex teeth indicate it ran as warm as an elephant",
@@ -202,38 +314,6 @@
       "publishedAt": "2026-09-20T09:00:11+00:00"
     },
     {
-      "title": "A New Helium Measurement Is Testing the Universe’s First Five Minutes",
-      "description": "Large Binocular Telescope data cut helium measurement uncertainty threefold. Helium, a light chemical element, carries clues to what the universe was like during its first five minutes. To read that record, an international team turned to 15 small, remote galaxies whose chemistry has changed very li",
-      "url": "https://scitechdaily.com/a-new-helium-measurement-is-testing-the-universes-first-five-minutes/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-20T03:21:31+00:00"
-    },
-    {
-      "title": "Fastest Star Ever Found in the Milky Way Is Racing Around Our Galaxy’s Black Hole",
-      "description": "The fastest known star in the Milky Way could give astronomers their first direct measurement of the spin of Sagittarius A*. Near the center of the Milky Way, a star is racing around Sagittarius A* at speeds reaching 25 000 km/s. Named S301, it is the fastest known star in our galaxy and passes clos",
-      "url": "https://scitechdaily.com/fastest-star-ever-found-in-the-milky-way-is-racing-around-our-galaxys-black-hole/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-20T02:46:28+00:00"
-    },
-    {
-      "title": "The Asteroid That Killed the Dinosaurs Was Stranger Than We Thought",
-      "description": "Scientists are narrowing down the type of space rock that caused the mass extinction at the end of the Cretaceous period, and new research suggests it was no ordinary rock. The Chicxulub impactor, the space rock that struck what is now Mexico 66 million years ago, left behind an enormous crater but ",
-      "url": "https://scitechdaily.com/the-asteroid-that-killed-the-dinosaurs-was-stranger-than-we-thought/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-20T02:11:26+00:00"
-    },
-    {
-      "title": "Gender Imbalances in College Majors Are More Complicated Than They Appear",
-      "description": "Researchers find that differences in academic preparation and interest in a major do not fully explain why some groups are underrepresented or less likely to stay in that field of study. Engineering and computer science draw far more men than women, but the size of that gap depends partly on student",
-      "url": "https://scitechdaily.com/gender-imbalances-in-college-majors-are-more-complicated-than-they-appear/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-19T23:08:27+00:00"
-    },
-    {
       "title": "Not all AI workers think the tech could kill everyone",
       "description": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
       "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
@@ -242,84 +322,12 @@
       "publishedAt": "2026-09-19T23:01:57+00:00"
     },
     {
-      "title": "A Snapped Rib in the World’s Largest T. rex Preserved an Extraordinary Secret",
-      "description": "A snapped rib reveals that Scotty, the largest Tyrannosaurus rex skeleton ever found, survived long enough for his body to begin repairing the damage. Scientists examining Scotty, the largest T. rex skeleton ever discovered, found an extraordinary network of mineralized blood vessels inside one of h",
-      "url": "https://scitechdaily.com/a-snapped-rib-in-the-worlds-largest-t-rex-preserved-an-extraordinary-secret/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-19T22:33:23+00:00"
-    },
-    {
-      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-      "description": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazin",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-19T20:44:40+00:00"
-    },
-    {
-      "title": "Coventry earn first points of season in dramatic win over Forest",
-      "description": "Jay Dasilva's strike proves the difference as Coventry earn their first Premier League win since returning to the top flight.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmly4g0rqzwwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-19T19:14:53+00:00"
-    },
-    {
-      "title": "Everton's unbeaten run continues with win over 10-man Ipswich",
-      "description": "Unbeaten Everton move up to fifth in the Premier League, with Thierno Barry's goal making the difference against 10-man Ipswich Town.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmvgy397e5qzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-19T19:00:21+00:00"
-    },
-    {
-      "title": "Newcastle hold off Hull at St James' Park",
-      "description": "Newcastle United hold off a late Hull City fightback to seal a narrow 2-1 win.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckrer0yl0qjjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-19T19:00:14+00:00"
-    },
-    {
       "title": "Brighton cruise past Arsenal to end champions' perfect start",
       "description": "Brighton secure a 3-0 victory over Premier League champions Arsenal to inflict the Gunners' first defeat of the season.",
       "url": "https://www.bbc.co.uk/sport/football/videos/cvde048j71rdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
       "publishedAt": "2026-09-19T19:00:09+00:00"
-    },
-    {
-      "title": "Spurs lose again as Villa hold on for first league win",
-      "description": "Aston Villa pick up their first win of the Premier League season after five matches, holding off a late push from a Tottenham Hotspur side who remain without a win in the league.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3j4jz7pgq5lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-19T19:00:02+00:00"
-    },
-    {
-      "title": "England's 39-match winning streak halted by thrilling draw with Canada",
-      "description": "England's winning record - stretching back to a loss in the 2022 World Cup final to New Zealand - was halted by Canada, who held the hosts to a thrilling 26-26 draw in the WXV Global Series.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/videos/ckj06v16j972o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-19T17:14:35+00:00"
-    },
-    {
-      "title": "Trump treads further on free speech with new journalist bans",
-      "description": "On Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever dreams, but it turns out it's very real. All three publications were turned away from the White House this morning, NPR reports, marking an escalat",
-      "url": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-19T17:10:21+00:00"
-    },
-    {
-      "title": "Gemini went rogue, hacked three companies, and Google hid it",
-      "description": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in sim",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-19T15:25:03+00:00"
     },
     {
       "title": "Google's Gemini AI hacked three companies in security test",
@@ -368,46 +376,6 @@
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-09-18T23:04:30+00:00"
-    },
-    {
-      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
-      "description": "But the military's overall use of AI seems to be accelerating.",
-      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-18T20:26:33+00:00"
-    },
-    {
-      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-      "description": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
-      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-18T19:20:50+00:00"
-    },
-    {
-      "title": "FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar",
-      "description": "FCC rejects concerns about repressive governments buying influence over CBS owner.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-18T17:57:41+00:00"
-    },
-    {
-      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-      "description": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-18T17:57:30+00:00"
-    },
-    {
-      "title": "Warren Buffett steps down as chair of Berkshire Hathaway after over 50 years",
-      "description": "‘Father Time always wins,’ Buffett, 96, says as his son, Howard, steps in as the $1tn conglomerate’s new chairWarren Buffett is stepping down as chair of Berkshire Hathaway, the company that he took from a faltering textile manufacturer into a $1tn conglomerate over the course of 60 years.Buffett’s ",
-      "url": "https://www.theguardian.com/business/2026/sep/18/warren-buffett-steps-down-berkshire-hathaway",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-09-18T14:48:56+00:00"
     }
   ]
 }
