@@ -1,6 +1,302 @@
 {
-  "updatedAt": "2026-09-21T23:49:08.546311+00:00",
+  "updatedAt": "2026-09-22T13:43:21.177114+00:00",
   "articles": [
+    {
+      "title": "Scientists discover why Kent meningitis outbreak was so severe",
+      "description": "The bacteria responsible picked up some new genetic material, say experts.",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx5pp6rxqyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-09-22T13:35:38+00:00"
+    },
+    {
+      "title": "Oil falls below $100 a barrel on reports Iran ‘makes strait of Hormuz offer’; UK government borrowing paints ‘dismal picture’ – business live",
+      "description": "The rising cost of servicing the UK national debt pushed up borrowing last monthHow much ‘headroom’ might John Healey still have to keep within the government’s fiscal rules?That’s the question dogging Westminster and the City.“The chancellor has probably lost about half the headroom he inherited, l",
+      "url": "https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-09-22T13:18:04+00:00"
+    },
+    {
+      "title": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+      "description": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught tensions between the nations.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-22T13:16:49+00:00"
+    },
+    {
+      "title": "Waymo is offering transit discounts again, this time with Visa",
+      "description": "Waymo has made several attempts over the years at offering transit discounts to its customers in the hopes of getting them to more frequently use the company's robotaxis to connect with a train or a bus. The Alphabet-owned company announced the latest effort today, teaming up with Visa to offer a di",
+      "url": "https://www.theverge.com/transportation/998184/waymo-public-transportation-discount-subway-bus-visa",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-22T13:00:00+00:00"
+    },
+    {
+      "title": "These discreet hearing aid glasses now have better voice boosting and battery life",
+      "description": "EssilorLuxottica, the company that Meta partnered with for its Ray-Ban smart glasses, announced a new version of its Nuance Audio glasses that are designed to double as discreet over-the-counter hearing aids. The new Nuance Audio Plus still manages to squeeze their FDA cleared hearing aid tech into ",
+      "url": "https://www.theverge.com/tech/998243/essilorluxottica-nuance-audio-plus-otc-hearing-aid-glasses",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-22T13:00:00+00:00"
+    },
+    {
+      "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
+      "description": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
+      "url": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-22T13:00:00+00:00"
+    },
+    {
+      "title": "Adobe Premiere, One of the iPhone’s Best Video-Editing Apps, Is Now on Android",
+      "description": "The Android version of Premiere has unique layouts on candy bar phones and foldable devices. It’s free to use and available today.",
+      "url": "https://www.wired.com/story/adobe-premiere-now-on-android/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-22T13:00:00+00:00"
+    },
+    {
+      "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
+      "description": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
+      "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-22T13:00:00+00:00"
+    },
+    {
+      "title": "Oppo’s new phone is the first with three 200-megapixel cameras",
+      "description": "Oppo's new Find X10 Pro Max flagship phone, launched today in China, is the first anywhere to use 200-megapixel sensors on all three of its rear cameras. A 17-stop dynamic range for the main camera, delivered thanks to what Oppo calls \"DeepPix sensor technology,\" suggests megapixel count won't be th",
+      "url": "https://www.theverge.com/gadgets/998688/oppo-find-x10-pro-max-200-megapixel-cameras-china",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-22T12:18:35+00:00"
+    },
+    {
+      "title": "Peloton is back with a ‘cheaper’ folding treadmill",
+      "description": "Last year, Peloton did a sweeping refresh of its hardware that added cameras, fans, and AI-powered software called Peloton IQ. This year, it's zeroing in on its treadmill lineup - refreshing its two existing Treads and adding the new, more affordable Tread Flex into the fold. At a New York City laun",
+      "url": "https://www.theverge.com/tech/998272/peloton-tread-flex-fitness-treadmills",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-22T12:10:08+00:00"
+    },
+    {
+      "title": "'In another galaxy' - La Liga chief dismisses Real's ref conspiracy claims",
+      "description": "La Liga president Javier Tebas says claiming there is a refereeing conspiracy against Real Madrid is like \"living in another galaxy\".",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmvgye6g53l7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-22T12:09:29+00:00"
+    },
+    {
+      "title": "It’s time for the Mac Neo",
+      "description": "The Mac Mini is a great little desktop computer, and back when it cost $599, it was easy to recommend to anyone who wanted something speedy, simple, and cheap. The new M6 model is even better, but it starts at $899, and its 12-core CPU and 12-core GPU might actually be overkill for someone who [&#82",
+      "url": "https://www.theverge.com/report/998501/apple-mac-mini-m6-price-mac-neo-concept",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-22T12:00:00+00:00"
+    },
+    {
+      "title": "EU spends three times more on imports from China than bloc exports there",
+      "description": "Study shows trade deficit ran at more than €1bn a day in July, days before Xi Jinping’s summit with Donald TrumpBusiness live – latest updatesConsumers and businesses in the EU are spending three times more on Chinese imports than their counterparts in China are buying from the bloc, a study has sho",
+      "url": "https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-09-22T11:54:08+00:00"
+    },
+    {
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "description": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code t",
+      "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-22T11:53:58+00:00"
+    },
+    {
+      "title": "Arteta agrees new deal with champions Arsenal",
+      "description": "Mikel Arteta agrees an improved new contract with Premier League champions Arsenal.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-22T11:48:23+00:00"
+    },
+    {
+      "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+      "description": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+      "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-22T11:34:11+00:00"
+    },
+    {
+      "title": "GoPro Mission 1 Pro ILS Review (2026): Cinema-Quality Action Cam",
+      "description": "GoPro’s first foray into the world of cinema cameras isn’t perfect, but it sure is a lot of fun to shoot with.",
+      "url": "https://www.wired.com/review/gopro-mission-1-ils-camera/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-22T11:30:00+00:00"
+    },
+    {
+      "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
+      "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-22T11:24:48+00:00"
+    },
+    {
+      "title": "NASA chief: I'm only interested in \"good deals\" from international partners",
+      "description": "\"There was absolutely a time where we were trying to make everyone happy.\"",
+      "url": "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-22T11:00:37+00:00"
+    },
+    {
+      "title": "The UK Government Faces a Reckoning Over Palantir",
+      "description": "Andy Burnham once kept Palantir out of Greater Manchester. His first test as prime minister is whether to cut the company’s £330 million NHS contract—and risk a rupture with Big Tech and Washington.",
+      "url": "https://www.wired.com/story/the-uk-government-faces-a-reckoning-over-palantir/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-22T11:00:00+00:00"
+    },
+    {
+      "title": "Everything You Know About Political Violence Is Probably Wrong",
+      "description": "Public disagreement about whether political violence is rising and who is responsible for it stems not from ideology alone but from competing definitions about what should be counted.",
+      "url": "https://www.wired.com/story/book-excerpt-political-violence-robert-pape-our-own-worst-enemies/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-22T11:00:00+00:00"
+    },
+    {
+      "title": "Researchers Test a New Way To Find Pancreatic Cancer Before It’s Too Late",
+      "description": "An experimental blood test could help detect early pancreatic cancer and precancerous changes, guiding decisions about further testing. People at high risk of pancreatic cancer are often monitored with imaging and other tests that can be invasive, expensive, and limited in their ability to catch the",
+      "url": "https://scitechdaily.com/researchers-test-a-new-way-to-find-pancreatic-cancer-before-its-too-late/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-22T10:58:24+00:00"
+    },
+    {
+      "title": "Is a Home Security System Subscription Worth It? (2026)",
+      "description": "Just about every home security system has paid options, but with a little effort and a focus on local storage, you can build your own without the recurring costs.",
+      "url": "https://www.wired.com/story/how-to-design-a-subscription-free-home-security-system/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-22T10:36:00+00:00"
+    },
+    {
+      "title": "I Built AI Clones of My Coworkers. Things Got Weird",
+      "description": "Brian Bot loved talking about improv, while Sophie Bot wouldn’t stop calling me “big dog.” Welcome to the future of work.",
+      "url": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-22T10:30:00+00:00"
+    },
+    {
+      "title": "Stress Hormone Cortisol Rewires the Brain to Strengthen Emotional Memories",
+      "description": "Cortisol strengthens emotional memories by reshaping how brain networks for emotion and memory work together. Stress does not strengthen every memory equally. New research suggests that cortisol, a hormone released during stressful situations, changes brain activity in ways that strengthen memories ",
+      "url": "https://scitechdaily.com/stress-hormone-cortisol-rewires-the-brain-to-strengthen-emotional-memories/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-22T10:23:22+00:00"
+    },
+    {
+      "title": "Can you forget how you feel about Meta?",
+      "description": "In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-being and mental health. It&#8217;s difficult to see coverage that misrepresents our work and our motive",
+      "url": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-22T10:00:01+00:00"
+    },
+    {
+      "title": "Knee Osteoarthritis Isn’t Inevitable: Simple Habits May Lower Your Risk",
+      "description": "Healthy behaviors and appropriate treatment can help people manage knee osteoarthritis and may reduce the risk of developing it. Knee pain can make everyday movements such as walking, climbing stairs, or getting up from a chair more difficult. For many people, especially as they get older, osteoarth",
+      "url": "https://scitechdaily.com/knee-osteoarthritis-isnt-inevitable-simple-habits-may-lower-your-risk/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-22T09:48:34+00:00"
+    },
+    {
+      "title": "Spain battles climate change on several fronts",
+      "description": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-22T09:11:48+00:00"
+    },
+    {
+      "title": "England fast bowler Wood retires from internationals",
+      "description": "England fast bowler Mark Wood announces his retirement from international cricket with immediate effect.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c931nq260pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-22T08:58:21+00:00"
+    },
+    {
+      "title": "Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor",
+      "description": "Borrowing was higher than expected in August as inflation piles pressure on the government ahead of the Budget.",
+      "url": "https://www.bbc.co.uk/news/articles/c68049m18435o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-22T08:52:12+00:00"
+    },
+    {
+      "title": "Apple&#8217;s first live music venue is opening beneath its UK headquarters",
+      "description": "Apple is preparing to open a new \"state-of-the-art\" live music venue in the UK, a 600-capacity space for hosting performances, recording sessions, and video broadcasts. The venue, called Apple Music Hall, is located underneath Apple's European headquarters in London's iconic Battersea Power Station,",
+      "url": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-22T08:35:54+00:00"
+    },
+    {
+      "title": "Martha's Rule rolled out at every A&E department in England",
+      "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
+      "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-09-22T08:32:32+00:00"
+    },
+    {
+      "title": "Pollock signs new Northampton deal in excess of £400K",
+      "description": "Henry Pollock has brought an end to his contract stand-off with Northampton, saying it was ultimately \"a very easy decision\" to sign an extension.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq39m2eppe0wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-22T08:28:34+00:00"
+    },
+    {
+      "title": "Vet prescription fees capped under rule changes",
+      "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-22T07:39:35+00:00"
+    },
+    {
+      "title": "'Alarming' - does WSL have a homegrown problem?",
+      "description": "The London City Lionesses raised eyebrows with no English players in their starting line-up against Manchester United, but is there a wider trend?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cew9nqnz9lno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-22T06:40:41+00:00"
+    },
+    {
+      "title": "Why is Monaco staging a sprint race? F1 Q&A",
+      "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Azerbaijan Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c9vgyzm2xv3do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-22T06:38:06+00:00"
+    },
+    {
+      "title": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
+      "description": "British Columbia has accused the company of failing to report the shooter's troubling interactions with ChatGPT to law enforcement.",
+      "url": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-22T01:44:17+00:00"
+    },
     {
       "title": "A Pompeii-Like Volcanic Disaster Preserved a 22-Million-Year-Old Landscape",
       "description": "A reconstructed landscape beneath Chile’s Lauca volcanic deposits supports a slow, steady rise for this part of the Andes. The Lauca Caldera, a large volcanic depression in northern Chile, erupted 21.9 million years ago and buried an entire landscape beneath volcanic rock. That covering protected ev",
@@ -10,36 +306,12 @@
       "publishedAt": "2026-09-21T23:40:54+00:00"
     },
     {
-      "title": "Martha's Rule rolled out at every A&E department in England",
-      "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
-      "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-09-21T23:38:57+00:00"
-    },
-    {
       "title": "The simple skincare routine for teens that actually works - and five expert tips",
       "description": "From popping spots to getting enough sleep, experts share their advice on the best way to look after teenage skin.",
       "url": "https://www.bbc.co.uk/news/articles/cwddvnvgl541o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-09-21T23:28:26+00:00"
-    },
-    {
-      "title": "Flights at major US airports delayed after cable cut by construction workers",
-      "description": "The cable had been repaired and airports are resuming normal operations, the US transportation secretary says.",
-      "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-21T23:25:28+00:00"
-    },
-    {
-      "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
-      "description": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech companies face mounting scrutiny over how much water their data centers use. Amazon h",
-      "url": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-21T23:15:32+00:00"
     },
     {
       "title": "One of Earth’s Oldest Animal Fossils Found in a Norwegian Sheep Field",
@@ -58,14 +330,6 @@
       "publishedAt": "2026-09-21T23:01:26+00:00"
     },
     {
-      "title": "Vet prescription fees capped under rule changes",
-      "description": "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-21T23:01:18+00:00"
-    },
-    {
       "title": "Ancient DNA Rewrites the Story of the “American Cheetah”",
       "description": "The “American cheetah” may have looked built for speed, but new evidence reveals a stranger story: it was closer to a puma, and some Arctic populations appear to have survived almost entirely on fish. An extinct cat nicknamed the “American cheetah” turns out to have been much less cheetah-like than ",
       "url": "https://scitechdaily.com/ancient-dna-rewrites-the-story-of-the-american-cheetah/",
@@ -80,30 +344,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-09-21T22:24:38+00:00"
-    },
-    {
-      "title": "Being run over by pitch roller was 'terrifying' - Townsend",
-      "description": "Townsend says he was lucky to only escape from under the roller with a few \"bumps and bruises\".",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqp8dpd5d27yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-21T22:13:16+00:00"
-    },
-    {
-      "title": "Israel FA accuses Hallgrimsson of 'ignorance, hypocrisy and stupidity'",
-      "description": "The Israel FA accuse Republic of Ireland manager Heimir Hallgrimsson of \"ignorance, hypocrisy and stupidity\" in comments made last week.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwvgyzzrd8jmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-21T21:49:45+00:00"
-    },
-    {
-      "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
-      "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-21T21:34:32+00:00"
     },
     {
       "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
@@ -122,36 +362,12 @@
       "publishedAt": "2026-09-21T20:55:36+00:00"
     },
     {
-      "title": "California tightens rules on AI data center energy and water use",
-      "description": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data cen",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-21T20:29:45+00:00"
-    },
-    {
-      "title": "Airlines criticise air traffic control as second glitch causes more disruption",
-      "description": "Prime Minister Andy Burnham said further issues today \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
-      "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-21T20:21:18+00:00"
-    },
-    {
       "title": "Plan for editorial oversight board at CNN and CBS News draws skepticism: ‘Utter garbage’",
       "description": "Some network employees and media-watchers have questions and concerns about how arrangement will workLeading media figures and insiders dismissed plans to create an editorial oversight board to protect CNN’s independence as “utter garbage” – in one staffer’s words – after a settlement was reached to",
       "url": "https://www.theguardian.com/media/2026/sep/21/cnn-cbs-news-editorial-board-skepticsm",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-09-21T20:05:50+00:00"
-    },
-    {
-      "title": "Infantino says he is open to talks over Fifa reform",
-      "description": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body operates. shifting tone as he seeks support to stay on.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-21T19:50:57+00:00"
     },
     {
       "title": "Biggest Supernova Dataset Yet Challenges Dark Energy Theory",
@@ -178,62 +394,6 @@
       "publishedAt": "2026-09-21T18:46:32+00:00"
     },
     {
-      "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
-      "description": "Washington and Beijing have grown ever more linked in the AI boom, making hardware exports and technological restrictions hefty bargaining chips in negotiations.",
-      "url": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-21T18:33:02+00:00"
-    },
-    {
-      "title": "Einstein Called It “Spooky.” CERN Just Found It at Extreme Energies at the Large Hadron Collider",
-      "description": "Particles left behind by decaying Z bosons reveal strong evidence of quantum entanglement at CERN’s Large Hadron Collider. Z bosons, heavy elementary particles that decay almost as soon as they form, leave behind clues to a connection that can outlast physical separation. Known as quantum entangleme",
-      "url": "https://scitechdaily.com/einstein-called-it-spooky-cern-just-found-it-at-extreme-energies-at-the-large-hadron-collider/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-21T18:11:30+00:00"
-    },
-    {
-      "title": "Atletico hit back at Mourinho over referee complaints",
-      "description": "Atletico Madrid hit back at Jose Mourinho after he complained about the refereeing in the Madrid derby.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwx2z115lx4mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-21T17:52:42+00:00"
-    },
-    {
-      "title": "GM can’t ‘bring back’ Apple CarPlay because it never left",
-      "description": "Last week, GM announced a new software experience for its upcoming Chevy Silverado and GMC Sierra trucks, including a new look for Apple CarPlay and Android Auto, the popular phone mirroring systems that the automaker made a big deal about removing from its electric vehicles in 2023. Naturally, this",
-      "url": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-21T17:47:54+00:00"
-    },
-    {
-      "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
-      "description": "Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way of the massive media merger. According to the proposed consent decree filed with ",
-      "url": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-21T17:42:15+00:00"
-    },
-    {
-      "title": "Dyson Won’t Say What’s Wrong With Its CameraJet Toothbrush",
-      "description": "Despite admitting to a “component issue,” the company refuses to say what went wrong, how many units are affected in how many countries, and why it won’t recall its $500 AI toothbrush.",
-      "url": "https://www.wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-21T17:22:19+00:00"
-    },
-    {
-      "title": "F1 reduces maximum distance of races by 15km",
-      "description": "F1 announces the maximum race distance for grands prix will be reduced by 15km from 305km to 290km for the 2027 season.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr15822d9vgxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-21T17:16:13+00:00"
-    },
-    {
       "title": "Google confirms Gemini models hacked three companies in May 2026",
       "description": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
       "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
@@ -258,28 +418,12 @@
       "publishedAt": "2026-09-21T16:39:01+00:00"
     },
     {
-      "title": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
-      "description": "Months after seemingly giving up on Destiny 2, Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses the Destiny Content Vault that Bungie created six years ago, controversially removing older content from Destiny 2 that p",
-      "url": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-21T16:35:59+00:00"
-    },
-    {
       "title": "California settles lawsuit against Paramount/Warner merger, angering advocates",
       "description": "State AGs had \"very strong\" case that merger is illegal, Lina Khan says.",
       "url": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-09-21T16:15:26+00:00"
-    },
-    {
-      "title": "Was Neville right to call out Man Utd for a 'lack of effort'?",
-      "description": "The former Manchester United full-back said a 15-minute period in the 1-1 draw at Fulham was the \"worst I've ever seen\" - do the stats back him up and does his media portfolio amplify the noise?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqrl6pe56348o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-21T15:39:36+00:00"
     },
     {
       "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
@@ -290,84 +434,12 @@
       "publishedAt": "2026-09-21T15:37:56+00:00"
     },
     {
-      "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
-      "description": "Newegg is hosting a bundle that includes Microsoft’s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color you want, this is a fantastic value since it essentially knocks its price down to ",
-      "url": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-21T15:13:32+00:00"
-    },
-    {
-      "title": "Scientists Develop a Vaccine That Could Help Turn the Tide on America’s Opioid Epidemic",
-      "description": "Researchers developed nanoparticles that could help block the addictive high produced by opioids. A vaccine that stops an opioid from reaching the brain could one day blunt the high that helps drive repeated use. Virginia Tech researchers are developing that approach for drugs such as oxycodone and ",
-      "url": "https://scitechdaily.com/scientists-develop-a-vaccine-that-could-help-turn-the-tide-on-americas-opioid-epidemic/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-21T15:04:21+00:00"
-    },
-    {
       "title": "CNN, MS Now and Politico sue Trump after being blocked from White House",
       "description": "Three news outlets filed lawsuit in attempt to regain access to the White House after having badges disabledIn what will be one of the largest battles yet between the press and Donald Trump’s administration, three news organizations – CNN, MS Now (formerly MSNBC) and Politico – that have been denied",
       "url": "https://www.theguardian.com/us-news/2026/sep/21/white-house-news-organization-ban-lawsuit",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-09-21T14:42:12+00:00"
-    },
-    {
-      "title": "A Long-Held Idea About Alzheimer’s Tau May Be Wrong",
-      "description": "Scientists have long focused on how Alzheimer’s-linked tau reaches dendrites, but new research suggests the protein is actually born there, shifting attention to the earliest steps before harmful tangles form. Scientists have long thought that tau, the protein that forms Alzheimer’s tangles, moves i",
-      "url": "https://scitechdaily.com/a-long-held-idea-about-alzheimers-tau-may-be-wrong/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-21T14:29:47+00:00"
-    },
-    {
-      "title": "Here’s the iFixit Repairability Rating for the iPhone 18 Pro",
-      "description": "It’s actually pretty good for an iPhone, given Apple’s long-standing reticence to make its products repairable.",
-      "url": "https://www.wired.com/story/ifixit-rating-for-the-iphone-18-pro-repairability/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-21T14:15:09+00:00"
-    },
-    {
-      "title": "Can John Ternus find Apple’s next big thing?",
-      "description": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.&#160; Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahe",
-      "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-21T14:00:00+00:00"
-    },
-    {
-      "title": "Review: Neagley is a worthy spinoff to megahit Reacher",
-      "description": "It's a bit uneven in execution but still delivers as fast-paced, entertaining escapist fare.",
-      "url": "https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-21T13:53:46+00:00"
-    },
-    {
-      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-      "description": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and [&#8230;]",
-      "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-21T13:36:52+00:00"
-    },
-    {
-      "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
-      "description": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google’s bringing that experience to Android.",
-      "url": "https://www.wired.com/story/google-launches-googlebook-laptops/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-21T13:00:00+00:00"
-    },
-    {
-      "title": "Apple Mac Mini (M6) Review: For the AI Curious",
-      "description": "Apple has refreshed the Mac Mini with a brand-new chip, the M6. And this time, it’s more focused on AI than ever.",
-      "url": "https://www.wired.com/review/apple-mac-mini-m6/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-21T13:00:00+00:00"
     },
     {
       "title": "'Other generations just buried it' - Youths share their mental health concerns",
@@ -392,54 +464,6 @@
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-09-21T11:00:23+00:00"
-    },
-    {
-      "title": "Why Cardiff is set to win race to host Fury-Joshua",
-      "description": "Why Cardiff is set to beat competition from London and New York to host the long-awaited fight between Tyson Fury and Anthony Joshua.",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/ck5yw8q81ql2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-21T10:51:22+00:00"
-    },
-    {
-      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-      "description": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
-      "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-21T10:34:43+00:00"
-    },
-    {
-      "title": "Bambu P2S Combo 3D Printer Review: My Own Little Plastics Factory",
-      "description": "The Bambu Lab P2S Combo makes useful, polished objects without requiring advanced technical skills.",
-      "url": "https://www.wired.com/review/bambu-p2s-combo-3d-printer/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-21T10:30:00+00:00"
-    },
-    {
-      "title": "What are my rights if my flight is cancelled or delayed?",
-      "description": "Flights are affected again owing to air traffic control problems, so what are your rights if you're affected?",
-      "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-21T10:28:17+00:00"
-    },
-    {
-      "title": "Justice for CSS",
-      "description": "In defense of the girliest programming language.",
-      "url": "https://www.wired.com/story/justice-for-css/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-21T10:00:00+00:00"
-    },
-    {
-      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-      "description": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
-      "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-21T04:00:38+00:00"
     },
     {
       "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
