@@ -1,13 +1,293 @@
 {
-  "updatedAt": "2026-09-25T14:14:29.363126+00:00",
+  "updatedAt": "2026-09-25T23:48:46.149258+00:00",
   "articles": [
     {
-      "title": "Gaming’s biggest horror series are more vital than ever",
-      "description": "For the third year in a row, I've been scared out of my wits by a new Silent Hill game. First it was the modern remake of Silent Hill 2, then the Japan-set spinoff Silent Hill F. Now I find myself slowly crawling through a quaint Scottish town in Silent Hill: Townfall, trying my best [&#8230;]",
-      "url": "https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil",
+      "title": "Warrington edge past Leeds to reach Grand Final",
+      "description": "Warrington Wolves reach their first Super League Grand Final in eight years with a thrilling victory against Leeds Rhinos.",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ck4glyxd4j6no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-25T22:06:43+00:00"
+    },
+    {
+      "title": "Rodri believes in Man City's 'innocence'",
+      "description": "Former Manchester City midfielder Rodri believes the club are innocent of any financial wrongdoing and will trust them unless they are proved otherwise.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgwwze9r28o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-25T21:56:35+00:00"
+    },
+    {
+      "title": "Relegation? Titles stripped? Appeals? What next for Man City",
+      "description": "It has taken more than two years, but a judgement finally appears to have been made on the 115 charges levelled against Man City. Here's what it means.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-25T20:48:18+00:00"
+    },
+    {
+      "title": "Vitamin C Supplements Tied to Fewer Deaths in Blood Disorder Trial",
+      "description": "A phase 2 trial linked vitamin C supplements to better survival in people with certain blood disorders, a finding that requires further study in a larger phase 3 trial. Vitamin C supplements were linked to better survival in a clinical trial involving people with precancerous blood conditions or low",
+      "url": "https://scitechdaily.com/vitamin-c-supplements-tied-to-fewer-deaths-in-blood-disorder-trial/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-25T20:32:56+00:00"
+    },
+    {
+      "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+      "description": "They wanted the silicon. They got the sand.",
+      "url": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-25T20:30:40+00:00"
+    },
+    {
+      "title": "Man City fans face up to reality of guilty verdict",
+      "description": "How Manchester City fans have reacted to news that the club have been found guilty of a majority of the financial rule breaches they were accused of.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwy7zzdmn4v7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-25T20:30:40+00:00"
+    },
+    {
+      "title": "Clubs seek legal advice over Man City charges compensation",
+      "description": "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-25T20:13:53+00:00"
+    },
+    {
+      "title": "Man City found guilty of breaking financial rules",
+      "description": "Manchester City have been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-25T20:11:12+00:00"
+    },
+    {
+      "title": "A New RNA Strategy Could Target Thousands of Genetic Disorders",
+      "description": "This new approach targets disorders including cystic fibrosis, muscular dystrophy, and some cancers. In lab-grown tissue from a cystic fibrosis patient who did not respond to existing drugs, researchers restored production of a full-length protein and gave Trikafta something it could act on. The pat",
+      "url": "https://scitechdaily.com/a-new-rna-strategy-could-target-thousands-of-genetic-disorders/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-25T19:57:02+00:00"
+    },
+    {
+      "title": "O'Neill left 'baffled' by refereeing in late NI win in Georgia",
+      "description": "Michael O'Neill has said he was \"baffled\" by some of the refereeing decisions in Friday's 1-0 win in Georgia in the Nations League.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6qxvvw15p0lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-25T19:54:46+00:00"
+    },
+    {
+      "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
+      "description": "Better thermals and battery life make this iterative update nicer to use.",
+      "url": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-25T19:34:42+00:00"
+    },
+    {
+      "title": "Your Blood Sugar May Reveal Hidden Clues About Heart Health – Even Without Diabetes",
+      "description": "Continuous glucose monitoring may offer clues to heart and metabolic health in people without diabetes, though its role in risk assessment remains uncertain. Continuous glucose monitoring (CGM), which tracks blood sugar as it changes over time, may offer clues to heart and metabolic health in people",
+      "url": "https://scitechdaily.com/your-blood-sugar-may-reveal-hidden-clues-about-heart-health-even-without-diabetes/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-25T19:22:16+00:00"
+    },
+    {
+      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+      "description": "\"There is no evidence of any significant, widespread displacement or reduction in hiring”",
+      "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-25T19:11:05+00:00"
+    },
+    {
+      "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
+      "description": "US judge reviews deal with California, says it must not be result of collusion.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-25T18:42:57+00:00"
+    },
+    {
+      "title": "Is solar's growth finally slowing in the US?",
+      "description": "Renewables easily cover changes in US demand, which is rising by 2% in 2026.",
+      "url": "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-25T18:27:18+00:00"
+    },
+    {
+      "title": "Roku&#8217;s first OLED TVs are up to $400 off, starting at $699",
+      "description": "Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports and support for Dolby Vision and HDR 10 Plus). The price is even lower right now at Amazon when you enter",
+      "url": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
       "source": "The Verge",
       "category": "Technology",
-      "publishedAt": "2026-09-25T14:10:00+00:00"
+      "publishedAt": "2026-09-25T18:18:57+00:00"
+    },
+    {
+      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+      "description": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
+      "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-25T17:57:37+00:00"
+    },
+    {
+      "title": "Phones don’t have lights",
+      "description": "Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noting that the glasses have a light that comes on to signal when a photo is being taken, while phones d",
+      "url": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-25T17:42:59+00:00"
+    },
+    {
+      "title": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
+      "description": "One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native iOS' camera app in manual mode: f/1.48, f/1.8, f/2.8, and f/4. Those same limitations are also in place when the app is adjusting the iris it",
+      "url": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-25T17:23:30+00:00"
+    },
+    {
+      "title": "Tesla&#8217;s Optimus robot is going through growing pains",
+      "description": "Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced \"several hundred robots a week\" last month, after it repurposed its Model S and Model X production lines for Optimus earlier this year. However, this strategy",
+      "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-25T17:01:36+00:00"
+    },
+    {
+      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+      "description": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+      "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-25T16:58:20+00:00"
+    },
+    {
+      "title": "Meta makes the Muse filesystem even more accessible",
+      "description": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, i",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-25T16:49:53+00:00"
+    },
+    {
+      "title": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
+      "description": "Apple is expected to announce more hardware before the end of the year following the debut of the iPhone 18 Pro and folding iPhone Duo earlier this month. The updated products will include a new version of the HomePod mini, the iPad mini 8, and the Apple TV 4K, according to details and images discov",
+      "url": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-25T16:22:05+00:00"
+    },
+    {
+      "title": "Scientists Hunt for Tiny Black Holes Hidden in LHC Collisions",
+      "description": "Scientists have expanded the search for microscopic black holes at the Large Hadron Collider, looking for fleeting objects that could reveal hidden dimensions and clues to quantum gravity. Quantum black holes could give physicists a rare chance to study intense gravity on the scale of tiny particles",
+      "url": "https://scitechdaily.com/scientists-hunt-for-tiny-black-holes-hidden-in-lhc-collisions/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-25T16:03:33+00:00"
+    },
+    {
+      "title": "White House television pool resumes after banned news outlets regain access",
+      "description": "Trump’s media ban resulted in an effective TV blackout of coverage of the president during the UN general assemblyThe primary White House television pool has resumed filming administration events after a court ruling temporarily overturned a Trump administration ban on CNN a day earlier.In an unprec",
+      "url": "https://www.theguardian.com/media/2026/sep/25/trump-media-ban-white-house-pool",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-09-25T16:03:18+00:00"
+    },
+    {
+      "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
+      "description": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
+      "url": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-09-25T16:00:44+00:00"
+    },
+    {
+      "title": "Palmer misses too many opportunities to play for England - Tuchel",
+      "description": "Thomas Tuchel has said that Cole Palmer \"misses too many opportunities\" to play for England after the Chelsea forward pulled out of the latest squad.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9dww15527lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-25T15:54:03+00:00"
+    },
+    {
+      "title": "Sony and UMG are suing Suno again",
+      "description": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other sources. Sony and UMG a",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-25T15:51:56+00:00"
+    },
+    {
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "description": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-09-25T15:39:48+00:00"
+    },
+    {
+      "title": "After seven years, a spacecraft company is releasing its Otters into the wild",
+      "description": "\"There is always a tension that comes with seeing the first of anything fly.\"",
+      "url": "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-25T15:35:23+00:00"
+    },
+    {
+      "title": "Moon Cities Could Face a Surprisingly Serious Water Problem",
+      "description": "Water ice could sustain small lunar communities for centuries, but supporting cities may require additional supplies or more efficient water use. Water ice in the Moon’s polar craters has given people planning lunar settlements a reason to think beyond short visits. With water available locally, res",
+      "url": "https://scitechdaily.com/moon-cities-could-face-a-surprisingly-serious-water-problem/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-25T15:28:29+00:00"
+    },
+    {
+      "title": "US being left behind in EV charging speeds as China goes sub-5 min to 70%",
+      "description": "The new LFP battery charges from 10 to 70% in 4.5 minutes at just 65˚C.",
+      "url": "https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-25T15:21:55+00:00"
+    },
+    {
+      "title": "War Bros Didn’t Always Rule Silicon Valley",
+      "description": "Some say that tech was always about the money and the military. Don’t buy that argument.",
+      "url": "https://www.wired.com/story/war-bros-didnt-always-rule-silicon-valley/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-09-25T15:00:00+00:00"
+    },
+    {
+      "title": "What could the potential sanctions for Man City be?",
+      "description": "Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant' after the sources told BBC Sport that the club has been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-09-25T14:55:14+00:00"
+    },
+    {
+      "title": "The Solar System’s First Worlds Were Built From Fire, Not Ice",
+      "description": "A study led by Yale provides the first chemical evidence that gas began sorting the building materials for the solar system’s earliest solid bodies sooner than previously known. If the outer solar system’s first solid bodies had come with a recipe, it would have called for a generous helping of chon",
+      "url": "https://scitechdaily.com/the-solar-systems-first-worlds-were-built-from-fire-not-ice/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-09-25T14:53:36+00:00"
+    },
+    {
+      "title": "With PRIMA, NASA will try to build a billion-dollar space telescope in record time",
+      "description": "NASA's PRIMA mission will use spare parts from Webb to do major science at a lower cost.",
+      "url": "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-09-25T14:07:46+00:00"
     },
     {
       "title": "Special agents' blood and urine test results stolen in FBI hack",
@@ -18,46 +298,6 @@
       "publishedAt": "2026-09-25T13:56:16+00:00"
     },
     {
-      "title": "Russell takes pole in Baku as Antonelli hits wall",
-      "description": "George Russell takes pole position for Mercedes at the Azerbaijan Grand Prix as his team-mate and championship leader Kimi Antonelli crashes out.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmde0wl6rk0ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-25T13:53:48+00:00"
-    },
-    {
-      "title": "R360 rebel series given ultimatum on overdue accounts",
-      "description": "The company behind R360, the controversial all-star rugby start-up, has been ordered to publish overdue accounts or face being dissolved.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6wyzqy8gq1ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-25T13:41:48+00:00"
-    },
-    {
-      "title": "New-look squad, but how will Pocognoli's Scotland line-up?",
-      "description": "Former Scotland forwards James McFadden and Pat Nevin try to guess who new head coach Sebastien Pocognoli will pick to start in Slovenia on Saturday.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5zjzlr41m2vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-25T13:21:22+00:00"
-    },
-    {
-      "title": "'Workhorse' Koumas growing with Wales",
-      "description": "Liverpool forward Lewis Koumas earns praise from Wales boss Craig Bellamy and full-back Neco Williams following his efforts against Portugal.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmed7jqjnz66o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-25T13:12:40+00:00"
-    },
-    {
-      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-      "description": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a \"motion detected\" notification from my security camera. \"",
-      "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-25T13:00:00+00:00"
-    },
-    {
       "title": "NHS to suspend staff suspected of snooping on patient records",
       "description": "There have been too many cases of staff abusing patient trust, and enough is enough, the head of the NHS in England says.",
       "url": "https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&at_campaign=rss",
@@ -66,36 +306,12 @@
       "publishedAt": "2026-09-25T12:47:03+00:00"
     },
     {
-      "title": "FA Cup tie to be replayed after ref's error - will it set a precedent?",
-      "description": "Mulbarton Wanderers are \"deeply upset\" after being told they must replay their FA Cup qualifying tie with Woodford Town because of a referee's error.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmjw5x569epvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-25T12:31:26+00:00"
-    },
-    {
       "title": "Revealed: the undisclosed safety data emerging as weedkiller maker faces Parkinson’s lawsuits in US",
       "description": "Syngenta denies keeping relevant data from the EPA as paraquat stays in the US market despite global bansSweden started ringing the alarm bell more than 20 years ago, calling for a ban on the weedkilling chemical paraquat in 2004. One by one, dozens of other countries did the same as evidence of par",
       "url": "https://www.theguardian.com/environment/ng-interactive/2026/sep/25/syngenta-paraquat-parkinsons-lawsuits-epa",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-09-25T12:00:50+00:00"
-    },
-    {
-      "title": "Insta360 conquered 360 cameras — now it’s eyeing glasses",
-      "description": "It's right there in the name: \"Insta360\" makes 360-degree cameras, ones that film every angle simultaneously so you can shoot first and frame later. It didn't invent the idea, but Insta360 has become so synonymous with 360 cameras that it dominates the category with 73 percent of worldwide marketsha",
-      "url": "https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-25T12:00:00+00:00"
-    },
-    {
-      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-      "description": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unve",
-      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-25T12:00:00+00:00"
     },
     {
       "title": "More Men Are Getting MRI Before Prostate Biopsy, but a Major Gap Remains",
@@ -138,28 +354,12 @@
       "publishedAt": "2026-09-25T11:00:49+00:00"
     },
     {
-      "title": "Back and loving it - Pietersen on his history, Brook & helping win the Ashes",
-      "description": "Former batter turned specialist mentor Kevin Pietersen talks about his new role with England, his past history with the ECB and working with Harry Brook and Brendon McCullum.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c32l8q4z481wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-25T11:00:21+00:00"
-    },
-    {
       "title": "Party Invite Phishing Scams Are the New Missed Connections",
       "description": "Email scams that look like an Evite or Paperless Post invitation are meant to snatch your data. For some, they've become an excuse to reconnect with old friends or flames.",
       "url": "https://www.wired.com/story/party-invite-phishing-scams-are-the-new-missed-connections/",
       "source": "Wired",
       "category": "Technology",
       "publishedAt": "2026-09-25T11:00:00+00:00"
-    },
-    {
-      "title": "Israel game should not go ahead - Republic of Ireland's Knight",
-      "description": "Jason Knight has become the first Republic of Ireland player to publicly voice his opposition to playing Israel on Sunday.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm750g0zx9weo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-25T10:59:44+00:00"
     },
     {
       "title": "UK diesel price close to all-time high",
@@ -178,44 +378,12 @@
       "publishedAt": "2026-09-25T10:45:00+00:00"
     },
     {
-      "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
-      "description": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
-      "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-25T10:36:55+00:00"
-    },
-    {
-      "title": "Where Does Fat Go When You Lose Weight? The Answer May Surprise You",
-      "description": "The surprising final step of fat loss happens in the lungs, where most burned fat appears to leave as carbon dioxide. In order to lose weight, most of us know it’s a matter of eating less and being more physically active. By putting our body into a calorie deficit, we &#8220;burn&#8221; more calorie",
-      "url": "https://scitechdaily.com/where-does-fat-go-when-you-lose-weight-the-answer-may-surprise-you/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-25T10:33:53+00:00"
-    },
-    {
       "title": "How to Record Your Screen on Any Phone",
       "description": "The built-in tools on your phone—as well as some inexpensive apps—let you share whatever you’re doing with others.",
       "url": "https://www.wired.com/story/how-to-record-your-screen-on-any-phone/",
       "source": "Wired",
       "category": "Technology",
       "publishedAt": "2026-09-25T10:30:00+00:00"
-    },
-    {
-      "title": "Who Killed Paulina Borsook’s Career?",
-      "description": "A quarter-century ago, Borsook published a wildly prophetic, penetrating book about Silicon Valley called Cyberselfish. Then she disappeared.",
-      "url": "https://www.wired.com/story/paulina-borsook-profile/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-25T10:00:00+00:00"
-    },
-    {
-      "title": "16 Products From Women Designers You Need to Know",
-      "description": "From electric trucks to health trackers, women designers are guiding consumer tech to a better place.",
-      "url": "https://www.wired.com/story/16-womens-products-you-need-to-know/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-25T10:00:00+00:00"
     },
     {
       "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
@@ -226,68 +394,12 @@
       "publishedAt": "2026-09-25T09:48:33+00:00"
     },
     {
-      "title": "The 34 Best Gifts for Dads (2026)",
-      "description": "Dads are typically tough to shop for. Let me help with these WIRED-tested gift ideas.",
-      "url": "https://www.wired.com/story/best-gifts-for-dads-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-09-25T09:31:00+00:00"
-    },
-    {
       "title": "Farmers down 240 million litres of milk after heat",
       "description": "Milk yield was affected by a series of extreme heatwaves which led to poor grazing conditions, researchers say.",
       "url": "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-09-25T05:30:13+00:00"
-    },
-    {
-      "title": "Our son's death could have been prevented by FA - Billy Vigar's parents",
-      "description": "Billy Vigar's parents say the Football Association could have prevented their son's death.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckwyzjny99vjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-09-25T05:25:29+00:00"
-    },
-    {
-      "title": "Here’s the Tesla Semi… again",
-      "description": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet another event for the Semi to demonstrate to customers a",
-      "url": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-25T02:12:57+00:00"
-    },
-    {
-      "title": "CNN and MS Now journalists denied access to White House state dinner despite court ruling",
-      "description": "Officials deny entry even after federal judge rules Trump administration must grant banned journalists accessJournalists for CNN and MS Now were denied access to the White House state dinner in honor of Xi Jinping, China’s president, on Thursday evening, hours after a federal judge ruled the Trump a",
-      "url": "https://www.theguardian.com/us-news/2026/sep/24/judge-orders-trump-restore-white-house-access-cnn-ms-now-politico-media-ban",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-09-25T01:56:37+00:00"
-    },
-    {
-      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
-      "description": "Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. Windows Central's",
-      "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-25T01:25:53+00:00"
-    },
-    {
-      "title": "Even After 300 Years, Scientists Find Recovering Grasslands Can Remain Fundamentally Different",
-      "description": "Even centuries after disturbance, recovering grasslands can remain dominated by a different kind of plant than the old-growth ecosystems they replaced. Even after centuries of recovery, a grassland can still support a noticeably different plant community from an ancient landscape that was never plow",
-      "url": "https://scitechdaily.com/even-after-300-years-scientists-find-recovering-grasslands-can-remain-fundamentally-different/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-25T00:09:54+00:00"
-    },
-    {
-      "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
-      "description": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing the company said this week that the label has been applied far too broadly, whi",
-      "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-24T23:50:55+00:00"
     },
     {
       "title": "Treadmills to deadlifts: Why Gen Z are swapping cardio for strength training",
@@ -306,22 +418,6 @@
       "publishedAt": "2026-09-24T23:44:00+00:00"
     },
     {
-      "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
-      "description": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip, ",
-      "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-09-24T23:42:39+00:00"
-    },
-    {
-      "title": "Human Sperm Is Rewriting DNA Earlier Than We Realized",
-      "description": "Some of the genetic differences that make every child unique may arise in a father’s sperm years earlier than scientists thought. Researchers have discovered that some genetic reshuffling in human sperm occurs before meiosis, the specialized cell division that creates reproductive cells. The finding",
-      "url": "https://scitechdaily.com/human-sperm-is-rewriting-dna-earlier-than-we-realized/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-24T23:34:15+00:00"
-    },
-    {
       "title": "X-planes: Are they needed in the new era of drones?",
       "description": "Where do America's X-plane projects fit in an era of cheap drones?",
       "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
@@ -338,108 +434,12 @@
       "publishedAt": "2026-09-24T23:00:45+00:00"
     },
     {
-      "title": "Stanford Researchers Discover That the Human Brain May Be Two Separate Organs Fused Together",
-      "description": "A split in early brain development helped researchers grow human hindbrain neurons that could shed light on SMA and ALS. The human hindbrain, the region at the back of the brain that helps control breathing and swallowing, has been difficult to study in the laboratory. For decades, scientists have s",
-      "url": "https://scitechdaily.com/stanford-researchers-discover-that-the-human-brain-may-be-two-separate-organs-fused-together/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-24T22:59:07+00:00"
-    },
-    {
-      "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
-      "description": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
-      "url": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-24T22:29:48+00:00"
-    },
-    {
-      "title": "Donald Duck's uncle was partly based on Wernher von Braun",
-      "description": "Introducing the \"world-famous authority on outer space...\"",
-      "url": "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-24T21:40:07+00:00"
-    },
-    {
-      "title": "Healthy Eating May Slow Biological Aging – but There Isn’t a Single “Best” Diet",
-      "description": "Ten healthy dietary patterns were linked to slower biological aging, suggesting that eating for healthy aging can accommodate different tastes and traditions. Mediterranean, Nordic, and plant-based diets offer different ways to eat healthily, yet a study by DZNE found that all three were linked to s",
-      "url": "https://scitechdaily.com/healthy-eating-may-slow-biological-aging-but-there-isnt-a-single-best-diet/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-24T19:57:04+00:00"
-    },
-    {
-      "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
-      "description": "F-Droid's Android app store has been rebuilt from the ground up.",
-      "url": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-24T19:30:42+00:00"
-    },
-    {
-      "title": "Scientists Say This Simple Habit Could Help Protect Your Brain for Life",
-      "description": "From childhood development to healthy aging, reading has been associated with a surprising range of cognitive and social benefits. Picking up a book is a familiar way to unwind, and researchers at the University of Cambridge say reading for pleasure may offer benefits that extend across a lifetime. ",
-      "url": "https://scitechdaily.com/scientists-say-this-simple-habit-could-help-protect-your-brain-for-life/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-09-24T19:22:13+00:00"
-    },
-    {
-      "title": "New York defies Trump admin, asks court to shut down Polymarket gambling",
-      "description": "New York sues Polymarket as Trump admin tries to override state gambling laws.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-24T19:07:19+00:00"
-    },
-    {
-      "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
-      "description": "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man.",
-      "url": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-24T18:52:23+00:00"
-    },
-    {
-      "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
-      "description": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
-      "url": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-24T18:39:47+00:00"
-    },
-    {
-      "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
-      "description": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
-      "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-24T18:20:58+00:00"
-    },
-    {
-      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-      "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-      "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-09-24T18:06:40+00:00"
-    },
-    {
       "title": "US mortgage rates top 7% for first time in 20 months",
       "description": "Increase comes after Fed decision to raise interest rates, as Americans struggle with high prices and stagnant wagesUS mortgage rates surpassed 7% for the first time since January 2025, according to federal lender Freddie Mac, aggravating a housing market that has endured years of high interest rate",
       "url": "https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-09-24T16:31:58+00:00"
-    },
-    {
-      "title": "Google's first Suncatcher orbital data center test launches October 1",
-      "description": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
-      "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-09-24T16:16:34+00:00"
     },
     {
       "title": "EU says Trump’s plan to ban US diesel exports would ‘negatively impact both sides’",
@@ -464,30 +464,6 @@
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-09-24T05:00:40+00:00"
-    },
-    {
-      "title": "'Make women feel seen': Why the Dutch have a new word for labia",
-      "description": "Campaigners hope the new words will lead to less body shaming and more sex positivity.",
-      "url": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-09-23T23:42:38+00:00"
-    },
-    {
-      "title": "Barrecore and Boom Cycle owner suddenly shuts studios",
-      "description": "Common Bond has emailed customers announcing its locations were closed \"until further notice\".",
-      "url": "https://www.bbc.co.uk/news/articles/ckzdzeedmqm4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-09-23T19:10:22+00:00"
-    },
-    {
-      "title": "McDonald’s to take on KFC and rivals as Gen Z flock to fried chicken",
-      "description": "Fast food giant aiming to increase share of global chicken market as rising cost of beef hits profitsMcDonald’s is betting on fried chicken as health concerns and the rising price of beef shift dining habits.The company said that it aimed to take an extra 1.5 percentage point-share of the global chi",
-      "url": "https://www.theguardian.com/business/2026/sep/23/mcdonalds-to-take-on-chicken-shops-for-gen-zs-insatiable-appetite",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-09-23T17:38:37+00:00"
     }
   ]
 }
