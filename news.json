@@ -1,6 +1,358 @@
 {
-  "updatedAt": "2026-10-04T23:49:51.468447+00:00",
+  "updatedAt": "2026-10-05T17:30:25.674225+00:00",
   "articles": [
+    {
+      "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
+      "description": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
+      "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-05T17:23:28+00:00"
+    },
+    {
+      "title": "ECB will 'look at' funding women's Windies Test if needed",
+      "description": "The England and Wales Cricket Board (ECB) will “look at” the unusual step of funding a women’s Test in the West Indies next year in order to aid England’s Ashes preparations.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c9x2808dezkmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-05T17:00:17+00:00"
+    },
+    {
+      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+      "description": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about the incident, the publicist warned Guiducci about running out of time, saying she'd like to \"move o",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-05T16:55:42+00:00"
+    },
+    {
+      "title": "Sam Altman says ‘some bad things&#8217; will happen but AI is totally worth it",
+      "description": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should expect to tolerate because \"people will do tremendously orders of magnitude more g",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-05T16:44:21+00:00"
+    },
+    {
+      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+      "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+      "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-05T16:13:21+00:00"
+    },
+    {
+      "title": "F1 in Bahrain... in Malaysia: The race needed a software update to start",
+      "description": "A software bug waylaid half the field and required a race reboot.",
+      "url": "https://arstechnica.com/cars/2026/10/f1-in-bahrain-in-malaysia-the-race-needed-a-software-update-to-start/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-05T16:09:07+00:00"
+    },
+    {
+      "title": "Nvidia’s Shield TV Pro just got a $100 price hike",
+      "description": "Nvidia's Shield TV streaming boxes are the latest victims of the memory shortage that has seen prices increase dramatically for everything from digital cameras to game consoles. When the Shield TV Pro launched nearly seven years ago with an upgraded Tegra X1+ processor, 3GB of RAM, and 16GB of stora",
+      "url": "https://www.theverge.com/tech/1004791/nvidia-shield-tv-pro-streaming-box-price-increase",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-05T15:43:13+00:00"
+    },
+    {
+      "title": "Study Finds Natural Dairy Trans Fats Behave Very Differently From Industrial Fats",
+      "description": "A large review of 22 studies suggests that naturally occurring trans fats in dairy may affect the body very differently from industrial trans fats. Milk, butter, yogurt, and cheese naturally contain small amounts of trans fats, but a large review suggests these fats do not carry the same health risk",
+      "url": "https://scitechdaily.com/study-finds-natural-dairy-trans-fats-behave-very-differently-from-industrial-fats/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-05T15:21:16+00:00"
+    },
+    {
+      "title": "Mass quarantine issued in Russia after unexplained death of plague researcher",
+      "description": "Unconfirmed reports have suggested there was a laboratory accident.",
+      "url": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-05T15:12:17+00:00"
+    },
+    {
+      "title": "Apple’s new M6 Mac Mini is over $100 off",
+      "description": "Really the only negative associated with the new M6-powered Mac Mini is its high price. While the last-gen model debuted at just $599, the faster, but mostly unchanged 2026 edition starts at $899 — except for right now. You can grab the base model that has 256GB of storage, 16GB RAM, and a 12-core C",
+      "url": "https://www.theverge.com/gadgets/1004772/apple-mac-mini-m6-deal-october-prime-day-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-05T15:08:31+00:00"
+    },
+    {
+      "title": "Player welfare, injury worries & boredom - has extended break worked?",
+      "description": "The extended international break was brought in with player welfare in mind, but has it been a success?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-05T14:54:39+00:00"
+    },
+    {
+      "title": "Researchers Reveal How Aggressive Breast Cancer May Spread to the Brain",
+      "description": "A preclinical study links a protein to triple-negative breast cancer’s ability to spread to the brain and evade the brain’s immune defenses. Triple-negative breast cancer is more likely than many other breast cancers to spread to the brain, where treatment options are limited, and outcomes are often",
+      "url": "https://scitechdaily.com/researchers-reveal-how-aggressive-breast-cancer-may-spread-to-the-brain/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-05T14:46:23+00:00"
+    },
+    {
+      "title": "Medvedev disqualified from Djokovic match for hitting spectator with ball",
+      "description": "Daniil Medvedev is disqualified from the China Open after hitting a spectator in the face with a ball during his semi-final against Novak Djokovic.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cqkg5npg0r9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-05T14:44:45+00:00"
+    },
+    {
+      "title": "CNN&#8217;s boss will remain as Paramount and WBD merge into Skydance",
+      "description": "CNN CEO Mark Thompson will remain at the head of the news network when Paramount's $110 billion Warner Bros. Discovery acquisition closes this week. Thompson wrote in a memo to employees that he believes the combined company will \"fully support the principle and practice of the kind of independent n",
+      "url": "https://www.theverge.com/entertainment/1004734/cnn-ceo-mark-thompson-paramount-warner-bros",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-05T14:42:34+00:00"
+    },
+    {
+      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "description": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I really wanted to ask him about how we might regulate anything related to the tech ",
+      "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-05T14:30:00+00:00"
+    },
+    {
+      "title": "Mark Thompson will remain chief executive at CNN after Paramount sale",
+      "description": "Decision by Paramount Skydance executive David Ellison was relief to employees who feared overhaul – and possibility of Bari Weiss taking overMark Thompson, who since 2023 has served as chair and chief executive of CNN after a storied career in British and American media, will retain his role even a",
+      "url": "https://www.theguardian.com/media/2026/oct/05/mark-thompson-cnn-chief-paramount-sale",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-10-05T14:14:17+00:00"
+    },
+    {
+      "title": "Your Voice May Reveal How Fast Your Brain Is Aging",
+      "description": "Researchers have developed a machine-learning “speech clock” that estimates age from subtle patterns in how people speak and what they say. It is possible that people’s voices may contain certain signals of aging that go beyond their chronological age. According to a recent study of nearly 3,000 peo",
+      "url": "https://scitechdaily.com/your-voice-may-reveal-how-fast-your-brain-is-aging/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-05T14:11:36+00:00"
+    },
+    {
+      "title": "The best early October Prime Day deals happening now",
+      "description": "Amazon and other retailers are knocking down prices on popular products for October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Fr",
+      "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-05T14:10:19+00:00"
+    },
+    {
+      "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+      "description": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models stay on your disk, ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-05T13:47:14+00:00"
+    },
+    {
+      "title": "AI glasses face their first major government crackdown",
+      "description": "Norway wants time to write permanent rules for glasses that can record bystanders.",
+      "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-05T13:39:30+00:00"
+    },
+    {
+      "title": "Australia warm-up shows England have 'learned' from Ashes",
+      "description": "England confirm warm-up fixture at the Waca before this winter's white-ball tour of Australia - a stark contrast to last year's Ashes defeat.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cr0j0w2nj19no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-05T12:52:25+00:00"
+    },
+    {
+      "title": "Bournemouth unhappy after Scott injured with England",
+      "description": "Bournemouth are unhappy with the way they believe England handled the injury to Alex Scott - which means he could now be out for up to eight weeks.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-05T12:38:58+00:00"
+    },
+    {
+      "title": "F1 needs to have hard look at itself - Sainz",
+      "description": "F1 \"needs to have a hard look at\" itself in the wake of unprecedented software glitches that affected the Bahrain Grand Prix in Malaysia, Carlos Sainz says.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cr62y51n1841o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-05T11:52:01+00:00"
+    },
+    {
+      "title": "Quins disaster, salty celebrations and Test bolters - Prem talking points",
+      "description": "Bristol set out their top-four aspirations with a statement win, while Gloucester's renaissance continues in the second round of Prem action.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy4x3e7zwn9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-05T11:49:09+00:00"
+    },
+    {
+      "title": "Scientists Catch Virus-Like Particles Building Themselves in Real Time",
+      "description": "A new single-molecule approach has exposed fleeting stages in viral shell formation that were previously hidden. Oxford University researchers have watched a virus-like particle assemble one step at a time, revealing how protein components navigate countless possible arrangements to build a stable s",
+      "url": "https://scitechdaily.com/scientists-catch-virus-like-particles-building-themselves-in-real-time/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-05T11:29:11+00:00"
+    },
+    {
+      "title": "Nobel Prize awarded for revealing inner workings of the brain",
+      "description": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-10-05T11:04:37+00:00"
+    },
+    {
+      "title": "Explaining Hall-effect, TMR, and other new types of \"mechanical\" switches",
+      "description": "Ars Technica's guide to new keyboard sensing technologies.",
+      "url": "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-05T11:00:41+00:00"
+    },
+    {
+      "title": "Best Power Banks (2026): My Picks After Testing Over 100",
+      "description": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
+      "url": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-05T11:00:00+00:00"
+    },
+    {
+      "title": "518-Million-Year-Old Fossil Challenges What We Thought Starfish Came From",
+      "description": "A creature preserved for 518 million years hints that the starfish family began with tentacles, challenging a long-standing picture of its earliest ancestor. Fossils discovered in southwestern China suggest that an animal called Yujingia glutenotunica lived close to the evolutionary roots of ambulac",
+      "url": "https://scitechdaily.com/518-million-year-old-fossil-challenges-what-we-thought-starfish-came-from/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-05T10:54:47+00:00"
+    },
+    {
+      "title": "Withings BodyScan 2 Review: Worth Its Weight",
+      "description": "After months of testing, this high-end smart scale has made me rethink how much a bathroom weigh-in can tell me.",
+      "url": "https://www.wired.com/review/withings-bodyscan-2/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-05T10:36:00+00:00"
+    },
+    {
+      "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
+      "description": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
+      "url": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-05T10:25:36+00:00"
+    },
+    {
+      "title": "These Fingernail-Sized Animals Are Moving Astonishing Amounts of California Beach Sand",
+      "description": "A California beach can be reshaped overnight by creatures barely the size of a fingernail, with sand hoppers digging up to 110 pounds of sand per meter of shoreline each day. Researchers at UC Santa Barbara found that sand hoppers, tiny crustaceans that eat washed-up kelp, excavate extraordinary qua",
+      "url": "https://scitechdaily.com/these-fingernail-sized-animals-are-moving-astonishing-amounts-of-california-beach-sand/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-05T10:19:16+00:00"
+    },
+    {
+      "title": "Why are data centres such a big deal in Scotland?",
+      "description": "At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners.",
+      "url": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-05T10:04:08+00:00"
+    },
+    {
+      "title": "Trump chooses top spy boss to run new AI taskforce",
+      "description": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
+      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-05T10:03:38+00:00"
+    },
+    {
+      "title": "Trump’s recent statements on the economy are even more bonkers than usual | Steven Greenhouse",
+      "description": "Our ‘genius’ president is revealing his ignorance of economics, fueling concerns about the threat he poses to the worldDonald Trump recently made a bold claim about his abilities, writing on Truth Social: “The only control or ‘guardrails’ that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/05/trump-us-economy-comments",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-10-05T10:00:53+00:00"
+    },
+    {
+      "title": "Omega Has New Bond Watches Even if There Isn’t a New James Bond",
+      "description": "With no new 007 actor named and no film in the near future, Omega has had to get creative to keep its lucrative spy-watch train running.",
+      "url": "https://www.wired.com/story/omega-has-new-bond-watches-even-if-we-dont-have-a-new-bond/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-05T10:00:00+00:00"
+    },
+    {
+      "title": "Average five-year mortgage rate hits 6% for first time in three years",
+      "description": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
+      "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-05T09:54:57+00:00"
+    },
+    {
+      "title": "A Prediction Market About the Past? Sure, Why Not!",
+      "description": "As prediction markets surge in popularity, a new platform called Verifact Markets is pushing the concept even further, letting users trade on “disputed facts.”",
+      "url": "https://www.wired.com/story/a-prediction-market-about-the-past-sure-why-not/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-05T09:30:00+00:00"
+    },
+    {
+      "title": "Staples Print and Marketing Services Review: Fast Holiday Gifts",
+      "description": "Staples’s printing service offers fast pickup and in-store experts who can help you get your family photos, novelty gifts, and business documents looking exactly how you want.",
+      "url": "https://www.wired.com/story/staples-print-and-marketing-services/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-05T09:00:00+00:00"
+    },
+    {
+      "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
+      "description": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester United, fans are frustrated at how much has been taken out.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-05T08:08:02+00:00"
+    },
+    {
+      "title": "Early Lampard findings could come within weeks",
+      "description": "Early recommendations could be issued if evidence highlights patient safety risks, the chair says.",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3k32k778ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-10-05T05:20:22+00:00"
+    },
+    {
+      "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+      "description": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls.",
+      "url": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-05T04:00:52+00:00"
+    },
+    {
+      "title": "NASA’s Bennu Samples Reveal a Surprising Origin Story",
+      "description": "Instead of forming far out where comets took shape, Bennu may have emerged near the young solar system&#8217;s water-ice line, where Jupiter helped shape the mixture of dust that built the asteroid. Understanding exactly how the planets formed 4.5 billion years ago requires looking at material that ",
+      "url": "https://scitechdaily.com/nasas-bennu-samples-reveal-a-surprising-origin-story/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-05T01:17:51+00:00"
+    },
+    {
+      "title": "Earth and Mars Were Formed in Fundamentally Different Ways, Study Finds",
+      "description": "Earth and Mars may have formed through different mixtures of planetary building processes, despite developing side by side. Earth and Mars formed near each other about 4.5 billion years ago, yet new research suggests they grew through very different processes. “The most surprising result was that Ea",
+      "url": "https://scitechdaily.com/earth-and-mars-were-formed-in-fundamentally-different-ways-study-finds/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-05T00:42:57+00:00"
+    },
     {
       "title": "The job interview question you don't have to answer",
       "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
@@ -10,204 +362,12 @@
       "publishedAt": "2026-10-04T23:22:07+00:00"
     },
     {
-      "title": "Israel 'tried to intimidate' Irish amid spitting row - Hallgrimsson",
-      "description": "Republic of Ireland head coach Heimir Hallgrimsson says he felt Israel were \"trying to intimidate\" his team amid allegations of spitting during Sunday's Nations League draw.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw4g14eg5p22o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-04T22:51:49+00:00"
-    },
-    {
-      "title": "Bellamy bemoans new schedule after Denmark loss",
-      "description": "Craig Bellamy suggests the new four-match international window has counted against Wales after Sunday's Nations League defeat against Denmark.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm93zyld4513o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-04T22:36:20+00:00"
-    },
-    {
-      "title": "Portugal boss says door open for Ronaldo return",
-      "description": "Cristiano Ronaldo could still return for Portugal, according to boss Jorge Jesus.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3dxwry8vydvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-04T22:10:59+00:00"
-    },
-    {
-      "title": "Humphries wins Grand Prix to end barren spell",
-      "description": "World number two Luke Humphries ends a 16-month wait for a PDC major trophy with a stunning 6-4 victory over Gerwyn Price in the World Grand Prix final.",
-      "url": "https://www.bbc.co.uk/sport/darts/articles/cw1m49g84mmro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-04T21:39:14+00:00"
-    },
-    {
-      "title": "The new Fitbit Edge leaks",
-      "description": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Wat",
-      "url": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-04T21:02:09+00:00"
-    },
-    {
-      "title": "Noninvasive Cancer Treatment Looks Safe, yet 11% of Patients Died Within a Month",
-      "description": "Histotripsy appears well tolerated procedurally, but real-world outcomes suggest that choosing the right patients may be just as important as performing the treatment safely. A patient can undergo treatment for a liver tumor without an incision, avoid a hospital stay, and tolerate the procedure with",
-      "url": "https://scitechdaily.com/noninvasive-cancer-treatment-looks-safe-yet-11-of-patients-died-within-a-month/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-04T20:46:40+00:00"
-    },
-    {
-      "title": "'Money-grab' or celebration? NFL kicks off London series",
-      "description": "The NFL kicked off this season's series of London games on Sunday but the build-up was overshadowed by anger from long-term fans over ticket prices.",
-      "url": "https://www.bbc.co.uk/sport/american-football/articles/cqwyrlk27e7ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-04T20:36:03+00:00"
-    },
-    {
-      "title": "Arsenal 10 points off WSL leaders - is Slegers' job at risk?",
-      "description": "It is only five matches into the WSL season but Arsenal are already 10 points behind leaders Manchester City and manager Renee Slegers is coming under increasing scrutiny.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9p8gmvlvp57o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-04T20:34:17+00:00"
-    },
-    {
-      "title": "Why Do Muscles Weaken With Age? Scientists May Have Found an Important Missing Piece",
-      "description": "A newly identified breakdown in nerve-muscle communication may help explain age-related weakness. Muscles do not weaken with age simply because they get smaller. New research suggests that part of the problem may lie in the electrical signals that tell them when to contract. Scientists at the Univer",
-      "url": "https://scitechdaily.com/why-do-muscles-weaken-with-age-scientists-may-have-found-an-important-missing-piece/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-04T20:11:50+00:00"
-    },
-    {
-      "title": "Prick’s theatrical industrial punk is perfect for spooky season",
-      "description": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While Reznor is only credited as the producer on four tracks off Prick's self-titled ",
-      "url": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-04T20:00:00+00:00"
-    },
-    {
-      "title": "Cancer’s “Obesity Paradox” May Have a Surprising Explanation",
-      "description": "A study links diet and the gut microbiome to responses to immune checkpoint therapy, offering new directions for cancer research. Cancer treatment can be maddeningly unpredictable. A therapy that works well for one patient may do far less for another, even when doctors use the same approach. One sur",
-      "url": "https://scitechdaily.com/cancers-obesity-paradox-may-have-a-surprising-explanation/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-04T19:36:37+00:00"
-    },
-    {
-      "title": "World No. 979 Stewart's dilemma after finishing fourth at Alfred Dunhill Links",
-      "description": "Scotland's Michael Stewart has a choice to make after securing his best finish at a DP World Tour event.",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/c6pwg5z9982zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-04T17:55:17+00:00"
-    },
-    {
-      "title": "The best early October Prime Day deals happening now",
-      "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East [&#8230;]",
-      "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-04T17:18:00+00:00"
-    },
-    {
-      "title": "Hamilton bemused after glitch turns F1 into 'Lego race'",
-      "description": "Max Verstappen and Lewis Hamilton liken the effects of a software bug that affected multiple cars before the Bahrain Grand Prix in Malaysia to a \"Lego race\".",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cwg7x820k9xjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-04T16:58:56+00:00"
-    },
-    {
-      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-      "description": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularl",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-04T16:16:04+00:00"
-    },
-    {
-      "title": "MIT’s Paper-Thin Swimming Robot Is Powered by Living Muscle",
-      "description": "MIT engineers created a paper-thin swimming robot that uses light-controlled living muscle cells to move and steer through water. Navigating delicate underwater ecosystems requires a gentle physical touch that conventional metal and plastic motors cannot provide. Engineers trying to build machines s",
-      "url": "https://scitechdaily.com/mits-paper-thin-swimming-robot-is-powered-by-living-muscle/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-04T16:01:07+00:00"
-    },
-    {
-      "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
-      "description": "Wunmi Mosaku (Sinners, Loki) narrates NatGeo's new documentary Africa: Earth's Wild Home",
+      "title": "Lions and cheetahs and chimps, oh my: A spotlight on Africa's diverse wildlife",
+      "description": "Wunmi Mosaku (Sinners, Loki) narrates NatGeo's new documentary Africa: Earth's Wild Home.",
       "url": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-10-04T15:34:14+00:00"
-    },
-    {
-      "title": "Scientists Break 3 World Records With Giant Atoms Built for Quantum Computing",
-      "description": "Supersized atoms could help quantum computers run longer with fewer errors after scientists broke three records without the costly cooling these experiments usually require. Scientists at the University of Stuttgart’s 5th Institute of Physics have set three records for circular Rydberg atoms: their ",
-      "url": "https://scitechdaily.com/scientists-break-3-world-records-with-giant-atoms-built-for-quantum-computing/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-04T15:26:59+00:00"
-    },
-    {
-      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-      "description": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off ag",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-04T15:21:59+00:00"
-    },
-    {
-      "title": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
-      "description": "This toolless modular lever-action wallet is the coolest I've stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own? Now, OhSnap has a magnetic lever-action card wallet that can stack with that stand. It's the coolest wall",
-      "url": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-04T15:00:00+00:00"
-    },
-    {
-      "title": "Engineers Have Created the World’s First Floating Titanium",
-      "description": "Australian engineers have developed a strong, lightweight titanium material that remains afloat even after severe damage, offering a potential new option for marine infrastructure. Buoys, floating sensors, and other marine structures depend on sealed spaces to keep water out and stay afloat. A serio",
-      "url": "https://scitechdaily.com/engineers-have-created-the-worlds-first-floating-titanium/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-04T14:51:39+00:00"
-    },
-    {
-      "title": "The AirPods Pro 3 are a fantastic deal at $179",
-      "description": "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear tip sizes, live translation, and [&#8230;",
-      "url": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-04T13:00:00+00:00"
-    },
-    {
-      "title": "The MacBook Air M5 is $200 off for the first time in months",
-      "description": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a machine that’s significantly faster than Apple’s $699 MacBook Neo. T",
-      "url": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-04T12:34:01+00:00"
-    },
-    {
-      "title": "Depression May Have 5 Distinct Brain Activity Patterns, Study Finds",
-      "description": "People with the same depression diagnosis can have opposite patterns of brain activity, with researchers identifying five distinct connectivity profiles linked to different symptoms. Depression can take very different forms from one person to the next. For some, anxiety and relentless rumination may",
-      "url": "https://scitechdaily.com/depression-may-have-5-distinct-brain-activity-patterns-study-finds/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-04T11:58:26+00:00"
-    },
-    {
-      "title": "More Than 1 in 3 Adults Had High Blood Pressure – Most Didn’t Know It",
-      "description": "A study of 1.4 million adults in England found that more than one-third had high blood pressure, while nearly two-thirds were unaware they had it. A person can have blood pressure high enough to meet the clinical definition of hypertension without ever being diagnosed or receiving medication. That g",
-      "url": "https://scitechdaily.com/more-than-1-in-3-adults-had-high-blood-pressure-most-didnt-know-it/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-04T11:23:35+00:00"
     },
     {
       "title": "All hail electrification. But let’s talk about the hard part.",
@@ -234,14 +394,6 @@
       "publishedAt": "2026-10-04T11:00:00+00:00"
     },
     {
-      "title": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
-      "description": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
-      "url": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-04T10:30:00+00:00"
-    },
-    {
       "title": "Meta Glasses Nova (Gen 3) Review: Not Much New",
       "description": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
       "url": "https://www.wired.com/review/meta-glasses-gen-3/",
@@ -258,76 +410,12 @@
       "publishedAt": "2026-10-04T10:00:26+00:00"
     },
     {
-      "title": "Rural Data Centers Are in for a Big Federal Tax Break",
-      "description": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
-      "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-04T10:00:00+00:00"
-    },
-    {
-      "title": "Keurig Alta First-Look: No More Plastic K-Cups",
-      "description": "Keurig is ready to ditch the K-Cup with a compostable and plastic- and aluminum-free coffee pod, but the price is steep.",
-      "url": "https://www.wired.com/story/keurig-alta-coffee-brewer/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-04T09:30:00+00:00"
-    },
-    {
-      "title": "Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior",
-      "description": "A global network of detectors are reporting some of the most substantial measurements yet of neutrinos created deep underground by the radioactive elements that power our planet’s tectonic activity.",
-      "url": "https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-04T09:00:00+00:00"
-    },
-    {
       "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
       "description": "\"...we were making history.\"",
       "url": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-10-03T19:45:17+00:00"
-    },
-    {
-      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-      "description": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
-      "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-03T18:00:00+00:00"
-    },
-    {
-      "title": "The dawn of the age of the exoskeleton",
-      "description": "The devices continue to show noticeable benefits for users in various real-world tasks.",
-      "url": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-03T11:15:33+00:00"
-    },
-    {
-      "title": "The American dream remains elusive in the valley that inspired East of Eden",
-      "description": "John Steinbeck’s hometown of Salinas is the least affordable city in the US for the middle class, a recent Brookings Institution analysis found Nestled between two mountain ranges at the crook of central California’s coastline sits a valley known as the “salad bowl of the world”.Farm workers stoop o",
-      "url": "https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-10-03T09:00:54+00:00"
-    },
-    {
-      "title": "Suppliers pile pressure on government over energy bills",
-      "description": "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-10-03T08:58:44+00:00"
-    },
-    {
-      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-10-03T04:38:31+00:00"
     }
   ]
 }
