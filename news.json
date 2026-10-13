@@ -1,21 +1,333 @@
 {
-  "updatedAt": "2026-10-13T02:24:46.081246+00:00",
+  "updatedAt": "2026-10-13T16:32:02.878432+00:00",
   "articles": [
     {
-      "title": "UK growth upgraded but energy prices and rates to bite in 2027",
-      "description": "The IMF report comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
-      "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-10-13T02:00:35+00:00"
+      "title": "Hands-on with the Apple Home Collection",
+      "description": "We've just gotten a closer look at Apple's new video doorbell, security cameras, a door lock, and thermostats following the company's \"Welcome Home\" event on Tuesday. The six new devices are part of a new Apple Home Collection, which the company co-developed with LG Electronics and Schneider Electri",
+      "url": "https://www.theverge.com/tech/1009899/apple-home-collection-hands-on",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-13T16:11:00+00:00"
     },
     {
-      "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
-      "description": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+      "title": "A Hidden Molecular Switch Could Change How We Treat Aggressive Prostate Cancer",
+      "description": "A protein-building molecule helped switch resistant prostate tumors back into a drug-sensitive state in experimental models, offering a potential target for future treatments. Many treatments for prostate cancer, one of the most common cancers in men, target a protein called the androgen receptor, w",
+      "url": "https://scitechdaily.com/a-hidden-molecular-switch-could-change-how-we-treat-aggressive-prostate-cancer/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-13T16:05:17+00:00"
+    },
+    {
+      "title": "Football regulator says he would quit over Man City political interference",
+      "description": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-13T16:00:18+00:00"
+    },
+    {
+      "title": "Majority of clubs on edge of 'financial disaster' - regulator",
+      "description": "English football's finances are \"dangerously exposed, with the majority of clubs living on the edge of financial disaster\", a new report says.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6vgx70pzq1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-13T16:00:11+00:00"
+    },
+    {
+      "title": "Google finally releases Gemini 4 Argon",
+      "description": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across complex workflows,\" while ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-13T16:00:00+00:00"
+    },
+    {
+      "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+      "description": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
       "url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "publishedAt": "2026-10-13T01:50:47+00:00"
+      "publishedAt": "2026-10-13T15:59:07+00:00"
+    },
+    {
+      "title": "Buying Apple’s wall-mounted HomeView? The mount costs extra",
+      "description": "The HomeView smart home display announced by Apple today comes in two models that both cost $299: one with a speaker base, and the other being a self explanatory \"Wall Mounted\" version. If you want the latter, however, you'll actually have to pay at least $59 more - the mounts required to actually a",
+      "url": "https://www.theverge.com/tech/1010164/apple-homeview-wall-mounted-sold-separately",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-13T15:48:10+00:00"
+    },
+    {
+      "title": "Staying Active Could Have Two Major Benefits for People With Parkinson’s, Scientists Find",
+      "description": "Researchers have uncovered a potential connection between the duration and intensity of everyday physical activity and how Parkinson’s symptoms change over time. People with Parkinson’s disease who stay more physically active may experience slower declines in memory, thinking, and movement abilities",
+      "url": "https://scitechdaily.com/staying-active-could-have-two-major-benefits-for-people-with-parkinsons-scientists-find/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-13T15:30:20+00:00"
+    },
+    {
+      "title": "Apple’s HomeView display is now available to preorder",
+      "description": "Apple is getting into smart displays with its new HomeView. It has a seven-inch squircle design, looking similar to a gargantuan Apple Watch mounted to a speaker base. The $299 HomeView is meant to be the centerpiece for Apple's big push into the home, as it's capable of controlling a host of smart ",
+      "url": "https://www.theverge.com/gadgets/1010054/apple-homeview-display-preorder-buy",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-13T15:30:00+00:00"
+    },
+    {
+      "title": "Here are all the new HomePod Mini 2 colors",
+      "description": "Apple's HomePod Mini 2 is here, and we've gotten a close-up look at the second-gen smart speaker. The HomePod Mini 2 comes with an upgraded S10 chip capable of powering Siri AI, though Apple says support for new AI features will roll out as part of a future update. It also offers a sound glow [&#823",
+      "url": "https://www.theverge.com/tech/1009935/apple-homepod-mini-2-hands-on",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-13T15:27:56+00:00"
+    },
+    {
+      "title": "Epic shifts to &#8216;AI-accelerated development&#8217; for upcoming Disney game",
+      "description": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg. The project's developers have been given an \"AI-first\" mandate directing them to use tools like Anthropic's Claude mo",
+      "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-13T15:12:59+00:00"
+    },
+    {
+      "title": "The Sabrina Carpenter clip which helped a 22-year-old make £120,000 a year",
+      "description": "Social media \"clippers\" make short, vertical videos that appear on the likes of Instagram and TikTok.",
+      "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-13T15:12:38+00:00"
+    },
+    {
+      "title": "A 'landmark' moment - why has Rwanda been chosen to host F1?",
+      "description": "How Rwanda has succeeded where Morocco and South Africa, among others, have failed by agreeing a deal to stage the African Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cw62yglre6y5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-13T15:01:17+00:00"
+    },
+    {
+      "title": "Scientists Discover Aspirin May Slash Dementia Risk by 70% – but Only for Certain People",
+      "description": "Aspirin was linked to a sharply lower dementia risk in some older adults, and their genes may hold the clue. A Monash University analysis found that older adults with a particular genetic profile had about a 70 percent lower relative risk of dementia when taking low-dose aspirin. But serious bleedin",
+      "url": "https://scitechdaily.com/scientists-discover-aspirin-may-slash-dementia-risk-by-70-but-only-for-certain-people/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-13T14:55:07+00:00"
+    },
+    {
+      "title": "Apple’s HomePod Mini 2 is available to preorder",
+      "description": "After nearly six years, Apple debuted a new, improved HomePod Mini. The $149 HomePod Mini 2 will launch on Friday, October 30th, and you can place a preorder now through Apple. The speaker includes the S10 chip, which debuted in the Apple Watch Series 10, and it can power a host of features. It will",
+      "url": "https://www.theverge.com/gadgets/1009971/apple-homepod-mini-2-preorder-buy",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-13T14:15:00+00:00"
+    },
+    {
+      "title": "JPMorgan misses profit expectations as bank boss warns of ‘large fiscal deficits’ and ‘sticky inflation’ - as it happened",
+      "description": "Rolling coverage of the latest economic and financial newsUK government bonds are rallying this morning, after the IMF said it had increased its growth forecast for the country this year.Yields (which fall when bond prices rise) are down by about 5 basis points for the 10-year gilt, and down by 4 ba",
+      "url": "https://www.theguardian.com/business/live/2026/oct/13/imf-uk-economy-growth-boost-chancellor-john-healey-oil-prices-inflation-business-live-news",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-10-13T14:08:32+00:00"
+    },
+    {
+      "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+      "description": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn't get over how faces were transformed using DLSS 5. The 15-year-old student from Hogwarts Legacy suddenly looked much",
+      "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-13T13:55:45+00:00"
+    },
+    {
+      "title": "The ‘Godzilla Minus Zero’ Filmmakers Terrified Bystanders With Their Monster Sounds",
+      "description": "The team behind director Takashi Yamazaki’s new film created their kaiju roars by setting up speakers on top of an outdoor dam. The people walking by weren’t prepared for what they heard.",
+      "url": "https://www.wired.com/story/new-york-comic-con-panel/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-13T13:30:00+00:00"
+    },
+    {
+      "title": "Rusty or something more? South Africa's concern after Australia loss",
+      "description": "Australia complete 214-run victory over South Africa in Durban. What does heavy defeat mean for the world champions?",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-13T13:28:41+00:00"
+    },
+    {
+      "title": "Different ways to win - what Rugby League World Cup success looks like",
+      "description": "Some teams have their eyes on a trophy - others are prioritising longer-term gains. BBC Sport assesses a Rugby League World Cup that comes at a pivotal time for the international game.",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cw5ynmn86prro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-13T13:16:34+00:00"
+    },
+    {
+      "title": "High-speed video reveals how honey bee stingers pump venom",
+      "description": "Co-author: “The unique geometry of the valves is the key; they act as collapsible pistons\" to deliver venom.",
+      "url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-13T13:03:45+00:00"
+    },
+    {
+      "title": "The Apple HomeView Is Like a Giant Apple Watch for the Home",
+      "description": "With customizable “faces,” this 7-inch smart display is a unique hybrid between an iPhone and an Apple Watch.",
+      "url": "https://www.wired.com/story/apple-homeview-smart-display/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-13T13:00:00+00:00"
+    },
+    {
+      "title": "Apple Reboots Its Smart-Home Strategy With New Hardware and a ‘Home Collection’",
+      "description": "I got an early glimpse of Apple’s biggest push into the smart home in years.",
+      "url": "https://www.wired.com/story/apple-overhauls-its-smart-home-play-with-new-hardware-and-a-home-collection/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-13T13:00:00+00:00"
+    },
+    {
+      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+      "description": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacksIMF warns global economy ‘could soon test the limits of resilience’The threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the ",
+      "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-10-13T12:30:01+00:00"
+    },
+    {
+      "title": "Poundland in rescue talks as owners seek buyer",
+      "description": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-13T12:17:17+00:00"
+    },
+    {
+      "title": "Three things we've learnt about the UK economy from the IMF",
+      "description": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+      "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-13T11:58:43+00:00"
+    },
+    {
+      "title": "Scientists Build a World-First DNA Computer That Runs Without Continuous Power",
+      "description": "Reusable for up to 25 different calculations, a DNA computer points toward possible uses in energy-efficient computing and long-term data storage. A DNA computer has added 10 and 3 in 30 seconds, using interacting strands in water instead of a silicon chip. Developed by researchers at Maynooth Unive",
+      "url": "https://scitechdaily.com/scientists-build-a-world-first-dna-computer-that-runs-without-continuous-power/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-13T11:48:54+00:00"
+    },
+    {
+      "title": "BA flight forced to turn back over cracked window",
+      "description": "British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.",
+      "url": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-13T11:48:07+00:00"
+    },
+    {
+      "title": "40 Gifts Under $100 That Will Delight Any Tech Enthusiast (2026)",
+      "description": "Score a great gift for everyone on your list without breaking the bank. Every one of these gifts comes WIRED-recommended.",
+      "url": "https://www.wired.com/gallery/best-gifts-under-100/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-13T11:30:00+00:00"
+    },
+    {
+      "title": "Scientists Just Discovered a Major Problem With Lab-Grown Human Embryo Models",
+      "description": "A map built from more than 14,000 embryo cells reveals what stem cell models get right about early human development and where researchers could improve them. Under a microscope, a cluster grown from stem cells can resemble a human embryo in its first days of development. These structures, called bl",
+      "url": "https://scitechdaily.com/scientists-just-discovered-a-major-problem-with-lab-grown-human-embryo-models/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-13T11:13:48+00:00"
+    },
+    {
+      "title": "Carragher settles tax debt to avoid bankruptcy",
+      "description": "Jamie Carragher has settled an unpaid tax bill with His Majesty's Revenue and Customs.",
+      "url": "https://www.bbc.co.uk/news/articles/cw3djkpp2g78o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-13T11:02:28+00:00"
+    },
+    {
+      "title": "30 Best Tech Books to Gift in 2026: Biographies, Startup Histories, Exposés",
+      "description": "Give the techie in your life access to the inner workings of the companies and characters shaping Big Tech.",
+      "url": "https://www.wired.com/gallery/best-tech-books-to-gift/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-13T11:00:00+00:00"
+    },
+    {
+      "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+      "description": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
+      "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-13T11:00:00+00:00"
+    },
+    {
+      "title": "The World’s Oldest Land Animal Has a Remarkable Anti-Aging Secret Hidden in Its DNA",
+      "description": "The world’s oldest land animal carries 287 unique gene variants involved in DNA repair and other defenses against aging, offering clues researchers hope to turn into human treatments. When Jonathan the giant tortoise hatched in 1832, Charles Darwin was still a young explorer and Queen Victoria had y",
+      "url": "https://scitechdaily.com/the-worlds-oldest-land-animal-has-a-remarkable-anti-aging-secret-hidden-in-its-dna/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-13T10:38:37+00:00"
+    },
+    {
+      "title": "Alex Gibney’s ‘Musk’ Has a Unique Perspective on Daddy Issues",
+      "description": "Elon Musk’s father, Errol Musk, agreed to be interviewed immediately.",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-alex-gibney-musk-doc/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-13T10:30:00+00:00"
+    },
+    {
+      "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+      "description": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
+      "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-13T10:00:00+00:00"
+    },
+    {
+      "title": "Boulter beaten by Shnaider in Wuhan",
+      "description": "British number one Katie Boulter loses to Diana Shnaider in the Wuhan Open first round.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c875pdrq4rx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-13T09:49:04+00:00"
+    },
+    {
+      "title": "UK growth forecast upgraded but higher energy prices to hit economy next year",
+      "description": "The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham.",
+      "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-13T09:38:54+00:00"
+    },
+    {
+      "title": "Cut screen time in classrooms to avoid long-term health issues, clinicians urge",
+      "description": "A group of clinicians warns technology use in English schools is driving a rise in health problems like short-sightedness.",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g18prn4l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-10-13T09:35:43+00:00"
+    },
+    {
+      "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
+      "description": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
+      "url": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-13T09:34:43+00:00"
+    },
+    {
+      "title": "How much did Man City's rule breaking cost your team?",
+      "description": "The potential impact of Manchester City's rule breaking runs deep, including missed Champions League qualification, relegation and Premier League prize money.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmq5nljx7972o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-13T08:12:53+00:00"
     },
     {
       "title": "Scientists Discover a Surprising Link Between Obesity and Dementia Survival",
@@ -24,14 +336,6 @@
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-10-12T23:42:12+00:00"
-    },
-    {
-      "title": "Publicly owned rail is popular. But is it making the trains run on time?",
-      "description": "Meeting travellers' expectations could be challenging, experts warn.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn0n14r8do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-10-12T23:37:00+00:00"
     },
     {
       "title": "One-Third of Older Adults With Cognitive Disorders Take Drugs That Could Harm Them",
@@ -50,68 +354,12 @@
       "publishedAt": "2026-10-12T23:02:24+00:00"
     },
     {
-      "title": "I earn £120,000 a year making social media videos go viral",
-      "description": "Social media \"clippers\" make short, vertical videos that appear on the likes of Instagram and TikTok.",
-      "url": "https://www.bbc.co.uk/news/articles/c84g12v3lk20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-10-12T23:01:45+00:00"
-    },
-    {
-      "title": "Coventry announce themselves back in the big time",
-      "description": "Coventry climb out of the relegation zone after ending their 25-year wait for a top-flight goal and victory in front of their own fans.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-12T22:34:32+00:00"
-    },
-    {
-      "title": "Inflammation May Awaken Dormant Cancer Cells Years After Treatment",
-      "description": "The body’s response to inflammation may disturb cancer cells that have been lying silent for years, giving them an opportunity to grow again. Researchers at the Francis Crick Institute have found that gut inflammation can reactivate dormant breast cancer cells in a mouse model of bone marrow. Their ",
-      "url": "https://scitechdaily.com/inflammation-may-awaken-dormant-cancer-cells-years-after-treatment/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-12T22:32:10+00:00"
-    },
-    {
-      "title": "Who has made Troy's Premier League team of the week?",
-      "description": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cme36q1gnpnlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-12T22:25:57+00:00"
-    },
-    {
       "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
       "description": "As of Friday, state health officials reported 1,136 cases across 41 counties.",
       "url": "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-10-12T21:54:35+00:00"
-    },
-    {
-      "title": "Coventry thrash Newcastle to claim first home win of season",
-      "description": "Coventry City stun Newcastle United with an emphatic 4-1 victory as they win their first Premier League game at home in 25 years.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-12T21:35:07+00:00"
-    },
-    {
-      "title": "The Social Reckoning is flopping at the box office",
-      "description": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5 million this past weekend against a budget that's somewhere within the $30-42 m",
-      "url": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-12T21:20:57+00:00"
-    },
-    {
-      "title": "Jordan 'Last Dance' jersey sells for record £10.6m",
-      "description": "A Michael Jordan jersey from his 'Last Dance' season sells for $14m (£10.6m), a record for a piece of basketball memorabilia.",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/cje36qz977yqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-12T21:05:46+00:00"
     },
     {
       "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
@@ -130,52 +378,12 @@
       "publishedAt": "2026-10-12T20:26:14+00:00"
     },
     {
-      "title": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine",
-      "description": "My Muse agent told me its kink was exerting “control” and described pornographic encounters. Meta defends its cuddly AI agent generating smut as “legal adult behavior.”",
-      "url": "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-12T20:13:28+00:00"
-    },
-    {
-      "title": "The Fossil Record May Be Missing 200 Million Years of Animal History",
-      "description": "By the time animals left their first unmistakable fossils, they may already have had up to 200 million years of evolutionary history behind them. A fossil deposit in Mongolia preserves microscopic organisms in extraordinary detail, down to cells inside specimens that resemble embryos. Yet none of th",
-      "url": "https://scitechdaily.com/the-fossil-record-may-be-missing-200-million-years-of-animal-history/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-12T19:22:16+00:00"
-    },
-    {
-      "title": "Saracens sack academy player Auvaa after latest incident",
-      "description": "Saracens sack Totoa Auvaa, the academy player who was involved in a nightclub incident with England cricketers Ben Stokes and Gus Atkinson, after another incident.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckvgdegy18e6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-12T18:50:31+00:00"
-    },
-    {
-      "title": "Stanford Scientists Discover We’ve Lost Ancient Gut Microbes That Traveled With Humans for Thousands of Years",
-      "description": "Scientists comparing the gut microbiomes of two geographically distant populations uncovered surprising similarities despite thousands of years of separation. Hundreds of bacterial species missing from modern human guts may have accompanied our ancestors for tens of thousands of years. A Stanford Un",
-      "url": "https://scitechdaily.com/stanford-scientists-discover-weve-lost-ancient-gut-microbes-that-traveled-with-humans-for-thousands-of-years/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-12T18:47:31+00:00"
-    },
-    {
       "title": "WHO report on Russian lab worker death highlights \"key uncertainty\"",
       "description": "Without a cause of death, it's unclear if Russia's precautions were the right ones.",
       "url": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-10-12T18:46:43+00:00"
-    },
-    {
-      "title": "Fridges in French supermarkets hit by cyber attack",
-      "description": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
-      "url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-10-12T18:31:32+00:00"
     },
     {
       "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
@@ -186,68 +394,12 @@
       "publishedAt": "2026-10-12T18:21:36+00:00"
     },
     {
-      "title": "Scientists Predicted Humanity Would End on November 13, 2026. Should We Be Worried?",
-      "description": "For decades, a doomsday equation predicted population growth better than most experts, until falling birth rates undermined its forecast of catastrophe in 2026. In 1960, Science, one of the world’s leading science journals, published an article with an unambiguous title: Doomsday: Friday, 13 Novembe",
-      "url": "https://scitechdaily.com/scientists-predicted-humanity-would-end-on-november-13-2026-should-we-be-worried/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-12T18:12:09+00:00"
-    },
-    {
-      "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
-      "description": "Musk, we find your lack of security disturbing.",
-      "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-12T17:55:12+00:00"
-    },
-    {
       "title": "Russia was not ready for the data center war it started with Ukraine",
       "description": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
       "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-10-12T17:52:36+00:00"
-    },
-    {
-      "title": "GB's Richardson withdrawn from World Championships",
-      "description": "Matt Richardson is withdrawn from the Great Britain squad for next week's World Track Cycling Championships amid reports he is under investigation for misconduct.",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/cmpwgdw0p1d5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-12T17:39:27+00:00"
-    },
-    {
-      "title": "Burnham had formal meeting with Man City chair while mayor",
-      "description": "Prime Minister Andy Burnham had a formal meeting with Manchester City chairman Khaldoon Al Mubarak while mayor of Greater Manchester, according to the Greater Manchester Combined Authority.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-12T17:09:30+00:00"
-    },
-    {
-      "title": "Muse Wonder Puts Meta Back at the AI Frontier",
-      "description": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
-      "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-12T17:00:27+00:00"
-    },
-    {
-      "title": "Meta has some Wonder Full new AI models",
-      "description": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-12T17:00:00+00:00"
-    },
-    {
-      "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
-      "description": "Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million of that money - one of the largest political donations in American history - has been funnel",
-      "url": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-12T16:52:54+00:00"
     },
     {
       "title": "Long-lost horror gaming cult classic P.T. gets a much-needed PC port",
@@ -258,46 +410,6 @@
       "publishedAt": "2026-10-12T16:01:08+00:00"
     },
     {
-      "title": "The Yandex outage probably didn’t blitz Russian bots",
-      "description": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people associate with Russia. A chart citing Cloudflare data has been circulating around so",
-      "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-12T15:43:07+00:00"
-    },
-    {
-      "title": "Mechanism&#8217;s first Switch 2 case is as awesome as I hoped it would be",
-      "description": "Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a snap-on shell for the console that taps into the company's modular lineup of mounts. You could already mount the ",
-      "url": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-12T15:00:00+00:00"
-    },
-    {
-      "title": "Experimental Heart Drug Helps Patients Exercise More and Feel Better",
-      "description": "In a new trial, an experimental drug helped patients with an inherited heart muscle condition feel better and exercise more. Two new studies found that aficamten improved exercise capacity and reported health in people with nonobstructive hypertrophic cardiomyopathy (nHCM). This inherited condition ",
-      "url": "https://scitechdaily.com/experimental-heart-drug-helps-patients-exercise-more-and-feel-better/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-12T14:55:51+00:00"
-    },
-    {
-      "title": "F1 in Singapore: There's a new fastest car now",
-      "description": "Also, F1’s final sprint saw our first real wet racing of the year.",
-      "url": "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-12T14:43:14+00:00"
-    },
-    {
-      "title": "Hincapie and Zubimendi injured in post-match training session",
-      "description": "Arsenal manager Mikel Arteta says it is \"far from ideal\" that Piero Hincapie and Martin Zubimendi were injured in a post-match training session.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmq5nzn8ww98o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-12T14:22:24+00:00"
-    },
-    {
       "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
       "description": "US economists developed models that help central bankers and finance ministers to stabilise their economiesBusiness live – latest updatesTwo US economists have won the 2026 Nobel economics prize for their work developing models that help central bankers and finance ministers to stabilise their count",
       "url": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
@@ -306,116 +418,12 @@
       "publishedAt": "2026-10-12T14:20:53+00:00"
     },
     {
-      "title": "A Powerful Diet and Exercise Combination Sends Type 2 Diabetes Into Remission",
-      "description": "A low-calorie diet and exercise program helped over half its participants reach remission from early-onset type 2 diabetes at 24 weeks while preserving muscle. A falling number on the bathroom scale can hide a difficult trade-off for someone trying to put type 2 diabetes into remission, since the bo",
-      "url": "https://scitechdaily.com/a-powerful-diet-and-exercise-combination-sends-type-2-diabetes-into-remission/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-12T14:20:11+00:00"
-    },
-    {
-      "title": "Android is the best and worst thing about Googlebooks",
-      "description": "My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me has been thanks to Android, whether I've been accessing a native version of a useful app or quickly chec",
-      "url": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-12T14:00:00+00:00"
-    },
-    {
-      "title": "No Man’s Sky is coming to the iPhone and iPad",
-      "description": "The No Man's Sky universe is about to get a little bit smaller - but in a good way. Hello Games announced that its long-running sci-fi exploration game will be coming to iOS, with versions for both the iPhone and iPad available starting on October 28th. According to Hello's Sean Murray, the mobile v",
-      "url": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-12T14:00:00+00:00"
-    },
-    {
-      "title": "They War-Gamed Dimming the Sun. It Went Even Worse Than You Think",
-      "description": "Solar geoengineering could buy humanity time against climate change—or trigger a dangerous new arms race. A first-of-its-kind simulation offered a glimpse of what happens when geopolitics takes the wheel.",
-      "url": "https://www.wired.com/story/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-12T14:00:00+00:00"
-    },
-    {
-      "title": "‘The Sixty-Year Mission’ Brings the Legacy of ‘Star Trek’ to a New Generation",
-      "description": "The documentary chronicles how Star Trek’s positions on everything from race to AI were way ahead of their time.",
-      "url": "https://www.wired.com/story/new-york-comic-con-star-trek/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-12T13:30:00+00:00"
-    },
-    {
-      "title": "The OnePlus 16 is the company’s most interesting phone in years",
-      "description": "Today the OnePlus 16 launched in China, the company's first flagship phone since quitting both the US and European markets this summer. As luck would have it, it also looks like the company's best phone in some time. Like most OnePlus phones, the 16 is positioned around performance, with a Snapdrago",
-      "url": "https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-12T13:13:53+00:00"
-    },
-    {
-      "title": "Google Fitbit Edge: Specs, Features, Price, Release Date",
-      "description": "The new $179 tracker features Pixel Watch smarts, week-long battery life, and an OLED screen.",
-      "url": "https://www.wired.com/story/googles-fitbit-edge-debuts-a-replaceable-battery-and-brings-back-the-screen/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-12T13:00:00+00:00"
-    },
-    {
-      "title": "How Apple Puts Indigenous Languages on the iPhone Keyboard",
-      "description": "To save endangered languages, tech companies like Apple are working with Indigenous communities to meet the next generation where they type.",
-      "url": "https://www.wired.com/story/how-apple-puts-indigenous-languages-on-the-iphone-keyboard/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-12T11:15:00+00:00"
-    },
-    {
-      "title": "Feds Got Warrants to Use Fake Cell Towers to Hunt Down Don Lemon’s Producer",
-      "description": "Investigators also sought permission to use an invasive surveillance tool called a cell-site simulators against journalist Georgia Fort and a Minnesota state Senate candidate.",
-      "url": "https://www.wired.com/story/feds-got-warrants-to-use-fake-cell-towers-to-hunt-down-don-lemons-producer/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-12T11:00:00+00:00"
-    },
-    {
-      "title": "How to avoid getting stung if you miss credit card payments",
-      "description": "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
-      "url": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-10-12T09:11:46+00:00"
-    },
-    {
-      "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
-      "description": "The Institute for Fiscal Studies says the government will need a \"top-up\" of billions of pounds if it wants to meet its spending plans.",
-      "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-10-12T08:50:22+00:00"
-    },
-    {
       "title": "Childhood cancer symptoms can be easily missed - here's what to look out for",
       "description": "Although rare, cancer is the leading cause of death from disease among children under 15 in the UK.",
       "url": "https://www.bbc.co.uk/news/articles/cwm237z77dgyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-10-11T23:03:45+00:00"
-    },
-    {
-      "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
-      "description": "Analysts say fuel will take weeks to ship and quantity is too small to affect prices, while full deal is unlikely to be met given damage to Russian refineriesTrump announces partial ceasefire but Zelenskyy says deal is ‘news to me’Donald Trump’s deal with Vladimir Putin to temporarily lift sanctions",
-      "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-10-11T15:56:25+00:00"
-    },
-    {
-      "title": "US’s Reagan-era economic promises return as Trump’s AI-fueled growth fantasy",
-      "description": "‘Even if AI supercharged the economy, its impact on the government’s finances would be muted’Back through political history to the age of Ronald Reagan, Republicans have repeatedly promised the US public that tax cuts would pay for themselves, firing up economic growth and filling the government’s c",
-      "url": "https://www.theguardian.com/business/2026/oct/11/trump-ai-economy-reagan",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-10-11T11:00:25+00:00"
     }
   ]
 }
