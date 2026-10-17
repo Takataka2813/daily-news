@@ -1,6 +1,198 @@
 {
-  "updatedAt": "2026-10-16T23:14:24.765575+00:00",
+  "updatedAt": "2026-10-17T12:31:07.859539+00:00",
   "articles": [
+    {
+      "title": "Apple’s HomeView is just the latest threat to online recipe writers",
+      "description": "When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning routine of a family of five. Apple's new smart display sits in the center of the chaos on the ki",
+      "url": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-17T12:00:00+00:00"
+    },
+    {
+      "title": "It’s a dream week for tech docs",
+      "description": "Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Marc",
+      "url": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-17T12:00:00+00:00"
+    },
+    {
+      "title": "Encryption Is Getting Squeezed From All Sides",
+      "description": "Canada’s planned surveillance law is the latest grim step in a series of threats to encryption that are spreading around the world.",
+      "url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-17T12:00:00+00:00"
+    },
+    {
+      "title": "SpaceX Dragon Delivers Groundbreaking Science and Solar Arrays to ISS",
+      "description": "SpaceX has delivered tiny brain models, 3D heart tissue, and artificial retina technology to the space station in a mission that could open new doors for medical research on Earth. SpaceX’s Dragon spacecraft successfully arrived at the International Space Station on October 15, docking at 10:27 a.m.",
+      "url": "https://scitechdaily.com/spacex-dragon-delivers-groundbreaking-science-and-solar-arrays-to-iss/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-17T11:53:52+00:00"
+    },
+    {
+      "title": "Morris completes golden hat-trick alongside Boothman in madison",
+      "description": "Anna Morris secures a hat-trick of gold medals at the Track Cycling World Championships as she wins the women's madison for Great Britain with Erin Boothman.",
+      "url": "https://www.bbc.co.uk/sport/cycling/videos/c3pwgqel0er4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-17T11:43:07+00:00"
+    },
+    {
+      "title": "Kartal reaches Wuhan final as dream week continues",
+      "description": "Britain's Sonay Kartal beats former French Open winner Jelena Ostapenko to reach the Wuhan Open final in only her third event after a six-month injury lay-off.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c9dr83p610vno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-17T11:41:54+00:00"
+    },
+    {
+      "title": "The Best LED Grow Lights for Houseplants This Winter (2026)",
+      "description": "Shorter days don’t have to spell trouble for your houseplants. These are the lights we’ve used and loved in our own homes.",
+      "url": "https://www.wired.com/story/best-led-grow-lights/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-17T11:30:00+00:00"
+    },
+    {
+      "title": "The Milky Way’s Monster Black Hole May Be Sacrificing Its Own Energy To Power Cosmic Rays",
+      "description": "The Milky Way’s central black hole could lose mass by powering escaping particles, and new calculations suggest how astronomers might detect the process. The supermassive black hole at the center of the Milky Way may be accelerating particles to energies far beyond anything achievable in Earth&#8217",
+      "url": "https://scitechdaily.com/the-milky-ways-monster-black-hole-may-be-sacrificing-its-own-energy-to-power-cosmic-rays/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-17T11:18:55+00:00"
+    },
+    {
+      "title": "England stunned by Tonga in World Cup opener",
+      "description": "England 's men fall to defeat in their Rugby League World Cup opener as Tonga take their chances in Perth.",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c83vqd73k0xlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-17T11:04:05+00:00"
+    },
+    {
+      "title": "These 12 Automatic Cat Feeders Were the Best We Tested in 2026",
+      "description": "We tested some of the most popular automatic dry- and wet-food pet feeders to see which ones are worth the money.",
+      "url": "https://www.wired.com/gallery/best-automatic-cat-feeders/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-17T11:02:00+00:00"
+    },
+    {
+      "title": "NASA Is About to Investigate What Lies Beneath a Giant Hole on the Moon",
+      "description": "NASA is backing a search for a hidden lunar cave that could reveal how ancient volcanic activity shaped the Moon. Scientists have gathered compelling evidence from lunar orbit for caves and lava tubes beneath the Moon’s surface, places that could one day shelter astronauts from radiation and extreme",
+      "url": "https://scitechdaily.com/nasa-is-about-to-investigate-what-lies-beneath-a-giant-hole-on-the-moon/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-17T10:43:57+00:00"
+    },
+    {
+      "title": "HTC Made Smart Glasses That Are Way More Private",
+      "description": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform.",
+      "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-17T10:30:00+00:00"
+    },
+    {
+      "title": "Don’t Let a Crypto Inheritance Get Stuck on the Blockchain",
+      "description": "Claiming an inheritance of Bitcoin or other cryptocurrency can be like hunting for buried treasure. It doesn’t have to be.",
+      "url": "https://www.wired.com/story/crypto-inheritance-how-to/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-17T10:30:00+00:00"
+    },
+    {
+      "title": "Guardiola receives standing ovation on return to Barcelona",
+      "description": "Former Manchester City and Barcelona manager Pep Guardiola received a standing ovation from the crowd while attending Barcelona's EuroLeague basketball match against Olympiacos.",
+      "url": "https://www.bbc.co.uk/sport/videos/cm9dzg38n6j7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-17T10:00:10+00:00"
+    },
+    {
+      "title": "Microplastics React With Water, a New Study Says. That’s a Problem for Biology",
+      "description": "Though plastic is usually inert, tiny pieces of it have the potential to react with one of the most pervasive molecules in the environment and in our bodies.",
+      "url": "https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-17T09:00:00+00:00"
+    },
+    {
+      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+      "description": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+      "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-17T09:00:00+00:00"
+    },
+    {
+      "title": "England crush Women's World Cup debutants Wales",
+      "description": "England scored seven tries before the break, and 13 in total on their way to a comprehensive victory over Wales in their Group A opener.",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6djvxmx0z1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-17T08:39:22+00:00"
+    },
+    {
+      "title": "England's 41-match unbeaten run ended by Canada",
+      "description": "England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-17T07:25:54+00:00"
+    },
+    {
+      "title": "Dubois v Wardley 2 - heavyweight title fight predictions",
+      "description": "Figures from the boxing world give their predictions for Saturday's heavyweight world title rematch between Fabio Wardley and Daniel Dubois.",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/cwz0vdmyvrx8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-17T06:28:03+00:00"
+    },
+    {
+      "title": "Late Canada fightback ends Red Roses' unbeaten streak",
+      "description": "Canada fight back to beat England 24-21 in Toronto in the WXV Global Series, with Shoshanah Seumanutafa's 77th-minute try ending the Red Roses' unbeaten run, stretching back to the 2022 Rugby World Cup final.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/videos/cq77pv1jdxxpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-17T02:20:43+00:00"
+    },
+    {
+      "title": "A Virus Gives Itself Away the Moment It Attacks",
+      "description": "Researchers have found the trigger behind a powerful bacterial defense against viruses. Viruses that prey on bacteria could become an increasingly important tool for treating bacterial infections, particularly as antibiotic resistance makes some infections harder to control. These viruses, known as ",
+      "url": "https://scitechdaily.com/a-virus-gives-itself-away-the-moment-it-attacks/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-17T00:21:02+00:00"
+    },
+    {
+      "title": "Scientists Discover a Terrifying New Dinosaur Hidden for 100 Years",
+      "description": "A dinosaur fossil that sat unnoticed in a museum collection for nearly a century has turned out to belong to a previously unknown predator with enormous curved claws. The animal, roughly the size of a large tiger, lived in what is now Britain about 120 million years ago. The discovery was made by a ",
+      "url": "https://scitechdaily.com/scientists-discover-a-terrifying-new-dinosaur-hidden-for-100-years/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-16T23:46:11+00:00"
+    },
+    {
+      "title": "All the news about the iPhone Duo",
+      "description": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a ",
+      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-16T23:36:26+00:00"
+    },
+    {
+      "title": "Pope pictured for first time since surgery and cancer diagnosis",
+      "description": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+      "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-10-16T23:20:37+00:00"
+    },
     {
       "title": "NASA Captures a Strange Formation on Earth With a Surprising Lunar Connection",
       "description": "A NASA astronaut captured a stunning 600-million-year-old rock formation in Madagascar that shares a surprising geological connection with the Moon. A striking patch of bright rock in southern Madagascar has an unexpected connection to the Moon. Surrounded by rocks that were twisted and stretched by",
@@ -26,20 +218,12 @@
       "publishedAt": "2026-10-16T21:31:35+00:00"
     },
     {
-      "title": "Ranking the Premier League's all-time greatest super subs",
-      "description": "Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-16T21:15:47+00:00"
-    },
-    {
-      "title": "Gloucester and holders Bordeaux draw Champions Cup thriller",
-      "description": "Gloucester and holders Bordeaux Begles begin this season's Champions Cup with a thrilling 36-36 draw at Kingsholm.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c674pwkv3e87o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-16T20:51:35+00:00"
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "description": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-16T20:59:01+00:00"
     },
     {
       "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
@@ -64,14 +248,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-10-16T20:20:07+00:00"
-    },
-    {
-      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-      "description": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
-      "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-16T20:05:08+00:00"
     },
     {
       "title": "This “Lightsaber” Beam Is Actually a Working Radio Antenna",
@@ -106,44 +282,12 @@
       "publishedAt": "2026-10-16T19:11:50+00:00"
     },
     {
-      "title": "Scientists Discover a Surprising Shortcut to Nuclear Fusion",
-      "description": "Scientists may have found a surprising shortcut to nuclear fusion that could dramatically cut the energy needed to ignite the power of the Sun. Scientists at the U.S. Department of Energy’s (DOE) Princeton Plasma Physics Laboratory (PPPL) have identified a potentially much more efficient way to achi",
-      "url": "https://scitechdaily.com/scientists-discover-a-surprising-shortcut-to-nuclear-fusion/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-16T18:44:53+00:00"
-    },
-    {
-      "title": "Dubois and Wardley at career-heaviest for rematch",
-      "description": "Britons Daniel Dubois and Fabio Wardley both weigh in at their career-heaviest for Saturday's heavyweight world-title rematch in London.",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/cm4g1e65y3d0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-16T18:42:22+00:00"
-    },
-    {
       "title": "Why Apple is finally making its own smart home devices",
       "description": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider E",
       "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-10-16T18:30:27+00:00"
-    },
-    {
-      "title": "Chicago-Area Cops Helped HSI Spy on Minnesota Anti-ICE Activists",
-      "description": "Despite Illinois’ sanctuary laws, local police in and around Chicago helped ICE investigative agents track activists engaged in First Amendment–protected activities.",
-      "url": "https://www.wired.com/story/chicago-area-cops-helped-hsi-spy-on-minnesota-anti-ice-activists/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-16T18:21:54+00:00"
-    },
-    {
-      "title": "Rahm sacrifices £75m to secure exit from LIV Golf",
-      "description": "Jon Rahm sacrifices a reported $100m (£75m) still owed to him by LIV Golf to secure his exit from the league.",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cq80zpk1xgxpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-16T17:52:10+00:00"
     },
     {
       "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
@@ -154,52 +298,12 @@
       "publishedAt": "2026-10-16T17:05:59+00:00"
     },
     {
-      "title": "Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’",
-      "description": "It turns out the Roadster 2 both sucks and blows.",
-      "url": "https://www.wired.com/story/how-tesla-made-its-new-230-mph-car-fly/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-16T16:30:12+00:00"
-    },
-    {
-      "title": "Razer Barracuda V2 Pro Review: A Gaming Headset for the Office",
-      "description": "The Razer Barracuda V2 Pro headset has a place in the office as well as at your gaming battle station.",
-      "url": "https://www.wired.com/review/razer-barracuda-v2-pro/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-16T16:30:00+00:00"
-    },
-    {
-      "title": "Thank Gen Z for the ‘Girls’ Revival",
-      "description": "The HBO series served as a stand-in for everything wrong with white millennial women during its original run. Then Gen Z started watching.",
-      "url": "https://www.wired.com/story/thank-gen-z-for-the-girls-revival/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-16T16:21:38+00:00"
-    },
-    {
-      "title": "Do Manchester City have any grounds to win their appeal?",
-      "description": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-16T16:17:01+00:00"
-    },
-    {
       "title": "The new Apple TV 4K just got its first (very small) discount",
       "description": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple’s new smart display for the first time",
       "url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-10-16T16:02:22+00:00"
-    },
-    {
-      "title": "Does Scott's Disney+ exit unmask wider issue in coverage of women's game?",
-      "description": "Alex Scott's sudden departure from her Disney+ presenter role reveals a pressing challenge for broadcasters of women's football.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm3wv4ej7lv2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-16T15:49:55+00:00"
     },
     {
       "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
@@ -210,14 +314,6 @@
       "publishedAt": "2026-10-16T15:41:00+00:00"
     },
     {
-      "title": "Apple&#8217;s HomeView has an app problem",
-      "description": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a bunch of apps. And [&#823",
-      "url": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-16T15:38:17+00:00"
-    },
-    {
       "title": "Russian man linked to deadly London hospitals hack arrested",
       "description": "The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.",
       "url": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss",
@@ -226,76 +322,12 @@
       "publishedAt": "2026-10-16T15:31:33+00:00"
     },
     {
-      "title": "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
-      "description": "Elon Musk has assembled a presidential-level field operation this midterm cycle, underscoring the extent to which he has taken over the get-out-the-vote effort for the Republican party.",
-      "url": "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-16T15:25:18+00:00"
-    },
-    {
-      "title": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
-      "description": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new Super Nt Plus and Mega Sg Plus are able to play Nintendo and Sega Genesis cartr",
-      "url": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-16T15:08:38+00:00"
-    },
-    {
       "title": "Covid vaccine compensation scheme set for overhaul after Inquiry criticism",
       "description": "Ministers promise to reform the scheme that provides financial support for those injured or bereaved by vaccines in the UK.",
       "url": "https://www.bbc.co.uk/news/articles/c3pwgqd4gz9xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-10-16T15:02:46+00:00"
-    },
-    {
-      "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
-      "description": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads and, at the time of wri",
-      "url": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-16T15:02:23+00:00"
-    },
-    {
-      "title": "Vanilla’s Sweet Secret Could Help Heal Stubborn Wounds",
-      "description": "Vanillin could help form wound-care materials while supplying antibacterial activity, a combination made more practical by its low-cost and abundant supply. The compound behind vanilla’s sweet aroma could become an ingredient in wound-care materials. A team from Flinders University’s Biomedical Nano",
-      "url": "https://scitechdaily.com/vanillas-sweet-secret-could-help-heal-stubborn-wounds/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-16T15:02:05+00:00"
-    },
-    {
-      "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
-      "description": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
-      "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-16T15:00:00+00:00"
-    },
-    {
-      "title": "Pope pictured for first time since surgery and cancer diagnosis",
-      "description": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-10-16T14:36:39+00:00"
-    },
-    {
-      "title": "Former Sale Sharks lock Andrews dies at team hotel in La Rochelle",
-      "description": "Hyron Andrews dies at his Johannesburg Lions' team hotel before their Champions Cup match at La Rochelle on Saturday.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqdjvxynj2kyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-16T14:33:04+00:00"
-    },
-    {
-      "title": "Scientists Uncover a Longevity Hotspot Where Reaching 100 Is Surprisingly Common",
-      "description": "Turning 100 is unusually common in one Sardinian village, and centuries of records help show that its residents’ remarkable ages are real. Women in Bolotana, a mountain community of about 2,300 people on the Italian island of Sardinia, have an exceptional pattern of survival after age 70. An interna",
-      "url": "https://scitechdaily.com/scientists-uncover-a-longevity-hotspot-where-reaching-100-is-surprisingly-common/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-16T14:27:00+00:00"
     },
     {
       "title": "Polymarket saw $600 million in election trades after the elections were over",
@@ -314,44 +346,12 @@
       "publishedAt": "2026-10-16T14:03:25+00:00"
     },
     {
-      "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
-      "description": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-16T14:00:59+00:00"
-    },
-    {
-      "title": "Scientists Discover a Surprising New Way To Fight High Blood Pressure – Through the Ear",
-      "description": "A small ear stimulation device could offer a new way to tackle high blood pressure that stays elevated despite medication. Researchers at Queen Mary University of London have tested a device that stimulates nerves through the ear in people whose high blood pressure remained uncontrolled despite medi",
-      "url": "https://scitechdaily.com/scientists-discover-a-surprising-new-way-to-fight-high-blood-pressure-through-the-ear/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-16T13:52:58+00:00"
-    },
-    {
-      "title": "Underdogs? We like that tag, says England captain Williams",
-      "description": "Captain George Williams says England will relish their \"underdog\" tag when they take on a powerful Tonga side in their World Cup opener in Perth on Saturday.",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cx7vprd744y9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-16T13:26:51+00:00"
-    },
-    {
       "title": "Watch: Did Tesla really just unveil a flying car?",
       "description": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
       "url": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-10-16T12:32:31+00:00"
-    },
-    {
-      "title": "Scientists Discover Nature Has Far Fewer Backup Plans Than We Thought",
-      "description": "Nature may have fewer backup plans than we thought, leaving our food supply and climate more exposed when species disappear. The largest global study of its kind suggests that losing species can steadily erode the benefits ecosystems provide, including pollination, clean water, carbon storage, and n",
-      "url": "https://scitechdaily.com/scientists-discover-nature-has-far-fewer-backup-plans-than-we-thought/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-16T10:55:59+00:00"
     },
     {
       "title": "Banks expect to be hit with higher taxes in Budget",
@@ -456,22 +456,6 @@
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-10-15T13:30:11+00:00"
-    },
-    {
-      "title": "Key US voters say economy is getting worse ahead of midterms, exclusive poll finds",
-      "description": "Nearly 61% believe country is in recession and 65% of independents say economy is worse, according to new Harris pollTell us: what is your personal ‘recession indicator’?With the midterm elections less than three weeks away, key voting groups including independents, rural voters and even some Republ",
-      "url": "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-10-15T09:00:13+00:00"
-    },
-    {
-      "title": "I'm 12 and I want to try protein powder - should I?",
-      "description": "We asked experts how safe it is for children and teenagers to take protein supplements.",
-      "url": "https://www.bbc.co.uk/news/articles/cm158555dq1go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-10-15T00:00:35+00:00"
     }
   ]
 }
