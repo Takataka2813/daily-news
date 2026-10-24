@@ -1,13 +1,173 @@
 {
-  "updatedAt": "2026-10-23T23:44:30.578597+00:00",
+  "updatedAt": "2026-10-24T12:58:18.150510+00:00",
   "articles": [
     {
-      "title": "Leclerc fastest from Antonelli in US GP practice",
-      "description": "Ferrari's Charles Leclerc leads Mercedes' Kimi Antonelli in Friday practice at the United States Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o?at_medium=RSS&at_campaign=rss",
+      "title": "Lee Chang Dong ponders the ethics of the camera",
+      "description": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes of class or labor [",
+      "url": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-24T12:30:00+00:00"
+    },
+    {
+      "title": "These Giant-Headed Ants Are Breaking a Fundamental Rule of Biology",
+      "description": "Bigger animals generally have bigger body parts, but new research reveals that certain ants defy this biological rule. In the insect world, bigger bodies usually come with bigger body parts. But some ants break this rule in an unexpected way. A massive soldier ant, equipped with an oversized head an",
+      "url": "https://scitechdaily.com/these-giant-headed-ants-are-breaking-a-fundamental-rule-of-biology/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-24T12:29:41+00:00"
+    },
+    {
+      "title": "Laika has spent 20 years building up to Wildwood",
+      "description": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a few episodes of Twin Peaks. Even still, nothing could quite prepare him for his ",
+      "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-24T12:00:00+00:00"
+    },
+    {
+      "title": "It’s time to find a new browser",
+      "description": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.) This week, I've been reading a",
+      "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-24T12:00:00+00:00"
+    },
+    {
+      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "description": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+      "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-24T12:00:00+00:00"
+    },
+    {
+      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "description": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+      "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-24T11:50:28+00:00"
+    },
+    {
+      "title": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
+      "description": "The vaccine is personalized to a patient’s tumor, and results from the Phase 3 trial are yet another example of the promise of mRNA vaccines in treating cancer.",
+      "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-24T11:30:00+00:00"
+    },
+    {
+      "title": "Poor England suffer another Australia humiliation",
+      "description": "England are well beaten by defending champions Australia in their second Women's Rugby League World Cup Group A match in Perth.",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c5y43x20y0wjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-10-23T23:40:33+00:00"
+      "publishedAt": "2026-10-24T11:09:57+00:00"
+    },
+    {
+      "title": "Best Pet Camera of 2026: Furbo, Petcube, and Enabot",
+      "description": "Whether you’re near or far, keep an eye on your fur baby with our favorite pet cameras.",
+      "url": "https://www.wired.com/gallery/best-pet-cameras/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-24T11:03:00+00:00"
+    },
+    {
+      "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
+      "description": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
+      "url": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-24T11:00:48+00:00"
+    },
+    {
+      "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+      "description": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+      "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-24T11:00:09+00:00"
+    },
+    {
+      "title": "9 Unique Apps to Try on the iPhone Duo",
+      "description": "Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.",
+      "url": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-24T10:45:00+00:00"
+    },
+    {
+      "title": "Infantino says he is backed by 'vast majority'",
+      "description": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-24T10:30:08+00:00"
+    },
+    {
+      "title": "My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale",
+      "description": "The Joybird Eliot Sleeper, plus hundreds of other options, are up to 40 percent off during the brand’s Semiannual sale.",
+      "url": "https://www.wired.com/story/joybird-semi-annual-sale-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-24T10:30:00+00:00"
+    },
+    {
+      "title": "12 Absolutely Banging Proper Watches Under $400",
+      "description": "WIRED and its panel of watch experts hunted for real mechanical timepieces at rock-bottom prices and found a wealth of options. Here are our favorites.",
+      "url": "https://www.wired.com/story/best-watches-under-400-chosen-by-experts/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-24T10:15:00+00:00"
+    },
+    {
+      "title": "England thrash France to keep alive World Cup hopes",
+      "description": "England beat France 82-0 to maintain their hopes of reaching the Men's Rugby League World Cup semi-finals.",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cr93zwx9pzv9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-24T10:01:42+00:00"
+    },
+    {
+      "title": "The Qubitunes Soundstage Toy Is a Great Gift for Kids",
+      "description": "This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.",
+      "url": "https://www.wired.com/story/qubitunes-starter-kit-october-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-24T10:00:00+00:00"
+    },
+    {
+      "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
+      "description": "I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.",
+      "url": "https://www.wired.com/story/best-laptops/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-24T10:00:00+00:00"
+    },
+    {
+      "title": "No panic for England but Mitchell issues PWR warning",
+      "description": "A 2-0 series defeat for the Red Roses, their record 39-match winning streak and 41-match unbeaten run ended, and consecutive losses for the first time since 2016 - England are not invincible.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cv0ld9y3g426o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-24T09:22:07+00:00"
+    },
+    {
+      "title": "Smith v Puello world title fight predictions",
+      "description": "Figures from the boxing world give their predictions for Saturday's light-welterweight title fight between WBC champion Dalton Smith and Alberto Puello.",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/cwe9ldpmeljyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-24T06:35:17+00:00"
+    },
+    {
+      "title": "England suffer back-to-back losses to Canada",
+      "description": "Watch highlights as England were beaten by Canada for the second time in as many weeks, losing 31-22 in their WXV Global Series match in Ottawa, Canada.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/videos/cmx235877eexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-24T01:53:24+00:00"
     },
     {
       "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
@@ -15,7 +175,23 @@
       "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "publishedAt": "2026-10-23T22:54:57+00:00"
+      "publishedAt": "2026-10-24T00:36:47+00:00"
+    },
+    {
+      "title": "How does the UK state pension compare with other countries?",
+      "description": "Do British pensioners have it better or worse than those in other countries?",
+      "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-24T00:09:12+00:00"
+    },
+    {
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-24T00:05:45+00:00"
     },
     {
       "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
@@ -34,20 +210,12 @@
       "publishedAt": "2026-10-23T22:03:07+00:00"
     },
     {
-      "title": "Impressive Gloucester beat rivals Bath in Prem",
-      "description": "Gloucester storm to their first win over Bath in the Prem at Kingsholm since April 2022 with a 23-5 victory built on an immense defensive display.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqe9l3krgjvro?at_medium=RSS&at_campaign=rss",
+      "title": "Forest left frustrated as winless run goes on after draw at Ipswich",
+      "description": "Nottingham Forest ended a run of three successive league defeats but endured another night of missed chances as they drew 1-1 at Ipswich Town in the Premier League, but the result does move the away side out of the relegation zone on goal difference.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9ly0dgy2r2eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-10-23T22:00:27+00:00"
-    },
-    {
-      "title": "Wade equals Prem try-scoring record as Newcastle beat Sale",
-      "description": "Christian Wade equals Chris Ashton's Prem try-scoring record with a 101st score as Newcastle post their first league win of their season against Sale.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqwy7e08jlxpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-23T21:55:47+00:00"
+      "publishedAt": "2026-10-23T21:54:54+00:00"
     },
     {
       "title": "Your Saliva Could Hold the Key to Detecting a Deadly Cancer",
@@ -64,14 +232,6 @@
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-10-23T21:39:26+00:00"
-    },
-    {
-      "title": "Villa could reconsider Garnacho deal - Saturday's gossip",
-      "description": "Aston Villa have doubts on making Alejandro Garnacho deal a permanent move, Brighton to stand firm on Diego Gomez amid interest, Manchester United managerial candidates concern over players, plus more.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwn73kzzr8veo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-23T21:32:04+00:00"
     },
     {
       "title": "OpenAI now trains its frontier AI models with no internet access",
@@ -162,28 +322,12 @@
       "publishedAt": "2026-10-23T18:43:30+00:00"
     },
     {
-      "title": "Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday",
-      "description": "The brand’s lovely selection of hand-knotted and handwoven wool rugs at reasonable prices make it a WIRED-staff favorite.",
-      "url": "https://www.wired.com/story/revival-rugs-birthday-sale-october-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-23T18:27:32+00:00"
-    },
-    {
       "title": "Researchers Find an Unexpected Benefit of Putting Sheep on Solar Farms",
       "description": "Solar grazing is helping sheep farmers expand their businesses, opening opportunities for rural jobs, new investment, and stronger agricultural supply chains. Sheep can feed on the vegetation growing around solar panels while farmers get paid to keep it under control. Too few sheep may leave farmers",
       "url": "https://scitechdaily.com/researchers-find-an-unexpected-benefit-of-putting-sheep-on-solar-farms/",
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-10-23T18:27:20+00:00"
-    },
-    {
-      "title": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
-      "description": "If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes several satellite-connected trackers, including the Fi Ultra GPS we previously tes",
-      "url": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-23T17:55:03+00:00"
     },
     {
       "title": "Scientists Discover a New Butterfly Species Hiding in Plain Sight",
@@ -194,28 +338,12 @@
       "publishedAt": "2026-10-23T17:52:17+00:00"
     },
     {
-      "title": "Elon Musk’s dangerous grip on outer space",
-      "description": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian drones carrying bombs, suddenly stopped working at high speed",
-      "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-23T17:35:15+00:00"
-    },
-    {
       "title": "Crows can evaluate visual info twice as fast as mammals",
       "description": "Birds' compact nervous system seems to help them handle tasks very quickly.",
       "url": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-10-23T17:32:58+00:00"
-    },
-    {
-      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "description": "Company says foreign-made robotic vehicles are crucial to US chip production.",
-      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-23T17:18:31+00:00"
     },
     {
       "title": "A Cave Full of Ancient Human Remains Has a Strange Secret: Where Are All the Males?",
@@ -226,52 +354,12 @@
       "publishedAt": "2026-10-23T17:17:14+00:00"
     },
     {
-      "title": "The iPhone Duo should have been an iPad",
-      "description": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay [&#8230;]",
-      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-23T17:00:18+00:00"
-    },
-    {
-      "title": "What’s the Best iPhone to Buy or Avoid Right Now? (2026)",
-      "description": "The first folding iPhone Duo is here, alongside the 18 Pro and 18 Pro Max, but they’re not your only options. We have all the details on Apple’s smartphone lineup to help you find the right model.",
-      "url": "https://www.wired.com/gallery/iphone-buying-guide/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-23T17:00:00+00:00"
-    },
-    {
-      "title": "RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns",
-      "description": "\"Trust is slow to build and quick to lose,\" board chair Jack Leslie said.",
-      "url": "https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-23T16:58:39+00:00"
-    },
-    {
       "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
       "description": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentresOil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip the energy markets.Brent crude, the international benchmark for oil, rose by about",
       "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-10-23T16:48:28+00:00"
-    },
-    {
-      "title": "Kompany taken to hospital after collapsing at training",
-      "description": "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-23T16:39:03+00:00"
-    },
-    {
-      "title": "Elon Musk Just Dumped Another $76 Million Into the Midterms",
-      "description": "The trillionaire has given more than $445 million to Republican political groups this election cycle, as Democrats vow to investigate him.",
-      "url": "https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-23T16:12:49+00:00"
     },
     {
       "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
@@ -282,52 +370,12 @@
       "publishedAt": "2026-10-23T15:15:13+00:00"
     },
     {
-      "title": "How Many Billions Would It Take to Hold Meta Accountable?",
-      "description": "Meta got hit this week with its biggest fine yet, the latest in a mounting pile of court-ordered payments.",
-      "url": "https://www.wired.com/story/how-many-billions-would-it-take-to-hold-meta-accountable/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-23T15:00:00+00:00"
-    },
-    {
-      "title": "Poulter & Hatton leave LIV as exodus continues",
-      "description": "Englishmen Ian Poulter and Tyrrell Hatton are the latest star names to confirm they are quitting LIV Golf - leaving the breakaway tour's future looking increasingly uncertain.",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cjp3g4nyv44lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-23T14:41:19+00:00"
-    },
-    {
       "title": "Common Chemicals Trigger Alarming Changes in Human Breast Tissue Models",
       "description": "Chemicals that disrupt hormones may leave a molecular “scar” that could someday help identify people at higher risk of breast cancer, research in human breast tissue models suggests. People are typically exposed to several chemicals at once, including endocrine-disrupting chemicals that can interfer",
       "url": "https://scitechdaily.com/common-chemicals-trigger-alarming-changes-in-human-breast-tissue-models/",
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-10-23T14:20:55+00:00"
-    },
-    {
-      "title": "Arsenal fear Saka could be out for two months",
-      "description": "Arsenal forward Bukayo Saka could be sidelined for up to eight weeks with the quadriceps injury he suffered against Bayern Munich.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyql6v5q82o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-23T14:09:36+00:00"
-    },
-    {
-      "title": "Carrick refuses to rule out dropping Fernandes in emotional address",
-      "description": "Michael Carrick speaks for five uninterrupted minutes at media briefing to outline what Manchester United means to him, then refuses to rule out dropping Bruno Fernandes.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq78pv0073dlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-23T13:55:37+00:00"
-    },
-    {
-      "title": "A Deadly Virus Has Been Hiding in Brazil for 142 Years – and Scientists Just Uncovered a Hidden Danger",
-      "description": "Scientists have uncovered new clues about the evolution of a rare, deadly Brazilian virus that has circulated largely undetected for more than a century. A rare and deadly virus went undetected in Brazil after genetic changes allowed it to escape existing laboratory tests. Scientists investigating t",
-      "url": "https://scitechdaily.com/a-deadly-virus-has-been-hiding-in-brazil-for-142-years-and-scientists-just-uncovered-a-hidden-danger/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-23T13:45:02+00:00"
     },
     {
       "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
@@ -344,38 +392,6 @@
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-10-23T11:30:24+00:00"
-    },
-    {
-      "title": "Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could",
-      "description": "Samsung’s cute compact is for those who want the smallest possible phone. Performance and camera are solid, but it’s pricier than its predecessor.",
-      "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-23T11:30:00+00:00"
-    },
-    {
-      "title": "Split Tunneling Is Your VPN’s Best Feature. Here’s How to Make the Most of It",
-      "description": "This feature common to VPN services gives you protection and privacy specifically when and where you need it.",
-      "url": "https://www.wired.com/story/split-tunneling-is-your-vpns-best-feature-heres-how-to-make-the-most-of-it/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-23T11:00:00+00:00"
-    },
-    {
-      "title": "Turtle Beach Vulcan II XP Review: Clicky Compromise",
-      "description": "Great for typing and fine for gaming, but too many compromises keep this mechanical keyboard from leveling up your play.",
-      "url": "https://www.wired.com/review/turtle-beach-vulcan-xp-ii/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-23T10:45:00+00:00"
-    },
-    {
-      "title": "TDM Neo Hybrid Headphones Review: Two-in-One Woes",
-      "description": "CES 2026 loved these innovative headphones that transform into a Bluetooth speaker. After living with them, I’m impressed by the engineering, but less impressed by the sound.",
-      "url": "https://www.wired.com/review/tdm-neo-hybrid-headphones/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-23T10:30:00+00:00"
     },
     {
       "title": "The Indian workers filming their work to train AI",
@@ -426,28 +442,12 @@
       "publishedAt": "2026-10-22T23:06:04+00:00"
     },
     {
-      "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
-      "description": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
-      "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-10-22T22:27:53+00:00"
-    },
-    {
       "title": "Elon Musk reportedly invests $1bn in David Ellison’s Skydance",
       "description": "Musk’s investment into the new media empire comes after Paramount’s $111bn merger with Warner Bros DiscoveryElon Musk has reportedly invested approximately $1bn in Skydance, the new media empire led by David Ellison.The deal comes alongside fresh equity infusions from existing investors, including b",
       "url": "https://www.theguardian.com/technology/2026/oct/22/elon-musk-david-ellison-skydance-investment",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-10-22T21:23:39+00:00"
-    },
-    {
-      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-10-22T18:26:56+00:00"
     },
     {
       "title": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
@@ -472,22 +472,6 @@
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-10-22T13:53:32+00:00"
-    },
-    {
-      "title": "Marine life in Gulf of Mexico has still not fully recovered from 2010 BP oil spill",
-      "description": "New study reveals dramatic population drops in fish, cephalopods and more after Deepwater Horizon disasterMarine life in the Gulf of Mexico plummeted by about 60% after BP’s 2010 Deepwater Horizon oil spill and has still not fully recovered, according to a new study.The April 2010 explosion of an of",
-      "url": "https://www.theguardian.com/environment/2026/oct/22/deepwater-horizon-oil-spill-gulf-marine-life",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-10-22T12:00:44+00:00"
-    },
-    {
-      "title": "Too little, too late: Trump takes on gas prices as fuel costs hamper his midterm hopes",
-      "description": "Polls show US voters are deeply upset by high gas prices and are likely to punish Republicans in the midterms as a resultHow will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questionsWith fewer than two weeks until the midterms, US voters are unlikely to",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-10-22T11:00:40+00:00"
     }
   ]
 }
