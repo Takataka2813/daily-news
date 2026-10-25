@@ -1,6 +1,182 @@
 {
-  "updatedAt": "2026-10-25T13:24:45.693337+00:00",
+  "updatedAt": "2026-10-25T23:00:26.061928+00:00",
   "articles": [
+    {
+      "title": "Watch: Match of the Day",
+      "description": "A busy Premier League Sunday, with five matches, including Liverpool against Brighton.",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-25T23:46:55+00:00"
+    },
+    {
+      "title": "Medieval Children Were Exposed to Shocking Levels of Lead, 1,000 Years Before the Industrial Revolution",
+      "description": "Children in medieval English mining communities faced lead exposure matching or exceeding that in Industrial Revolution cities, with social standing apparently shaping who bore the greatest burden. Between the 16th and 19th centuries, lead producers in the Derbyshire Peak District of central England",
+      "url": "https://scitechdaily.com/medieval-children-were-exposed-to-shocking-levels-of-lead-1000-years-before-the-industrial-revolution/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-25T22:51:16+00:00"
+    },
+    {
+      "title": "Eating 30% Less Food Has an Unexpected Effect on DNA, Study Finds",
+      "description": "A study reveals that calorie restriction affects genetic mutations differently across tissues and regions of DNA. Eating fewer calories may do more than slow certain aspects of aging. Scientists have found that mice consuming 30 percent less food accumulated fewer DNA mutations across several tissue",
+      "url": "https://scitechdaily.com/eating-30-less-food-has-an-unexpected-effect-on-dna-study-finds/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-25T22:16:13+00:00"
+    },
+    {
+      "title": "Antonelli wins in US but has to wait to secure title",
+      "description": "Kimi Antonelli needs only two more points to seal his first world title following a dominant victory in the United States Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm20w8154wn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-25T22:13:05+00:00"
+    },
+    {
+      "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
+      "description": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score ",
+      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-25T21:40:27+00:00"
+    },
+    {
+      "title": "What have Man Utd changed to turn around WSL form?",
+      "description": "It is a different picture at Manchester United now than it was last month - and they proved it to fight back and earn a point against rivals Manchester City.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-25T21:38:59+00:00"
+    },
+    {
+      "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
+      "description": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-25T21:24:21+00:00"
+    },
+    {
+      "title": "Scott Walker’s The Drift will get under your skin",
+      "description": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing Gristle, The Body, or Scott Walker's The Drift. This 2006 album from the singer",
+      "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-25T21:08:09+00:00"
+    },
+    {
+      "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+      "description": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all s",
+      "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-25T20:16:19+00:00"
+    },
+    {
+      "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
+      "description": "Manchester United's winless run stretches to eight matches in all competitions as they are beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-25T20:00:19+00:00"
+    },
+    {
+      "title": "Liverpool earn first league win at Anfield with victory over Brighton",
+      "description": "An own goal from Brighton's Pascal Gross swiftly followed by a goal from Alexander Isak, sees Liverpool beat the Seagulls 2-0 at Anfield to move into the Premier League top four.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-25T20:00:09+00:00"
+    },
+    {
+      "title": "Zen Browser is the Arc replacement I was looking for",
+      "description": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And [&#8230;]",
+      "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-25T19:24:50+00:00"
+    },
+    {
+      "title": "Tiny Atomic Defects Reveal a Quantum Secret Hidden Inside an Unusual Metal",
+      "description": "Atomic-scale defects in an unusual metal may offer a new way to control quantum states. Scientists at Columbia University have discovered that electron waves can become trapped inside a metal, even when pathways remain available for them to escape. The finding, published in Science, provides the fir",
+      "url": "https://scitechdaily.com/tiny-atomic-defects-reveal-a-quantum-secret-hidden-inside-an-unusual-metal/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-25T18:56:13+00:00"
+    },
+    {
+      "title": "Isak finally living up to price tag as Liverpool patience rewarded",
+      "description": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-25T18:13:55+00:00"
+    },
+    {
+      "title": "Scientists Develop a Clever New Way To Kill Cancer Cells From the Inside",
+      "description": "Scientists have developed an experimental strategy that exploits a chemical byproduct of cancer cells to produce anticancer drugs directly inside them. Scientists in Japan have developed an experimental method that uses a chemical produced by cancer cells to manufacture anticancer drugs directly ins",
+      "url": "https://scitechdaily.com/scientists-develop-a-clever-new-way-to-kill-cancer-cells-from-the-inside/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-25T17:45:12+00:00"
+    },
+    {
+      "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
+      "description": "The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the original Switch and the larger Switch 2, continu",
+      "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-25T17:00:00+00:00"
+    },
+    {
+      "title": "England lose to Pakistan after improbable last-wicket stand",
+      "description": "England somehow lose another one-day international from a seemingly unbeatable position thanks to an improbable last-wicket stand by Pakistan in Lahore.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cq0mek4de4xno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-25T16:34:17+00:00"
+    },
+    {
+      "title": "Now you can watch Instagram Reels on your Apple TV",
+      "description": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew o",
+      "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-25T16:20:17+00:00"
+    },
+    {
+      "title": "A Single Enzyme Could Hold the Key to Treating a Devastating Brain Disorder",
+      "description": "Blocking an enzyme’s production restored brain growth and healthy behaviors in mice engineered to develop Angelman syndrome, pointing to a possible treatment target. Children with Angelman syndrome begin to show difficulties with thinking and movement at around 6 months of age. The rare condition oc",
+      "url": "https://scitechdaily.com/a-single-enzyme-could-hold-the-key-to-treating-a-devastating-brain-disorder/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-25T15:12:14+00:00"
+    },
+    {
+      "title": "Just Two Days on a Vegan Diet Triggered Unexpected Changes in the Liver",
+      "description": "Switching from a vegetarian to a vegan diet altered liver metabolism in mice within just two days, making glucose production and toxic waste removal less efficient. Millions of people follow a vegan diet, excluding all animal-derived products. Plant-based eating is recommended in part for its enviro",
+      "url": "https://scitechdaily.com/just-two-days-on-a-vegan-diet-triggered-unexpected-changes-in-the-liver/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-25T14:01:11+00:00"
+    },
+    {
+      "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+      "description": "VW investment, creating 4,500 jobs in Georgia, comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVsAudi has said it will spend $4bn (£3bn) to build its first factory in the US, as its parent company, Volkswagen, struggles with the impact of steep tariffs impo",
+      "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-10-25T13:43:19+00:00"
+    },
+    {
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "description": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-25T13:25:32+00:00"
+    },
     {
       "title": "Wallhack M-001 Review: When Fun Overrides Specs",
       "description": "With a tactile dongle for on-the-fly customization and a metal chassis, the Wallhack M-001 is the most fun I've had reviewing a gaming mouse in a long time.",
@@ -10,12 +186,12 @@
       "publishedAt": "2026-10-25T12:30:00+00:00"
     },
     {
-      "title": "Anderson stops short of retiring after Lancashire exit",
-      "description": "James Anderson expresses sadness at being released by Lancashire, but stopped short of confirming the end of his legendary playing career.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-25T12:03:17+00:00"
+      "title": "Google’s AI search changes upended online publishing",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry",
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-25T12:00:00+00:00"
     },
     {
       "title": "Scientists Trapped an Antimatter Particle for Months to Study Its Secrets",
@@ -42,14 +218,6 @@
       "publishedAt": "2026-10-25T11:30:00+00:00"
     },
     {
-      "title": "Australia reach World Cup semis & New Zealand get back on track",
-      "description": "Australia edge to a 36-22 victory in a pulsating Group A match against Fiji to book their place in the Rugby League World Cup semi-finals.",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c60mekrgx4zvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-25T11:21:50+00:00"
-    },
-    {
       "title": "Earth’s Ice Ages May Have Started With a Planet-Wide Ocean Domino Effect",
       "description": "New research suggests that cooling in the Northern Hemisphere may have triggered far-reaching ocean changes that helped drive Earth&#8217;s past ice ages. Growing ice sheets in the Northern Hemisphere may have helped push Earth into past ice ages by triggering changes in ocean circulation thousands ",
       "url": "https://scitechdaily.com/earths-ice-ages-may-have-started-with-a-planet-wide-ocean-domino-effect/",
@@ -64,14 +232,6 @@
       "source": "Wired",
       "category": "Technology",
       "publishedAt": "2026-10-25T11:00:00+00:00"
-    },
-    {
-      "title": "Antarctica’s “Doomsday Glacier” Could Raise Sea Levels Twice As Much as Scientists Feared",
-      "description": "Even without further warming, Thwaites Glacier could contribute twice as much to sea level rise by 2100 as previously estimated, according to a revised ice sheet model. Thwaites Glacier in West Antarctica has been retreating and thinning rapidly, while satellites show substantial acceleration in its",
-      "url": "https://scitechdaily.com/antarcticas-doomsday-glacier-could-raise-sea-levels-twice-as-much-as-scientists-feared/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-25T10:32:12+00:00"
     },
     {
       "title": "Oil Spills Wreak Havoc on the Bottom of the Ocean, Even a Decade Later",
@@ -114,14 +274,6 @@
       "publishedAt": "2026-10-25T10:00:00+00:00"
     },
     {
-      "title": "'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history",
-      "description": "Barcelona aim to make La Liga history against Real Madrid, with Jose Mourinho looking to end their winning run.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-25T07:55:05+00:00"
-    },
-    {
       "title": "Rosebank: Life on the oil field at the centre of a political storm",
       "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
       "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
@@ -138,156 +290,12 @@
       "publishedAt": "2026-10-25T07:05:30+00:00"
     },
     {
-      "title": "What Man Utd need now is stability, not more changes - Pulis",
-      "description": "BBC Sport columnist Tony Pulis explains why Bruno Fernandes' comments after Manchester United's defeat by Como showed how hard it must be to run the club at the moment.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck78p37y5508o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-25T06:34:07+00:00"
-    },
-    {
-      "title": "Why are Liverpool struggling for Premier League goals?",
-      "description": "Liverpool have scored 15 goals in four cup games this season, but have managed only nine goals in seven Premier League matches.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c94g1p32gyrro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-25T06:26:00+00:00"
-    },
-    {
-      "title": "When is Premier League 'sacking season' - and who should be worried?",
-      "description": "As pressure builds on Manchester United manager Michael Carrick, BBC Sport looks at when the Premier League 'sacking season' begins.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy83vg66zngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-25T06:17:46+00:00"
-    },
-    {
       "title": "Four ways Labour could raise money in the Budget without hiking income tax",
       "description": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
       "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-10-25T06:00:15+00:00"
-    },
-    {
-      "title": "Mysterious Brain Signal Linked to Several Schizophrenia Symptoms",
-      "description": "A weakened brain signal may offer new clues about schizophrenia and its earliest warning signs. Schizophrenia affects how people perceive their surroundings, organize their thoughts, and communicate with others. Although these symptoms are often studied separately, new research suggests they may be ",
-      "url": "https://scitechdaily.com/mysterious-brain-signal-linked-to-several-schizophrenia-symptoms/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-25T02:31:53+00:00"
-    },
-    {
-      "title": "Scientists Discover That Ovaries May Be Doing Something Unexpected Decades After Menopause",
-      "description": "Ovaries often dismissed as inactive after menopause may still shape how women age, with human tissue revealing inflammatory changes and molecular similarities to ovarian cancer. Ovaries continue to change for decades after menopause, long after their role in reproduction has ended. In a study of ova",
-      "url": "https://scitechdaily.com/scientists-discover-that-ovaries-may-be-doing-something-unexpected-decades-after-menopause/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-25T01:56:51+00:00"
-    },
-    {
-      "title": "Snakebites Are Far Deadlier Than We Thought, New Study Reveals",
-      "description": "Even fatal snakebites can go uncounted, and a model estimating up to 513,000 deaths annually could help direct lifesaving antivenom to communities that health records miss. Not every snakebite injects venom. When venom enters the body, however, it can cause snake envenoming. This is a potentially fa",
-      "url": "https://scitechdaily.com/snakebites-are-far-deadlier-than-we-thought-new-study-reveals/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-25T01:21:34+00:00"
-    },
-    {
-      "title": "Antonelli stands on brink of history in Austin",
-      "description": "Kimi Antonelli can become the youngest F1 world champion on Sunday, but far from feeling the pressure he says he is enjoying himself more than usual.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-25T00:40:56+00:00"
-    },
-    {
-      "title": "Scientists Studied 865 Humpback Whales and Found They Grow Faster Than Expected",
-      "description": "Despite decades of environmental change and population recovery, eastern Australian humpback whales appear to have maintained their historical adult size. Eastern Australian humpback whales grow at an extraordinary pace, reaching approximately 10.9 meters (35.8 feet) in length by age five. By six or",
-      "url": "https://scitechdaily.com/scientists-studied-865-humpback-whales-and-found-they-grow-faster-than-expected/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-24T21:48:54+00:00"
-    },
-    {
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "description": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-24T21:29:12+00:00"
-    },
-    {
-      "title": "Physicists Use Light To Unlock a Crystal’s Hidden Electrical Powers",
-      "description": "A crystal’s laser-induced electrical order lasts just a trillionth of a second, giving researchers a way to explore ultrafast approaches to processing and storing information. Inside a crystal, tiny electrical regions can point in different directions or line up in an organized pattern. Cooling help",
-      "url": "https://scitechdaily.com/physicists-use-light-to-unlock-a-crystals-hidden-electrical-powers/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-24T21:13:43+00:00"
-    },
-    {
-      "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
-      "description": "Tottenham claim just their second victory over Chelsea at Stamford Bridge in 36 years, winning 2-0 as the hosts finish with 10 men after a red card for Cole Palmer.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-24T19:17:06+00:00"
-    },
-    {
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "description": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artifi",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-24T18:32:21+00:00"
-    },
-    {
-      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-      "description": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&#38;B. But from moment one, her take o",
-      "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-24T15:00:00+00:00"
-    },
-    {
-      "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
-      "description": "Black Friday is still over a month away, but if you&#8217;re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st. Right now, for instance, you can snag a 55-i",
-      "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-24T15:00:00+00:00"
-    },
-    {
-      "title": "What to expect from Apple’s ‘Pro and tell’ event",
-      "description": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October 28th at 1PM ET in Los ",
-      "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-24T14:15:00+00:00"
-    },
-    {
-      "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-      "description": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in modern MacBook Pros, RT",
-      "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-24T14:00:00+00:00"
-    },
-    {
-      "title": "Lee Chang Dong ponders the ethics of the camera",
-      "description": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes of class or labor [",
-      "url": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-24T12:30:00+00:00"
-    },
-    {
-      "title": "Laika has spent 20 years building up to Wildwood",
-      "description": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a few episodes of Twin Peaks. Even still, nothing could quite prepare him for his ",
-      "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-24T12:00:00+00:00"
     },
     {
       "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
@@ -328,78 +336,6 @@
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-10-23T23:11:31+00:00"
-    },
-    {
-      "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-      "description": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
-      "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-23T22:48:25+00:00"
-    },
-    {
-      "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
-      "description": "Republican senator faces critical re-election battle in state where president’s trade war has outraged voters Donald Trump dropped some of the US’s tariffs on Canada on Friday to “better serve the public interest” the White House said, handing a win to Susan Collins, the embattled Republican senator",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-10-23T22:03:07+00:00"
-    },
-    {
-      "title": "Hegseth warns prediction market bets warp military judgment, endanger troops",
-      "description": "Pentagon memo: Insider trading gives US enemies key intel on military operations.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-23T20:28:43+00:00"
-    },
-    {
-      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-      "description": "Turning on Personal Intelligence gives the company more data for ad targeting.",
-      "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-23T20:19:55+00:00"
-    },
-    {
-      "title": "Inside the Pentagon, the pressure is on to find a home for a new spaceport",
-      "description": "Space Force considering options: public-private, federal installation, state land.",
-      "url": "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-23T19:33:58+00:00"
-    },
-    {
-      "title": "GP says she was forced out of job after raising concerns about gender treatment",
-      "description": "The doctor says she faced a brutal investigation after she passed on complaints brought to her by other doctors.",
-      "url": "https://www.bbc.co.uk/news/articles/cr5ynl415j79o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-10-23T19:23:10+00:00"
-    },
-    {
-      "title": "Spotify ramps up policy enforcement on family plans",
-      "description": "If you share Spotify sub with family, you may need to scan QR code to prove it.",
-      "url": "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-23T19:20:27+00:00"
-    },
-    {
-      "title": "Crows can evaluate visual info twice as fast as mammals",
-      "description": "Birds' compact nervous system seems to help them handle tasks very quickly.",
-      "url": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-23T17:32:58+00:00"
-    },
-    {
-      "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-      "description": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentresOil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip the energy markets.Brent crude, the international benchmark for oil, rose by about",
-      "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-10-23T16:48:28+00:00"
     }
   ]
 }
