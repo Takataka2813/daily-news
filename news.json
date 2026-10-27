@@ -1,13 +1,341 @@
 {
-  "updatedAt": "2026-10-26T15:33:04.848079+00:00",
+  "updatedAt": "2026-10-27T00:13:45.952153+00:00",
   "articles": [
+    {
+      "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+      "description": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-27T00:01:00+00:00"
+    },
+    {
+      "title": "Kane prematurely announced as Ballon d'Or winner - but he wasn't only one",
+      "description": "Harry Kane's dream of winning the Ballon d'Or came true on Monday, but a few hours earlier organisers prematurely released an article claiming he had clinched the award.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmly0g2y7q2zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-26T23:35:27+00:00"
+    },
+    {
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "description": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts th",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T23:34:58+00:00"
+    },
+    {
+      "title": "Why Do We Have Necks? Scientists Uncover a 380-Million-Year-Old Evolutionary Twist",
+      "description": "The first necks may owe more to the beginnings of walking than to looking around, according to models showing how little our early ancestors could move their heads. In fish, the shoulders attach directly to the skull, so looking left or right means turning the whole body. Some of the animals making ",
+      "url": "https://scitechdaily.com/why-do-we-have-necks-scientists-uncover-a-380-million-year-old-evolutionary-twist/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-26T23:23:47+00:00"
+    },
+    {
+      "title": "London City's Putellas wins record-equalling third Ballon d'Or",
+      "description": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-26T23:14:39+00:00"
+    },
+    {
+      "title": "Kane ends England's 25-year Ballon d'Or wait - how he bucked the trend",
+      "description": "Harry Kane becomes the first English player to win the Ballon d'Or since Michael Owen in 2001 after being crowned the world's best player at a ceremony in London.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-26T23:10:59+00:00"
+    },
+    {
+      "title": "Lancashire consider Anderson farewell amid fan unrest",
+      "description": "Lancashire will look into organising a farewell for bowler James Anderson amid fan unrest over his departure from the club.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cme8rw2gkd9go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-26T22:58:14+00:00"
+    },
+    {
+      "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+      "description": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.",
+      "url": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T22:40:37+00:00"
+    },
+    {
+      "title": "Microsoft offers to buy out a quarter of its workforce",
+      "description": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T22:36:06+00:00"
+    },
+    {
+      "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+      "description": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-26T22:30:02+00:00"
+    },
+    {
+      "title": "Tiny Magnets Implanted in Muscles Are Giving Prosthetic Hands a Remarkable New Ability",
+      "description": "Tiny magnets implanted in muscles are helping a prosthetic hand feel like it is opening and closing naturally. You can close your eyes, make a fist, or reach for an object without ever needing to look at your hand. That seemingly effortless ability depends on a hidden sense called kinesthesia, which",
+      "url": "https://scitechdaily.com/tiny-magnets-implanted-in-muscles-are-giving-prosthetic-hands-a-remarkable-new-ability/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-26T22:12:48+00:00"
+    },
+    {
+      "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+      "description": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&#38;H Photo) and the 512GB version $99 (Amazon, B&#38;H Photo). The smaller card typically sells for around $80, and t",
+      "url": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T21:56:36+00:00"
+    },
+    {
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "description": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monda",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T21:45:31+00:00"
+    },
+    {
+      "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+      "description": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+      "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T21:27:15+00:00"
+    },
+    {
+      "title": "Best Dyson Vacuum Deals for Dyson Week 2026",
+      "description": "The powerful Dyson V16 Piston Animal and other Dyson vacuums and tools are discounted until Halloween.",
+      "url": "https://www.wired.com/story/best-dyson-week-vacuum-deal-oct-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T20:28:30+00:00"
+    },
+    {
+      "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
+      "description": "Case study gives a whole new meaning to \"bedroom eyes.\"",
+      "url": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T20:27:00+00:00"
+    },
+    {
+      "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
+      "description": "Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes.",
+      "url": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T20:15:07+00:00"
+    },
+    {
+      "title": "Anker’s Halloween Sale Takes 20% Off Our Favorite Chargers and Power Banks",
+      "description": "Avoid the scariest thing this Halloween (your phone at 1 percent) with Anker's 20 percent off sale on all charging gear.",
+      "url": "https://www.wired.com/story/anker-halloween-sale-oct-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T20:13:46+00:00"
+    },
+    {
+      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+      "description": "Included is the ability to limit which applications Siri can directly access.",
+      "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T20:04:16+00:00"
+    },
+    {
+      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+      "description": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+      "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-26T19:57:23+00:00"
+    },
+    {
+      "title": "“Strangest of Its Kind”: Scientists Uncover a Bizarre Bacterial Self-Destruct Switch",
+      "description": "An unusual bacterial defense uses DNA to switch on toxin production, suggesting a new way to build molecular tools that control genes. nb An infected bacterium can protect its neighbors by destroying itself before the virus inside it has a chance to multiply. Bacterial immune systems called retrons ",
+      "url": "https://scitechdaily.com/strangest-of-its-kind-scientists-uncover-a-bizarre-bacterial-self-destruct-switch/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-26T19:41:54+00:00"
+    },
+    {
+      "title": "Apple AirTags (2nd Gen) Are on Sale for 20% Off Right Now",
+      "description": "Track down your suitcase, car keys, and other essentials with this $23 Bluetooth tracker.",
+      "url": "https://www.wired.com/story/apple-airtag-deal-october-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T19:40:31+00:00"
+    },
+    {
+      "title": "Ballon d'Or winner Kane's best Bundesliga goals",
+      "description": "Watch Harry Kane's best goals from the 2025/26 Bundesliga season with Bayern, as the England striker is crowned the men's 2026 Ballon d'Or winner.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmd93gqn8119o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-26T19:29:35+00:00"
+    },
+    {
+      "title": "Scientists Discover a Strange Insect in the Himalayas Where No One Expected It",
+      "description": "A newly identified Himalayan wormlion challenges the idea that its genus lives only in the tropics, raising the possibility of undiscovered relatives on nearby mountain slopes. In rain-sheltered patches of sand and soil on the southern slopes of the Himalayas, wormlion larvae build funnel-shaped pit",
+      "url": "https://scitechdaily.com/scientists-discover-a-strange-insect-in-the-himalayas-where-no-one-expected-it/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-26T19:06:03+00:00"
+    },
+    {
+      "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+      "description": "Apple claims this is the most significant update ever for the iPad mini line.",
+      "url": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T19:04:40+00:00"
+    },
+    {
+      "title": "Player in Stokes and Atkinson altercation joins Bristol after Saracens sacking",
+      "description": "Bristol Bears have signed 21-year-old Samoan forward Totoa Auvaa, two weeks after he was sacked by Saracens.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c95yn672rx64o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-26T19:03:22+00:00"
+    },
+    {
+      "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+      "description": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for the Apple Pencil \"lat",
+      "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T18:51:06+00:00"
+    },
+    {
+      "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+      "description": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+      "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T18:50:41+00:00"
+    },
+    {
+      "title": "Google Fitbit Edge Review: I Still Prefer the Air (2026)",
+      "description": "The Edge is a welcome upgrade for longtime Fitbit users, but the missing NFC technology is a puzzling regression.",
+      "url": "https://www.wired.com/review/google-fitbit-edge/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T18:49:49+00:00"
+    },
+    {
+      "title": "Scientists Reverse 60 Years of Aging in Human Cells, Turning 80-Year-Old Cells Into 20-Year-Olds",
+      "description": "Cells from an 80-year-old were reprogrammed to a molecular age below 20, and the slow-motion reset could help reveal how cellular rejuvenation works. What if scientists could turn back the biological clock of an 80-year-old human cell, making it behave like one from someone younger than 20? Research",
+      "url": "https://scitechdaily.com/scientists-reverse-60-years-of-aging-in-human-cells-turning-80-year-old-cells-into-20-year-olds/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-26T18:31:04+00:00"
+    },
+    {
+      "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
+      "description": "From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA announced Monday that it has new \"preferred\" prediction market deals for Kalshi",
+      "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T18:22:06+00:00"
+    },
+    {
+      "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
+      "description": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T18:09:08+00:00"
+    },
+    {
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "description": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve sy",
+      "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T17:30:55+00:00"
+    },
+    {
+      "title": "Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens",
+      "description": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of iPhone Duo units.\" If you",
+      "url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T17:28:07+00:00"
+    },
+    {
+      "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+      "description": "Investigators explain how highway thieves stole $100M in data center equipment.",
+      "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T17:26:36+00:00"
+    },
+    {
+      "title": "Nothing&#8217;s eye-catching Ear 3A earbuds are matching their best price to date",
+      "description": "If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off",
+      "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T17:25:34+00:00"
+    },
+    {
+      "title": "McDowell becomes latest major champion to exit LIV",
+      "description": "Northern Ireland's Graeme McDowell becomes the latest major champion to exit LIV Golf.",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/ck78px63l923o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-26T17:17:31+00:00"
+    },
     {
       "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
       "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
       "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "publishedAt": "2026-10-26T15:27:54+00:00"
+      "publishedAt": "2026-10-26T16:27:17+00:00"
+    },
+    {
+      "title": "Anthropic files for potentially record-breaking $1.5tn stock market valuation in key test for AI industry",
+      "description": "Market debut of firm behind Claude chatbot will be one of largest in US history, a test of AI boom’s financial viabilityAnthropic has publicly filed for a stock market listing in what is slated to be one of the largest debuts in history. The company’s float on the US market will serve as a test of t",
+      "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-10-26T16:22:28+00:00"
+    },
+    {
+      "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+      "description": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
+      "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-26T16:01:55+00:00"
+    },
+    {
+      "title": "Howe and Nagelsmann high on Man Utd's list if Carrick sacked",
+      "description": "BBC Sport looks at who could replace Michael Carrick at Manchester United if the head coach is sacked.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqdr8zv5dg42o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-26T15:34:23+00:00"
+    },
+    {
+      "title": "Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion – as it happened",
+      "description": "Meta says share sale will support its “continued investment in AI infrastructure and personal superintelligence”, as Elon Musk warns some AI cloud computing firms face ‘guppy-level death’UK government borrowing costs are dropping this morning, a welcome sign ahead of Wednesday’s budget.The yield (or",
+      "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-10-26T15:33:24+00:00"
     },
     {
       "title": "Scientists Uncover a Hidden Secret That Could Transform Chemical Manufacturing",
@@ -16,14 +344,6 @@
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-10-26T15:27:02+00:00"
-    },
-    {
-      "title": "Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion – business live",
-      "description": "Meta says share sale will support its “continued investment in AI infrastructure and personal superintelligence”, as Elon Musk warns some AI cloud computing firms face ‘guppy-level death’UK government borrowing costs are dropping this morning, a welcome sign ahead of Wednesday’s budget.The yield (or",
-      "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-10-26T15:24:56+00:00"
     },
     {
       "title": "NASA’s Artemis I Reveals a Surprising Radiation Mystery Near the Moon",
@@ -42,132 +362,12 @@
       "publishedAt": "2026-10-26T14:50:47+00:00"
     },
     {
-      "title": "F1 in Texas: The American race that fans love to attend",
-      "description": "Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas.",
-      "url": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-26T14:48:24+00:00"
-    },
-    {
-      "title": "Remarkable’s refurbished Paper Pro Move bundle is over $100 off",
-      "description": "The Remarkable Paper Pro Move is essentially a digital notepad, with a skinny 7.3-inch E Ink screen that’s easy to hold one-handed to jot down notes or ideas. At $449 new, it’s not exactly cheap, but buying refurbished is a way to save, as always. Remarkable itself offers the refurbished Paper Pro M",
-      "url": "https://www.theverge.com/gadgets/1018528/remarkable-paper-pro-move-nintendo-switch-2-fujifilm-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-26T14:41:43+00:00"
-    },
-    {
-      "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race",
-      "description": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
-      "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-26T14:30:27+00:00"
-    },
-    {
-      "title": "Ireland prop Furlong cited over alleged groin grab",
-      "description": "Ireland prop Tadhg Furlong is cited over an alleged groin grab in Leinster's United Rugby Championship win over Munster on Saturday.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwg5jn7845jdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-26T14:22:30+00:00"
-    },
-    {
       "title": "A Solar Storm Heading Toward Earth Suddenly Changed in Ways Scientists Didn’t Predict",
       "description": "Scientists have uncovered surprising behavior inside a powerful solar eruption that challenges existing models and could change how researchers predict space weather. A massive eruption on the Sun sent a cloud of magnetized plasma racing toward Earth, where it underwent an extraordinary transformati",
       "url": "https://scitechdaily.com/a-solar-storm-heading-toward-earth-suddenly-changed-in-ways-scientists-didnt-predict/",
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-10-26T14:17:23+00:00"
-    },
-    {
-      "title": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
-      "description": "Two US senators say the Trump administration is breaking the law by withholding the FISA court decision while it presses Congress to renew America’s most sweeping surveillance program.",
-      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-26T14:09:00+00:00"
-    },
-    {
-      "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
-      "description": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton ju",
-      "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-26T14:00:00+00:00"
-    },
-    {
-      "title": "WIRED Ghost Stories",
-      "description": "Five hauntings from the other side of technology.",
-      "url": "https://www.wired.com/ghost-stories/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-26T14:00:00+00:00"
-    },
-    {
-      "title": "Racecourse fined after jockey taken to A&E in horsebox",
-      "description": "Sedgefield Racecourse is fined £6,500 after failing to comply with five 'general instructions' of safety.",
-      "url": "https://www.bbc.co.uk/sport/horse-racing/articles/c6lykg4l72xlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-26T13:50:26+00:00"
-    },
-    {
-      "title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
-      "description": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol \"ANT.\" The AI company confidential",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-26T13:32:49+00:00"
-    },
-    {
-      "title": "Can AI help solve the COBOL code crisis?",
-      "description": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted \"",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-26T13:15:00+00:00"
-    },
-    {
-      "title": "Anthropic files for US stock market listing with valuation of more than $1.5tn",
-      "description": "Market debut of AI company behind Claude chatbot will be one of largest in US history, a test of its financial viabilityAnthropic has publicly filed for a stock market listing, one of the largest debuts in history. The company’s float on the US market is likely to be a high-water mark in the multitr",
-      "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-10-26T13:12:59+00:00"
-    },
-    {
-      "title": "Apple updates the iPad Mini with a larger OLED display",
-      "description": "Apple announced a new iPad Mini with a larger, 8.5-inch OLED display. The company revealed the new device just days before its \"Pro and tell\" event on Wednesday. The iPad Mini starts at $699 for the Wi-Fi-only model, and $849 for Wi-Fi and cellular. At 5.4mm thick, the iPad Mini is thinner and light",
-      "url": "https://www.theverge.com/tech/1017801/ipad-mini-oled-display-apple-announce",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-26T13:05:03+00:00"
-    },
-    {
-      "title": "Some iPhone Duo Models Are Breaking. iFixit’s Teardown Might Explain Why",
-      "description": "The repair company iFixit released its repairability rating for Apple’s very first foldable iPhone. It comes as users report a wave of cracked-screen issues.",
-      "url": "https://www.wired.com/story/some-iphone-duo-models-are-breaking-ifixits-teardown-might-explain-why/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-26T13:00:00+00:00"
-    },
-    {
-      "title": "Borthwick's autumn questions as World Cup looms",
-      "description": "The upcoming Nations Championship matches present a selection dilemma for Steve Borthwick's England with just nine matches to go until the World Cup.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ck20wj7znqy8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-26T12:14:29+00:00"
-    },
-    {
-      "title": "Why Do Some People Get Fevers After Vaccines? Scientists May Have Found the Answer",
-      "description": "The microbes in your gut may help explain why you develop a fever after a vaccine while someone else feels fine. Two people can receive the same vaccine and have very different experiences. One develops a fever and feels miserable for a day, while the other barely notices anything. Scientists have l",
-      "url": "https://scitechdaily.com/why-do-some-people-get-fevers-after-vaccines-scientists-may-have-found-the-answer/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-26T11:50:50+00:00"
     },
     {
       "title": "Consultant doctors in England to strike next month",
@@ -178,14 +378,6 @@
       "publishedAt": "2026-10-26T11:45:48+00:00"
     },
     {
-      "title": "Scientists Discover a Protective Gene That Could Help Keep the Brain Young",
-      "description": "Boosting a protective gene helped aging mice preserve memory, suggesting that strengthening the brain’s own defenses could offer a way to delay cognitive decline in people. Some older adults remain cognitively resilient even when their brains show signs of Alzheimer’s disease. Researchers investigat",
-      "url": "https://scitechdaily.com/scientists-discover-a-protective-gene-that-could-help-keep-the-brain-young/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-26T11:15:44+00:00"
-    },
-    {
       "title": "‘We don’t have inflation’? Five charts show the US economic reality of Trump’s second term so far",
       "description": "As the US midterm elections approach, we take a look at data to see a true picture of the US economy under TrumpWith the midterm elections fast approaching, many Americans have the economy on their minds.US voters are exhausted by years of higher prices. Donald Trump won the presidency in 2024 on pr",
       "url": "https://www.theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts",
@@ -194,52 +386,12 @@
       "publishedAt": "2026-10-26T11:00:42+00:00"
     },
     {
-      "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
-      "description": "M-Vave's cheap FM-1 pocket synth has exploded as a community firmware playground.",
-      "url": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-26T11:00:15+00:00"
-    },
-    {
-      "title": "The Hottest New Side Hustle Is Stripping Copper Wire and Posting About It",
-      "description": "Copper prices are at record highs, but for TikTok creators, the real money may be in teaching others how to strip wire—and selling them the tools to do it.",
-      "url": "https://www.wired.com/story/the-hottest-new-side-hustle-is-stripping-copper-wire-and-posting-about-it/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-26T11:00:00+00:00"
-    },
-    {
-      "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
-      "description": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
-      "url": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-10-26T10:48:46+00:00"
-    },
-    {
-      "title": "A Simple Diet Change Could Transform Kidney Disease Treatment, 10-Year Study Finds",
-      "description": "For kidney patients with acid buildup, a decade-long trial suggests fruits and vegetables may offer what a standard treatment did not: fewer hospital visits without higher overall costs. When kidneys lose their ability to function properly, the consequences can extend far beyond waste buildup. Peopl",
-      "url": "https://scitechdaily.com/a-simple-diet-change-could-transform-kidney-disease-treatment-10-year-study-finds/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-26T10:40:50+00:00"
-    },
-    {
       "title": "European gas prices soar to four-year high over winter supply fears",
       "description": "Jump fuelled by fears of further Middle East supply disruptions amid reports of US-Israeli plans to strike Iran European gas prices have jumped to levels not seen since 2022 as fears continue to grow around the continent’s supply this winter and the conflict in the Middle East.Wholesale gas prices h",
       "url": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-10-26T10:35:24+00:00"
-    },
-    {
-      "title": "LG B6 OLED TV Review (2026)",
-      "description": "The LG B6 has deep and rich blacks and a low price tag, but midrange performance elsewhere.",
-      "url": "https://www.wired.com/review/lg-b6/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-26T10:30:00+00:00"
     },
     {
       "title": "Can you tell ferritin levels from your face?",
@@ -256,54 +408,6 @@
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-10-26T10:28:12+00:00"
-    },
-    {
-      "title": "The city that fought Flock",
-      "description": "It was about to be a long night in Huntington, West Virginia. Mayor Patrick Farrell stood before 10 members of city council in a white dress shirt and dark blazer studded with an American flag pin. Behind him sat his constituents and residents from neighboring towns. Some had their arms crossed, whi",
-      "url": "https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-26T10:00:00+00:00"
-    },
-    {
-      "title": "Lykyn Review: A Mushroom Garden Worth Showing Off",
-      "description": "Dramatic lighting and fog make this countertop fruiting chamber a conversation starter. The mushrooms are pretty good too.",
-      "url": "https://www.wired.com/review/lykyn-automated-mushroom-grow-box/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-26T10:00:00+00:00"
-    },
-    {
-      "title": "The Tragedy of Having a Wikipedia Page—and Then Losing It",
-      "description": "Every day, Wikipedia biographies of living people are flagged for deletion because the subjects are not “notable” enough. How do these poor souls take the news?",
-      "url": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-26T10:00:00+00:00"
-    },
-    {
-      "title": "Late Mbappe goal earns Real win at Barca in dramatic Clasico",
-      "description": "Kylian Mbappe scores twice for Real Madrid as they beat Barcelona 2-1 at the Camp Nou in the first El Clasico of the season.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crje5zewk52no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-26T09:41:25+00:00"
-    },
-    {
-      "title": "Ex-Liverpool winger Pennant has more than 50 stitches after dog attack",
-      "description": "Former Premier League footballer Jermaine Pennant says he needed more than 50 stitches after being mauled by a dog.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqdr8e81xjy7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-26T07:36:20+00:00"
-    },
-    {
-      "title": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
-      "description": "The Ballon d'Or winner will be announced in London on Monday - but who is going to claim the showpiece award?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-26T06:19:12+00:00"
     },
     {
       "title": "What is the Budget and what could be in it?",
@@ -330,14 +434,6 @@
       "publishedAt": "2026-10-26T00:26:49+00:00"
     },
     {
-      "title": "A late goal and a knee slide - how Mourinho returned to haunt Barca",
-      "description": "La Liga's season has switched from predictable to fascinating as Jose Mourinho's El Clasico midas touch continues in the Nou Camp.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-26T00:07:16+00:00"
-    },
-    {
       "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
       "description": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
       "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
@@ -346,68 +442,12 @@
       "publishedAt": "2026-10-25T23:44:34+00:00"
     },
     {
-      "title": "A Bizarre 170-Million-Year-Old Predator Is Rewriting What We Know About Ancient Crocodiles",
-      "description": "A Moroccan crocodile relative’s teeth resemble those of prehistoric filter feeders, suggesting that different reptile groups independently evolved similar tools for catching tiny aquatic prey. A crocodile relative that lived around 170 million years ago had a long, narrow snout lined with exceptiona",
-      "url": "https://scitechdaily.com/a-bizarre-170-million-year-old-predator-is-rewriting-what-we-know-about-ancient-crocodiles/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-25T23:26:15+00:00"
-    },
-    {
-      "title": "Medieval Children Were Exposed to Shocking Levels of Lead, 1,000 Years Before the Industrial Revolution",
-      "description": "Children in medieval English mining communities faced lead exposure matching or exceeding that in Industrial Revolution cities, with social standing apparently shaping who bore the greatest burden. Between the 16th and 19th centuries, lead producers in the Derbyshire Peak District of central England",
-      "url": "https://scitechdaily.com/medieval-children-were-exposed-to-shocking-levels-of-lead-1000-years-before-the-industrial-revolution/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-25T22:51:16+00:00"
-    },
-    {
-      "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
-      "description": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score ",
-      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-25T21:40:27+00:00"
-    },
-    {
-      "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
-      "description": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-25T21:24:21+00:00"
-    },
-    {
-      "title": "Scott Walker’s The Drift will get under your skin",
-      "description": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing Gristle, The Body, or Scott Walker's The Drift. This 2006 album from the singer",
-      "url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-25T21:08:09+00:00"
-    },
-    {
       "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
       "description": "VW investment, creating 4,500 jobs in Georgia, comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVsAudi has said it will spend $4bn (£3bn) to build its first factory in the US, as its parent company, Volkswagen, struggles with the impact of steep tariffs impo",
       "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-10-25T13:43:19+00:00"
-    },
-    {
-      "title": "Rosebank: Life on the oil field at the centre of a political storm",
-      "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
-      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-10-25T07:15:38+00:00"
-    },
-    {
-      "title": "Will a new code end 'rip-off parking charges'?",
-      "description": "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-10-25T07:05:30+00:00"
     }
   ]
 }
