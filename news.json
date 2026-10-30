@@ -1,6 +1,358 @@
 {
-  "updatedAt": "2026-10-30T00:36:25.769834+00:00",
+  "updatedAt": "2026-10-30T15:23:26.006675+00:00",
   "articles": [
+    {
+      "title": "US tech stocks see sharp falls over AI cost concerns",
+      "description": "Shares in Intel have continued to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-30T15:01:56+00:00"
+    },
+    {
+      "title": "England out of World Cup after loss to Samoa",
+      "description": "A Freedom Crichton Ropati hat-trick helps Samoa knock England out of the Women's Rugby League World Cup.",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cmx281j2n8r4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-30T15:00:50+00:00"
+    },
+    {
+      "title": "Stearns and Foster Promo Codes: $300 Off in November 2026",
+      "description": "Discover the best Stearns and Foster promo codes, discounts, and deals to elevate your sleep experience with premium comfort and quality.",
+      "url": "https://www.wired.com/story/stearns-and-foster-promo-code/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T15:00:38+00:00"
+    },
+    {
+      "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
+      "description": "Apple doesn’t need fixing, and it doesn’t want drama. Its new leader is a “product guy” who bleeds six colors.",
+      "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T15:00:00+00:00"
+    },
+    {
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "description": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\"",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T14:58:06+00:00"
+    },
+    {
+      "title": "Set up to fail? Where England's World Cup campaign went wrong",
+      "description": "England's men and women endured different types of disappointment at the Rugby League World Cup on Friday - and the inquests have already begun.",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cqp9gv3mr8myo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-30T14:50:57+00:00"
+    },
+    {
+      "title": "New Treatment Strategy Makes Cancer Cells Run Out of Energy and Die",
+      "description": "A promising new drug combination exploits a metabolic vulnerability in leukemia cells. Researchers have discovered a way to kill leukemia cells by forcing them to remain highly active even as their energy supply is disrupted. The experimental treatment has produced promising results in mice and pati",
+      "url": "https://scitechdaily.com/new-treatment-strategy-makes-cancer-cells-run-out-of-energy-and-die/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-30T14:45:16+00:00"
+    },
+    {
+      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+      "description": "Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the trial and error of finding the exact type and size of bit you need. It's convenient, b",
+      "url": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T14:23:26+00:00"
+    },
+    {
+      "title": "A Promising Way To Reverse Cognitive Decline Just Failed a Major Clinical Test",
+      "description": "Restoring blood flow to the brain seemed a promising way to protect thinking skills, but opening severely narrowed arteries did not deliver the cognitive boost researchers hoped for. A Columbia-led randomized trial found that people with severe carotid artery narrowing gained no additional cognitive",
+      "url": "https://scitechdaily.com/a-promising-way-to-reverse-cognitive-decline-just-failed-a-major-clinical-test/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-30T14:10:18+00:00"
+    },
+    {
+      "title": "Yorkshire Water boss resigns after firm downgraded",
+      "description": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-30T13:59:16+00:00"
+    },
+    {
+      "title": "GM to pay $220 million after selling customer Smart Driver data",
+      "description": "Owners of GM cars found their driving data had been sold to insurance companies.",
+      "url": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T13:53:20+00:00"
+    },
+    {
+      "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
+      "description": "Waymo announced today that when it launches a robotaxi service in Tokyo in 2027, it will use Toyota bZ4X electric vehicles that are assembled in Japan. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025. The robotaxis will be built entirely ",
+      "url": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T13:52:14+00:00"
+    },
+    {
+      "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+      "description": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
+      "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T13:46:39+00:00"
+    },
+    {
+      "title": "Britain's first £100m man facing defining moment",
+      "description": "Is it 'now or never' for Jack Grealish after he was dropped by Everton for a breach of club discipline, asks chief football writer Phil McNulty?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmzxj2e2e5p2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-30T13:42:15+00:00"
+    },
+    {
+      "title": "Scientists Challenge a Long-Held Belief About Artificial Sweeteners",
+      "description": "New evidence challenges the idea that consuming more sweetness increases cravings or appetite. Replacing sugar with artificial sweeteners does not appear to increase hunger, intensify cravings for sweet foods, or interfere with weight management, according to a review of three major European clinica",
+      "url": "https://scitechdaily.com/scientists-challenge-a-long-held-belief-about-artificial-sweeteners/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-30T13:35:11+00:00"
+    },
+    {
+      "title": "Mattress Deals: Save Over $600 Before Black Friday 2026",
+      "description": "Even though Black Friday isn’t for a few more weeks, we’ve found early discounts on our favorite WIRED-tested mattresses and sleep accessories.",
+      "url": "https://www.wired.com/story/best-early-bfcm-mattress-deals-10-30-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T13:34:00+00:00"
+    },
+    {
+      "title": "Silicon Valley wants you to invest in miracles",
+      "description": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracle",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T13:11:05+00:00"
+    },
+    {
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "description": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T13:01:14+00:00"
+    },
+    {
+      "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
+      "description": "Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and did too little well. Back then, I also laid out what they needed to do to improve. [&#",
+      "url": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T13:00:00+00:00"
+    },
+    {
+      "title": "North Korean group blamed for $6.3bn Binance hack in biggest ever crypto heist",
+      "description": "Cryptocurrency exchange scrambles to freeze affected assets, with about $3bn located so far, and says it will cover lossesQ&A: How big a deal is the $6.3bn crypto heist?Tell us: have you been affected by the Binance hack?Business live – latest updatesThe world’s largest cryptocurrency exchange has b",
+      "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-10-30T12:48:40+00:00"
+    },
+    {
+      "title": "The Apple Pencil turned the Duo into my new favorite notebook",
+      "description": "Apple's $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. Believe me; nothing gets me going quite like a new notebook. This one will be different, I think. This time, I really will take it everywhere. Inspiration can strike at any moment, and you have to be ready, says David S",
+      "url": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T12:30:00+00:00"
+    },
+    {
+      "title": "What we know about Binance's $6.3bn hack",
+      "description": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+      "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-30T12:27:28+00:00"
+    },
+    {
+      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+      "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-30T12:04:02+00:00"
+    },
+    {
+      "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
+      "description": "Nissan’s series hybrid e-Power system has been retuned for American roads.",
+      "url": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T12:00:18+00:00"
+    },
+    {
+      "title": "The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen",
+      "description": "Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs, shouldn't exist. The most surprising thing is how normal it is. The MacBook Pro with PROLED XDR Display (what a name) has one of the nicest screens I've seen on a lapto",
+      "url": "https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T12:00:00+00:00"
+    },
+    {
+      "title": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
+      "description": "Multiple crypto-tracing firms say notorious North Korean hackers TraderTraitor may be behind the largest digital heist in history—with billions of crypto likely gone for good.",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T11:36:52+00:00"
+    },
+    {
+      "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
+      "description": "Disgraced founder of Theranos has some people falling for her act all over again.",
+      "url": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T11:30:01+00:00"
+    },
+    {
+      "title": "Streeting denies 'kicking can down the road' in defence spending row",
+      "description": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
+      "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-30T11:23:38+00:00"
+    },
+    {
+      "title": "These Tiny Magnetic Waves Could Unlock a New Era of Ultra-Efficient Computers",
+      "description": "Scientists have discovered that tiny magnetic excitations can persist much longer than expected. Magnetic waves inside a quantum material can hold onto their energy far longer than scientists expected, potentially opening a path toward faster computers that consume less electricity. Researchers at t",
+      "url": "https://scitechdaily.com/these-tiny-magnetic-waves-could-unlock-a-new-era-of-ultra-efficient-computers/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-30T11:04:56+00:00"
+    },
+    {
+      "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
+      "description": "It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight.",
+      "url": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T11:00:35+00:00"
+    },
+    {
+      "title": "This App Brutally Shames You by Tracking How Many Hours You’ve Lost to Scrolling",
+      "description": "The iOS app Oh My Hours takes a new approach to curbing screen time. It splits up your day into hour-long blocks, then shows which ones you wasted on Instagram and TikTok.",
+      "url": "https://www.wired.com/story/oh-my-hours-ios-app/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T11:00:00+00:00"
+    },
+    {
+      "title": "Elon Musk’s Ties to Texas Republicans Go Much Deeper Than the Midterms",
+      "description": "As Election Day approaches, the billionaire’s longstanding relationships with GOP leaders in Texas are under scrutiny.",
+      "url": "https://www.wired.com/story/elon-musks-ties-to-texas-republicans-go-much-deeper-than-the-midterms/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T10:45:00+00:00"
+    },
+    {
+      "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue",
+      "description": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\".",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-30T10:44:19+00:00"
+    },
+    {
+      "title": "The Best Handheld Translators for Work and Travel (2026)",
+      "description": "Your cell phone can handle basic language translation, but dedicated translator devices can offer a much more immersive, versatile experience.",
+      "url": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T10:30:00+00:00"
+    },
+    {
+      "title": "Male Insecurity Over Penis Size Is a Booming Business",
+      "description": "Manhood, a new documentary about “girth enhancement,” explores how wellness professionals are encouraging men to undergo increasingly extreme procedures to be sexually desirable.",
+      "url": "https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-10-30T10:30:00+00:00"
+    },
+    {
+      "title": "Astronauts Just Installed a Powerful New Solar Array High Above Earth",
+      "description": "NASA astronauts have completed another major step in upgrading the International Space Station&#8217;s power supply. During a spacewalk lasting more than seven hours, two crew members installed a new solar array that will help generate electricity for the orbiting laboratory, supporting everything f",
+      "url": "https://scitechdaily.com/astronauts-just-installed-a-powerful-new-solar-array-high-above-earth/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-30T10:29:57+00:00"
+    },
+    {
+      "title": "Government corruption a top issue for US midterm voters, exclusive poll finds",
+      "description": "Harris poll for Guardian finds 76% believe officials care more about self-enrichment than helping everyday AmericansGovernment corruption has emerged as a top issue in the upcoming US midterm elections, with an overwhelming majority of Americans saying US government officials use their public office",
+      "url": "https://www.theguardian.com/us-news/2026/oct/30/government-corruption-us-midterm-poll",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-10-30T10:00:52+00:00"
+    },
+    {
+      "title": "Did Venus Eat Its Own Moon? Scientists Uncover a Shocking Possibility",
+      "description": "Venus may have swallowed its own moon, according to computer simulations that point to the planet’s slow spin as the culprit. Venus is Earth’s near-twin in size, mass, and structure, but it has no moon. Scientists have long wondered whether the planet never experienced a moon-forming collision or wh",
+      "url": "https://scitechdaily.com/did-venus-eat-its-own-moon-scientists-uncover-a-shocking-possibility/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-10-30T09:54:56+00:00"
+    },
+    {
+      "title": "How video game remakes tap the power of nostalgia",
+      "description": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-10-30T07:45:00+00:00"
+    },
+    {
+      "title": "Why managers must put their own health first - Pulis",
+      "description": "BBC Sport columnist Tony Pulis explains why Vincent Kompany's health scare was a reminder that management takes its toll physically and mentally",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqy0r31kwne0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-30T07:41:38+00:00"
+    },
+    {
+      "title": "F1 has never had anyone like me - Hamilton",
+      "description": "Lewis Hamilton says he is unlike any driver Formula 1 has seen before and reaffirms a determination to keep racing into his mid-forties.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmvg9z1v33keo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-30T07:25:41+00:00"
+    },
+    {
+      "title": "'My low Vitamin D levels hit me like a truck'",
+      "description": "Saskia Reeves-Priestley didn't know she had a Vitamin D deficiency until she suddenly collapsed at work.",
+      "url": "https://www.bbc.co.uk/news/videos/cmy931z9pl8do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-10-30T06:30:08+00:00"
+    },
+    {
+      "title": "How talking about Man Utd's cycle of doom became an industry",
+      "description": "Manchester United's struggles are pored over more than ever before - not least by former players.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v3pl0159o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-10-30T06:14:19+00:00"
+    },
+    {
+      "title": "Biggest fibre boost could be scraps in your bin, experts say",
+      "description": "Chomping on vegtable skins, seeds and stalks could give us vital fibre, say food scientists.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5ynver15jeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-10-30T00:40:30+00:00"
+    },
     {
       "title": "I didn't know I was lacking in vitamin D until I collapsed at work",
       "description": "Doctors are finding vitamin D deficiency is increasingly widespread in the UK, especially in young people. But the symptoms are difficult to spot and can be missed.",
@@ -18,28 +370,12 @@
       "publishedAt": "2026-10-30T00:25:25+00:00"
     },
     {
-      "title": "From workshops to the catwalk - why mended clothes are going mainstream",
+      "title": "From Levi's to Primark - the fashion chains selling mended clothes",
       "description": "A new generation is embracing eye-catching patching and visible mends.",
       "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-10-30T00:00:35+00:00"
-    },
-    {
-      "title": "The director of Obsession put a new horror short on YouTube",
-      "description": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, but it's a fun one to watch if you're looking for ",
-      "url": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T23:57:18+00:00"
-    },
-    {
-      "title": "Intel says it&#8217;s selling every affordable laptop chip it can make",
-      "description": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has \"seen significant growth in Wildcat Lake. It's coming exactly at the right time ",
-      "url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T23:42:21+00:00"
     },
     {
       "title": "60,000-Year-Old Discovery in South Africa Reveals a Surprising Clue About Early Humans",
@@ -50,68 +386,12 @@
       "publishedAt": "2026-10-29T23:14:10+00:00"
     },
     {
-      "title": "PSG score late to hold struggling Man City",
-      "description": "Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for a win in the Women's Champions League this season continues.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckeq3v1wgxy4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-29T22:40:17+00:00"
-    },
-    {
-      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
-      "description": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that search traffic in October has \"dropped by more than 1 m",
-      "url": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T22:19:32+00:00"
-    },
-    {
-      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-      "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-10-29T22:17:52+00:00"
-    },
-    {
-      "title": "237-Million-Year-Old Fossils Reveal an Amphibian That Shouldn’t Have Existed",
-      "description": "Two fossils from China point to the first known fully marine amphibian, revealing an ancient exception to the freshwater dependence of its living relatives. An armored amphibian nearly three feet long appears to have lived on the seafloor hundreds of miles from a large landmass. How did it survive i",
-      "url": "https://scitechdaily.com/237-million-year-old-fossils-reveal-an-amphibian-that-shouldnt-have-existed/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-29T22:13:17+00:00"
-    },
-    {
       "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
       "description": "Reddit's search traffic \"was down meaningfully\" last quarter.",
       "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-10-29T21:47:57+00:00"
-    },
-    {
-      "title": "Chelsea linked with Alexander-Arnold - Friday's gossip",
-      "description": "Trent Alexander-Arnold may become a target for Chelsea, Bournemouth's Alex Scott could also be heading to Stamford Bridge and Manchester United are looking at Leeds United striker Dominic Calvert-Lewin.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck1l396jqv4zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-29T21:40:24+00:00"
-    },
-    {
-      "title": "What to Know About China’s Top-Secret Spaceplane",
-      "description": "This week, the Pentagon released a full-resolution image of the vehicle, the capabilities of which remain rather mysterious.",
-      "url": "https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T20:45:36+00:00"
-    },
-    {
-      "title": "Zverev seals world number one spot after win",
-      "description": "Alexander Zverev will replace Jannik Sinner as men’s world number one at his earliest opportunity after reaching the Vienna quarter-finals.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cwdr8m8g4jz2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-29T20:25:37+00:00"
     },
     {
       "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
@@ -122,14 +402,6 @@
       "publishedAt": "2026-10-29T20:18:49+00:00"
     },
     {
-      "title": "Patrick Stewart has died at age 86",
-      "description": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia.\" Born in 1940 in Mir",
-      "url": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T20:10:02+00:00"
-    },
-    {
       "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
       "description": "Inspector general rejected request from Democratic and Republican senators.",
       "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
@@ -138,60 +410,12 @@
       "publishedAt": "2026-10-29T20:08:10+00:00"
     },
     {
-      "title": "Reddit will force everyone to log in",
-      "description": "Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information on a whole range of topics. I know I'm not the only person who appends \"reddit\" to a l",
-      "url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T20:07:00+00:00"
-    },
-    {
-      "title": "Rivian’s R2 is officially its best-selling vehicle",
-      "description": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs. Rivian said it brought in $2.155 billion in re",
-      "url": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T20:02:00+00:00"
-    },
-    {
-      "title": "Polymarket Halted International Trading After Hackers Drained Accounts",
-      "description": "The company says an unnamed third-party provider was compromised. Trading has resumed, and Polymarket says affected traders will be made whole.",
-      "url": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T19:51:56+00:00"
-    },
-    {
-      "title": "Nothing Headphones Sale: Stylish and Up to 41% Off",
-      "description": "Some of the brand’s best styles, including the Nothing Headphone (1) and CMF Headphone Pro, are at the lowest prices I’ve ever seen ahead of Black Friday.",
-      "url": "https://www.wired.com/story/nothing-cmf-deals-october-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T19:41:36+00:00"
-    },
-    {
-      "title": "Grealish dropped over 'breach of club discipline' - what now?",
-      "description": "Jack Grealish is left out of Everton's EFL Cup win over Newcastle United on Thursday because of \"a breach of club discipline\".",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo?at_medium=RSS&at_campaign=rss",
+      "title": "Sutton's predictions v Bad Day At The Office star John Hannah",
+      "description": "BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-10-29T19:31:36+00:00"
-    },
-    {
-      "title": "A Hidden Molecular Pathway Could Change How a Deadly Disease Is Treated",
-      "description": "Researchers have found that acidic conditions may trigger an overlooked molecular process, offering new clues about how certain disease-causing protein mutations behave. Scientists have discovered that a protein responsible for a potentially fatal disease can unravel through a previously unknown mol",
-      "url": "https://scitechdaily.com/a-hidden-molecular-pathway-could-change-how-a-deadly-disease-is-treated/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-29T19:29:50+00:00"
-    },
-    {
-      "title": "GM to pay $220 million to resolve claims it sold driving habits data",
-      "description": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coalition of 36 US attorneys general, requires GM to limit the driving data it colle",
-      "url": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T19:19:28+00:00"
+      "publishedAt": "2026-10-29T19:55:24+00:00"
     },
     {
       "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
@@ -202,124 +426,12 @@
       "publishedAt": "2026-10-29T19:11:10+00:00"
     },
     {
-      "title": "Trump declares robot imports a national security threat",
-      "description": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
-      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T19:07:53+00:00"
-    },
-    {
-      "title": "The Brain Is More Capable of Healing Itself Than Scientists Thought",
-      "description": "Researchers have uncovered a surprising cellular process that could reshape our understanding of brain regeneration and offer new possibilities for recovery from neurological damage. Scientists have discovered an unexpected way the adult brain may replace certain cells lost to injury or disease. In ",
-      "url": "https://scitechdaily.com/the-brain-is-more-capable-of-healing-itself-than-scientists-thought/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-29T18:54:54+00:00"
-    },
-    {
-      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-      "description": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobi",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T18:45:31+00:00"
-    },
-    {
-      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-      "description": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T18:39:43+00:00"
-    },
-    {
-      "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
-      "description": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T18:29:12+00:00"
-    },
-    {
-      "title": "Scientists Discover Never-Before-Seen Molecules With Cancer-Fighting Potential",
-      "description": "Scientists have uncovered a previously unknown class of natural compounds hidden within soil-dwelling bacteria. Scientists have discovered a previously unknown group of molecules in soil bacteria that bind to a human protein associated with several types of cancer. The compounds, known as myxoglucam",
-      "url": "https://scitechdaily.com/scientists-discover-never-before-seen-molecules-with-cancer-fighting-potential/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-29T18:19:34+00:00"
-    },
-    {
-      "title": "Turning a solar power system into its own backup",
-      "description": "Plant design allows it to run on either stored solar heat or combustion.",
-      "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T18:02:26+00:00"
-    },
-    {
-      "title": "Scottish football could pave way for 3pm TV blackout to end",
-      "description": "The first tentative steps to end the 3pm television blackout in the UK have been taken by Scottish football as it seeks offers for the next broadcast cycle.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmgr8l87edyjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-29T17:43:53+00:00"
-    },
-    {
-      "title": "Go Minimal—the Ridge Wallet is 20 Percent Off Right Now",
-      "description": "The popular Ridge Wallet lives up to the hype and is on sale, along with other Ridge gear. Plus, you can try it risk-free for 99 days.",
-      "url": "https://www.wired.com/story/ridge-wallet-deal-october-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T17:41:36+00:00"
-    },
-    {
-      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
-      "description": "Charges filed as Trump admin tries to save Kalshi from Utah's total ban on gambling.",
-      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T17:21:33+00:00"
-    },
-    {
-      "title": "US interest rates held steady and economy grows - what it means for you",
-      "description": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans",
-      "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-10-29T17:15:05+00:00"
-    },
-    {
       "title": "Hundreds of GP practices lose online services after collapse of tech firm",
       "description": "It will cause huge disruption in some parts of England and Wales, say GP leaders.",
       "url": "https://www.bbc.co.uk/news/articles/cq146562ld3no?at_medium=RSS&at_campaign=rss",
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-10-29T17:13:40+00:00"
-    },
-    {
-      "title": "Careless dismissals give Australia route to series win in South Africa",
-      "description": "Australia take a step towards victory over South Africa in Cape Town, with the help of careless batting from Proteas' top order.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-29T16:53:40+00:00"
-    },
-    {
-      "title": "Duckett and Dawson deliver in England's consolation win",
-      "description": "Ben Duckett hits 167 and Liam Dawson takes four wickets as England end the tri-series with victory over Sri Lanka.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cjg4700703rxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-29T16:37:15+00:00"
-    },
-    {
-      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
-      "description": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
-      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T16:24:55+00:00"
     },
     {
       "title": "Europe’s central bank chief, Christine Lagarde, steps down for ‘freedom of speech’",
@@ -330,54 +442,6 @@
       "publishedAt": "2026-10-29T16:05:50+00:00"
     },
     {
-      "title": "Faisal Islam: This Budget was micro and that was deliberate",
-      "description": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
-      "url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-10-29T15:48:44+00:00"
-    },
-    {
-      "title": "Bereaved families will not face tax bill over pension delays under new rules",
-      "description": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault.",
-      "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-10-29T15:18:04+00:00"
-    },
-    {
-      "title": "The Future of Electromagnetic Shields Could Be Lighter, Stronger, and Greener",
-      "description": "Researchers are exploring a new generation of electromagnetic shielding materials that combine exceptional conductivity with improved strength and flexibility. Electromagnetic shielding materials must block unwanted signals without adding excessive weight or sacrificing durability. Conventional opti",
-      "url": "https://scitechdaily.com/the-future-of-electromagnetic-shields-could-be-lighter-stronger-and-greener/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-29T15:04:25+00:00"
-    },
-    {
-      "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
-      "description": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
-      "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T15:00:00+00:00"
-    },
-    {
-      "title": "Scientists Discover 3 Strange Quantum Materials That Could Finally Reveal Dark Matter",
-      "description": "Scientists have identified three unusual quantum materials that could transform the search for dark matter. Quantum simulations suggest that a material called titanium diselenide could make future detectors up to 1,000 times more sensitive to certain forms of light dark matter than current benchmark",
-      "url": "https://scitechdaily.com/scientists-discover-3-strange-quantum-materials-that-could-finally-reveal-dark-matter/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-10-29T14:29:23+00:00"
-    },
-    {
-      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
-      "description": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
-      "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T14:00:00+00:00"
-    },
-    {
       "title": "DoorDash to buy Instacart for $17bn in major grocery delivery consolidation",
       "description": "Acquisition will supercharge DoorDash’s grocery delivery, ‘one of the hardest things to get right online’, CEO saysDoorDash is gobbling up Instacart in a $17bn acquisition that will supercharge its grocery delivery business.DoorDash said the Instacart brand name and app will remain, and Instacart sh",
       "url": "https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery",
@@ -386,44 +450,12 @@
       "publishedAt": "2026-10-29T13:41:43+00:00"
     },
     {
-      "title": "Petkit Automatic Cat Litter Box Sale (2026)",
-      "description": "As WIRED’s resident pet tech tester, I have lots of opinions on what’s worth your money. Petkit’s automatic litter boxes are my top picks—and my favorite models are $100 off right now.",
-      "url": "https://www.wired.com/story/petkit-sale-october-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-10-29T13:41:26+00:00"
-    },
-    {
-      "title": "Is the double drop from the Premier League becoming more common?",
-      "description": "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-10-29T13:19:52+00:00"
-    },
-    {
-      "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
-      "description": "Budget forecasts show growth in living standards grinding almost to a halt.",
-      "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-10-29T13:19:24+00:00"
-    },
-    {
       "title": "US economy grows faster than expected but inflation rises to 3.7%",
       "description": "Commerce department data contrasts with sharp deterioration in consumer sentiment as midterms loomThe US economy grew faster than expected in the third quarter while inflation accelerated in September, according to new commerce department data released on Thursday, less than a week before the midter",
       "url": "https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-10-29T13:09:00+00:00"
-    },
-    {
-      "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-      "description": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-10-29T11:52:55+00:00"
     },
     {
       "title": "FTC orders Delta, Uber and others to hand over data on algorithmic pricing",
@@ -442,28 +474,12 @@
       "publishedAt": "2026-10-29T10:00:28+00:00"
     },
     {
-      "title": "Embattled CBS leader Bari Weiss downplays concerns about weak 60 Minutes ratings",
-      "description": "CBS News editor-in-chief sidesteps viewership concerns and says flagship show doing ‘tremendously well’CBS News’ editor-in-chief, Bari Weiss, has spoken publicly for the first time about the ratings challenges the network has experienced under her year-long tenure, sidestepping concerns about dimini",
-      "url": "https://www.theguardian.com/media/2026/oct/28/bari-weiss-cbs-news-60-minutes",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-10-28T22:22:19+00:00"
-    },
-    {
       "title": "Fed holds interest rates steady in last decision before midterms",
       "description": "Fed chair Kevin Warsh said politics played no role in pause of interest rate hikes, despite inflation remaining above 3%The US Federal Reserve left interest rates unchanged on Wednesday during its last board meeting before the midterm elections, keeping rates at one of the highest pre-election level",
       "url": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-10-28T19:26:41+00:00"
-    },
-    {
-      "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
-      "description": "Critics warn of climate danger as president in Texas claims change will save companies and consumers billionsDonald Trump said his administration was “terminating” Biden-era regulations holding oil and gas companies accountable for large leaks of planet-warming methane during a rally in Lubbock, Tex",
-      "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-10-28T14:30:29+00:00"
     }
   ]
 }
