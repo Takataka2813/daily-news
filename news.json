@@ -1,13 +1,365 @@
 {
-  "updatedAt": "2026-11-04T16:38:39.187102+00:00",
+  "updatedAt": "2026-11-05T01:16:47.910635+00:00",
   "articles": [
     {
-      "title": "Anker’s new window-mounted camera monitors the outside of your home from within it",
-      "description": "Anker announced a new indoor security camera that's designed to watch your yard, driveway, or front porch through a window, instead of monitoring what's inside your home. The new Anker Eufy Window Camera E10 takes a similar approach to the Wyze Window Cam that launched nearly a year ago. It installs",
-      "url": "https://www.theverge.com/tech/1026360/anker-eufy-window-camera-e10-indoors-security-ai-color-night-vision",
+      "title": "Australia's oldest department store David Jones collapses after 188 years",
+      "description": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
+      "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-05T00:59:22+00:00"
+    },
+    {
+      "title": "X says its updated web app is way faster",
+      "description": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" principal engineer Yagiz Nizipli said in a blog post about the changes. [&#82",
+      "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
       "source": "The Verge",
       "category": "Technology",
-      "publishedAt": "2026-11-04T16:36:21+00:00"
+      "publishedAt": "2026-11-05T00:25:12+00:00"
+    },
+    {
+      "title": "“Schrödinger’s Penguin”: Scientists Discover a Bizarre Paradox Among Endangered Penguins",
+      "description": "Endangered erect-crested penguins are holding steady on tiny islands while declining on a breeding ground 40 times larger, challenging assumptions about where the species’ best hope for survival lies. An endangered penguin species could receive a less severe global risk rating even as one of its onl",
+      "url": "https://scitechdaily.com/schrodingers-penguin-scientists-discover-a-bizarre-paradox-among-endangered-penguins/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-05T00:20:16+00:00"
+    },
+    {
+      "title": "Interest rates expected to rise for first time in over three years",
+      "description": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-05T00:00:09+00:00"
+    },
+    {
+      "title": "Pound rises to its highest level since the Brexit referendum",
+      "description": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
+      "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-04T23:30:28+00:00"
+    },
+    {
+      "title": "World record 51 red cards shown in Brazilian youth game",
+      "description": "A world record of 43 players and eight members of staff were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T23:22:27+00:00"
+    },
+    {
+      "title": "A Devastating Disease Is Threatening the World’s Chocolate Supply – but Scientists May Have Found the Answer",
+      "description": "A change to just two DNA letters reduced disease in cacao by about 42% under laboratory conditions, suggesting a possible way to protect future chocolate harvests. Black pod disease is estimated to reduce cacao yields by roughly 30% worldwide, threatening the livelihoods of farmers who grow the crop",
+      "url": "https://scitechdaily.com/a-devastating-disease-is-threatening-the-worlds-chocolate-supply-but-scientists-may-have-found-the-answer/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-04T23:19:15+00:00"
+    },
+    {
+      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+      "description": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
+      "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T23:13:14+00:00"
+    },
+    {
+      "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+      "description": "And what that could mean for physical Switch game costs.",
+      "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T22:47:51+00:00"
+    },
+    {
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "description": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon an",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T22:42:15+00:00"
+    },
+    {
+      "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
+      "description": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T22:38:24+00:00"
+    },
+    {
+      "title": "LIV to wind down after backers withdraw support",
+      "description": "LIV Golf is set to announce on Thursday it will wind down after a financing firm retracted its support.",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cq70pdjjgy5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T22:33:17+00:00"
+    },
+    {
+      "title": "Hackers exploited iOS and Android flaws to infect phones",
+      "description": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+      "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T22:26:49+00:00"
+    },
+    {
+      "title": "Haaland scores winner as Man City beat Leipzig",
+      "description": "Erling Haaland scores the winning goal as Manchester City overcome being pegged back twice to beat RB Leipzig 3-2 on match day four of the UEFA Champions League group phase.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T22:15:31+00:00"
+    },
+    {
+      "title": "Arsenal survive late Slavia scare for hard-fought win",
+      "description": "Arsenal earn their third win from four in the Champions League as goals from Noni Madueke and Victor Gyokeres are too much for Slavia Prague, despite a valiant late fight from the hosts to get back into the game.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T22:10:07+00:00"
+    },
+    {
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "description": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T21:56:29+00:00"
+    },
+    {
+      "title": "17 better ways Elon Musk could have wasted $446 million",
+      "description": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you [",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T21:45:00+00:00"
+    },
+    {
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "description": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-04T21:41:15+00:00"
+    },
+    {
+      "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
+      "description": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
+      "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T21:38:49+00:00"
+    },
+    {
+      "title": "How I learned to love an obnoxious phone grip",
+      "description": "Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at least that's what a 12-year-old told me a few months ago. This stick of butter was labeled [&#8230;]",
+      "url": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T21:30:00+00:00"
+    },
+    {
+      "title": "AMD's record quarter: Data center business doubles, while gaming craters",
+      "description": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
+      "url": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T21:29:46+00:00"
+    },
+    {
+      "title": "Bose’s QuietComfort Headphones are more than half off",
+      "description": "It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-gen Bose QuietComfort Headphones are on sale for $169.99 ($190 off) at Amazon, Best Buy, and Bose, matching its best price to date. The newer, second-generation version that launch",
+      "url": "https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T21:13:11+00:00"
+    },
+    {
+      "title": "‘We Have No Shared Reality’: Two Political Influencers on the Future of Politics Online",
+      "description": "Kat Abughazaleh and CJ Pearson spoke at WIRED World Fair on Wednesday about the influence of social media on politics following Tuesday’s midterm elections.",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-cj-pearson-and-kat-abughazaleh/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T21:04:05+00:00"
+    },
+    {
+      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+      "description": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T20:55:50+00:00"
+    },
+    {
+      "title": "Researchers Discover Earth May Have Made Its Own Water 4.5 Billion Years Ago",
+      "description": "Laboratory experiments suggest that rocky planets could generate their own water as they form, potentially giving distant worlds an essential ingredient for life. Rocks, hydrogen gas, and intense heat might sound like an unlikely recipe for an ocean. Yet experiments suggest that these ingredients co",
+      "url": "https://scitechdaily.com/researchers-discover-earth-may-have-made-its-own-water-4-5-billion-years-ago/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-04T20:47:40+00:00"
+    },
+    {
+      "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+      "description": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
+      "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T20:41:29+00:00"
+    },
+    {
+      "title": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
+      "description": "\"Data centers in space looking pretty appealing right now.\"",
+      "url": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T20:36:05+00:00"
+    },
+    {
+      "title": "‘Blade Runner 2099’ Shows the ‘Silver Linings’ of a Replicant Takeover",
+      "description": "Showrunner Silka Luisa and star Hunter Schafer want their series, Blade Runner 2099, to show the benefits of a post-revolution world.",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-blade-runner-2099/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T20:24:14+00:00"
+    },
+    {
+      "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+      "description": "AT&#38;T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and",
+      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T20:23:24+00:00"
+    },
+    {
+      "title": "NASA’s Parker Solar Probe Discovers Something Unexpected Hidden in the Chaos of Space",
+      "description": "NASA’s Parker Solar Probe has uncovered hidden order in space turbulence, a finding that could help scientists understand magnetic storms on Earth. Smoke rising from an incense stick can begin as a thin, steady stream before curling and spreading unpredictably. The smoke makes turbulence in the air ",
+      "url": "https://scitechdaily.com/nasas-parker-solar-probe-discovers-something-unexpected-hidden-in-the-chaos-of-space/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-04T20:12:34+00:00"
+    },
+    {
+      "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+      "description": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
+      "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T20:06:21+00:00"
+    },
+    {
+      "title": "GB sprint star Hunt visits England training camp",
+      "description": "Great Britain sprint star Amy Hunt visited England's training base before Sunday's Nations Championship match against Australia.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5x2vzplg43go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T19:59:18+00:00"
+    },
+    {
+      "title": "Poundland owner in crunch talks as retailer's collapse looms",
+      "description": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-04T19:44:46+00:00"
+    },
+    {
+      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+      "description": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-04T19:38:53+00:00"
+    },
+    {
+      "title": "NASA’s Voyager 1 Is About to Become the First Spacecraft One Light-Day From Earth",
+      "description": "Voyager 1 is nearing a distance from Earth that light takes a full day to cross, while NASA engineers stretch its dwindling power to keep it exploring. NASA’s Voyager 1, humanity’s most distant spacecraft, was about 16 billion miles (25.75 billion kilometers) from Earth when its radio signal disappe",
+      "url": "https://scitechdaily.com/nasas-voyager-1-is-about-to-become-the-first-spacecraft-one-light-day-from-earth/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-04T19:37:33+00:00"
+    },
+    {
+      "title": "Knives Are Out in the White House",
+      "description": "From top officials like Pete Hegseth to White House aides to right-wing pundits, the race is on to find someone besides Donald Trump to blame for the Republicans’ catastrophic losses.",
+      "url": "https://www.wired.com/story/knives-are-out-in-the-white-house/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T19:32:01+00:00"
+    },
+    {
+      "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+      "description": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T19:16:25+00:00"
+    },
+    {
+      "title": "Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control",
+      "description": "Cruz and Trump seem to have no plans to fill FCC's empty Democratic seat.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-aims-to-put-another-republican-on-fcc-in-senates-lame-duck-session/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T19:08:23+00:00"
+    },
+    {
+      "title": "Google’s Pixel 11 phones are up to 27 percent off",
+      "description": "You can save a heck of lot of money on Google’s Pixel 11 phones through November 8th, whether you want the best-for-the-least Pixel 11, or the slightly pricier Pixel 11 Pro that takes better photos. Even the big Pixel 11 Pro XL with a longer-lasting battery is hundreds off its original price. The Pi",
+      "url": "https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T19:00:00+00:00"
+    },
+    {
+      "title": "Xbox previews two new ways to control cloud games",
+      "description": "I revealed yesterday that the new Xbox Nano controller supports a Wi-Fi connection directly to Xbox Cloud Gaming, and now Microsoft is making it official today. Two new Xbox previews will let players try out using a phone as a controller on smart TVs, as well as cloud connect on the Xbox Nano to con",
+      "url": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T19:00:00+00:00"
+    },
+    {
+      "title": "An island in mourning: Tenerife processes death of De Miguel",
+      "description": "Tenerife football club and the wider football community mourn the loss of footballer Jesus de Miguel following an on-field collision.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T18:51:21+00:00"
+    },
+    {
+      "title": "Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350",
+      "description": "Upgrade to the smartest Android smartphones. Google’s latest Pixel 11 phones are all on sale at their lowest prices to date, well ahead of Black Friday.",
+      "url": "https://www.wired.com/story/google-pixel-11-deal-november-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-04T18:27:19+00:00"
+    },
+    {
+      "title": "Cocaine overtakes heroin as leading cause of drug deaths in England and Wales",
+      "description": "The number of deaths linked to cocaine use in England and Wales has nearly quadrupled in a decade.",
+      "url": "https://www.bbc.co.uk/news/articles/cmdxw051np9jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-11-04T17:58:59+00:00"
+    },
+    {
+      "title": "Zverev annoyed by reaction to becoming world number one",
+      "description": "After a defeat at the Paris Masters, Alexander Zverev complains that he is the only player who has had \"to explain why it's OK\" for him to be top of the rankings.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/ckpdg01pq55eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-04T17:08:45+00:00"
+    },
+    {
+      "title": "US stocks rise, dollar slides as investors digest Democrats’ midterm victories",
+      "description": "Government bond yields fall while initial fears ease over impact of election results on world’s biggest economyUS midterm elections – live updatesAfter US midterms, what will lame-duck Trump mean for global economy?US stocks have surged as investors digest the Democrats’ victories in the midterm ele",
+      "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-11-04T16:38:28+00:00"
     },
     {
       "title": "A Woman Who Lived 30,000 Years Ago Is Changing What We Know About Ice Age Europe",
@@ -18,78 +370,6 @@
       "publishedAt": "2026-11-04T16:21:55+00:00"
     },
     {
-      "title": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
-      "description": "After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-04T16:12:46+00:00"
-    },
-    {
-      "title": "US stock markets and government bonds rally while dollar falls after Democrats secure Congress – as it happened",
-      "description": "European shares also power ahead as markets react to blue wave in US midterm electionsAnd Chris Turner, global head of markets at ING, says:Investors will be parsing what this all means. For example, Gina Hinojosa won the Texas governor’s race on a ticket of wanting an immediate moratorium on data c",
-      "url": "https://www.theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-11-04T16:11:26+00:00"
-    },
-    {
-      "title": "Rian Johnson explains why he had to build his own iPhone camera app",
-      "description": "Rian Johnson is an analog photography devotee. The director of Knives Out and The Last Jedi can often be spotted on set with a Leica M6 at his side, documenting production on film. But sometimes, it's still easier to reach for a phone. So Johnson started wondering if the photos from his iPhone could",
-      "url": "https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-04T16:10:05+00:00"
-    },
-    {
-      "title": "Voters Set $400 Million of Elon Musk’s Money on Fire",
-      "description": "Elon Musk almost single-handedly funded the Republican midterms push. But of every traceable dollar Musk put into races that have been decided, more than 99 cents went to a race he lost.",
-      "url": "https://www.wired.com/story/voters-set-dollar400-million-of-elon-musks-money-on-fire/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-04T16:06:12+00:00"
-    },
-    {
-      "title": "Binance says hackers who stole billions in crypto spent months planning heist",
-      "description": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
-      "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-04T16:06:03+00:00"
-    },
-    {
-      "title": "Data centers lost the midterms",
-      "description": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters pol",
-      "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-04T16:05:39+00:00"
-    },
-    {
-      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
-      "description": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company",
-      "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-04T15:58:45+00:00"
-    },
-    {
-      "title": "My favorite 25W wireless power bank is down to $35",
-      "description": "If you’re someone who owns an iPhone, you might have considered getting a MagSafe power bank that can quickly recharge it. I tested a handful of options that claim to deliver 25W Qi2.2 speeds wirelessly, and my top pick was Baseus’ AM52 10,000mAh battery, which happens to be steeply discounted right",
-      "url": "https://www.theverge.com/gadgets/1026311/qi2-25w-power-bank-usbc-avowed-dreame-robot-vacuum-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-04T15:57:55+00:00"
-    },
-    {
-      "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
-      "description": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-04T15:51:37+00:00"
-    },
-    {
       "title": "33 Out of 34 Lupus Patients Shared an Immune Cell Abnormality",
       "description": "New research challenges a longstanding explanation for why the immune system attacks healthy tissues in lupus. Scientists investigating lupus have discovered that errors in immune cells may cause the body to attack some of its own defenses. In a study of 34 patients with systemic lupus erythematosus",
       "url": "https://scitechdaily.com/33-out-of-34-lupus-patients-shared-an-immune-cell-abnormality/",
@@ -98,52 +378,12 @@
       "publishedAt": "2026-11-04T15:46:22+00:00"
     },
     {
-      "title": "Poundland owner in crunch talks as retailer's collapse looms",
-      "description": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
-      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
+      "title": "CVS Health to split pharmacy chain from health insurance",
+      "description": "CVS Pharmacy will be separate from CVS Health, housing major insurer Aetna and benefits manager CaremarkCVS Health, the largest US healthcare conglomerate valued at $117bn, has announced its plans split off its pharmacy chain from its health insurance and benefits businesses, ending an era in which ",
+      "url": "https://www.theguardian.com/us-news/2026/nov/04/cvs-health-pharmacy-insurance",
+      "source": "The Guardian",
       "category": "Business",
-      "publishedAt": "2026-11-04T15:45:11+00:00"
-    },
-    {
-      "title": "What I learned driving the Slate electric truck prototype",
-      "description": "After 45 minutes behind the wheel, I am more optimistic about the $25,000 EV.",
-      "url": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-04T15:42:18+00:00"
-    },
-    {
-      "title": "Not even $200 million could help Elon Musk buy Texas",
-      "description": "James Talarico, the Democratic Texas senator-elect, not only managed to flip the state in yesterday's midterms but prevailed in the most expensive Senate election to date. More than $573 million was spent on advertisements between Talarico, his Republican opponent Ken Paxton, and their aligned PACs.",
-      "url": "https://www.theverge.com/policy/1026329/elon-musk-paxton-talarico-texas-election-funding",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-04T15:33:59+00:00"
-    },
-    {
-      "title": "Election Deniers Aren’t Contesting Their Massive Losses",
-      "description": "For months, election deniers claimed without evidence that the vote would be rigged. Now they appear to be accepting crushing defeats.",
-      "url": "https://www.wired.com/story/election-deniers-not-contesting-their-massive-losses/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-04T15:30:18+00:00"
-    },
-    {
-      "title": "Bluetooth is getting a big boost to data transfer speeds",
-      "description": "The Bluetooth Special Interest Group (SIG) that oversees the wireless standard has formally adopted Bluetooth High Data Throughput (HDT) as an optional feature of the Bluetooth Core 7.0. It's an upgrade the Bluetooth SIG has been previewing over the past year that increases Bluetooth LE's maximum su",
-      "url": "https://www.theverge.com/tech/1026308/bluetooth-le-sig-high-data-throughput-hdt",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-04T15:19:54+00:00"
-    },
-    {
-      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-      "description": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-04T15:13:14+00:00"
+      "publishedAt": "2026-11-04T15:20:24+00:00"
     },
     {
       "title": "Common Nutritional Supplement Shows Surprising Promise Against Psoriasis",
@@ -154,180 +394,12 @@
       "publishedAt": "2026-11-04T15:11:16+00:00"
     },
     {
-      "title": "The DEA banned a drug some opioid users called a miracle",
-      "description": "Researchers say the Schedule I ban could kill studies of a promising opioid treatment.",
-      "url": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-04T15:08:48+00:00"
-    },
-    {
-      "title": "The fight for tech accountability starts now",
-      "description": "When Donald Trump began his second term as president, Silicon Valley gratefully embraced moral nihilism. Google, Amazon, Microsoft, and more collectively donated millions to Trump's inauguration fund to ensure his favor in a new era of gangster tech regulation. Meta overhauled its content policy to ",
-      "url": "https://www.theverge.com/policy/1026289/midterms-2026-results-ai-data-center-big-tech-accountability",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-04T15:02:25+00:00"
-    },
-    {
-      "title": "Ocon dropped - is it the end of his F1 career?",
-      "description": "Esteban Ocon's career as a Formula 1 race driver is over - at least for the foreseeable future - after falling out with Haas. Andrew Benson looks at what the future holds for the Frenchman.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c59vz9gdllxlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-04T15:00:26+00:00"
-    },
-    {
-      "title": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable",
-      "description": "Spending hundreds of millions of dollars means nothing to Elon Musk, director Alex Gibney says.",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-alex-gibey-musk/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-04T14:15:21+00:00"
-    },
-    {
-      "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
-      "description": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption",
-      "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-04T13:49:51+00:00"
-    },
-    {
-      "title": "‘I’m 100 Percent at War with Trump’: MAGA Revolts After Midterms Wipeout",
-      "description": "While some of Donald Trump’s closest allies have remained silent, much of MAGA is blaming him for historic losses.",
-      "url": "https://www.wired.com/story/im-100-percent-at-war-with-trump-maga-revolts-after-midterms-wipeout/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-04T13:48:28+00:00"
-    },
-    {
-      "title": "Nadal set to join Real Madrid board of directors",
-      "description": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
-      "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-04T13:21:01+00:00"
-    },
-    {
-      "title": "Trapped in Amber for 99 Million Years, a Lizard’s Tail Reveals an Ancient Survival Secret",
-      "description": "A clean break in 99-million-year-old amber offers rare direct evidence that ancient lizards shed their tails using a defensive mechanism still common today. A lizard can escape a predator by leaving its tail behind, sometimes with the detached piece still wriggling as the animal makes its getaway. I",
-      "url": "https://scitechdaily.com/trapped-in-amber-for-99-million-years-a-lizards-tail-reveals-an-ancient-survival-secret/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-04T12:40:09+00:00"
-    },
-    {
       "title": "Trump blamed Fox News for Republican losses even as network’s hosts went easy on him",
       "description": "Fox News pundits hardly criticized the US president in midterms coverage but Trump was still quick to cast blameUS midterms 2026 live – latest updatesTrack live results from all 50 statesTell us: what do you want to know about the midterm election results?In the weeks leading up to Tuesday’s midterm",
       "url": "https://www.theguardian.com/us-news/2026/nov/04/trump-blames-fox-news-republican-losses",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-11-04T12:30:29+00:00"
-    },
-    {
-      "title": "120 Million Years Ago, Something Extraordinary Was Happening in Earth’s Oceans",
-      "description": "Colombia’s ancient seas supported an extraordinary diversity of top predators, offering clues to how life may undergo major evolutionary changes without a mass extinction. Mass extinctions have reshaped life on Earth, but they may not be the only way ecosystems undergo dramatic evolutionary change. ",
-      "url": "https://scitechdaily.com/120-million-years-ago-something-extraordinary-was-happening-in-earths-oceans/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-04T12:05:11+00:00"
-    },
-    {
-      "title": "West Ham confirm Parker as boss",
-      "description": "West Ham confirm the appointment of former midfielder Scott Parker as their head coach on a two-and-a-half-year deal.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-04T11:54:59+00:00"
-    },
-    {
-      "title": "LIV aimed to 'destroy the European Tour' - McIlroy",
-      "description": "Six-time major winner Rory McIlroy says those connected to LIV Golf were expressing an ambition to \"destroy the European Tour\" at the 2026 Masters, only months before the league filed for bankruptcy protection.",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/ck78p0epe0y8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-04T11:52:36+00:00"
-    },
-    {
-      "title": "Could Hyrox's Olympic ambition spell the end for triathlon?",
-      "description": "BBC Sport speaks to several triathletes about what World Triathlon's Hyrox partnership means for the future of the sport.",
-      "url": "https://www.bbc.co.uk/sport/triathlon/articles/cwp9ge311n91o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-04T11:52:19+00:00"
-    },
-    {
-      "title": "Real Madrid reach verbal agreement to sign Gabriel",
-      "description": "Real Madrid are confident of winning the race to sign Manchester United forward JJ Gabriel after reaching a verbal agreement with the teenager.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-04T11:49:23+00:00"
-    },
-    {
-      "title": "Keeper Owono 'would never intentionally hurt anyone'",
-      "description": "Andorra goalkeeper Jesus Owono \"would never intentionally hurt anyone\" and is \"deeply affected\" by the death of Tenerife forward Jesus de Miguel, his team-mate said on Wednesday.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-04T11:40:57+00:00"
-    },
-    {
-      "title": "I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)",
-      "description": "If you already have a compatible e-reader, the $35 Kindle Click could be all the upgrade you need.",
-      "url": "https://www.wired.com/story/finally-a-kindle-page-turner/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-04T11:36:00+00:00"
-    },
-    {
-      "title": "Comets Probably Didn’t Bring Life’s Ingredients to Earth After All, New Study Reveals",
-      "description": "New research suggests Mars may have been better suited than Earth to receive life’s chemical ingredients from comets, although the chances remain surprisingly slim. Comets have long been considered possible sources of the chemical ingredients that helped life emerge on Earth. But new research sugges",
-      "url": "https://scitechdaily.com/comets-probably-didnt-bring-lifes-ingredients-to-earth-after-all-new-study-reveals/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-04T11:30:13+00:00"
-    },
-    {
-      "title": "Best Wireless Earbuds I’d Buy Right Now (2026): Apple, Beats, Bose, and More",
-      "description": "I tested over a hundred options—my top picks from Apple, Bose, and Beats stood out from the rest.",
-      "url": "https://www.wired.com/story/best-wireless-earbuds/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-04T11:00:00+00:00"
-    },
-    {
-      "title": "What’s the Difference Between an Ebike and an E-Moto?",
-      "description": "Riders and lawmakers often don’t know the difference, and retailers sometimes muddy the waters on purpose. Here’s how to buy the micromobility vehicle you actually want.",
-      "url": "https://www.wired.com/story/whats-the-difference-between-an-ebike-and-an-e-moto/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-04T10:45:00+00:00"
-    },
-    {
-      "title": "The Mystery of Hair Growth Patterns May Finally Have a Simple Explanation",
-      "description": "A new study reveals how subtle interactions between cells and chemical signals may shape the intricate patterns of mammalian hair. The precise arrangement of hair follicles across an animal’s skin may arise from a surprisingly simple process. Researchers at the University of Geneva (UNIGE) have deve",
-      "url": "https://scitechdaily.com/the-mystery-of-hair-growth-patterns-may-finally-have-a-simple-explanation/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-04T01:39:04+00:00"
-    },
-    {
-      "title": "Human-Elephant Conflict Could Explode Across Southern Africa As Scientists Warn of a Growing Crisis",
-      "description": "Human-elephant conflict could intensify across Southern Africa as expanding farmland and increasingly dry conditions reshape the landscape. By 2085, the area of Southern Africa facing a high risk of elephant crop raids could expand by 33% to 100%, according to a new study. Researchers predict that g",
-      "url": "https://scitechdaily.com/human-elephant-conflict-could-explode-across-southern-africa-as-scientists-warn-of-a-growing-crisis/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-04T00:28:48+00:00"
-    },
-    {
-      "title": "Canva announces major job cuts after 'our hardest year yet'",
-      "description": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
-      "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-04T00:09:35+00:00"
     },
     {
       "title": "Graduates are managing AI - but are they learning much else?",
@@ -346,14 +418,6 @@
       "publishedAt": "2026-11-04T00:04:28+00:00"
     },
     {
-      "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
-      "description": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-03T22:39:37+00:00"
-    },
-    {
       "title": "US tech stocks recover after selloff spooks investors over AI spending",
       "description": "Midterms didn’t appear to have huge impact, though predicted wins for Democrats could mean more regulationUS tech stocks made a recovery on Tuesday afternoon after a selloff spooked investors over AI spending.Tuesday’s midterm elections didn’t appear to have a huge impact on Wall Street, though inve",
       "url": "https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending",
@@ -370,68 +434,12 @@
       "publishedAt": "2026-11-03T20:53:03+00:00"
     },
     {
-      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
-      "description": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
-      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-03T20:39:55+00:00"
-    },
-    {
-      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-      "description": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-03T18:30:27+00:00"
-    },
-    {
-      "title": "Buttons are back and storage is king when it comes to car interiors",
-      "description": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
-      "url": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-03T18:19:31+00:00"
-    },
-    {
-      "title": "Google will let schools skip AI tools, but they have to give up search, too",
-      "description": "Google will offer schools AI tools that purportedly don't give away the answers.",
-      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-03T17:54:43+00:00"
-    },
-    {
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "description": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-03T16:19:29+00:00"
-    },
-    {
-      "title": "Drivers may get compensation offers before car finance saga ends",
-      "description": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-03T11:56:31+00:00"
-    },
-    {
       "title": "Apple warns of ‘unprecedented’ rise in memory chip prices",
       "description": "iPhone maker says decision to raise prices has offset some of impact, as revenues are stronger than expectedBusiness live – latest updatesApple has warned of an “unprecedented” rise in memory chip prices, as it battles with datacentres to lay its hands on supplies.The iPhone maker’s shares fell in a",
       "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-11-03T09:01:19+00:00"
-    },
-    {
-      "title": "Oil price falls amid hope of a breakthrough to end Iran war",
-      "description": "Brent crude drops by more than 6% to $105.55 a barrel, the lowest level in more than two weeksThe oil price has fallen to its lowest level in more two weeks amid new hopes of a breakthrough to end the Iran war.Brent crude, the international benchmark, dropped by more than 6.5% to as low as $105.55 a",
-      "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-11-02T17:14:23+00:00"
     }
   ]
 }
