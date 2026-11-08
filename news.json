@@ -1,13 +1,213 @@
 {
-  "updatedAt": "2026-11-08T00:10:53.916001+00:00",
+  "updatedAt": "2026-11-08T15:38:12.586352+00:00",
   "articles": [
     {
-      "title": "Match of the Day",
-      "description": "With Arsenal v Hull, Forest v Man City, Leeds v Spurs and Fulham v Newcastle",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "description": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-08T15:37:25+00:00"
+    },
+    {
+      "title": "England await Guehi scan results after injury concern",
+      "description": "Manchester City defender Marc Guehi will undergo a scan on a hip complaint on Sunday to determine whether he can report for England duty this week.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
-      "publishedAt": "2026-11-08T00:00:56+00:00"
+      "publishedAt": "2026-11-08T15:03:01+00:00"
+    },
+    {
+      "title": "Chatbots might be coming to Apple’s HomeView",
+      "description": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could",
+      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-08T15:00:30+00:00"
+    },
+    {
+      "title": "'That's Reece' - World Cup semi-final brings out best and worst of Walsh",
+      "description": "On a fractious night in Sydney that ended with Australia reaching yet another Men's Rugby League World Cup final, it was no surprise to see Reece Walsh centre stage – for better or worse.",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cm93zrw2wz9go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-08T13:57:54+00:00"
+    },
+    {
+      "title": "Rahm pips Hatton & McIlroy to Abu Dhabi title",
+      "description": "Jon Rahm fires a final-round 67 to clinch a two-shot victory ahead of Tyrrell Hatton at the Abu Dhabi Championship.",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/c6y0exdrp2xeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-08T13:14:40+00:00"
+    },
+    {
+      "title": "There’s no slowing down media’s pivot-to-video 2.0",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Almost ",
+      "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-08T13:00:00+00:00"
+    },
+    {
+      "title": "NASA Space Telescope Meets Fiery End After Nearly 22 Years in Orbit",
+      "description": "NASA’s Neil Gehrels Swift Observatory has returned to Earth after spending nearly 22 years in space, bringing an extraordinary mission of cosmic discovery to an end. The spacecraft reentered Earth’s atmosphere on Wednesday, more than two decades after launching in 2004. Swift was a pioneering space ",
+      "url": "https://scitechdaily.com/nasa-space-telescope-meets-fiery-end-after-nearly-22-years-in-orbit/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-08T12:59:26+00:00"
+    },
+    {
+      "title": "Australia reach World Cup final after Fiji scare",
+      "description": "Australia have reached their fifth successive Women's Rugby League World Cup final as they seek a fourth consecutive title - but they were made to work harder than anyone expected.",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6vg02klk084o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-08T12:39:01+00:00"
+    },
+    {
+      "title": "NASA’s Perseverance Mars Rover Just Drove Farther Than Any Vehicle Beyond Earth",
+      "description": "NASA’s self-driving Perseverance rover has broken the all-time off-world driving record and is now exploring ancient Martian terrain that could hold clues to the Red Planet’s long-lost history. NASA’s Perseverance rover has set a new record for driving on another world, traveling farther across the ",
+      "url": "https://scitechdaily.com/nasas-perseverance-mars-rover-just-drove-farther-than-any-vehicle-beyond-earth/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-08T12:24:25+00:00"
+    },
+    {
+      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+      "description": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-08T12:15:31+00:00"
+    },
+    {
+      "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
+      "description": "After testing 30 pairs of computer speakers, these are the best computer speakers—from stereo speakers to subwoofers to surround sound systems.",
+      "url": "https://www.wired.com/gallery/best-computer-speakers/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-08T12:00:00+00:00"
+    },
+    {
+      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+      "description": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-08T12:00:00+00:00"
+    },
+    {
+      "title": "Look Up: Three Meteor Showers, a Supermoon, and a Historic Space First Are Coming in November",
+      "description": "November offers plenty of reasons to look up, including the Taurid and Leonid meteor showers, a close pairing of Mars and Jupiter, a remarkable milestone for NASA&#8217;s Voyager 1 spacecraft, and a bright supermoon. November Skywatching Highlights Around November 5: The Southern Taurid meteor showe",
+      "url": "https://scitechdaily.com/look-up-three-meteor-showers-a-supermoon-and-a-historic-space-first-are-coming-in-november/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-08T11:49:23+00:00"
+    },
+    {
+      "title": "Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory",
+      "description": "More evidence that magnets are magical.",
+      "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-08T11:30:00+00:00"
+    },
+    {
+      "title": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
+      "description": "The next time you take paid time off, your boss and coworkers will remember if you follow this advice.",
+      "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-08T11:00:00+00:00"
+    },
+    {
+      "title": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
+      "description": "A group of young mathematicians found the solution to the long unanswered conjecture, first inspired by juggling, through randomness and friendship.",
+      "url": "https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-08T10:30:00+00:00"
+    },
+    {
+      "title": "I haven't thrown anyone under the bus - Khawaja",
+      "description": "Usman Khawaja says he has \"not thrown anyone under the bus\" with revelations about the sandpaper scandal that engulfed the Australia team in 2018.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c65yn1j4lrgno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-08T10:04:01+00:00"
+    },
+    {
+      "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
+      "description": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
+      "url": "https://www.wired.com/gallery/best-touchscreen-gloves/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-08T10:00:00+00:00"
+    },
+    {
+      "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+      "description": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
+      "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-08T10:00:00+00:00"
+    },
+    {
+      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "description": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-08T10:00:00+00:00"
+    },
+    {
+      "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
+      "description": "BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-08T07:30:01+00:00"
+    },
+    {
+      "title": "Why unique Brighton defence is so tricky to unpick",
+      "description": "Brighton's unique defensive shape has provided the platform for the Seagulls' superb start to the Premier League season.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm0j033lnp5po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-08T06:41:37+00:00"
+    },
+    {
+      "title": "Scientists Finally Crack a 1,600-Year-Old Roman Glass Mystery",
+      "description": "More than 1,600 years after the Romans created the famous Lycurgus Cup, a University of Sheffield technician has found a way to reliably reproduce its extraordinary color-changing glass. A glass cup made more than 1,600 years ago has puzzled historians and glassmakers for centuries. When light refle",
+      "url": "https://scitechdaily.com/scientists-finally-crack-a-1600-year-old-roman-glass-mystery/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-08T02:28:28+00:00"
+    },
+    {
+      "title": "Scientists Discover Something Unexpected 90 Kilometers Beneath Earth",
+      "description": "A rock from Papua New Guinea was hotter than expected during its descent into Earth, challenging models of a process that influences earthquakes, volcanoes, and climate. Earth recycles its own surface. In regions called subduction zones, one tectonic plate, a vast slab of Earth’s outer shell, sinks ",
+      "url": "https://scitechdaily.com/scientists-discover-something-unexpected-90-kilometers-beneath-earth/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-08T01:17:22+00:00"
+    },
+    {
+      "title": "'The worst conditions in my 35-year career' - commentating in the FA Cup fog",
+      "description": "BBC Sport commentator Steve Bower gives an insight into trying to commentate when thick fog engulfs a stadium and you can barely see the action.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-08T00:17:56+00:00"
+    },
+    {
+      "title": "He spent $50,000 on Labubus but now the craze is dying",
+      "description": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-07T23:02:35+00:00"
     },
     {
       "title": "Popular Dairy Alternatives Could Be Leaving You Short of Essential Nutrients",
@@ -26,54 +226,6 @@
       "publishedAt": "2026-11-07T21:41:32+00:00"
     },
     {
-      "title": "Maresca's dream start turns into nightmare as title hopes hit",
-      "description": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City manager is rapidly turning into a nightmare.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-07T20:54:12+00:00"
-    },
-    {
-      "title": "Delap double inspires Forest to stunning win over Man City",
-      "description": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-07T20:02:25+00:00"
-    },
-    {
-      "title": "Muniz strike denies Newcastle and Jaissle much-needed win",
-      "description": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-07T19:59:37+00:00"
-    },
-    {
-      "title": "Leeds beat Spurs to end five-game winless run",
-      "description": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-07T19:59:34+00:00"
-    },
-    {
-      "title": "Arsenal beat Hull to extend lead at top of the table",
-      "description": "Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-07T19:59:31+00:00"
-    },
-    {
-      "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
-      "description": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-07T19:34:32+00:00"
-    },
-    {
       "title": "Scientists Engineer Rice That Fights Back Against a Devastating Crop Disease",
       "description": "An AI-designed gene-editing tool is opening new possibilities for protecting essential food crops. An artificial intelligence-designed gene-editing tool has helped scientists develop rice plants resistant to bacterial blight, a destructive disease that threatens harvests across Asia and Africa. Rese",
       "url": "https://scitechdaily.com/scientists-engineer-rice-that-fights-back-against-a-devastating-crop-disease/",
@@ -88,14 +240,6 @@
       "source": "The Verge",
       "category": "Technology",
       "publishedAt": "2026-11-07T17:00:00+00:00"
-    },
-    {
-      "title": "Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head",
-      "description": "MBARI’s first 4K footage of a barreleye fish offers a rare chance to study how its unusual eyes work in the ocean’s dim twilight zone. The day’s deep-sea research was over when a fish with a transparent head came into view. Research Specialist Shannon Johnson spotted it as MBARI’s pilots were “flyin",
-      "url": "https://scitechdaily.com/deep-sea-scientists-capture-extraordinary-4k-footage-of-a-fish-with-a-see-through-head/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-07T16:24:00+00:00"
     },
     {
       "title": "Costco members can get $5 off the reimagined Ocarina of Time",
@@ -138,84 +282,12 @@
       "publishedAt": "2026-11-07T15:00:00+00:00"
     },
     {
-      "title": "Good riddance, Cybertruck!",
-      "description": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill a vehicle that was o",
-      "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-07T14:40:06+00:00"
-    },
-    {
-      "title": "Zelda is back and better than ever",
-      "description": "Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about A",
-      "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-07T13:49:01+00:00"
-    },
-    {
-      "title": "Scientists Find That Older Brains React Very Differently to a Night of Poor Sleep",
-      "description": "A single bad night’s sleep may be easier on a healthy older brain than a younger one, though regularly missing sleep still carries risks. Sleep quality often declines with age, yet older adults can seem less affected by a single bad night than younger people. Understanding that apparent mismatch mea",
-      "url": "https://scitechdaily.com/scientists-find-that-older-brains-react-very-differently-to-a-night-of-poor-sleep/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-07T13:13:40+00:00"
-    },
-    {
-      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
-      "description": "Escalating hacks affecting blood labs and grocery stores show the very real risks to critical infrastructure that come from basic security lapses involving internet-connected devices.",
-      "url": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-07T13:00:00+00:00"
-    },
-    {
       "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
       "description": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
       "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-11-07T12:15:55+00:00"
-    },
-    {
-      "title": "A Hidden Substance in Drinking Water May Be Linked to Heart Problems in Children",
-      "description": "The water we drink may hold clues to a rare heart condition in children, but whether naturally occurring lithium plays a role in its development remains unknown. A dangerously fast heartbeat can begin with an extra strand of heart muscle that forms before birth. The strand creates an abnormal electr",
-      "url": "https://scitechdaily.com/a-hidden-substance-in-drinking-water-may-be-linked-to-heart-problems-in-children/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-07T12:02:53+00:00"
-    },
-    {
-      "title": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
-      "description": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
-      "url": "https://www.wired.com/gallery/best-wifi-routers/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-07T12:00:00+00:00"
-    },
-    {
-      "title": "The 10 Best Early Black Friday Headphone Deals (2026)",
-      "description": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Bose, and more.",
-      "url": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-07T11:45:00+00:00"
-    },
-    {
-      "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
-      "description": "Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
-      "url": "https://www.wired.com/gallery/best-cat-water-fountains/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-07T11:37:00+00:00"
-    },
-    {
-      "title": "This Totally Free App Can Free Up Space on Your Mac",
-      "description": "Stop paying for disk cleaners. This open source utility safely clears hidden caches, leftover app junk, and even gigabytes of offline Apple Intelligence models.",
-      "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-07T11:15:00+00:00"
     },
     {
       "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
@@ -234,44 +306,12 @@
       "publishedAt": "2026-11-07T11:00:08+00:00"
     },
     {
-      "title": "GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off",
-      "description": "Skip the gym and get outdoors with GoRuck’s indestructible packs and workout gear, deeply discounted ahead of the holidays.",
-      "url": "https://www.wired.com/story/goruck-black-friday-sale-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-07T11:00:00+00:00"
-    },
-    {
-      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
-      "description": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
-      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-07T11:00:00+00:00"
-    },
-    {
-      "title": "Ecoflow Rapid Pro Power Bank Deal: Save $80",
-      "description": "With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.",
-      "url": "https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-07T11:00:00+00:00"
-    },
-    {
-      "title": "Scientists Find a Clever Way to Read Quantum Information Without Destroying It",
-      "description": "Simulations suggest that one type of qubit could reveal its state through its own electric current, helping researchers monitor quantum computers with less disturbance and fewer components. Like a bit in an ordinary computer, a qubit stores information using states labeled 0 and 1. A qubit can also ",
-      "url": "https://scitechdaily.com/scientists-find-a-clever-way-to-read-quantum-information-without-destroying-it/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-07T00:25:22+00:00"
-    },
-    {
-      "title": "Chemical Breakthrough Could Unlock the “Holy Grail” of Solid-State Battery Technology",
-      "description": "A simple chemical treatment could overcome a persistent weakness in next-generation solid-state batteries. Scientists in China have developed a thin protective coating that could help overcome a major obstacle to longer-lasting, high-capacity batteries. In laboratory tests, solid-state batteries usi",
-      "url": "https://scitechdaily.com/chemical-breakthrough-could-unlock-the-holy-grail-of-solid-state-battery-technology/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-06T23:14:17+00:00"
+      "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+      "description": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+      "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-07T01:41:36+00:00"
     },
     {
       "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
@@ -288,14 +328,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-11-06T22:41:37+00:00"
-    },
-    {
-      "title": "Barry scores twice as Everton fight back to beat Coventry",
-      "description": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-06T22:30:12+00:00"
     },
     {
       "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
@@ -338,14 +370,6 @@
       "publishedAt": "2026-11-06T20:24:20+00:00"
     },
     {
-      "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-      "description": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
-      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-06T20:05:30+00:00"
-    },
-    {
       "title": "Why the US midterms sparked an AI stock selloff",
       "description": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
       "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
@@ -368,46 +392,6 @@
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-11-06T17:04:41+00:00"
-    },
-    {
-      "title": "PM tells firms to publish salaries in job adverts ahead of new law",
-      "description": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-06T15:25:43+00:00"
-    },
-    {
-      "title": "US job growth exceeds expectations in October despite economic uncertainty",
-      "description": "‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in DecemberThe US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid ongoing war in the Middle East and inflation, according to new data released on F",
-      "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-11-06T13:42:26+00:00"
-    },
-    {
-      "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
-      "description": "Decision made in order for factory in Texas to be used for Cybercab, the carmaker’s self-driving taxiElon Musk has announced that Tesla will wind down production of its Cybertruck, marking the end of a failed effort to take a chunk of the lucrative market for pickups in the US.The billionaire chief ",
-      "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-11-06T12:38:05+00:00"
-    },
-    {
-      "title": "How does it affect me if share prices fall?",
-      "description": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
-      "url": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-06T09:21:50+00:00"
-    },
-    {
-      "title": "Tempted by snacks before bed? Here's why - and what you can do about it",
-      "description": "There are biological reasons why you may reach for sweet treats before bed, but you can change the habit.",
-      "url": "https://www.bbc.co.uk/news/articles/cq2e9v3030gyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-11-06T00:42:05+00:00"
     }
   ]
 }
