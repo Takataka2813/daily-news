@@ -1,13 +1,389 @@
 {
-  "updatedAt": "2026-11-09T00:32:12.894040+00:00",
+  "updatedAt": "2026-11-09T19:16:00.724834+00:00",
   "articles": [
     {
-      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-      "description": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "title": "Listen to Monday Night Club",
+      "description": "Mark Chapman and guests debate the weekend's football.",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-09T21:00:00+00:00"
+    },
+    {
+      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "description": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"st",
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T19:09:58+00:00"
+    },
+    {
+      "title": "Nvidia’s value tumbles by $330bn after ‘honeytrap’ investigation launched, as China denies spying claims – business live",
+      "description": "Shares in world’s most valuable company hit seven-month low after CEO Huang admits to affair, after allegations of relationship with Chinese spyNvidia opens investigation after report CEO Jensen Huang was target of foreign intelligenceHuang is receiving support from some fellow tech executives, incl",
+      "url": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-11-09T19:04:51+00:00"
+    },
+    {
+      "title": "People don't know full story behind England exile - White",
+      "description": "Arsenal defender Ben White says people don't know the \"full story\" behind his decision to previously make himself unavailable for England selection - but says he would make the same decision again.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-09T19:00:10+00:00"
+    },
+    {
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "description": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T19:00:00+00:00"
+    },
+    {
+      "title": "How a civil servant got away with juggling five jobs for so long",
+      "description": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
+      "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "publishedAt": "2026-11-09T00:16:49+00:00"
+      "publishedAt": "2026-11-09T18:40:31+00:00"
+    },
+    {
+      "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
+      "description": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at checkout knocks $11 off the usual cost of a three-month subscription. That brings ",
+      "url": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T18:35:25+00:00"
+    },
+    {
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "description": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-09T18:11:11+00:00"
+    },
+    {
+      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "description": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to",
+      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T18:07:23+00:00"
+    },
+    {
+      "title": "Man Utd yet to make decision on Carrick's future",
+      "description": "Manchester United's board are yet to make a final decision on Michael Carrick's future, despite the club's worst start to a campaign in 40 years.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1g7z2mdgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-09T17:49:05+00:00"
+    },
+    {
+      "title": "James Gunn is out as DC movie leader",
+      "description": "Soon, James Gunn and Peter Safran will no longer head up Skydance's DC Studios. After taking the helm of DC Studios as co-CEOs in 2022, Gunn and Safran are being replaced by former Marvel SVP of Production and Development Jeremy Latcham, Deadline reports. However, Gunn and Safran will \"continue to p",
+      "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T17:39:57+00:00"
+    },
+    {
+      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+      "description": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T17:36:08+00:00"
+    },
+    {
+      "title": "Kane and Bellingham air strong views in England World Cup review",
+      "description": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-09T17:30:23+00:00"
+    },
+    {
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "description": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T17:24:26+00:00"
+    },
+    {
+      "title": "Civil servant who secretly held five jobs found guilty of fraud",
+      "description": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-09T17:17:16+00:00"
+    },
+    {
+      "title": "Uber wants to park your car now, too",
+      "description": "Uber announced the launch of Uber Parking, a native in-app reservation feature that allows drivers to find, book, and pay for garage and lot spaces ahead of time. The new feature is a result of Uber's recent acquisition of SpotHero, integrating a network of over 13,000 facilities across more than 40",
+      "url": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T17:00:00+00:00"
+    },
+    {
+      "title": "Poundland unable to buy new stock as fears over collapse grow",
+      "description": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-09T16:46:40+00:00"
+    },
+    {
+      "title": "Aberdeen sack Robinson after league slump",
+      "description": "Aberdeen sack head coach Stephen Robinson after dropping to second bottom of the Scottish Premiership.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwj34k2z5p00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-09T16:46:11+00:00"
+    },
+    {
+      "title": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage",
+      "description": "Sony is launching a new version of its PlayStation Portal exclusively in Japan next month. The updated model will launch in the midnight black color option we've seen before, and will include \"additional\" internal storage for future-looking features. It's the additional internal storage that's the s",
+      "url": "https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T16:23:31+00:00"
+    },
+    {
+      "title": "Smithsonian Scientists Built a Virtual Universe 1.5 Billion Light-Years Across",
+      "description": "Scientists have recreated the universe’s first 2 billion years in a record-breaking simulation that could reveal new secrets about the Big Bang and the birth of galaxies. Scientists have recreated the universe’s first 2 billion years in extraordinary detail using one of the world’s most powerful sup",
+      "url": "https://scitechdaily.com/smithsonian-scientists-built-a-virtual-universe-1-5-billion-light-years-across/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-09T16:17:55+00:00"
+    },
+    {
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "description": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-09T15:46:20+00:00"
+    },
+    {
+      "title": "A Monster Solar Storm Turned a Protected Region Around Earth Into a Particle Accelerator",
+      "description": "A solar superstorm appears to have turned a normally sheltered region near Earth into a natural particle accelerator, boosting electrons to energies capable of penetrating some satellite shielding. Protecting spacecraft from radiation means understanding where hazardous particles can appear, especia",
+      "url": "https://scitechdaily.com/a-monster-solar-storm-turned-a-protected-region-around-earth-into-a-particle-accelerator/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-09T15:42:05+00:00"
+    },
+    {
+      "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+      "description": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
+      "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T15:39:21+00:00"
+    },
+    {
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "description": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T15:23:20+00:00"
+    },
+    {
+      "title": "F1 in Brazil: You’ve got to keep your tires alive",
+      "description": "A topsy-turvy grid and intermittent rain resulted in a very entertaining race.",
+      "url": "https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T15:16:31+00:00"
+    },
+    {
+      "title": "The Solar System May Have a 6th Dwarf Planet – and It’s Been Hiding in Plain Sight",
+      "description": "A newly discovered dwarf planet candidate has a trail stretching back more than a decade in telescope images, giving astronomers a head start in understanding its orbit. 2026 ED138 could become the solar system’s sixth officially recognized dwarf planet. The newly discovered icy body orbits beyond P",
+      "url": "https://scitechdaily.com/the-solar-system-may-have-a-6th-dwarf-planet-and-its-been-hiding-in-plain-sight/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-09T15:07:56+00:00"
+    },
+    {
+      "title": "Bronze named in World 11 for record ninth time",
+      "description": "Lucy Bronze is one of five England players named in the Fifpro Women's World 11.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgeg2z4dlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-09T14:55:32+00:00"
+    },
+    {
+      "title": "Incident-by-incident: Was it a bad weekend for VAR?",
+      "description": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-09T14:34:19+00:00"
+    },
+    {
+      "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+      "description": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
+      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T14:30:56+00:00"
+    },
+    {
+      "title": "New Research Identifies the Hidden Rules That Help Brain Cancer Evade Treatment",
+      "description": "Scientists have discovered hidden rules governing how glioblastoma cells change states and resist treatment. Glioblastoma is one of the deadliest brain cancers, partly because its cells can change identities to survive treatment. Now, two studies published in Nature reveal that these changes follow ",
+      "url": "https://scitechdaily.com/new-research-identifies-the-hidden-rules-that-help-brain-cancer-evade-treatment/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-09T12:43:30+00:00"
+    },
+    {
+      "title": "New Study Challenges Long-Held Fears About Exercise and Knee Damage",
+      "description": "Recovering from ACL reconstruction doesn’t always mean the end of knee problems, with many young adults facing persistent pain and an increased risk of early-onset osteoarthritis. ACL reconstruction does not always restore long-term knee health. About half of patients remain dissatisfied with their ",
+      "url": "https://scitechdaily.com/new-study-challenges-long-held-fears-about-exercise-and-knee-damage/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-09T12:08:18+00:00"
+    },
+    {
+      "title": "Government's EV targets expected to be reduced this week",
+      "description": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-09T12:06:22+00:00"
+    },
+    {
+      "title": "New Democratic Congress will likely strip the gilding from Trump's Golden Dome",
+      "description": "\"There’s no doubt that whatever it’s going to be called, it won’t be called Golden Dome.\"",
+      "url": "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T12:00:05+00:00"
+    },
+    {
+      "title": "King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion",
+      "description": "This techy automatic starter feeder has some quirks, but it ended my yearlong sourdough slump.",
+      "url": "https://www.wired.com/review/king-arthur-baking-sourdough-sidekick/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T12:00:00+00:00"
+    },
+    {
+      "title": "New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing",
+      "description": "The new Hulu docuseries Get Huge: Looksmaxxing to Death shines a light on the mysterious deaths and disappearances of a group of male influencers in Thailand—and the leader at the center of it all.",
+      "url": "https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T12:00:00+00:00"
+    },
+    {
+      "title": "Smiling Isn’t Always Good for You, Scientists Discover",
+      "description": "A new study reveals that smiling can sometimes backfire, challenging long-held assumptions about facial expressions and happiness. Smiling might make you feel happier, but doing it repeatedly under pressure can have the opposite effect. New psychological research suggests that the emotional benefits",
+      "url": "https://scitechdaily.com/smiling-isnt-always-good-for-you-scientists-discover/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-09T11:33:26+00:00"
+    },
+    {
+      "title": "The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement",
+      "description": "A shifting political landscape gives right-to-repair advocates their best shot yet at meaningful federal reform.",
+      "url": "https://www.wired.com/story/the-midterms-were-a-pretty-good-sign-for-right-to-repair/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T11:30:00+00:00"
+    },
+    {
+      "title": "Scientists May Have Discovered a Massive Starless Galaxy",
+      "description": "The promising candidate contains roughly 2 billion times the sun’s mass in hydrogen, yet appears to have no stars. Studying it could help answer questions that have vexed astronomers for years.",
+      "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T11:15:00+00:00"
+    },
+    {
+      "title": "Economic relief is on the way, Democrats say. But what, how and when?",
+      "description": "Winning candidates promised to cut costs, rein in corporations, curb billionaire power and improve the economyDon’t worry, cash-strapped Americans, “relief is on the way”, the senator Chuck Schumer promised last week in a press conference celebrating Democrats’ massive midterms win.Winning candidate",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/democrats-midterms-economy-healthcare",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-11-09T11:00:07+00:00"
+    },
+    {
+      "title": "Audioengine Color of the Year Kit Review: Bright Look, Good Sound",
+      "description": "The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer.",
+      "url": "https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T11:00:00+00:00"
+    },
+    {
+      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+      "description": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T11:00:00+00:00"
+    },
+    {
+      "title": "These Robotic Arms Are Powered by Algae. Watch How They Move",
+      "description": "The key to the movement of these flexible robots is the algae’s photosynthetic capabilities.",
+      "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-09T10:30:00+00:00"
+    },
+    {
+      "title": "Khawaja 100% accurate on ball-tampering - Warner",
+      "description": "David Warner says he throws his \"full support\" behind former team-mate Usman Khawaja following his claim that all the Australia players knew about ball-tampering.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-09T09:21:09+00:00"
+    },
+    {
+      "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+      "description": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
+      "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-09T07:10:11+00:00"
+    },
+    {
+      "title": "Scientists Discover Greenland’s Ice Sheet Once Retreated 60 Miles",
+      "description": "Sediment beneath a secret Cold War base reveals a time when warmer summers helped push Greenland’s ice more than 60 miles back from its current edge. About 416,000 years ago, the ground beneath Greenland’s Camp Century was exposed to the sky. A new University at Buffalo-led study estimates that summ",
+      "url": "https://scitechdaily.com/scientists-discover-greenlands-ice-sheet-once-retreated-60-miles/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-09T01:47:05+00:00"
+    },
+    {
+      "title": "What's your love language - and does it actually mean anything?",
+      "description": "The theory of ‘Love Languages’ has no scientific origin but it's often still mentioned in modern dating.",
+      "url": "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-11-09T00:55:35+00:00"
+    },
+    {
+      "title": "Researchers Recover DNA from 7,000-Year-Old Leather, Revealing a Link to Goats Alive Today",
+      "description": "Ancient DNA recovered from a remarkably preserved piece of 7,000-year-old leather is shedding new light on how prehistoric communities in Spain used domesticated animals. A 7,000-year-old piece of goat leather discovered in a Spanish burial cave has yielded ancient DNA, allowing scientists to trace ",
+      "url": "https://scitechdaily.com/researchers-recover-dna-from-7000-year-old-leather-revealing-a-link-to-goats-alive-today/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-09T00:36:48+00:00"
+    },
+    {
+      "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+      "description": "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌BeijingNvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort”.The New Yo",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-11-09T00:25:28+00:00"
     },
     {
       "title": "Doing these things now will help you save money at Christmas",
@@ -18,316 +394,12 @@
       "publishedAt": "2026-11-09T00:09:14+00:00"
     },
     {
-      "title": "Norris sparkles in Sao Paulo despite firework mishap",
-      "description": "Apart from getting too close to a firework, Lando Norris was virtually impeccable during a Sao Paulo Grand Prix that challenged the drivers to their very limits.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c6gr8e822kzqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T23:44:53+00:00"
-    },
-    {
-      "title": "Scientists Discover Climate Change May Have Stopped Earth’s Next Ice Age",
-      "description": "&#160; A new glacial period may have been taking shape in the Arctic until global warming brought its slow advance to a halt. An ice cap in northern Canada began expanding about 2,000 years ago, according to research published in Science. The researchers argue that this growth marked the beginning o",
-      "url": "https://scitechdaily.com/scientists-discover-climate-change-may-have-stopped-earths-next-ice-age/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-08T23:25:09+00:00"
-    },
-    {
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "description": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-08T22:54:50+00:00"
-    },
-    {
-      "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
-      "description": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems. [&#8230;]",
-      "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-08T22:37:22+00:00"
-    },
-    {
-      "title": "Bizarre and thrilling theatre with Carrick's Man Utd future still in limbo",
-      "description": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T21:50:05+00:00"
-    },
-    {
-      "title": "Strange Materials Make Waves Behave in Ways That Defy Expectations",
-      "description": "Researchers have uncovered an unusual wave phenomenon that links engineered materials to principles found in ocean physics. Waves bouncing around an irregularly shaped space typically follow increasingly unpredictable paths. Scientists have now shown that certain materials can produce the opposite e",
-      "url": "https://scitechdaily.com/strange-materials-make-waves-behave-in-ways-that-defy-expectations/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-08T20:52:42+00:00"
-    },
-    {
-      "title": "Epic Games Launcher is coming to SteamOS",
-      "description": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibi",
-      "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-08T20:52:05+00:00"
-    },
-    {
-      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-      "description": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-08T20:22:39+00:00"
-    },
-    {
-      "title": "Quantum Discovery Reveals Why More Powerful Lasers Can Actually Slow Atoms Down",
-      "description": "Researchers have uncovered an unexpected way to control the movement of atomic layers in quantum materials. Scientists have discovered that two carefully timed laser pulses can move atomic layers in a quantum material more effectively than a single, more powerful pulse. Published in Nature Physics, ",
-      "url": "https://scitechdaily.com/quantum-discovery-reveals-why-more-powerful-lasers-can-actually-slow-atoms-down/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-08T20:17:43+00:00"
-    },
-    {
-      "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
-      "description": "Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier League relegation zone.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T20:01:16+00:00"
-    },
-    {
-      "title": "Brighton breeze past 10-man Brentford to move up to second",
-      "description": "Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T20:00:21+00:00"
-    },
-    {
-      "title": "Bournemouth beat Ipswich to extend winning streak",
-      "description": "Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmx23rll2w0qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T19:59:53+00:00"
-    },
-    {
-      "title": "Liverpool dispatch Palace to pile pressure on Sage",
-      "description": "Liverpool see off Crystal Palace 3-1 at Selhurst Park as Pierre Sage's side suffer their fourth defeat in a row in the Premier League.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5djv1mn7gj8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T19:58:46+00:00"
-    },
-    {
-      "title": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
-      "description": "Sunderland held on to their first Premier League win since August as Enzo le Fee's penalty help the hosts sink Chelsea at the Stadium of Light.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T19:58:31+00:00"
-    },
-    {
-      "title": "Feyi-Waboso burns bright as England energy endorses Borthwick",
-      "description": "Immanuel Feyi-Waboso's blistering first half display provides England fans with a glimpse of what could be in a much-needed statement of faith in coach Steve Borthwick.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c620r5dp51e0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-08T19:52:48+00:00"
-    },
-    {
-      "title": "Einstein Was Right Again: Scientists Discover Chemical Bonds That Defy Textbook Rules",
-      "description": "Scientists have uncovered direct evidence that Einstein’s theory of relativity changes how atoms form triple chemical bonds in heavy elements. A fundamental rule of chemical bonding begins to break down when atoms become sufficiently heavy. Chemists at Brown University have found direct experimental",
-      "url": "https://scitechdaily.com/einstein-was-right-again-scientists-discover-chemical-bonds-that-defy-textbook-rules/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-08T19:42:28+00:00"
-    },
-    {
-      "title": "Apple is racing to make Siri more agentic",
-      "description": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the com",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-08T19:18:19+00:00"
-    },
-    {
-      "title": "Elvis and Eminem rights holders are suing Suno",
-      "description": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-08T17:23:19+00:00"
-    },
-    {
-      "title": "Scientists Discover a Hidden Eye Disease That Can Steal Your Night Vision",
-      "description": "Researchers can spot signs of a newly identified genetic eye disease before light-sensing cells are lost by measuring how vision recovers in darkness. People with a newly identified genetic eye condition can see well for most of their lives before gradually losing peripheral vision and struggling to",
-      "url": "https://scitechdaily.com/scientists-discover-a-hidden-eye-disease-that-can-steal-your-night-vision/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-08T17:17:10+00:00"
-    },
-    {
-      "title": "A New Fiber Supplement Could Be a Game Changer for Millions With IBS",
-      "description": "For people with IBS, a specially designed fiber blend could support a healthier gut without added pain or bloating, a trial alongside a low-FODMAP diet suggests. Cutting out foods that leave you bloated or in pain can bring welcome relief. For millions of people with irritable bowel syndrome, or IBS",
-      "url": "https://scitechdaily.com/a-new-fiber-supplement-could-be-a-game-changer-for-millions-with-ibs/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-08T16:42:09+00:00"
-    },
-    {
-      "title": "Could a Nasal Spray Stop Alzheimer’s Before Memory Loss Begins?",
-      "description": "Protecting memory from Alzheimer’s may one day involve a nasal spray, with encouraging results in animals and evidence that its particles also protect human neurons grown in the lab. Alzheimer’s disease damages the connections that allow brain cells to communicate, threatening memory. A nasal spray ",
-      "url": "https://scitechdaily.com/could-a-nasal-spray-stop-alzheimers-before-memory-loss-begins/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-08T16:07:14+00:00"
-    },
-    {
-      "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
-      "description": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of storage — often sold for ",
-      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-08T16:00:00+00:00"
-    },
-    {
-      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "description": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
-      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-08T15:37:25+00:00"
-    },
-    {
-      "title": "Chatbots might be coming to Apple’s HomeView",
-      "description": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could",
-      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-08T15:00:30+00:00"
-    },
-    {
-      "title": "NASA Space Telescope Meets Fiery End After Nearly 22 Years in Orbit",
-      "description": "NASA’s Neil Gehrels Swift Observatory has returned to Earth after spending nearly 22 years in space, bringing an extraordinary mission of cosmic discovery to an end. The spacecraft reentered Earth’s atmosphere on Wednesday, more than two decades after launching in 2004. Swift was a pioneering space ",
-      "url": "https://scitechdaily.com/nasa-space-telescope-meets-fiery-end-after-nearly-22-years-in-orbit/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-08T12:59:26+00:00"
-    },
-    {
       "title": "Physicists listened to electrical noise to crack a superconductor mystery",
       "description": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
       "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-11-08T12:15:31+00:00"
-    },
-    {
-      "title": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
-      "description": "After testing 30 pairs of computer speakers, these are the best computer speakers—from stereo speakers to subwoofers to surround sound systems.",
-      "url": "https://www.wired.com/gallery/best-computer-speakers/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-08T12:00:00+00:00"
-    },
-    {
-      "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
-      "description": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
-      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-08T12:00:00+00:00"
-    },
-    {
-      "title": "Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory",
-      "description": "More evidence that magnets are magical.",
-      "url": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-08T11:30:00+00:00"
-    },
-    {
-      "title": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
-      "description": "The next time you take paid time off, your boss and coworkers will remember if you follow this advice.",
-      "url": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-08T11:00:00+00:00"
-    },
-    {
-      "title": "A 55-Year-Old Math Problem Was Solved—This Time by Humans",
-      "description": "A group of young mathematicians found the solution to the long unanswered conjecture, first inspired by juggling, through randomness and friendship.",
-      "url": "https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-08T10:30:00+00:00"
-    },
-    {
-      "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
-      "description": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
-      "url": "https://www.wired.com/gallery/best-touchscreen-gloves/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-08T10:00:00+00:00"
-    },
-    {
-      "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
-      "description": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
-      "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-08T10:00:00+00:00"
-    },
-    {
-      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
-      "description": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
-      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-08T10:00:00+00:00"
-    },
-    {
-      "title": "He spent $50,000 on Labubus but now the craze is dying",
-      "description": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-07T23:02:35+00:00"
-    },
-    {
-      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
-      "description": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
-      "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-07T12:15:55+00:00"
-    },
-    {
-      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-      "description": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
-      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-07T11:00:34+00:00"
-    },
-    {
-      "title": "Trump may have lost but don’t bet Democrats can fix the economy",
-      "description": "There’s not much they can do over the next couple of years to alleviate angry voters’ stress over pricesIt was the economy, again. Although Donald Trump largely ignored it, voters’ acute concerns over the rising cost of living fuelled a political upheaval for the ages that is likely to deliver the b",
-      "url": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-11-07T11:00:08+00:00"
-    },
-    {
-      "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
-      "description": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
-      "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-07T01:41:36+00:00"
     }
   ]
 }
