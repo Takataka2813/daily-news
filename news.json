@@ -1,13 +1,349 @@
 {
-  "updatedAt": "2026-11-10T03:08:59.815814+00:00",
+  "updatedAt": "2026-11-10T16:38:26.819834+00:00",
   "articles": [
     {
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "description": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "title": "eBay appears to have shut the door on third-party AI agents",
+      "description": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a ",
+      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T16:20:30+00:00"
+    },
+    {
+      "title": "Pochettino, Howe, Emery... or Carrick? Man Utd's managerial options",
+      "description": "As doubts grow over Manchester United boss Michael Carrick's future, what are the club's managerial options?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5rmymrvm004o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-10T16:17:10+00:00"
+    },
+    {
+      "title": "James Webb Discovers a Nearly Pristine Galaxy From the Dawn of the Universe",
+      "description": "A galaxy seen 13 billion years ago has just 1/240th the Sun&#8217;s oxygen abundance, offering a rare glimpse of what the ancestors of the Milky Way&#8217;s faintest neighbors may have looked like. Some of the faintest galaxies near the Milky Way may be survivors from the earliest chapters of cosmic",
+      "url": "https://scitechdaily.com/james-webb-discovers-a-nearly-pristine-galaxy-from-the-dawn-of-the-universe/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-10T16:05:50+00:00"
+    },
+    {
+      "title": "The Verge’s 2026 holiday gift guide for moms",
+      "description": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've [&#",
+      "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T16:00:00+00:00"
+    },
+    {
+      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "description": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T16:00:00+00:00"
+    },
+    {
+      "title": "Ember’s latest self-heating 14-ounce mug is $50 off",
+      "description": "If you were cool on the $149.95 original price of the 14-ounce Ember Mug 3, you might warm up to the current discount happening at Amazon, Ember, and Best Buy for several colors of the (top rack) dishwasher-safe mug. It’s 33 percent off, dropping to $99.99 — still not cheap, but cheaper, and notably",
+      "url": "https://www.theverge.com/gadgets/1030735/ember-mug-3-criterion-collection-blu-ray-pixel-watch-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T15:47:18+00:00"
+    },
+    {
+      "title": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped",
+      "description": "New data comes after Republicans’ midterms losses – which were largely seen as a rebuke of the party over high pricesUS inflation rose 0.4% from September to October, slightly above expectations but still a cooldown in price increases as the cost of gas dipped during the month.The Bureau of Labor St",
+      "url": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-11-10T15:38:48+00:00"
+    },
+    {
+      "title": "Something Unusual Is Swirling around the Monster Black Hole at the Center of Our Galaxy",
+      "description": "Webb’s measurements of metal-rich gas offer clues to the processes that fuel our galaxy’s supermassive black hole, which consumes material more slowly than others. The gas circling the Milky Way’s central black hole is rich in metals, probably supplied by stars that exploded and released material in",
+      "url": "https://scitechdaily.com/something-unusual-is-swirling-around-the-monster-black-hole-at-the-center-of-our-galaxy/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-10T15:30:58+00:00"
+    },
+    {
+      "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+      "description": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "publishedAt": "2026-11-10T01:55:22+00:00"
+      "publishedAt": "2026-11-10T15:10:20+00:00"
+    },
+    {
+      "title": "Formula 1 to finish season in Middle East",
+      "description": "The 2026 Formula 1 season will conclude with the Qatar and Abu Dhabi grands prix as planned, with Italy's Imola circuit stood down as back-up for the races.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c53989e97lxwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-10T15:04:46+00:00"
+    },
+    {
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "description": "The new model is up to twice as successful at some tasks.",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T15:00:39+00:00"
+    },
+    {
+      "title": "Reddit wants to guide your next purchase",
+      "description": "Millions of people turn to Reddit for firsthand recommendations and reviews of consumer goods. Now, the platform is leaning into its role as a destination for shoppers in a challenge to more traditional outlets that publish product reviews and roundups. The company is launching Reddit Reviews, a bui",
+      "url": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T15:00:00+00:00"
+    },
+    {
+      "title": "Kitchen Gear From Our Place Is Steeply Discounted",
+      "description": "Get up to 30 percent off and save an extra $60 on orders over $100.",
+      "url": "https://www.wired.com/story/our-place-sale-november-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T15:00:00+00:00"
+    },
+    {
+      "title": "Scientists Discover a Strange Form of Iron on the Moon That Shouldn’t Be There",
+      "description": "Scientists examining lunar soil collected by China’s Chang’e-6 mission have discovered an unexpected form of iron preserved within microscopic impact glass. Tiny particles of iron trapped inside lunar glass may preserve evidence of the Moon’s ancient magnetic history. Scientists studying soil return",
+      "url": "https://scitechdaily.com/scientists-discover-a-strange-form-of-iron-on-the-moon-that-shouldnt-be-there/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-10T14:55:44+00:00"
+    },
+    {
+      "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
+      "description": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
+      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T14:53:05+00:00"
+    },
+    {
+      "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+      "description": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-10T14:46:50+00:00"
+    },
+    {
+      "title": "US inflation higher than expected in October - here's what is happening with prices",
+      "description": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-10T14:45:46+00:00"
+    },
+    {
+      "title": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
+      "description": "The risk appears small and data is mixed, but FDA wants patients to be aware.",
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T14:43:49+00:00"
+    },
+    {
+      "title": "GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles",
+      "description": "Rockstar Games is making Grand Theft Auto VI available on Xbox Cloud Gaming when it launches next week. While you'd normally assume that would mean Grand Theft Auto VI would be available to stream on phones, PCs, the web, Xbox consoles, and even TVs, it appears to be restricted to just Xbox Series X",
+      "url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T14:37:09+00:00"
+    },
+    {
+      "title": "Birthdays and broken lamps - at home with the Charles brothers",
+      "description": "Before Northern Ireland's Nations League matches, BBC Sport joins Shea and Pierce Charles at their London home to discuss birthdays, steak sandwiches and starring for Michael O'Neill's young team.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c615je0lgleqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-10T14:36:21+00:00"
+    },
+    {
+      "title": "Polestar has a new look with its Formula 2030 concept",
+      "description": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2.",
+      "url": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T14:22:02+00:00"
+    },
+    {
+      "title": "Anthropic targets $1.4 trillion IPO",
+      "description": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the New York Times. The Wall Stre",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T14:06:54+00:00"
+    },
+    {
+      "title": "Australia doomed to live with stench of sandpapergate",
+      "description": "Usman Khawaja's autobiography has exposed the limbo Australian cricket finds itself stuck in over the sandpaper scandal, writes Stephan Shemilt.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-10T14:03:19+00:00"
+    },
+    {
+      "title": "Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful",
+      "description": "Aura just launched a smaller version of its color E Ink frame with a handful of improvements and a more affordable price. The new Aura Ink frame features a 10-inch E Ink panel that can display more colors at a higher pixel density. It's also differentiated from the original 13-inch model with a blac",
+      "url": "https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T14:00:00+00:00"
+    },
+    {
+      "title": "4DX Movies Are Entering Their Thirsty Romance Era",
+      "description": "From Heated Rivalry to Wicker, the movie format that embraces thrusting chairs and splashing the crowd is catering to those who want a horny communal theatergoing experience.",
+      "url": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T14:00:00+00:00"
+    },
+    {
+      "title": "Rocco’s Mini Mini Fridge Is Here (2026)",
+      "description": "The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.",
+      "url": "https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T14:00:00+00:00"
+    },
+    {
+      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+      "description": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+      "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T14:00:00+00:00"
+    },
+    {
+      "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
+      "description": "This $250 Drone Cam flies around your home to monitor threats. There’s also the Rover Cam for businesses, featuring the guts of Amazon’s former Astro robot.",
+      "url": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T13:30:00+00:00"
+    },
+    {
+      "title": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
+      "description": "California lawsuit comes as Donald Trump says FBI is investigating tech CEO’s links with Alice HuangBusiness live – latest updatesNvidia’s board needs to do some succession planning – sharpishNvidia and its chief executive, Jensen Huang, have been accused of misleading shareholders in a lawsuit over",
+      "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-11-10T12:45:54+00:00"
+    },
+    {
+      "title": "High-Tech Drones Reveal Long-Hidden Aboriginal Rock Art Shelters in Australia",
+      "description": "Drone-mounted lasers helped locate three unregistered Aboriginal rock art shelters in Australia, offering communities another way to document and protect their cultural heritage for future generations. In Australia’s Blue Mountains, rugged terrain and dense bushland make searching for Aboriginal cul",
+      "url": "https://scitechdaily.com/high-tech-drones-reveal-long-hidden-aboriginal-rock-art-shelters-in-australia/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-10T12:36:59+00:00"
+    },
+    {
+      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+      "description": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T12:15:32+00:00"
+    },
+    {
+      "title": "How Archaeologists Risked Their Lives To Save 30,000 Ancient Treasures From ISIS",
+      "description": "Syrian archaeologists rescued roughly 30,000 artifacts from a museum threatened by ISIS, highlighting how protecting human history can depend on trust built before a crisis. A narrow, highly vulnerable corridor was the Deir ez-Zor Museum’s only connection to the military airport. Access to the Syria",
+      "url": "https://scitechdaily.com/how-archaeologists-risked-their-lives-to-save-30000-ancient-treasures-from-isis/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-10T12:01:43+00:00"
+    },
+    {
+      "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
+      "description": "Per usual, the basic MacBook Pro lags behind the flagships where it counts.",
+      "url": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T12:00:21+00:00"
+    },
+    {
+      "title": "The Grindr 1 Percent Is Getting Its Own Gated Community",
+      "description": "The gay hookup app’s premium tier Edge rolls out this month. Grindr will limit membership numbers to “preserve exclusivity.”",
+      "url": "https://www.wired.com/story/the-grindr-1-percent-is-getting-its-own-gated-community/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T12:00:00+00:00"
+    },
+    {
+      "title": "Hill gets first England call-up as Konsa cover",
+      "description": "Bournemouth defender James Hill is added to the England squad for Thursday's Nations League match against Croatia at Wembley.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-10T11:41:27+00:00"
+    },
+    {
+      "title": "Jockey Neale, 22, dies after fall during race",
+      "description": "Australian jockey Izzy Neale passes away following a fall during a race in Australia on Sunday.",
+      "url": "https://www.bbc.co.uk/sport/horse-racing/articles/c933x3yjk530o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-10T11:34:41+00:00"
+    },
+    {
+      "title": "Louis Rossmann Wants More People to Care About the Right to Repair",
+      "description": "The outspoken consumer rights advocate knows the incoming Democrat-heavy Congress has a lot to get done. But he hopes one of those things is letting you fix your own iPhone.",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-louis-rossmann-right-to-repair/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T11:30:00+00:00"
+    },
+    {
+      "title": "Best Gifts for Hikers, Backpackers, Outdoorsy People (2026)",
+      "description": "Let your friend pick out their own hiking boots. For their next trip into the wild, try gifting a useful blade, merino socks, moka pot, or a nature journal.",
+      "url": "https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-outdoorsy-people/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-10T11:30:00+00:00"
+    },
+    {
+      "title": "A 4,000-Year-Old DNA Mystery Is Rewriting the Origins of the English Language",
+      "description": "Ancient DNA is uncovering forgotten migrations that may have shaped the origins of English, German, and Celtic languages, challenging what researchers thought they knew about Europe&#8217;s linguistic history. How can researchers trace a language back thousands of years when no one knows exactly wha",
+      "url": "https://scitechdaily.com/a-4000-year-old-dna-mystery-is-rewriting-the-origins-of-the-english-language/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-10T11:26:41+00:00"
+    },
+    {
+      "title": "Carrick's Man Utd future to be decided at Wednesday meeting",
+      "description": "Manchester United head coach Michael Carrick's future will be discussed at a meeting in Monaco on Wednesday.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-10T11:23:43+00:00"
+    },
+    {
+      "title": "Oil prices fall to lowest since August as Trump says Iran war is ‘effectively over’",
+      "description": "Brent crude drops below $90 and markets climb after president downplays prospect of further strikesBusiness live – latest updatesOil prices have fallen to the lowest level since late August while stock markets climbed higher, as markets reacted with relief to Donald Trump saying that the war on Iran",
+      "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-11-10T10:28:47+00:00"
+    },
+    {
+      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+      "description": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-10T09:57:49+00:00"
+    },
+    {
+      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+      "description": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-10T09:23:55+00:00"
     },
     {
       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
@@ -15,7 +351,15 @@
       "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "publishedAt": "2026-11-10T01:44:53+00:00"
+      "publishedAt": "2026-11-10T08:23:21+00:00"
+    },
+    {
+      "title": "Cast your vote for BBC Women's Footballer of the Year 2026",
+      "description": "Voting is now open for the BBC Women's Footballer of the Year 2026, with five players on the shortlist.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj20velkgnypo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-10T06:24:50+00:00"
     },
     {
       "title": "Dinosaurs May Have Eaten Far More Fruit Than Scientists Ever Thought",
@@ -34,108 +378,20 @@
       "publishedAt": "2026-11-10T00:28:50+00:00"
     },
     {
-      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-      "description": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has th",
-      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-10T00:28:49+00:00"
-    },
-    {
-      "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
-      "description": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
-      "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-10T00:18:19+00:00"
-    },
-    {
-      "title": "What could China get from Jensen Huang?",
-      "description": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T23:51:58+00:00"
-    },
-    {
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "description": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "title": "I took Vinted to court to get my money back",
+      "description": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
+      "url": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "publishedAt": "2026-11-09T23:51:22+00:00"
+      "publishedAt": "2026-11-10T00:27:37+00:00"
     },
     {
-      "title": "Sabalenka wins WTA Finals opener despite wayward serve",
-      "description": "Aryna Sabalenka grapples with a misfiring serve as she begins her WTA Finals campaign with a tight victory over Karolina Muchova.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cr20w0q8lgy1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-09T23:51:09+00:00"
-    },
-    {
-      "title": "Here’s what Trump said he knew about Jensen Huang",
-      "description": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"&#8203;&#8203;unfaithful\" to his wife, and the company has opened an inves",
-      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T23:47:46+00:00"
-    },
-    {
-      "title": "Is Einstein Wrong? Deep-Sea Neutrinos Put the Laws of Physics to the Test",
-      "description": "Scientists are testing whether one of Einstein’s most fundamental principles holds true throughout the Universe. A neutrino telescope deep in the Mediterranean Sea has put one of Einstein&#8217;s fundamental principles to a new test. After analyzing 5,828 atmospheric neutrino candidate events, scien",
-      "url": "https://scitechdaily.com/is-einstein-wrong-deep-sea-neutrinos-put-the-laws-of-physics-to-the-test/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-09T23:17:58+00:00"
-    },
-    {
-      "title": "Man Utd expected to sack head coach Carrick",
-      "description": "Michael Carrick's Manchester United reign appears close to an end following the club's worst start to a domestic campaign in 40 years.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-09T23:13:31+00:00"
-    },
-    {
-      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-      "description": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as n",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T23:07:59+00:00"
-    },
-    {
-      "title": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work",
-      "description": "Last year, Waymo recalled its software after several of its autonomous cars drove around stopped buses. But the problems remained. Now the feds want to know more.",
-      "url": "https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T22:40:10+00:00"
-    },
-    {
-      "title": "Brady ends association with Birmingham City",
-      "description": "NFL legend Tom Brady ends his association with top-of-the-table Championship side Birmingham City after three years.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmd6d63vegd4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-09T22:18:17+00:00"
-    },
-    {
-      "title": "The Home Depot Best Early Black Friday Deals (2026)",
-      "description": "If you’re looking for a new appliance or vacuum, Home Depot’s sale is one you don’t want to miss.",
-      "url": "https://www.wired.com/story/the-home-depot-early-black-friday-deals-nov-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T22:15:00+00:00"
-    },
-    {
-      "title": "These WIRED-Tested Standing Desks Are Already on Sale for Black Friday",
-      "description": "Upgrade your workspace with discounts on WIRED-tested desks from Branch, Vari, FlexiSpot, and Uplift—plus a walking pad to keep things moving.",
-      "url": "https://www.wired.com/story/best-early-black-friday-deals-on-standing-desks-11-9-26/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T22:00:00+00:00"
+      "title": "The superpower battle over energy – and what it means for your bills",
+      "description": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+      "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-10T00:08:28+00:00"
     },
     {
       "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
@@ -146,22 +402,6 @@
       "publishedAt": "2026-11-09T21:55:35+00:00"
     },
     {
-      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-      "description": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-09T21:52:28+00:00"
-    },
-    {
-      "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
-      "description": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $100 cheaper than the full MSRP of $399.99. MSI’s 27-",
-      "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T21:43:41+00:00"
-    },
-    {
       "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
       "description": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
       "url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
@@ -170,236 +410,12 @@
       "publishedAt": "2026-11-09T21:13:39+00:00"
     },
     {
-      "title": "The global pledge to use AI for climate good is a cruel joke",
-      "description": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not try a [&#8230;]",
-      "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T21:13:16+00:00"
-    },
-    {
-      "title": "A Sam Altman parody offers an amusing lesson in memory management",
-      "description": "We verified the RAM numbers are real without sending any emails to OpenAI.",
-      "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T20:49:09+00:00"
-    },
-    {
-      "title": "The 9 Best TV Shows to Stream This Month (November 2026)",
-      "description": "Black Doves, The Lord of the Rings: The Rings of Power, and Blade Runner 2099 are just a few of the shows you should be watching right now.",
-      "url": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T20:47:28+00:00"
-    },
-    {
-      "title": "Scientists Discover a Hidden Weakness in Prostate Cancer That Could Transform Treatment",
-      "description": "A newly identified vulnerability in a cancer-driving protein could pave the way for a different approach to treating prostate cancer. Researchers at the University of Michigan have identified a potential way to target a protein that helps drive prostate cancer but has long been considered beyond the",
-      "url": "https://scitechdaily.com/scientists-discover-a-hidden-weakness-in-prostate-cancer-that-could-transform-treatment/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-09T20:31:32+00:00"
-    },
-    {
-      "title": "Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia?",
-      "description": "Huang built Nvidia as a family business but after the co-founder had an affair with an alleged Chinese spy, its board faces a difficult decisionFor more than 30 years, Jensen Huang has been the seemingly unshakable public face of Nvidia. He co-founded the company as a young engineer in 1993 and over",
-      "url": "https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-11-09T20:27:07+00:00"
-    },
-    {
-      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "description": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-09T19:58:01+00:00"
-    },
-    {
-      "title": "A New Approach Could Eliminate “Zombie” Cancer Cells That Survive Chemotherapy",
-      "description": "Some cancer cells survive chemotherapy by blocking their own self-destruct system, but researchers have found a way to switch it back on and kill those cells. Chemotherapy can leave behind cancer cells that have stopped dividing but remain alive and capable of helping a tumor recover. These survivor",
-      "url": "https://scitechdaily.com/a-new-approach-could-eliminate-zombie-cancer-cells-that-survive-chemotherapy/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-09T19:56:40+00:00"
-    },
-    {
-      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-      "description": "\"*sshole\" poses a serious threat to Internet security.",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T19:41:34+00:00"
-    },
-    {
-      "title": "Hidden Brain Signals Could Predict Alzheimer’s Years Before Symptoms Appear",
-      "description": "Subtle differences in brain activity may reveal who is most vulnerable to Alzheimer&#8217;s disease and who could remain mentally sharp well into old age. Distinct patterns of brain activity may predict Alzheimer&#8217;s disease years before memory problems or hallmark brain changes appear. Stanford",
-      "url": "https://scitechdaily.com/hidden-brain-signals-could-predict-alzheimers-years-before-symptoms-appear/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-09T19:21:31+00:00"
-    },
-    {
       "title": "Boeing to cut about 5% of its commercial plane workforce",
       "description": "Company will cut jobs through a mix of layoffs and attrition as it moderates the pace of ramping up jet productionBoeing will cut about 5% of its commercial plane workforce as it moderates the pace of ramping up jet production, the company said on Monday.The company will eliminate the posts through ",
       "url": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-11-09T19:11:26+00:00"
-    },
-    {
-      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "description": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"st",
-      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T19:09:58+00:00"
-    },
-    {
-      "title": "Pentagon mulls placing fleet of military satellites around the Moon",
-      "description": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
-      "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T19:08:37+00:00"
-    },
-    {
-      "title": "People don't know full story behind England exile - White",
-      "description": "Arsenal defender Ben White says people don't know the \"full story\" behind his decision to previously make himself unavailable for England selection - but says he would make the same decision again.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-09T19:00:10+00:00"
-    },
-    {
-      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "description": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T19:00:00+00:00"
-    },
-    {
-      "title": "How a civil servant got away with juggling five jobs for so long",
-      "description": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
-      "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-09T18:40:31+00:00"
-    },
-    {
-      "title": "England wing Feyi-Waboso out of Nations Championship",
-      "description": "England wing Immanuel Feyi-Waboso is ruled out of the rest of the Nations Championship as his injury misfortune continues.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw5yny20m7jzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-09T18:33:37+00:00"
-    },
-    {
-      "title": "Kane and Bellingham air strong views in England World Cup review",
-      "description": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-09T17:30:23+00:00"
-    },
-    {
-      "title": "Claude Code is accidentally exposing secrets all over GitHub",
-      "description": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
-      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T17:24:26+00:00"
-    },
-    {
-      "title": "Civil servant who secretly held five jobs found guilty of fraud",
-      "description": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
-      "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-09T17:17:16+00:00"
-    },
-    {
-      "title": "Poundland unable to buy new stock as fears over collapse grow",
-      "description": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
-      "url": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-09T16:46:40+00:00"
-    },
-    {
-      "title": "Smithsonian Scientists Built a Virtual Universe 1.5 Billion Light-Years Across",
-      "description": "Scientists have recreated the universe’s first 2 billion years in a record-breaking simulation that could reveal new secrets about the Big Bang and the birth of galaxies. Scientists have recreated the universe’s first 2 billion years in extraordinary detail using one of the world’s most powerful sup",
-      "url": "https://scitechdaily.com/smithsonian-scientists-built-a-virtual-universe-1-5-billion-light-years-across/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-09T16:17:55+00:00"
-    },
-    {
-      "title": "A Monster Solar Storm Turned a Protected Region Around Earth Into a Particle Accelerator",
-      "description": "A solar superstorm appears to have turned a normally sheltered region near Earth into a natural particle accelerator, boosting electrons to energies capable of penetrating some satellite shielding. Protecting spacecraft from radiation means understanding where hazardous particles can appear, especia",
-      "url": "https://scitechdaily.com/a-monster-solar-storm-turned-a-protected-region-around-earth-into-a-particle-accelerator/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-09T15:42:05+00:00"
-    },
-    {
-      "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
-      "description": "\"Grok analyzing the same video is 99.9 percent perfect.\"",
-      "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T15:39:21+00:00"
-    },
-    {
-      "title": "Nvidia CEO's affair becomes a national security problem",
-      "description": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T15:23:20+00:00"
-    },
-    {
-      "title": "How Hawkins overcame illness to star for England",
-      "description": "When Rob Hawkins replied to what he thought was an advert to play wheelchair basketball in 2014 he could not have imagined he would be a key part of an England side defending their Rugby League World Cup title.",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmvgxgdqgdgvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-09T15:15:06+00:00"
-    },
-    {
-      "title": "Incident-by-incident: Was it a bad weekend for VAR?",
-      "description": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-09T14:34:19+00:00"
-    },
-    {
-      "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
-      "description": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
-      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T14:30:56+00:00"
-    },
-    {
-      "title": "King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion",
-      "description": "This techy automatic starter feeder has some quirks, but it ended my yearlong sourdough slump.",
-      "url": "https://www.wired.com/review/king-arthur-baking-sourdough-sidekick/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T12:00:00+00:00"
-    },
-    {
-      "title": "New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing",
-      "description": "The new Hulu docuseries Get Huge: Looksmaxxing to Death shines a light on the mysterious deaths and disappearances of a group of male influencers in Thailand—and the leader at the center of it all.",
-      "url": "https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-09T12:00:00+00:00"
     },
     {
       "title": "Economic relief is on the way, Democrats say. But what, how and when?",
