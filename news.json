@@ -1,6 +1,238 @@
 {
-  "updatedAt": "2026-11-14T01:17:01.485298+00:00",
+  "updatedAt": "2026-11-14T15:23:18.018943+00:00",
   "articles": [
+    {
+      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+      "description": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking to save on outdoor gear or pick up something for a",
+      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T15:00:00+00:00"
+    },
+    {
+      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "description": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T15:00:00+00:00"
+    },
+    {
+      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+      "description": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service areas\" - meaning you'll only be able to b",
+      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T14:18:36+00:00"
+    },
+    {
+      "title": "McIlroy fades as Hatton leads in Dubai",
+      "description": "Rory McIlroy's hopes of an eighth Race to Dubai title are dented as Tyrrell Hatton takes the outright lead into the fourth round of the DP World Tour Championship.",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cqkgm00ykp7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-14T14:09:23+00:00"
+    },
+    {
+      "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
+      "description": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plus a couple of 8BitDo's Zero 2 controllers for games that don't use ana",
+      "url": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T14:00:00+00:00"
+    },
+    {
+      "title": "Scientists Discover How Exercise Could Help Protect the Brain From Parkinson’s",
+      "description": "Exercise may offer benefits for Parkinson’s disease that extend far beyond physical movement. Exercise may benefit people with Parkinson&#8217;s disease in ways that go far beyond building strength and improving mobility. A review of 129 studies suggests that contracting muscles release chemical mes",
+      "url": "https://scitechdaily.com/scientists-discover-how-exercise-could-help-protect-the-brain-from-parkinsons/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-14T13:29:29+00:00"
+    },
+    {
+      "title": "A gadget to make your dumb house smarter",
+      "description": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about school ap",
+      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T13:00:00+00:00"
+    },
+    {
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "description": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T13:00:00+00:00"
+    },
+    {
+      "title": "Scientists Develop Injectable Glucose Sensor That Could Change Diabetes Care",
+      "description": "An experimental injectable sensor could give people with diabetes a more affordable way to track blood sugar, with early tests showing that a cheaper sensing ingredient performed similarly to its costlier alternative. For millions of people with diabetes, knowing how glucose levels are changing help",
+      "url": "https://scitechdaily.com/scientists-develop-injectable-glucose-sensor-that-could-change-diabetes-care/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-14T12:54:21+00:00"
+    },
+    {
+      "title": "A Simple Pill Could Cure a Common Cause of High Blood Pressure",
+      "description": "Blood pressure stayed lower for up to two years after treatment ended in a small follow-up study, suggesting some people with hormone-driven hypertension could avoid lifelong medication. For people with a common hormonal cause of high blood pressure, a cure has required surgery to remove an entire a",
+      "url": "https://scitechdaily.com/a-simple-pill-could-cure-a-common-cause-of-high-blood-pressure/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-14T12:19:16+00:00"
+    },
+    {
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "description": "Radiation and collisions reshape the planetary building materials.",
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T12:15:48+00:00"
+    },
+    {
+      "title": "Winemakers are learning that conservation can be good for business",
+      "description": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T12:05:51+00:00"
+    },
+    {
+      "title": "I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)",
+      "description": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
+      "url": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T12:05:00+00:00"
+    },
+    {
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "description": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leat",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T12:00:00+00:00"
+    },
+    {
+      "title": "How to Run SteamOS on Your Mac",
+      "description": "A free app lets you boot SteamOS in a virtual machine on your Apple Silicon Mac, unlocking PC and legacy games that otherwise won’t run.",
+      "url": "https://www.wired.com/story/get-steamos-easily-running-on-your-mac/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T12:00:00+00:00"
+    },
+    {
+      "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
+      "description": "Those old links you shared with friends ages ago are still live, and they might be attracting unwelcome visitors.",
+      "url": "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T11:30:00+00:00"
+    },
+    {
+      "title": "10 Best Early Black Friday Headphone Deals (2026): Up to 50% Off",
+      "description": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
+      "url": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T11:30:00+00:00"
+    },
+    {
+      "title": "The 21 Best REI Holiday Sale Outdoor Deals (2026)",
+      "description": "Stock up on outdoor gear and gifts for friends at REI's annual holiday sale.",
+      "url": "https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T11:00:00+00:00"
+    },
+    {
+      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+      "description": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
+      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T11:00:00+00:00"
+    },
+    {
+      "title": "My 9 Favorite Pickleball Paddles From 3 Years of Testing (2026)",
+      "description": "Paddles are getting more sophisticated and expensive. We’ve tested 100+ over the years to find our favorites.",
+      "url": "https://www.wired.com/story/best-pickleball-paddles/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T10:37:00+00:00"
+    },
+    {
+      "title": "Sooryavanshi becomes youngest captain in men's T20s",
+      "description": "Teenage India sensation Vaibhav Sooryavanshi breaks the record held by Croatia's Zach Vukusic as the youngest captain in top-level men's Twenty20 cricket.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/ckvg2exrj5elo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-14T09:53:45+00:00"
+    },
+    {
+      "title": "Tuchel to remind England of anti-racism protocols before Spain game",
+      "description": "Manager Thomas Tuchel will remind England's players of Uefa's anti-racism protocols before Sunday's Nations League fixture against Spain in Madrid.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c60mdzn2dk1eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-14T09:13:30+00:00"
+    },
+    {
+      "title": "Japan's unlikely leader who turned down the All Blacks",
+      "description": "Warner Dearns did not want to go to Japan as a teenager. Now he is determined to stay and do his adopted country proud.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq74297dvnygo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-14T08:22:15+00:00"
+    },
+    {
+      "title": "Six goals to go - will McGinn catch Dalglish & Law?",
+      "description": "After drawing level with Hughie Gallacher on 24 Scotland goals, will midfielder John McGinn reach Kenny Dalglish and Denis Law's record tally of 30?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cke89156y10zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-14T07:49:46+00:00"
+    },
+    {
+      "title": "England boxer missed Worlds over sex-test mix-up",
+      "description": "George Francis was left “broken” after he was banned from competing at the Under-19 World Championships because his team did not organise a sex verification test to prove he is male.",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/c9ly4lerj8m3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-14T07:43:44+00:00"
+    },
+    {
+      "title": "Warner accuses Cricket Australia of 'cover-up'",
+      "description": "Former vice-captain David Warner accuses Cricket Australia of a \"cover-up\", claiming Australia's bowlers were not interviewed in ball-tampering investigation.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c59vwpv4rxjeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-14T07:20:24+00:00"
+    },
+    {
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-14T06:42:27+00:00"
+    },
+    {
+      "title": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
+      "description": "Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stopThe decision to ground all flights on Friday by the US Federal Aviation Administration (FAA) threw airports and travel plans into chaos across the country, as passengers on planes and in airport ter",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-11-14T02:49:59+00:00"
+    },
+    {
+      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "description": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the stop was issued, officials announced it was lifted at 8:15PM ET and that flights ",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-14T01:53:04+00:00"
+    },
     {
       "title": "Scientists Crack a Decades-Old Mystery That Could Unlock Faster Internet",
       "description": "By untangling how the crystal barium titanate interacts with light, researchers have supplied data that could reduce costly trial and error in designing faster optical communication devices. When light carries data through a communication device, absorption by the materials inside can weaken the sig",
@@ -8,22 +240,6 @@
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-11-14T01:15:58+00:00"
-    },
-    {
-      "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
-      "description": "Transportation secretary said stoppage is due to ‘communication issue’ and homeland security says there’s no indication of ‘nefarious attack’FAA grounds thousands of flights – liveThe Federal Aviation Administration (FAA) issued a nationwide ground stop for all flights in the US on Friday, delaying ",
-      "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-11-14T01:01:12+00:00"
-    },
-    {
-      "title": "Sabalenka's season ended by Svitolina at WTA Finals",
-      "description": "Aryna Sabalenka's season ends in disappointment as Elina Svitolina beats the former world number one to claim her place in the knockout stage at the WTA Finals.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cw30gl912vq9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-14T00:51:25+00:00"
     },
     {
       "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
@@ -50,28 +266,12 @@
       "publishedAt": "2026-11-13T23:49:11+00:00"
     },
     {
-      "title": "FAA ground stop shuts down flights nationwide",
-      "description": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecomm",
-      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T23:47:27+00:00"
-    },
-    {
-      "title": "FAA orders third nationwide ground stop in its history",
-      "description": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
+      "title": "FAA has lifted its third-ever nationwide ground stop",
+      "description": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
       "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-11-13T23:17:38+00:00"
-    },
-    {
-      "title": "France hold nerve to edge past South Africa in thriller",
-      "description": "France hold on to end their five-match losing run against South Africa at Stade de France with an enthralling 21-19 victory in Paris.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-13T23:03:36+00:00"
     },
     {
       "title": "A 6-Million-Year-Old Whale Had a Face So Strange Scientists Thought It Was Crushed",
@@ -90,52 +290,12 @@
       "publishedAt": "2026-11-13T22:53:17+00:00"
     },
     {
-      "title": "Goalkeeper involved in fatal collision gets 12-game ban",
-      "description": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-13T22:37:30+00:00"
-    },
-    {
-      "title": "Best Early Black Friday AirPods Deals (2026)",
-      "description": "Black Friday is still weeks away, but AirPods discounts are dropping early.",
-      "url": "https://www.wired.com/story/best-early-black-friday-airpods-deals-11-13-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T22:30:29+00:00"
-    },
-    {
-      "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
-      "description": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-13T22:11:27+00:00"
-    },
-    {
       "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
       "description": "Cost and access barriers are pushing people to modified use and unapproved versions.",
       "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-11-13T21:59:01+00:00"
-    },
-    {
-      "title": "'Gloves are off' - how Australian papers reacted to Cummins on Khawaja",
-      "description": "The Australian newpapers have their say after Pat Cummins' extraordinary 68-minute news conference.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cq1k97y4e1rxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-13T21:53:37+00:00"
-    },
-    {
-      "title": "FAA Grounds All US Flights Until Further Notice",
-      "description": "The government cited a nationwide communications failure among air traffic control systems as the reason for the sudden grounding on Friday.",
-      "url": "https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T21:42:57+00:00"
     },
     {
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
@@ -146,36 +306,12 @@
       "publishedAt": "2026-11-13T21:20:47+00:00"
     },
     {
-      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-      "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-13T21:14:22+00:00"
-    },
-    {
       "title": "Microsoft outage shakes up companies, schools and local governments across US",
       "description": "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outageMicrosoft outage – live updatesThe Microsoft Outlook outage has shaken up companies and local governments across the US that use its suite of email, calendar, video conferencing and c",
       "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-11-13T21:13:59+00:00"
-    },
-    {
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "description": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T20:45:10+00:00"
-    },
-    {
-      "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-      "description": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and the lowest price we’ve seen on Nothing’s",
-      "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T20:30:00+00:00"
     },
     {
       "title": "CT Scans Reveal the Secret of a Mysterious 400-Year-Old Lock",
@@ -192,22 +328,6 @@
       "source": "Ars Technica",
       "category": "Technology",
       "publishedAt": "2026-11-13T20:03:13+00:00"
-    },
-    {
-      "title": "Atlas Coffee Club’s Black Friday Deals (2026)",
-      "description": "For Black Friday, a new quarterly option delivers three bags at a time, each from a different country.",
-      "url": "https://www.wired.com/story/atlas-coffee-club-black-friday-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T19:58:41+00:00"
-    },
-    {
-      "title": "Early Black Friday Mattress Deals: Get Up to 55% Off WIRED-Tested Favorites",
-      "description": "I’ve already found early deals on our favorite WIRED-tested mattresses and sleep accessories.",
-      "url": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-13-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T19:57:56+00:00"
     },
     {
       "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
@@ -234,60 +354,12 @@
       "publishedAt": "2026-11-13T19:47:18+00:00"
     },
     {
-      "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
-      "description": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your digital copy. We found discounts on gift cards for both Sony PlayStation and Micros",
-      "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T19:14:38+00:00"
-    },
-    {
-      "title": "Ancient Tomb Reveals That People Were Getting High on Cannabis 2,800 Years Ago",
-      "description": "The oldest directly dated evidence of intoxicating cannabis use comes from a Scythian tomb, suggesting the plant’s mind-altering effects had a place in ancient burial rituals. About 1,000 cannabis seeds recovered from a princely tomb in southern Siberia could not, on their own, tell archaeologists w",
-      "url": "https://scitechdaily.com/ancient-tomb-reveals-that-people-were-getting-high-on-cannabis-2800-years-ago/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-13T19:12:17+00:00"
-    },
-    {
-      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
-      "description": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
-      "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T19:08:57+00:00"
-    },
-    {
       "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
       "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
       "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-11-13T18:36:57+00:00"
-    },
-    {
-      "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
-      "description": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice already available from companies like Logitech and Kensingt",
-      "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T18:10:41+00:00"
-    },
-    {
-      "title": "Jensen Huang was reckless with the environment, too",
-      "description": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set th",
-      "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T17:44:22+00:00"
-    },
-    {
-      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "description": "Researcher traces a path from AI reward hacking to potential human extinction.",
-      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T17:25:45+00:00"
     },
     {
       "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
@@ -298,84 +370,12 @@
       "publishedAt": "2026-11-13T17:20:32+00:00"
     },
     {
-      "title": "The Microsoft Outage Is a Warning for the World",
-      "description": "Countless businesses, schools, hospitals, and governments have found out the hard way what it means to rely on a single company’s systems to get things done. And next time could be even worse.",
-      "url": "https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T17:15:54+00:00"
-    },
-    {
-      "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili brawl",
-      "description": "Eight people face prison sentences for their part in mass brawl involving MMA fighters Usman Nurmagomedov and Merab Dvalishvili at a hotel in Abu Dhabi on Wednesday.",
-      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cm3wgpl28yzgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-13T17:15:52+00:00"
-    },
-    {
-      "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
-      "description": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardware. Camp Snap's new CS-8 Micro is even smaller tha",
-      "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T17:12:56+00:00"
-    },
-    {
-      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
-      "description": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
-      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T16:26:32+00:00"
-    },
-    {
-      "title": "Jensen Huang and the End of the Founder Fairy Tale",
-      "description": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
-      "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T16:00:00+00:00"
-    },
-    {
-      "title": "Scientists Warn of a Disturbing Rise in Vitamin K Deficiency Among American Newborns",
-      "description": "Only about one in five infants diagnosed with vitamin K-related bleeding had received the shot, U.S. health records show. Babies are born with little vitamin K, leaving them vulnerable to bleeding that can cause permanent brain damage or death. A single shot helps protect against that danger. The Am",
-      "url": "https://scitechdaily.com/scientists-warn-of-a-disturbing-rise-in-vitamin-k-deficiency-among-american-newborns/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-13T15:58:10+00:00"
-    },
-    {
-      "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
-      "description": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-13T15:28:06+00:00"
-    },
-    {
-      "title": "Blood Vessel Function Improved Just 60 Minutes After Taking This Anti-Aging Supplement",
-      "description": "Blood vessel function improved within an hour of a supplement’s first dose in a small human trial, though lasting protection against cardiovascular disease remains unproven. What if protecting the heart and blood vessels requires more than treating traditional risk factors such as high blood pressur",
-      "url": "https://scitechdaily.com/blood-vessel-function-improved-just-60-minutes-after-taking-this-anti-aging-supplement/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-13T15:23:06+00:00"
-    },
-    {
       "title": "NHS, schools and police forces hit by Microsoft outage",
       "description": "Major airports and intelligence services are unaffected, while the government is still assessing the impact.",
       "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-11-13T13:41:25+00:00"
-    },
-    {
-      "title": "3 Best Walking Pad Treadmills for Homes and Offices (2026)",
-      "description": "Our team clocked serious hours walking, working, and sometimes jogging to find the best under-desk treadmills for home offices and small spaces.",
-      "url": "https://www.wired.com/story/best-walking-pads/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-13T12:34:00+00:00"
     },
     {
       "title": "How a sex scandal at Nvidia is putting pressure on the White House",
@@ -432,14 +432,6 @@
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-11-13T00:13:35+00:00"
-    },
-    {
-      "title": "College students rally in support of Starbucks baristas urging boycott over contract negotiations",
-      "description": "Rallies are planned at more than US 40 campuses as workers seeking better pay and conditions decry stalled talksStarbucks baristas, students, elected officials and allies are planning rallies at over 40 college campuses across the US on Thursday to support the Starbucks Workers United boycott campai",
-      "url": "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-11-12T11:00:48+00:00"
     }
   ]
 }
