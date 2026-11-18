@@ -1,29 +1,333 @@
 {
-  "updatedAt": "2026-11-17T17:57:08.229446+00:00",
+  "updatedAt": "2026-11-18T02:43:37.056279+00:00",
   "articles": [
     {
-      "title": "YouTube found a new way to inflate view counts",
-      "description": "YouTube's view counts will now include the number of people that it estimates are watching a video together on TV. In an update on Monday, the platform says it's bringing \"co-views\" to public view counts across long-form videos, Shorts, and live content to provide a more \"complete picture\" of how pe",
-      "url": "https://www.theverge.com/streaming/1035683/youtube-co-views-count",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-17T17:50:22+00:00"
+      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+      "description": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-18T02:40:45+00:00"
     },
     {
-      "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+      "title": "For the First Time, Scientists Capture Molecular-Scale Images of the Poles of Bacteria",
+      "description": "Scientists have captured the first molecular-resolution images of the ends of rod-shaped bacteria, revealing previously unseen structural features. Scientists have captured the ends of living, rod-shaped bacteria at molecular resolution for the first time, exposing surface structures that were previ",
+      "url": "https://scitechdaily.com/for-the-first-time-scientists-capture-molecular-scale-images-of-the-poles-of-bacteria/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-18T01:34:38+00:00"
+    },
+    {
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-18T01:18:18+00:00"
+    },
+    {
+      "title": "Voy at-home test kit adverts banned over low testosterone claims",
+      "description": "The Advertising Standards Authority says the adverts by online healthcare provider Voy made misleading claims.",
+      "url": "https://www.bbc.co.uk/news/articles/c6pw42ldpgn1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Science",
+      "publishedAt": "2026-11-18T01:11:07+00:00"
+    },
+    {
+      "title": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
+      "description": "US Senators Josh Hawley and Dick Durbin have introduced legislation to make it easier for families to sue if their child has been harmed through the massive gaming platform.",
+      "url": "https://www.wired.com/story/the-predators-are-real-senate-hearing-slams-roblox-over-child-sex-abuse/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-18T00:32:39+00:00"
+    },
+    {
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "description": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-18T00:27:29+00:00"
+    },
+    {
+      "title": "A Simple Cable Reveals Hidden Cracks That Could Weaken Glaciers From Within",
+      "description": "A single fiber-optic cable can turn a glacier’s faint vibrations into a map of its inner structure, helping scientists assess how likely it is to break apart. Cracks hidden inside glaciers can play a critical role in their collapse. Meltwater can drive these fractures deeper into the ice, weakening ",
+      "url": "https://scitechdaily.com/a-simple-cable-reveals-hidden-cracks-that-could-weaken-glaciers-from-within/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-18T00:23:42+00:00"
+    },
+    {
+      "title": "Europe plans to catch the next computer chip wave",
+      "description": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-18T00:00:24+00:00"
+    },
+    {
+      "title": "Belief and bench help Northern Ireland scale new heights as promotion secured",
+      "description": "Manager Michael O'Neill hails the belief shown by his side after they come from behind against Hungary to earn the draw required for promotion to Nations League A.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-17T23:49:31+00:00"
+    },
+    {
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "description": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI",
+      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-17T23:41:18+00:00"
+    },
+    {
+      "title": "Bellamy convinced of Wales credentials despite defeat by Portugal",
+      "description": "Wales finished bottom of their Nations League group, but boss Craig Bellamy believes his team showed they belong in the top flight.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-17T23:37:45+00:00"
+    },
+    {
+      "title": "Review: Nubia Redmagic 12 Pro | Camera",
+      "description": "Review: Nubia Redmagic 12 Pro | Camera",
+      "url": "https://www.wired.com/gallery/review-nubia-redmagic-12-pro-or-camera/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-17T23:34:44+00:00"
+    },
+    {
+      "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+      "description": "Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spyNvidia “does not intend to reinstate Jensen as CEO”, the chairman of the company’s board said Tuesday. Harvey Jones made the remark during Nvidia’s first quarterly earnings report since Jens",
+      "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-11-17T23:32:16+00:00"
+    },
+    {
+      "title": "Scientists Discover Alarming Signs of Extinction Risk Deep Beneath the Ocean",
+      "description": "A changing ocean presents threats that population counts alone may not reveal, and genetic evidence from the Gulf suggests some deep-sea species are already vulnerable. The deep ocean may no longer be the safe haven scientists once believed it was. Hundreds of meters beneath the Gulf&#8217;s surface",
+      "url": "https://scitechdaily.com/scientists-discover-alarming-signs-of-extinction-risk-deep-beneath-the-ocean/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-17T23:12:41+00:00"
+    },
+    {
+      "title": "San Diego dumps both Flock cameras and smart streetlights",
+      "description": "500+ cameras will go dark just 3 years after mayor urged approval.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-17T23:09:09+00:00"
+    },
+    {
+      "title": "Best Early Amazon Black Friday Deals (2026)",
+      "description": "For die-hard Amazon shoppers, the retail giant starts Black Friday deals on November 19. But you can already stock up on early deals now.",
+      "url": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-17T22:57:54+00:00"
+    },
+    {
+      "title": "Humphries and Van Gerwen into Grand Slam knockouts",
+      "description": "Luke Humphries and Michael van Gerwen book their places in the last 16 of the Grand Slam of Darts with victories in their final group matches.",
+      "url": "https://www.bbc.co.uk/sport/darts/articles/c6jd7el8d9kyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-17T22:57:02+00:00"
+    },
+    {
+      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+      "description": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
+      "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-17T22:44:46+00:00"
+    },
+    {
+      "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
+      "description": "Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff Bezos played a significant role in making the final decision, too. During Semafor's Silico",
+      "url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-17T22:38:41+00:00"
+    },
+    {
+      "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
+      "description": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with form",
+      "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-17T22:32:50+00:00"
+    },
+    {
+      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "description": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-17T22:32:16+00:00"
+    },
+    {
+      "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
+      "description": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a smart speaker. The reality was much different and by",
+      "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-17T22:25:41+00:00"
+    },
+    {
+      "title": "Nvidia’s Board Has No Plans to Bring Back Jensen Huang",
+      "description": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
+      "url": "https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-17T22:19:19+00:00"
+    },
+    {
+      "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
+      "description": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.\" Jones added, \"We will not be addressing or taking questions on t",
+      "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-17T22:05:05+00:00"
+    },
+    {
+      "title": "The MacBook Neo is receiving a rare $50 discount ahead of Black Friday",
+      "description": "If you’re looking for a new laptop or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $649 (Amazon, Best Buy, Target), while the 512GB model with Touch ID is [&#8230;]",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-17T21:46:20+00:00"
+    },
+    {
+      "title": "Judge extends deadline for Trump’s deposition in $10bn BBC lawsuit",
+      "description": "President, who had agreed to sit for deposition in October but backed out, must now appear by 22 JanuaryDonald Trump has been granted a temporary delay before he must give a witness statement in his $10bn defamation lawsuit against the BBC.In late October, Enjoliqué Lett, a federal magistrate judge,",
+      "url": "https://www.theguardian.com/us-news/2026/nov/17/trump-bbc-deposition-delay",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-11-17T21:45:58+00:00"
+    },
+    {
+      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "description": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying ",
+      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-17T21:40:59+00:00"
+    },
+    {
+      "title": "Nike’s new air sole technology can mix soft and firm cushioning",
+      "description": "In 2024, Nike announced its Air Max 1000 that were manufactured using a 3D-printing process resulting in a shoe that had a uniform silhouette but varying areas of support and flexibility throughout. The company is now doing something similar with its iconic air-filled soles using its new Tuned Air t",
+      "url": "https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-17T21:38:08+00:00"
+    },
+    {
+      "title": "A Common Gut Antibody May Be the Key to Preventing Colon Cancer Before It Starts",
+      "description": "People who lack a common gut antibody face higher colorectal cancer risk, and experiments in mice are beginning to explain how that missing protection may matter. Long before colon cancer develops, cells lining the intestine can begin dividing too quickly. Scientists at Rockefeller University have d",
+      "url": "https://scitechdaily.com/a-common-gut-antibody-may-be-the-key-to-preventing-colon-cancer-before-it-starts/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-17T20:52:05+00:00"
+    },
+    {
+      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+      "description": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-17T20:32:55+00:00"
+    },
+    {
+      "title": "A Five-Day Experiment Reveals a Surprising Secret of Deadly Brain Cancer",
+      "description": "Researchers tracking glioblastoma cells in living mouse brain tissue discovered how quickly they can change their paths, revealing a hidden challenge in stopping this aggressive brain cancer. Glioblastoma is one of the most aggressive forms of brain cancer, largely because its cells can spread deep ",
+      "url": "https://scitechdaily.com/a-five-day-experiment-reveals-a-surprising-secret-of-deadly-brain-cancer/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-17T20:27:37+00:00"
+    },
+    {
+      "title": "Speed camera fault may have allowed drivers to escape fines",
+      "description": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-17T20:04:54+00:00"
+    },
+    {
+      "title": "Civilization studio Firaxis Games lays off a third of staff",
+      "description": "Studio head Heather Hazen is among those departing.",
+      "url": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-17T19:45:25+00:00"
+    },
+    {
+      "title": "How to Tell If It’s a Cyberattack or Just an Outage",
+      "description": "Email, flights, banks; network failures are piling up. Here’s how WIRED investigates if they’re the result of hacker mayhem. (Hint: usually not.)",
+      "url": "https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-17T19:40:57+00:00"
+    },
+    {
+      "title": "Waymo Pauses All Highway Rides After California Safety Ban",
+      "description": "California’s DMV banned Waymo’s self-driving cars from freeways after determining that they pose “an imminent hazard to public safety.”",
+      "url": "https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-17T19:38:08+00:00"
+    },
+    {
+      "title": "Scientists Discover a Disturbing Link Between Cannabis Use and Earlier Psychosis",
+      "description": "In studies where psychosis typically emerged at age 30 or later, cannabis users experienced it more than six years earlier, raising questions about cannabis use throughout adulthood. Most discussions about cannabis and mental health focus on teenagers, but new research suggests the conversation shou",
+      "url": "https://scitechdaily.com/scientists-discover-a-disturbing-link-between-cannabis-use-and-earlier-psychosis/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-17T19:17:53+00:00"
+    },
+    {
+      "title": "Government backs welfare shake-up to prevent 'lost generation'",
+      "description": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+      "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-17T18:43:05+00:00"
+    },
+    {
+      "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
+      "description": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”",
+      "url": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-17T18:26:26+00:00"
+    },
+    {
+      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
       "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
       "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "publishedAt": "2026-11-17T17:42:26+00:00"
+      "publishedAt": "2026-11-17T18:24:21+00:00"
     },
     {
-      "title": "The iPhone Duo feels far more intuitive with Apple’s new face unlock",
-      "description": "Apple is testing adding face unlock to the iPhone Duo - not true Face ID, but something a little simpler and less secure. So far, it works great, and even with a few Apple-imposed security limitations, it makes the Duo quicker and more comfortable to use than relying on Touch ID every time. That's o",
-      "url": "https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on",
-      "source": "The Verge",
+      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+      "description": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+      "source": "Ars Technica",
       "category": "Technology",
-      "publishedAt": "2026-11-17T17:41:22+00:00"
+      "publishedAt": "2026-11-17T18:13:34+00:00"
+    },
+    {
+      "title": "The Nvidia Scandal Could Upend Chip Sales to China. Trump Wants to Keep Them Going",
+      "description": "Commerce secretary Howard Lutnick has been under attack for not blacklisting a company caught up in the Jensen Huang scandal. But Trump is on board with the policy.",
+      "url": "https://www.wired.com/story/the-nvidia-scandal-is-about-chip-sales-to-china-trump-wants-to-keep-them-going/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-17T18:03:32+00:00"
     },
     {
       "title": "Arsenal Double winner Storey dies aged 81",
@@ -42,60 +346,12 @@
       "publishedAt": "2026-11-17T17:32:24+00:00"
     },
     {
-      "title": "Inside Microsoft’s giant Outlook outage",
-      "description": "At 9AM last Thursday, everything seemed normal. Microsoft employees were arriving on campus, ready for a regular day of emails and meetings. But barely an hour later, one of Microsoft's worst outages in history started to unfold, leaving employees, businesses, and many governments without access to ",
-      "url": "https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-17T17:00:00+00:00"
-    },
-    {
-      "title": "VSCO Is Gunning for Adobe Lightroom With Its New Desktop App",
-      "description": "The new Studio Pro Desktop app for macOS delivers fast batch editing, RAW support, and more than 200 presets, though a few pro tools are still missing.",
-      "url": "https://www.wired.com/story/vsco-is-gunning-for-adobe-lightroom-with-its-new-desktop-app/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-17T17:00:00+00:00"
-    },
-    {
-      "title": "Markets drop ahead of Nvidia’s results; Jensen Huang says he’d be ‘honoured’ to return as CEO – as it happened",
-      "description": "Rolling coverage of the latest economic and financial newsJensen Huang says he would be ‘honored’ to return to Nvidia as CEOJensen Huang’s departure as Nvidia CEO becomes a political proxy warChina has threatened to retaliate against the US after Washington tightened restrictions on remote access to",
-      "url": "https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates",
+      "title": "People in the US: how are you celebrating Thanksgiving this year amid rising costs in the US?",
+      "description": "Are you hosting or attending the holiday differently than years past? What are you cutting back on?Thanksgiving is fast approaching, when people traditionally get together to celebrate with family and friends on this US federal holiday.Many Americans who usually host the holiday say they are pulling",
+      "url": "https://www.theguardian.com/us-news/2026/nov/17/americans-celebrating-thanksgiving-costs-callout",
       "source": "The Guardian",
       "category": "Business",
-      "publishedAt": "2026-11-17T16:54:21+00:00"
-    },
-    {
-      "title": "Google makes it easier to use Gemini without training AI on your data",
-      "description": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
-      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-17T16:50:10+00:00"
-    },
-    {
-      "title": "The DOJ says it’s investigating Megaspeed",
-      "description": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing inv",
-      "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-17T16:19:03+00:00"
-    },
-    {
-      "title": "Banning phones really does help kids learn, researchers say",
-      "description": "A new nationwide study found that in-school cellphone bans can lead to modest improvements in learning. Now, researchers want to understand whether kids' phone use outside the classroom might contribute to the rest of students' learning loss - using the conditions of Meta's multibillion-dollar settl",
-      "url": "https://www.theverge.com/policy/1035401/school-cell-phone-ban-study-meta-settlement",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-17T16:13:18+00:00"
-    },
-    {
-      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
-      "description": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business par",
-      "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-17T16:09:57+00:00"
+      "publishedAt": "2026-11-17T17:04:50+00:00"
     },
     {
       "title": "South Africa head coach Erasmus banned for six matches",
@@ -112,22 +368,6 @@
       "source": "SciTechDaily",
       "category": "Science",
       "publishedAt": "2026-11-17T16:08:05+00:00"
-    },
-    {
-      "title": "You can now preorder the Flipper One that puts a Linux computer in your pocket",
-      "description": "After first announcing its Flipper One last May, which the company describes as an \"open Linux multi-tool built for high-performance computing and IP networking,\" Flipper Devices has launched a Kickstarter crowdfunding campaign where you can preorder the device for $399 with shipping expected to sta",
-      "url": "https://www.theverge.com/tech/1034392/flipper-devices-one-zero-pocket-linux-computer-multi-tool-preorder-kickstarte",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-17T16:00:00+00:00"
-    },
-    {
-      "title": "Scoop up three great 4K Blu-ray movies for $33",
-      "description": "Gruv always keeps its proverbial fire hose of deals on movies running with a steady stream throughout the year, but the online seller operated by Universal Pictures is really letting it rip now ahead of Black Friday. The site has a page filled with 4K Blu-rays eligible for a “three for $33” promotio",
-      "url": "https://www.theverge.com/gadgets/1034571/gruv-4k-blu-ray-movies-black-friday-deal-sale",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-17T16:00:00+00:00"
     },
     {
       "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
@@ -162,76 +402,12 @@
       "publishedAt": "2026-11-17T15:33:06+00:00"
     },
     {
-      "title": "House Democrats promise a US return to global climate talks",
-      "description": "A new House majority can push climate policy, but a full US return remains uncertain.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-17T15:32:43+00:00"
-    },
-    {
-      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
-      "description": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
-      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-17T15:28:59+00:00"
-    },
-    {
-      "title": "Speed camera fault may have allowed drivers to escape fines",
-      "description": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-17T15:08:48+00:00"
-    },
-    {
-      "title": "Scientists Discover Two Monster Black Holes at the Dawn of Time That Shouldn’t Exist",
-      "description": "A rare cosmic discovery offers new clues about how early galaxy interactions may have fueled the rapid growth of supermassive black holes. Astronomers have discovered two enormous black holes shining as quasars just 900 million years after the Big Bang, challenging theories of how supermassive black",
-      "url": "https://scitechdaily.com/scientists-discover-two-monster-black-holes-at-the-dawn-of-time-that-shouldnt-exist/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-17T14:58:00+00:00"
-    },
-    {
-      "title": "How new US chip restrictions on South East Asia will hit China",
-      "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-17T14:25:45+00:00"
-    },
-    {
       "title": "Rooney says he considered taking his own life at Man Utd",
       "description": "Wayne Rooney says he considered taking his own life during his playing days at Manchester United and was \"speaking to a therapist to try and figure out what was up\".",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "category": "Sports",
       "publishedAt": "2026-11-17T14:09:19+00:00"
-    },
-    {
-      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-      "description": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-17T14:00:29+00:00"
-    },
-    {
-      "title": "Xreal Aura Review: Stunning Screens, Frustrating Controls",
-      "description": "Xreal’s Aura glasses are much comfier than a bulky VR headset. I just wish they weren’t so frustrating to control.",
-      "url": "https://www.wired.com/review/xreal-aura/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-17T14:00:00+00:00"
-    },
-    {
-      "title": "DeChambeau joins DP World Tour after LIV Golf collapse",
-      "description": "American superstar Bryson DeChambeau is among a number of former LIV players who will play on the European-based DP World Tour next season.",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/c5vg27yzm9exo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-17T13:44:17+00:00"
     },
     {
       "title": "Deutsche Bank dismissed warnings about dealings with risky clients, reports claim",
@@ -242,60 +418,12 @@
       "publishedAt": "2026-11-17T13:35:39+00:00"
     },
     {
-      "title": "Bethell to have more surgery and miss South Africa tour",
-      "description": "Jacob Bethell will miss England’s Test tour of South Africa because he requires more surgery on the knee injury that has kept him out since July.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c893rgz2946yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-17T13:18:58+00:00"
-    },
-    {
-      "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
-      "description": "I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.",
-      "url": "https://www.wired.com/story/best-laptops/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-17T13:00:00+00:00"
-    },
-    {
-      "title": "Government must act now or lose Royal Mail, former minister warns",
-      "description": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
-      "url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-17T12:43:07+00:00"
-    },
-    {
       "title": "Where are the most jobs for 18-24 year-olds?",
       "description": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
       "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-11-17T12:35:53+00:00"
-    },
-    {
-      "title": "Scientists Discover a Powerful New Way To Kill Prostate Cancer Cells",
-      "description": "Even prostate tumors resistant to standard treatments responded to an experimental molecule in animal studies, raising the possibility of a different approach to advanced disease. Most cancer drugs work by blocking proteins or signaling pathways that help tumors grow. Researchers at the University o",
-      "url": "https://scitechdaily.com/scientists-discover-a-powerful-new-way-to-kill-prostate-cancer-cells/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-17T12:32:59+00:00"
-    },
-    {
-      "title": "Artist brings old Space Shuttle tank back to life",
-      "description": "\"It's definitely the largest art project I've ever worked on.\"",
-      "url": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-17T12:15:54+00:00"
-    },
-    {
-      "title": "FDA Approves Breakthrough Treatment That Helps Children With Type 1 Diabetes Keep Producing Insulin",
-      "description": "For children with type 1 diabetes, managing blood sugar is a lifelong challenge, but a newly approved treatment offers hope of preserving their body&#8217;s ability to produce insulin. For children newly diagnosed with type 1 diabetes, insulin is essential for controlling blood sugar, but it cannot ",
-      "url": "https://scitechdaily.com/fda-approves-breakthrough-treatment-that-helps-children-with-type-1-diabetes-keep-producing-insulin/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-17T12:07:11+00:00"
     },
     {
       "title": "NHS data contract to stay with Palantir until 2029",
@@ -306,54 +434,6 @@
       "publishedAt": "2026-11-17T12:00:12+00:00"
     },
     {
-      "title": "Capillus HairBand Review: Good Looks, Awkward Fit",
-      "description": "The Capillus HairBand’s small size is both its biggest attraction and one of its biggest drawbacks.",
-      "url": "https://www.wired.com/review/capillus-hairband/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-17T12:00:00+00:00"
-    },
-    {
-      "title": "Not All Physical Activity Protects Your Brain, Scientists Warn",
-      "description": "Across 30 countries, researchers found that exercising during free time was linked to lower dementia risk, while physically demanding work was linked to higher risk. After spending an entire day on your feet, going for a walk or bike ride might seem unnecessary. Yet new research suggests that being ",
-      "url": "https://scitechdaily.com/not-all-physical-activity-protects-your-brain-scientists-warn/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-17T11:22:21+00:00"
-    },
-    {
-      "title": "US government confirms investigation into tech firm Megaspeed",
-      "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-17T11:17:32+00:00"
-    },
-    {
-      "title": "Congratulations to WIRED’s Class of 2026",
-      "description": "This past year was, frankly, crazy. For our inaugural WIRED Yearbook, we celebrate the people, inventions, and viral moments that made it a little more bearable—and are already defining the future.",
-      "url": "https://www.wired.com/story/wired-yearbook-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-17T11:00:00+00:00"
-    },
-    {
-      "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
-      "description": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
-      "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-17T11:00:00+00:00"
-    },
-    {
-      "title": "The Dark Side of the Moon Was the Brightest Part of 2026",
-      "description": "Through personality clashes, blaring smoke detectors, and a broken pee vent, the Artemis II astronauts made history—and bonded for life.",
-      "url": "https://www.wired.com/story/wired-yearbook-2026-artemis-crew/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-17T11:00:00+00:00"
-    },
-    {
       "title": "Cass report author tells BBC draft conversion practices bill is not workable",
       "description": "The gender care review author says the bill’s wording risks \"serious unintended consequences\" for parents and therapists.",
       "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
@@ -362,76 +442,12 @@
       "publishedAt": "2026-11-17T10:36:21+00:00"
     },
     {
-      "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
-      "description": "Uefa has finally identified a candidate next year's Fifa presidential election, but can anyone stop Gianni Infantino from winning?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-17T10:32:07+00:00"
-    },
-    {
       "title": "United Airlines says ‘widespread’ system outage resolved",
       "description": "Airline acknowledges ‘technology issue that delayed flight departures’ in latest high-profile outage to affect AmericansUnited ⁠Airlines said on ⁠Monday ⁠that it had resolved ⁠a widespread system ⁠outage, just three days after the Federal ⁠Aviation Administration issued a rare nationwide ground stop",
       "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-11-17T02:57:06+00:00"
-    },
-    {
-      "title": "Arctic Bacteria May Be Using Sunlight and CO2 in a Way Scientists Never Expected",
-      "description": "An Arctic bacterium&#8217;s genes hint at an unexpected way of using carbon dioxide, raising the possibility that similar survival strategies exist in oceans far beyond the polar regions. In the Arctic Ocean, where nutrients and usable organic matter can be scarce, a tiny bacterium may have found a ",
-      "url": "https://scitechdaily.com/arctic-bacteria-may-be-using-sunlight-and-co2-in-a-way-scientists-never-expected/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-17T01:35:30+00:00"
-    },
-    {
-      "title": "Earth’s Ancient Oceans May Have Fooled Scientists About the Rise of Oxygen",
-      "description": "Some of Earth&#8217;s best-known oxygen milestones may belong to the oceans, not the atmosphere, reshaping our understanding of the conditions that allowed complex life to evolve. For billions of years, Earth had almost no oxygen in its atmosphere, making it a vastly different world from the one tha",
-      "url": "https://scitechdaily.com/earths-ancient-oceans-may-have-fooled-scientists-about-the-rise-of-oxygen/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-17T00:24:35+00:00"
-    },
-    {
-      "title": "We couldn't afford a house alone, so we bought one with strangers",
-      "description": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
-      "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-17T00:00:02+00:00"
-    },
-    {
-      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-      "description": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
-      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-16T22:58:27+00:00"
-    },
-    {
-      "title": "Customers report difficulty accessing online services at major US banks",
-      "description": "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issuesCustomers reported service outages and difficulty accessing their online accounts at several major US banks and the money transfer service Zelle on Monday after a technical issue at JPMorgan",
-      "url": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-11-16T22:01:40+00:00"
-    },
-    {
-      "title": "Three small failures combined to take down Microsoft 365",
-      "description": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-16T21:56:39+00:00"
-    },
-    {
-      "title": "Hyperscale data centers use 2% of US electricity",
-      "description": "Study attempts to tally hyperscalers’ energy use and emissions.",
-      "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-16T20:52:10+00:00"
     },
     {
       "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
@@ -464,22 +480,6 @@
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-11-16T11:00:58+00:00"
-    },
-    {
-      "title": "Cancer 'sponge' tests could be offered to more people with bad indigestion",
-      "description": "The \"sponge on a string\" tests can be done in GP surgeries, rather than hospitals, unlike endoscopy checks that use a small camera.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y13q0gx97o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-11-16T00:47:04+00:00"
-    },
-    {
-      "title": "Tories pledge to halt screen-based school exams and cut coursework",
-      "description": "The party says its proposals for England aim to address excessive screen time and over-reliance on AI.",
-      "url": "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Health",
-      "category": "Science",
-      "publishedAt": "2026-11-15T22:00:37+00:00"
     }
   ]
 }
