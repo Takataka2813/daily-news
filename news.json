@@ -1,13 +1,381 @@
 {
-  "updatedAt": "2026-11-25T03:56:35.942315+00:00",
+  "updatedAt": "2026-11-25T18:52:18.427756+00:00",
   "articles": [
     {
-      "title": "US attorney general dodges questions about Nvidia investigation",
-      "description": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "description": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T18:38:29+00:00"
+    },
+    {
+      "title": "The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It",
+      "description": "Early results indicate minimal signs of lead in the environment, though it will take days for more rigorous testing.",
+      "url": "https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T18:38:12+00:00"
+    },
+    {
+      "title": "Glasner criticises Forest players yet to learn English",
+      "description": "Nottingham Forest manager Oliver Glasner has questioned why some of his squad cannot speak English after being in the country for a number of years.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T18:32:55+00:00"
+    },
+    {
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "description": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
-      "publishedAt": "2026-11-25T03:44:07+00:00"
+      "publishedAt": "2026-11-25T18:29:42+00:00"
+    },
+    {
+      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+      "description": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T18:22:38+00:00"
+    },
+    {
+      "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
+      "description": "Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, especially now that it&#8217;s dropped to a new low of $552.49 (about $98 off) at ",
+      "url": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T18:00:00+00:00"
+    },
+    {
+      "title": "The loneliest peptide party in New York",
+      "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On a rainy fall evening, an experimental art venue in Chelsea Market had a small lin",
+      "url": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T18:00:00+00:00"
+    },
+    {
+      "title": "US stocks fall further as fears over AI intensify",
+      "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-25T17:48:09+00:00"
+    },
+    {
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "description": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, t",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T17:44:51+00:00"
+    },
+    {
+      "title": "Williams exceeded F1 cost cap by £627,000",
+      "description": "Williams \"unintentially\" broke Formula 1's cost cap during the 2025 season, governing body the FIA finds.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cxj05mv79z0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T17:37:34+00:00"
+    },
+    {
+      "title": "O'Sullivan continues poor form with Drago loss",
+      "description": "Ronnie O'Sullivan's poor form continues with a 5-3 loss to 61-year-old Tony Drago at the Snooker 900 Crucible Cup.",
+      "url": "https://www.bbc.co.uk/sport/snooker/articles/cw1l0j9zqddjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T17:36:51+00:00"
+    },
+    {
+      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+      "description": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
+      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T17:33:30+00:00"
+    },
+    {
+      "title": "'It was ruthless'- GB's Patten on ending top-ranked partnership with Heliovaara",
+      "description": "Britain's Henry Patten agrees he was \"ruthless\" in splitting with doubles partner and close friend Harri Heliovaara, just days after they received the year-end world number one trophy.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cwm25m10ng20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T17:30:41+00:00"
+    },
+    {
+      "title": "US proposes new tariffs on 14 trading partners, including China, Japan and the EU – as it happened",
+      "description": "New tariffs planned as Trump administration clamps down on ‘unfair trade practices’Hannah Webster, senior economist at the think tank New Economics Foundation, also called for other measures.The price cap increase will be difficult news for households to bear, especially during the winter when our e",
+      "url": "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-11-25T17:19:11+00:00"
+    },
+    {
+      "title": "Etsy clarifies AI terms after seller backlash",
+      "description": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
+      "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T17:12:57+00:00"
+    },
+    {
+      "title": "What's gone wrong at Poundland?",
+      "description": "Poundland has collapse into administration. Why?",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-25T17:00:32+00:00"
+    },
+    {
+      "title": "The Verge’s guide to the best gifts under $100",
+      "description": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to leave you with lingering guilt or lead to insurmountable debt. As reviewers, [&#82",
+      "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T17:00:00+00:00"
+    },
+    {
+      "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+      "description": "Militaries have many reasons to target data centers and the cloud in wartime.",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T16:47:14+00:00"
+    },
+    {
+      "title": "'Best midfielder in the world' - where does Bellingham rank?",
+      "description": "Jose Mourinho called Real Madrid's Jude Bellingham \"the best midfielder in the world\", but where would you rank him?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T16:46:36+00:00"
+    },
+    {
+      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+      "description": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+      "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-25T16:42:11+00:00"
+    },
+    {
+      "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
+      "description": "Huawei didn’t try very hard to hide thefts of US trade secrets, DOJ says.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T16:33:45+00:00"
+    },
+    {
+      "title": "Confusion and anger - Yoro red card rescinded, but row goes on",
+      "description": "Leny Yoro's red card against Liverpool has prompted an unseemly difference of opinion between Man Utd and Pro Ref.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvze7y6n2redo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T16:28:10+00:00"
+    },
+    {
+      "title": "Earth’s Lakes Are Changing in Unison – and Scientists Are Worried",
+      "description": "Lakes play an important role in regulating Earth’s carbon cycle, and scientists warn that environmental changes occurring across many lakes at once could amplify global climate risks. Lakes around the world are increasingly changing in step, a trend that could weaken a natural buffer against environ",
+      "url": "https://scitechdaily.com/earths-lakes-are-changing-in-unison-and-scientists-are-worried/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-25T16:25:05+00:00"
+    },
+    {
+      "title": "Greatest catch ever? Man on motorbike takes incredible grab",
+      "description": "A passenger on a motorbike pulled off a remarkable one-handed catch after the ball was hit out of the ground for six in the Swat Premier League in Pakistan.",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T16:23:03+00:00"
+    },
+    {
+      "title": "US announces new tariffs on host of countries including China",
+      "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-25T16:21:34+00:00"
+    },
+    {
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "description": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes ",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T16:00:59+00:00"
+    },
+    {
+      "title": "Fisilau starts as England change five for All Blacks rematch",
+      "description": "Exeter back row Greg Fisilau will make his first England start in one of five changes to their XV to face New Zealand on Saturday.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cv8e04gj2wwwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "category": "Sports",
+      "publishedAt": "2026-11-25T16:00:50+00:00"
+    },
+    {
+      "title": "America’s Data Centers Have a Hidden Death Toll, MIT Researchers Warn",
+      "description": "An MIT analysis estimates that powering America&#8217;s data centers contributed to hundreds of premature deaths in a single year, with rural populations facing greater risks than city dwellers. As artificial intelligence drives the rapid construction of data centers across the United States, concer",
+      "url": "https://scitechdaily.com/americas-data-centers-have-a-hidden-death-toll-mit-researchers-warn/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-25T15:50:07+00:00"
+    },
+    {
+      "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
+      "description": "Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meetingThe sell-off in the US stock market continued Wednesday as investors reacted to continued concern over the AI trade and fresh data that showed inflation jumped in October.The tech-heavy Nasd",
+      "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+      "source": "The Guardian",
+      "category": "Business",
+      "publishedAt": "2026-11-25T15:46:15+00:00"
+    },
+    {
+      "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+      "description": "Prior modeling estimated the plume would cover hundreds of square miles.",
+      "url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T15:35:17+00:00"
+    },
+    {
+      "title": "Security Footage Catches Two Zoo Gorillas Forming a “Living Ladder” To Outsmart an Electric Fence",
+      "description": "Two zoo gorillas repeatedly teamed up for food despite rarely spending time together, showing that a shared effort does not always end with a shared meal. A leafy branch was out of reach for two gorillas at the Ramat Gan Safari, and an electric barrier around the trunk blocked a direct climb. The fe",
+      "url": "https://scitechdaily.com/security-footage-catches-two-zoo-gorillas-forming-a-living-ladder-to-outsmart-an-electric-fence/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-25T15:15:10+00:00"
+    },
+    {
+      "title": "The 30 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
+      "description": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
+      "url": "https://www.wired.com/story/best-black-friday-deals-11-25-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T15:03:16+00:00"
+    },
+    {
+      "title": "The Verge’s guide to affordable holiday gifts under $25",
+      "description": "Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the best items out there, and we're pretty happy with what we came up with. For this list, we've rounded up a barrage of fun gadgets a",
+      "url": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T15:00:00+00:00"
+    },
+    {
+      "title": "A familiar Iranian hacking group has found a new way to cause chaos",
+      "description": "France blames an Iranian cyber unit for sabotaging hundreds of supermarket freezers.",
+      "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
+      "source": "Ars Technica",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T14:29:43+00:00"
+    },
+    {
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "description": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's a",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T14:12:33+00:00"
+    },
+    {
+      "title": "Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday",
+      "description": "Unsurprisingly, we’re already seeing some solid Black Friday deals on a wide variety of e-readers. Everything from the Kobo Libra Colour to last-gen Kindle Paperwhite is on sale, but if you’re looking for something much cheaper — or considerably smaller — the Xteink X4 Classic is in a league of its ",
+      "url": "https://www.theverge.com/gadgets/1040178/xteink-x4-classic-e-reader-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T14:00:00+00:00"
+    },
+    {
+      "title": "Energy bills to rise by 26% from January after gas prices surge",
+      "description": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
+      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-25T13:42:08+00:00"
+    },
+    {
+      "title": "New Discovery Could Transform How We Treat Chronic Back Pain",
+      "description": "Restoring a protein that declines in aging spinal discs reduced DNA damage in human cells in the lab, revealing a potential new target for back pain treatments. For people living with persistent back pain, everyday activities such as walking, bending, or even sitting comfortably can become difficult",
+      "url": "https://scitechdaily.com/new-discovery-could-transform-how-we-treat-chronic-back-pain/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-25T12:02:23+00:00"
+    },
+    {
+      "title": "How Jump-Roping Toy Soldiers Accidentally Took Over Your FYP",
+      "description": "The holiday theme park performers started posting their own AI fan videos as an inside joke. They didn’t expect it to actually catch on.",
+      "url": "https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T12:00:00+00:00"
+    },
+    {
+      "title": "The 36 Best Gifts for Dads (2026)",
+      "description": "Dads are typically tough to shop for. Let me help with these WIRED-tested gift ideas.",
+      "url": "https://www.wired.com/story/best-gifts-for-dads-2026/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T11:49:00+00:00"
+    },
+    {
+      "title": "The Best TVs We’ve Tested (2026): Samsung, LG, TCL, Sony, and More.",
+      "description": "Affordable QLEDs, glorious RGB, premium OLEDs—these are our favorite televisions across every category.",
+      "url": "https://www.wired.com/story/best-tvs/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T11:30:00+00:00"
+    },
+    {
+      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "description": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T11:30:00+00:00"
+    },
+    {
+      "title": "Cancer Cells Are Turning Antioxidants Into Weapons Against the Immune System",
+      "description": "A newly discovered weakness in cancer cells could open the door to treatments that help the immune system overcome tumors that have resisted immunotherapy. Cancer immunotherapy has helped some patients fight even advanced cancers, yet many tumors still find ways to escape the immune system. Research",
+      "url": "https://scitechdaily.com/cancer-cells-are-turning-antioxidants-into-weapons-against-the-immune-system/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-25T11:27:10+00:00"
+    },
+    {
+      "title": "The ‘True Crime Community’ Is Inspiring Violent Attacks Through TikTok",
+      "description": "Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIRED shows, as the nihilistic group uses TikTok and AI to spread its message.",
+      "url": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T11:00:00+00:00"
+    },
+    {
+      "title": "A Journey Through the Absurd Hell of Trump’s Third-Country Deportations",
+      "description": "How a Thai-born, US-raised Cambodian refugee ended up a prisoner of Africa’s last absolute monarch.",
+      "url": "https://www.wired.com/story/journey-through-the-pathetic-absurd-hell-of-trumps-third-country-deportations/",
+      "source": "Wired",
+      "category": "Technology",
+      "publishedAt": "2026-11-25T11:00:00+00:00"
+    },
+    {
+      "title": "Scientists Discover a Potential New Way To Treat Diabetes – No Insulin Required",
+      "description": "A discovery in animal muscle suggests that the body’s natural ability to absorb sugar without insulin could be harnessed to develop new diabetes treatments. For people with diabetes or insulin resistance, controlling blood sugar can be difficult because their muscles do not respond effectively to in",
+      "url": "https://scitechdaily.com/scientists-discover-a-potential-new-way-to-treat-diabetes-no-insulin-required/",
+      "source": "SciTechDaily",
+      "category": "Science",
+      "publishedAt": "2026-11-25T10:52:15+00:00"
+    },
+    {
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "description": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "publishedAt": "2026-11-25T10:42:20+00:00"
     },
     {
       "title": "NASA-Funded Study Reveals a Hidden Effect of Space Radiation on the Brain",
@@ -18,60 +386,12 @@
       "publishedAt": "2026-11-25T01:37:20+00:00"
     },
     {
-      "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
-      "description": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-      "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-25T01:03:05+00:00"
-    },
-    {
-      "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
-      "description": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access to a limited subset of its systems.\" It hasn't off",
-      "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-25T01:00:00+00:00"
-    },
-    {
-      "title": "US preparing to unveil plan for new tariffs on global trading partners",
-      "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-25T00:38:01+00:00"
-    },
-    {
       "title": "Why tiny cars are taking off across Europe",
       "description": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
       "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "category": "Business",
       "publishedAt": "2026-11-25T00:34:05+00:00"
-    },
-    {
-      "title": "What will the energy cap changes mean for my bills?",
-      "description": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
-      "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-25T00:33:25+00:00"
-    },
-    {
-      "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-      "description": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
-      "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-25T00:30:52+00:00"
-    },
-    {
-      "title": "Households braced for soaring energy bills with new price cap to be announced",
-      "description": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
-      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-25T00:29:58+00:00"
     },
     {
       "title": "Scientists Discover That Jupiter and Dead Stars Could Hold Clues to Dark Matter’s Biggest Mystery",
@@ -82,38 +402,6 @@
       "publishedAt": "2026-11-25T00:26:02+00:00"
     },
     {
-      "title": "The Verge’s 2026 gift guide for dads",
-      "description": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you. We've curated thi",
-      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T23:59:29+00:00"
-    },
-    {
-      "title": "Bellingham plays down Zidane comparison after wonder goal",
-      "description": "Jose Mourinho says Jude Bellingham is the best midfielder in the world, but the Real Madrid star played down comparisons to Zinedine Zidane.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-24T23:54:10+00:00"
-    },
-    {
-      "title": "Arteta says Arsenal need more luck to kill off games",
-      "description": "Arsenal need more luck to kill off games says manager Mikel Arteta after they are held to a draw by Borussia Dortmund.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-24T23:44:04+00:00"
-    },
-    {
-      "title": "Jensen Huang’s Return Shows Nvidia Is Too Big to Police",
-      "description": "Nvidia’s place at the center of the US economy may have outweighed concerns about its CEO’s ties to a suspected Chinese intelligence asset, national security and foreign policy experts say.",
-      "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T23:39:04+00:00"
-    },
-    {
       "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
       "description": "More young people in Britain have never had sex, but many are sexting and watching porn.",
       "url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
@@ -122,292 +410,20 @@
       "publishedAt": "2026-11-24T23:38:39+00:00"
     },
     {
-      "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
-      "description": "The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to expect, and will keep this post updated. What material is the Army planning to det",
-      "url": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T23:25:46+00:00"
-    },
-    {
-      "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
-      "description": "Manchester City's slick footballing machine is starting to grind to a halt, as displayed in their laborious Champions League draw against Napoli.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-24T23:17:42+00:00"
-    },
-    {
-      "title": "“This Star System Should Not Exist”: Astronomers Discover a Cosmic Mystery Just 28 Light-Years Away",
-      "description": "A red dwarf still circles the burned-out core of a star that could once have swallowed it, and their orbit is wider than astronomers expected. A planet too faint to see can still give itself away by making the star it orbits wobble. Astronomers looking for planets around a dim red star 28 light-year",
-      "url": "https://scitechdaily.com/this-star-system-should-not-exist-astronomers-discover-a-cosmic-mystery-just-28-light-years-away/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-24T23:15:50+00:00"
-    },
-    {
-      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
-      "description": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
-      "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T22:50:11+00:00"
-    },
-    {
-      "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
-      "description": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T22:36:28+00:00"
-    },
-    {
-      "title": "Huawei found guilty of stealing trade secrets",
-      "description": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealing source code and proprietary technology from seve",
-      "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T22:23:27+00:00"
-    },
-    {
-      "title": "16 Best Black Friday Headphone Deals (2026): Up to 57% Off",
-      "description": "Get up to 57 percent off some of my favorite headphones and earbuds from Apple, Sony, Nothing, and more.",
-      "url": "https://www.wired.com/story/best-black-friday-headphone-deals-11-24-26/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T22:22:20+00:00"
-    },
-    {
-      "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
-      "description": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-24T22:05:31+00:00"
-    },
-    {
       "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
-      "description": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwideTechnology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for furthe",
+      "description": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwideTechnology shares led a market retreat on Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for fur",
       "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-11-24T22:05:21+00:00"
     },
     {
-      "title": "GTA VI PC recompilation project shut down by Take-Two",
-      "description": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leak",
-      "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T21:39:14+00:00"
-    },
-    {
-      "title": "The Verge’s 2026 holiday gift guide for moms",
-      "description": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've [&#",
-      "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T21:09:59+00:00"
-    },
-    {
-      "title": "What's going on with the Riemann hypothesis?",
-      "description": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
-      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T20:34:53+00:00"
-    },
-    {
       "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
-      "description": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his returnJensen Huang apologized to staff on Tuesday for the tumult he’s caused at Nvidia. The company’s CEO acknowledged he violated the code of conduct for having extramarital affairs, but pushe",
+      "description": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his returnJensen Huang apologized to staff on Tuesday for the tumult he has caused at Nvidia. The company’s CEO acknowledged he violated the code of conduct for having extramarital affairs, but pus",
       "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
       "source": "The Guardian",
       "category": "Business",
       "publishedAt": "2026-11-24T20:32:02+00:00"
-    },
-    {
-      "title": "TikTok was down",
-      "description": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do, following a slew of other outages over the past couple of weeks. Videos sometimes wouldn't load in the For You feed on my iPhone, and search results occasion",
-      "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T20:27:27+00:00"
-    },
-    {
-      "title": "A Newly Discovered Group of Immune Cells May Be Working Against You",
-      "description": "Researchers have identified a previously unknown group of aging immune cells that may undermine the body&#8217;s natural defenses. Some aging immune cells do more than lose their ability to fight disease. Researchers at Monash University have identified a previously unknown group of immune cells tha",
-      "url": "https://scitechdaily.com/a-newly-discovered-group-of-immune-cells-may-be-working-against-you/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-24T20:04:53+00:00"
-    },
-    {
-      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
-      "description": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbaske",
-      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-      "source": "The Verge",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T20:02:03+00:00"
-    },
-    {
-      "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
-      "description": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
-      "url": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T20:00:18+00:00"
-    },
-    {
-      "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
-      "description": "The newly reinstated CEO discussed his daily therapy sessions, his reputation as a “tech bro,” his disdain for succession planning, and his relationship with President Trump.",
-      "url": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T19:33:23+00:00"
-    },
-    {
-      "title": "Scientists Discover an Ancient Herbal Remedy May Help Curb Binge Drinking",
-      "description": "A plant long used in traditional East Asian medicine may offer a promising new approach to reducing binge drinking. A supplement derived from kudzu, a plant used for centuries in traditional East Asian medicine, may help people with alcohol use disorder reduce binge drinking without taking medicatio",
-      "url": "https://scitechdaily.com/scientists-discover-an-ancient-herbal-remedy-may-help-curb-binge-drinking/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-24T19:29:48+00:00"
-    },
-    {
-      "title": "iRestore Elite Laser Hair Growth System Review: Husband-Approved",
-      "description": "Here’s how his scalp fared after several months of using the iRestore Elite Laser Hair Growth System.",
-      "url": "https://www.wired.com/review/irestore-elite-laser-hair-growth-system/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T19:00:00+00:00"
-    },
-    {
-      "title": "Scientists Discover the Human Ear May Work Very Differently Than We Thought",
-      "description": "New research challenges a long-standing theory of how the inner ear detects sound, revealing a more complex process than previously understood. Scientists have discovered that low-frequency sounds can produce nearly simultaneous vibrations across widely separated regions of the inner ear. The findin",
-      "url": "https://scitechdaily.com/scientists-discover-the-human-ear-may-work-very-differently-than-we-thought/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-24T18:54:24+00:00"
-    },
-    {
-      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-      "description": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
-      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T18:47:57+00:00"
-    },
-    {
-      "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
-      "description": "Amazon has hundreds of satellites in storage waiting for rides to space.",
-      "url": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T18:30:36+00:00"
-    },
-    {
-      "title": "Faisal Islam: Fears over the AI boom haven't gone away",
-      "description": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-      "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "category": "Business",
-      "publishedAt": "2026-11-24T18:21:43+00:00"
-    },
-    {
-      "title": "How brewers can protect beers from smoke-tainted hops",
-      "description": "Study: Brewers can still use up to 50% of smoke-tainted hops without affecting beer taste and aroma.",
-      "url": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T18:18:37+00:00"
-    },
-    {
-      "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
-      "description": "Kalshi’s pause in Utah draws cheers as critics bash ads and boo insider trading.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/",
-      "source": "Ars Technica",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T18:03:58+00:00"
-    },
-    {
-      "title": "'I miss being on court' - Sinner has 'minor surgery' on knee",
-      "description": "World number two Jannik Sinner says he has had \"minor surgery\" on his knee, just seven weeks before January's Australian Open begins.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cxlylr3p4q8mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-24T18:00:06+00:00"
-    },
-    {
-      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
-      "description": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
-      "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T17:44:53+00:00"
-    },
-    {
-      "title": "Senegal reinstated as Afcon 2025 winners - 10 months after tournament",
-      "description": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-24T17:16:09+00:00"
-    },
-    {
-      "title": "The 24 Very Best Amazon Black Friday Deals to Get Now (2026)",
-      "description": "For die-hard Amazon shoppers, the retailer’s “Black Friday Week” sale is now live. Grab these deals on our favorite (and tested) products through November 30.",
-      "url": "https://www.wired.com/story/amazon-black-friday-deals-11-24-2026/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T16:44:25+00:00"
-    },
-    {
-      "title": "Best Black Friday Nintendo Switch 2 Deals (2026): Bundles, Games",
-      "description": "Get your game on for less with these Black Friday deals on official Nintendo Switch 2 bundles and games.",
-      "url": "https://www.wired.com/story/best-black-friday-nintendo-switch-deals-11-24-26/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T16:28:01+00:00"
-    },
-    {
-      "title": "A world-class winger - Louis Rees-Zammit 2.0",
-      "description": "Wales wing Louis Rees-Zammit may not have made the cut in American football, but his gridiron crucible has seen him reformed as an improved version on his rugby union return.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3n0lgxrwn4qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-24T16:18:40+00:00"
-    },
-    {
-      "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
-      "description": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
-      "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
-      "source": "Wired",
-      "category": "Technology",
-      "publishedAt": "2026-11-24T16:00:00+00:00"
-    },
-    {
-      "title": "Researchers Have Discovered a Previously Unknown Crystal Form of Silver",
-      "description": "Researchers have discovered a previously unknown crystal structure of silver that exhibits unusually high chemical reactivity. Silver can take on an extraordinarily rare atomic structure that makes it far more chemically reactive than its familiar form. Researchers at Hokkaido University have discov",
-      "url": "https://scitechdaily.com/researchers-have-discovered-a-previously-unknown-crystal-form-of-silver/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-24T15:57:00+00:00"
-    },
-    {
-      "title": "Powerful Lasers Could Transform Metals in a Trillionth of a Second",
-      "description": "Simulations of 17 elemental metals have revealed unexpected structural changes on ultrafast timescales. Powerful laser pulses could transform the crystal structure of a metal without first heating its atoms. New research suggests that rapidly exciting electrons can make entirely different atomic arr",
-      "url": "https://scitechdaily.com/powerful-lasers-could-transform-metals-in-a-trillionth-of-a-second/",
-      "source": "SciTechDaily",
-      "category": "Science",
-      "publishedAt": "2026-11-24T15:22:44+00:00"
-    },
-    {
-      "title": "Sooryavanshi, 15, breaks sixes record by scoring 204 off 53 balls",
-      "description": "India's 15-year-old sensation Vaibhav Sooryavanshi blazes 204 from 53 balls for India A, almost halving the record for the fastest double-century in List A cricket.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c6y9709xx4qwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "category": "Sports",
-      "publishedAt": "2026-11-24T14:52:50+00:00"
     },
     {
       "title": "US school bus drivers decline amid low pay and poor work conditions",
@@ -432,14 +448,6 @@
       "source": "BBC Health",
       "category": "Science",
       "publishedAt": "2026-11-24T00:00:47+00:00"
-    },
-    {
-      "title": "Wild stock market swings: will I lose money, and is there anything I can do?",
-      "description": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments tooIt has been a volatile time on global stock markets, with rapid rallies and punishing sell-offs. There have been signs in recent weeks that investors are getting cold feet over the outlo",
-      "url": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
-      "source": "The Guardian",
-      "category": "Business",
-      "publishedAt": "2026-11-23T14:51:44+00:00"
     }
   ]
 }
